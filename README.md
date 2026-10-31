@@ -40,7 +40,7 @@
 ├─ scripts/
 │  ├─ kb_update.py            # 每日抓取 PubMed
 │  └─ kb_build.py             # 合并 + 关键词筛选 + 生成 kb.js
-├─ 每日更新/                   # 每日 Markdown 摘要（只列原文信息）
+├─ daily/                     # 每日 Markdown 摘要（只列原文信息）
 └─ .github/workflows/daily.yml# GitHub Actions 每日任务
 ```
 
@@ -81,7 +81,7 @@ python scripts/kb_build.py
 1. 按 `journals.json` 的 ISSN 查询 PubMed；
 2. 保存标题、作者、期刊、日期、摘要、PMID、DOI、链接；
 3. 按 `keywords.json` 计算相关度（标题命中权重 2，摘要命中权重 1，≥2 进入前端）；
-4. 去重（`seen.json`）、归档（`archive/`）、生成 `每日更新/YYYY-MM-DD.md`；
+4. 去重（`seen.json`）、归档（`archive/`）、生成 `daily/YYYY-MM-DD.md`；
 5. 保留最近 300 条原始记录。
 
 > 抓取失败时保留旧数据，不会用空内容覆盖。
@@ -140,7 +140,7 @@ python scripts/kb_build.py
 3. 可选：**Settings → Secrets and variables → Actions** 添加 `NCBI_API_KEY`（NCBI 免费申请）；
 4. **Actions → Daily knowledge base → Run workflow** 手动跑一次；
 5. 之后每天北京时间 06:00 自动运行：
-   - 抓取 → 构建 → 提交 `data/` 与 `每日更新/`；
+   - 抓取 → 构建 → 提交 `data/` 与 `daily/`；
    - 如果 Netlify 已连接仓库，自动部署；如果用 GitHub Pages，Pages 会自动重建。
 
 ### 部署方式

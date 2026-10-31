@@ -4,7 +4,7 @@
 每日文献更新（PubMed E-utilities）
 - 按期刊 ISSN 抓取最近 N 天的新文章
 - 只保存：标题、作者、期刊、日期、摘要原文、PMID、DOI、链接
-- 自动去重；生成 data/latest.json 与 每日更新/YYYY-MM-DD.md
+- 自动去重；生成 data/latest.json 与 daily/YYYY-MM-DD.md
 - 不生成任何“结论/建议”，避免无来源内容
 
 用法：
@@ -33,7 +33,7 @@ LATEST = DATA / "latest.json"
 SEEN = DATA / "seen.json"
 KEYWORDS = DATA / "keywords.json"
 ARCHIVE = DATA / "archive"
-DIGEST_DIR = ROOT / "每日更新"
+DIGEST_DIR = ROOT / "daily"
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 UA = "SportsScienceKB/0.1 (personal research; https://pubmed.ncbi.nlm.nih.gov/)"
 CN_TZ = timezone(timedelta(hours=8))

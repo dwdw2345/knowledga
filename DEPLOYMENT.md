@@ -22,7 +22,7 @@ README.md
 data/
 scripts/
 .github/workflows/daily.yml
-每日更新/
+daily/
 .gitignore
 ```
 
@@ -63,7 +63,7 @@ git push -u origin main
 2. 右侧 **Run workflow** → Run；
 3. 等 1–3 分钟，应看到：
    - `data/latest.json` 更新；
-   - `每日更新/日期.md` 新增；
+   - `daily/日期.md` 新增；
    - 自动 commit。
 
 如果失败，点进日志看：
