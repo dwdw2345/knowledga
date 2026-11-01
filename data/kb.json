@@ -13,7 +13,7 @@
       "latest_articles": 182,
       "raw_articles": 232,
       "fascia_lines": 6,
-      "agent_drafts": 4
+      "agent_drafts": 10
     }
   },
   "disciplines": [
@@ -5909,8 +5909,92 @@
     ]
   },
   "agent_drafts": {
-    "updated": "2026-11-01 15:15",
+    "updated": "2026-11-01 15:42",
     "items": [
+      {
+        "pmid": "42720840",
+        "title": "Comparison of the Linear versus Non-Linear Repeated Sprint Training on Lower Limb Sports Performance Tasks in Team Sport Athletes: A Systematic Review and Meta-Analysis.",
+        "discipline": "physiology",
+        "principle": "在团队项目运动员中，非线性重复冲刺训练（NLRST）相比线性重复冲刺训练（LRST）对短距离冲刺时间（SST）和变向（COD）成绩的改善效应量更大，但主要结局的95%置信区间跨越零。",
+        "mechanism": "NLRST通过包含变向、加减速等非直线冲刺模式，可能更贴近团队项目的多方向动作需求，从而对SST和COD产生更大的迁移效应；摘要未提供具体神经肌肉机制。",
+        "evidence_level": "A",
+        "evidence_note": "系统综述与荟萃分析，纳入13项RCT、253名竞技团队项目运动员；SST的SMDC=0.479（95%CI -0.077至1.034），COD的SMDC=0.601（95%CI -0.131至1.332），置信区间均跨零；摘要未报告异质性、具体偏倚评估结果及次要结局的完整数据。",
+        "application": "在团队项目体能训练中，可能倾向采用含变向与多方向冲刺的NLRST以兼顾冲刺与变向能力，尤其对男性运动员、高训练量方案及≥12次课时的干预；但效应不确定，需个体化验证。",
+        "counterexample": "当主要目标是纯直线最大速度或训练条件限制无法安排变向时，NLRST的优势可能不成立；置信区间跨零意味着部分研究中LRST可能不劣于甚至优于NLRST。",
+        "confidence": 0.7,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:42"
+      },
+      {
+        "pmid": "42956730",
+        "title": "Central and Peripheral Fatigue Following Free-Weight and Smith Machine Squat Training: Neuromuscular Efficiency in Knee Extensors.",
+        "discipline": "physiology",
+        "principle": "在相同相对负荷（70% 1RM、4组×9次）下，自由重量深蹲比史密斯机深蹲引起更大的膝伸肌外周与中枢神经肌肉疲劳，而速度损失和主观疲劳感无差异。",
+        "mechanism": "自由重量深蹲需要更多稳定肌群参与和平衡控制，可能增加运动单位募集与中枢驱动需求，导致训练后抽动插值法测得的外周和中枢疲劳成分更大；摘要未提供具体生理通路。",
+        "evidence_level": "B",
+        "evidence_note": "随机交叉设计，19名有训练经验的年轻男性（力量训练经验4.7±2.4年），比较自由重量与史密斯机深蹲；样本量小、仅男性、单次训练课，未评估长期适应。",
+        "application": "在力量训练处方中，若目标是同等力量/肥大适应下减少膝伸肌神经肌肉疲劳，可能倾向选择史密斯机深蹲；在需要高稳定肌参与或专项迁移时，自由重量仍可能更合适。",
+        "counterexample": "当训练目标包含平衡、核心稳定或自由重量专项迁移时，疲劳较小并不等于训练更优；该结论仅适用于70%1RM、4×9的深蹲方案和有训练经验男性。",
+        "confidence": 0.65,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:42"
+      },
+      {
+        "pmid": "42965619",
+        "title": "Aerobic exercise preconditioning enhances skeletal muscle resistance and recovery after contusion: involvement of the SIRT1/PGC-1α axis.",
+        "discipline": "physiology",
+        "principle": "在挫伤前进行有氧运动预适应可减轻小鼠腓肠肌损伤程度并改善伤后修复，该效应部分依赖SIRT1/PGC-1α信号轴及降低PGC-1α乙酰化。",
+        "mechanism": "有氧运动预适应持续激活SIRT1/PGC-1α信号、降低PGC-1α乙酰化，促进线粒体生物发生相关标志物和肌肉再生相关基因表达；SIRT1抑制剂EX527部分削弱该保护与修复效应。",
+        "evidence_level": "B",
+        "evidence_note": "动物机制研究（小鼠腓肠肌挫伤模型），使用Western blot、免疫沉淀和qRT-PCR，并以EX527药理学抑制验证SIRT1参与；摘要未报告样本量、具体运动方案参数及组织学修复指标。",
+        "application": "在运动损伤预防与康复情境中，伤前规律有氧运动可能倾向增强骨骼肌抗损伤与修复能力；但此为动物证据，不能直接推及人类训练处方。",
+        "counterexample": "若损伤前缺乏有氧训练基础、或SIRT1通路被抑制/功能低下，预适应的保护效应可能减弱；该结论不能外推为人类临床康复方案。",
+        "confidence": 0.55,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:42"
+      },
+      {
+        "pmid": "42601059",
+        "title": "The Effect of a Repetitive Feeding Challenge With Carbohydrate Versus Fat on Markers of Gastrointestinal Integrity and Systemic Outcomes in Response to Endurance Exercise.",
+        "discipline": "nutrition",
+        "principle": "在耐力运动中，为期7天的重复脂肪（20g坚果酱）与碳水化合物（47g凝胶）喂养挑战均不增加胃肠道损伤标志物（I-FABP）、细菌内毒素转位标志物（sCD14）或全身炎症（CRP）反应，且两组间无显著差异。",
+        "mechanism": "重复喂养挑战（gut training）可能提高肠道对脂肪或碳水化合物的耐受性，使运动应激下肠道屏障标志物反应不因补充剂类型而恶化；摘要未阐明具体屏障保护机制。",
+        "evidence_level": "B",
+        "evidence_note": "随机对照喂养干预，36名耐力运动员（7女29男），先进行2小时60%VO2max跑加1小时自选距离测试的基线肠道挑战，再随机接受脂肪或CHO补充7天并复测；样本以男性为主，摘要未报告统计效能与盲法细节。",
+        "application": "在耐力运动营养中，赛前及赛中可能可考虑脂肪或碳水化合物密集食物作为肠道训练补充，而不必担心其加重肠道损伤标志物；但个体胃肠道症状仍需单独监测。",
+        "counterexample": "对于已有胃肠道疾病或对脂肪耐受差的运动员，该结论可能不成立；总胃肠道症状严重程度与I-FABP、sCD14、CRP无相关，说明标志物正常不代表无症状。",
+        "confidence": 0.6,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:42"
+      },
+      {
+        "pmid": "42956482",
+        "title": "Joint-specific kinematic deviations in asymptomatic flatfoot using biplane fluoroscopy.",
+        "discipline": "anatomy",
+        "principle": "无症状扁平足者在提踵任务中维持更外翻的距下关节位置，并表现出踝关节（胫距）和胫腓/距腓关节矢状面活动度减小，而在步行中组间关节运动学无显著差异。",
+        "mechanism": "内侧足弓塌陷的形态学改变可能在负重提踵时限制胫距与腓骨关节的矢状面活动，并使距下关节偏向更外翻位置；步行时可能通过代偿维持接近正常的关节运动。",
+        "evidence_level": "B",
+        "evidence_note": "横断面研究，23名参与者（13名对照、10名无症状扁平足），采用双平面透视和负重CT个体化骨模型，统计参数映射分析；样本小、仅无症状扁平足，无法确定因果关系或症状进展。",
+        "application": "在扁平足者的功能评估与训练中，可能倾向关注提踵等负重任务中的距下关节控制和踝背屈活动度，而非仅依据步行表现；但尚无证据支持特定干预可改变这些差异。",
+        "counterexample": "在步行任务中该差异不成立（组间无显著差异）；且无症状扁平足者不一定出现症状或功能障碍，运动学差异不能直接等同于病理。",
+        "confidence": 0.6,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:42"
+      },
+      {
+        "pmid": "42962458",
+        "title": "An anatomically based functional upper cervical spinal unit tested under low quasi-static loading for use in an omnidirectional surrogate neck.",
+        "discipline": "anatomy",
+        "principle": "基于CT几何与棉质韧带替代物构建的上颈椎功能单元，在准静态屈伸、侧弯和轴向旋转下，其活动度与中立区均落在尸体文献值1个标准差内，并具有良好可重复性和生物仿真度。",
+        "mechanism": "以解剖标志定义韧带附着点并采用可调张力系统模拟韧带约束，使各关节在低准静态载荷下的运动学接近尸体标本；轴向旋转仿真度相对较低。",
+        "evidence_level": "B",
+        "evidence_note": "体外生物力学模型开发与验证研究，基于1名31岁健康男性CT数据，与尸体标本数据比较ROM、NZ、可重复性和螺旋轴，采用CORA方法；单一个体几何、仅准静态低载荷、非在体研究。",
+        "application": "该模型可能用于碰撞安全测试中替代颈部假体的初步组件，提高多平面低载荷下的运动学仿真度；与运动训练或康复应用无直接关系。",
+        "counterexample": "在高速、动态或多平面复合加载下，该模型的生物仿真度尚未验证；轴向旋转的CORA仅0.44-0.65，提示该方向仿真度有限。",
+        "confidence": 0.5,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:42"
+      },
       {
         "pmid": "42945482",
         "title": "Effects of In-Season Contrast Strength Training on Jump Performance and Sprint Ability in Female Field Hockey Players.",
@@ -5969,5 +6053,5 @@
       }
     ]
   },
-  "built_at": "2026-11-01 07:37"
+  "built_at": "2026-11-01 07:42"
 }
