@@ -29,6 +29,7 @@ def main():
     latest = load(DATA / "latest.json", {"updated": "", "articles": []})
     journals = load(DATA / "journals.json", [])
     keywords = load(DATA / "keywords.json", {})
+    fascia_lines = load(DATA / "fascia_lines.json", {"lines": []})
 
     disciplines = curated.get("disciplines", [])
     cross = curated.get("cross", [])
@@ -78,6 +79,7 @@ def main():
     kb = dict(curated)
     kb["latest"] = latest_out
     kb["journals"] = journals
+    kb["fascia_lines"] = fascia_lines
     kb["built_at"] = datetime.now().strftime("%Y-%m-%d %H:%M")
     kb.setdefault("meta", {})
     kb["meta"]["counts"] = {
@@ -87,6 +89,7 @@ def main():
         "journals": len(journals),
         "latest_articles": len(filtered_articles),
         "raw_articles": len(raw_articles),
+        "fascia_lines": len(fascia_lines.get("lines", [])),
     }
 
     (DATA / "kb.json").write_text(json.dumps(kb, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
