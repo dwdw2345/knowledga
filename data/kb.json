@@ -10,8 +10,8 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 182,
-      "raw_articles": 232,
+      "latest_articles": 189,
+      "raw_articles": 241,
       "fascia_lines": 6,
       "agent_drafts": 10
     }
@@ -1534,9 +1534,9 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-01",
-    "updated_at": "2026-11-01 15:36",
-    "raw_count": 232,
+    "updated": "2026-11-02",
+    "updated_at": "2026-11-02 06:24",
+    "raw_count": 241,
     "articles": [
       {
         "pmid": "42945482",
@@ -2685,6 +2685,44 @@
         ]
       },
       {
+        "pmid": "42966905",
+        "title": "First-Hand Experience and the Value of Telerehabilitation for Chronic Knee Pain: A Discrete Choice Experiment Nested in a Randomized Controlled Trial.",
+        "journal": "The Journal of orthopaedic and sports physical therapy",
+        "journal_issn": "0190-6011",
+        "discipline": "anatomy",
+        "date": "2026-Nov",
+        "authors": "Maame Esi Woode, Rana S Hinman, Anthony Harris et al.",
+        "abstract": "OBJECTIVE: The aim of this study was to assess whether first-hand experience of receiving physical therapy via telerehabilitation affected patient preferences and willingness to pay for telerehabilitation. DESIGN: This study used a discrete choice experiment nested within a randomized controlled trial. METHODS: We recruited 319 Australian adults aged 45 years or over, with chronic knee pain consistent with osteoarthritis, who had completed a clinical trial where they were randomized to receive physical therapy via telerehabilitation or in-person. Participants were presented hypothetical scenarios and asked to choose between physical therapy delivered via telerehabilitation or in-person. Each scenario presented seven attributes of consultations at varying levels. Data were analyzed using a generalized multinomial logit and latent class models. RESULTS: There were 164 participants from the in-person trial arm (80% of those randomized) and 155 from the telerehabilitation arm (82% of those randomized) who participated. Participants in the telerehabilitation arm (ie, with first-hand experience of telerehabilitation) were willing to pay AU$ 87.49 (95% confidence interval: 72.83, 102.14) more than people in the in-person arm for telerehabilitation consultations (all other attributes fixed at reference values for categorical variables and at mean values for continuous variables). Four subgroups were identified. In the telerehabilitation arm, 105 (68% of 155) participants preferred telerehabilitation, and 50 (32%) preferred in-person consultations. In the in-person arm, 63 (39% of 164) held a strong preference for in-person consultations, and 101 (61%) had a mild preference for in-person consultations. CONCLUSION: People with first-hand experience using telerehabilitation for physical therapy expressed a greater willingness to use and pay for it than people who experienced in-person care. J Orthop Sports Phys Ther 2026;56(11):735-744. Epub 23 September 2026. doi:10.2519/jospt.2026.14073.",
+        "doi": "10.2519/jospt.2026.14073",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966905/",
+        "relevance": 10,
+        "matched": [
+          "knee",
+          "rehabilitation",
+          "pain",
+          "sports"
+        ]
+      },
+      {
+        "pmid": "42966901",
+        "title": "Effects of Exercise Type and Duration on Pain, Function, and Quality of Life in Patients With Knee Osteoarthritis: A Systematic Review With Bayesian Network Meta-Analysis.",
+        "journal": "The Journal of orthopaedic and sports physical therapy",
+        "journal_issn": "0190-6011",
+        "discipline": "anatomy",
+        "date": "2026-Nov",
+        "authors": "Yinya Yang, Fang Cao, Min Su et al.",
+        "abstract": "OBJECTIVE: To compare the effects of aerobic exercise, resistance exercise, and combined interventions on pain, function, and quality of life (QoL) in patients with knee osteoarthritis (OA) at the short term (≤12 weeks) and long term (>12 weeks). DESIGN: Intervention systematic review with Bayesian network meta-analysis (NMA). LITERATURE SEARCH: MEDLINE, PubMed, EMBASE, CENTRAL, CINAHL, PEDro, AMED, and SPORTDiscus were searched from inception until July 2025. STUDY SELECTION CRITERIA: We included randomized controlled trials of patients with knee OA that evaluated exercise interventions aimed at improving pain, function, and QoL. DATA SYNTHESIS: Using random-effects models, the NMA synthesized effect sizes and ranked interventions by the surface under the cumulative ranking curve (SUCRA), with evidence certainty assessed via the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. RESULTS: Thirty-five trials (n = 3808 patients) were included. For pain, short-term combined aerobic and resistance exercise had the largest effect among the interventions (standardized mean difference [SMD] = -0.937, low certainty). For function, short-term combined aerobic and resistance exercise had the largest effect estimates (SMD = -0.590, low certainty), followed by long-term aerobic exercise (SMD = -0.540, very low certainty). Short-term combined aerobic and resistance exercise had the largest effect (SMD = 0.663, low certainty) for improving QoL. CONCLUSION: Aerobic and resistance exercise, alone or in combination, and delivered over the short- or long-term, improved pain, function, and QoL for patients with knee OA. Short-term combined aerobic and resistance exercise had clinically meaningful improvements for pain, with relatively favorable effects on function and QoL. Evidence regarding the clinical significance of long-term exercise interventions was limited. J Orthop Sports Phys Ther 2026;56(11):724-734. Epub 24 July 2026. doi:10.2519/jospt.2026.13875.",
+        "doi": "10.2519/jospt.2026.13875",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966901/",
+        "relevance": 10,
+        "matched": [
+          "knee",
+          "exercise",
+          "pain",
+          "sports"
+        ]
+      },
+      {
         "pmid": "42966566",
         "title": "Dietary threonine requirement of healthy older adults >60y stratified by age and sex in a repeated measures design1.",
         "journal": "The American journal of clinical nutrition",
@@ -3325,6 +3363,60 @@
         "matched": [
           "physical activity",
           "oxygen"
+        ]
+      },
+      {
+        "pmid": "42966904",
+        "title": "Pelvic Floor Symptoms in Performing Artists and Artistic Athletes: Prevalence and Impact.",
+        "journal": "The Journal of orthopaedic and sports physical therapy",
+        "journal_issn": "0190-6011",
+        "discipline": "anatomy",
+        "date": "2026-Nov",
+        "authors": "",
+        "abstract": "This infographic summarises the key messages of Frydenberg's et al. (2026) article on the prevalence and impact of pelvic floor symptoms in performing artists and artistic athletes. J Orthop Sports Phys Ther 2026;56(11):750. doi:10.2519/jospt.2026.9004.",
+        "doi": "10.2519/jospt.2026.9004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966904/",
+        "relevance": 7,
+        "matched": [
+          "pelvic",
+          "athlete",
+          "sports"
+        ]
+      },
+      {
+        "pmid": "42966903",
+        "title": "Hip Pain and Mobility Deficits-Hip Osteoarthritis: Revision 2025 Episode Benchmarks for Payers.",
+        "journal": "The Journal of orthopaedic and sports physical therapy",
+        "journal_issn": "0190-6011",
+        "discipline": "anatomy",
+        "date": "2026-Nov",
+        "authors": "Christopher G Bise, Adam Lutz, Natalie Myers et al.",
+        "abstract": "SYNOPSIS: The American Physical Therapy Association (APTA) has sought to quantify the value of physical therapy and justify a course of treatment to third-party payers. Hip osteoarthritis (OA) is one of the most prevalent conditions treated by outpatient physical therapists, with a radiographic prevalence of 19.6% in United States adults over 55 years. This article provides information for the ICD-10 codes identified by the \"Hip pain and mobility deficits-hip osteoarthritis: revision 2025: M16.1 Primary coxarthrosis, unilateral; M16.0 Primary coxarthrosis, bilateral; M16.2 Coxarthrosis resulting from dysplasia, bilateral; M16.3 Dysplastic coxarthrosis, unilateral; M16.4 Posttraumatic coxarthrosis, bilateral; M16.5 Posttraumatic coxarthrosis, unilateral; M16.7 Secondary coxarthrosis, not otherwise specified; M25.65 Stiffness in hip; and M25.55 Pain in hip. J Orthop Sports Phys Ther 2026;56(11):748-749. 10.2519/jospt.2026.0503.",
+        "doi": "10.2519/jospt.2026.0503",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966903/",
+        "relevance": 7,
+        "matched": [
+          "hip",
+          "pain",
+          "sports"
+        ]
+      },
+      {
+        "pmid": "42966899",
+        "title": "Prevalence of Sleep Disorders in Patients With Knee, Hip, and Hand Osteoarthritis: A Systematic Review With Meta-Analysis.",
+        "journal": "The Journal of orthopaedic and sports physical therapy",
+        "journal_issn": "0190-6011",
+        "discipline": "anatomy",
+        "date": "2026-Nov",
+        "authors": "Katrine Kindtler Krag-Andersen, Josephine Hauge van Zaane, Giovanna Laura Neves Antonio Gaban et al.",
+        "abstract": "OBJECTIVE: To estimate the pooled prevalences of insomnia, obstructive sleep apnea, restless legs syndrome, and narcolepsy in patients with knee, hip, or hand osteoarthritis. DESIGN: Prevalence systematic review with meta-analyses. The review protocol was preregistered at PROSPERO (CRD420251005836). LITERATURE SEARCH: We conducted systematic searches in Embase, MEDLINE, and the Cochrane Library from inception to August 2025, supplemented by citation screening and reference checking. STUDY SELECTION CRITERIA: We identified observational and interventional studies reporting prevalence data on sleep disorders among patients with knee, hip, or hand osteoarthritis. DATA SYNTHESIS: Risk of bias was assessed using the Newcastle-Ottawa Scale, and certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation tool. Pooled prevalence estimates were calculated using random-effects proportion meta-analyses, with subgroup analyses based on diagnostic criteria and patient characteristics. RESULTS: Eighteen studies (202 847 participants) were included (three cohort, five case-control, 12 cross-sectional), of which nine studies were of very good to good or high quality. Insomnia was the most prevalent sleep disorder, 42% (95% confidence interval [CI]: 34% to 51%), followed by sleep apnea (37% [95% CI: 6% to 67%]) and restless legs syndrome (35% [95% CI: 10% to 61%]). No studies reported on narcolepsy. Estimates varied by diagnostic criteria and sample characteristics across studies, and the certainty of evidence was very low. CONCLUSION: Sleep disorders, particularly insomnia, were common among patients with knee, hip, or hand osteoarthritis, supporting the need to raise clinical awareness. Future studies may alter prevalence estimates, as only a small number of high-quality studies were identified and large between-study heterogeneity was observed. J Orthop Sports Phys Ther 2026;56(11):710-723. Epub 27 Aug 2026. doi:10.2519/jospt.2026.14210.",
+        "doi": "10.2519/jospt.2026.14210",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966899/",
+        "relevance": 7,
+        "matched": [
+          "hip",
+          "knee",
+          "sports"
         ]
       },
       {
@@ -4336,6 +4428,23 @@
         ]
       },
       {
+        "pmid": "42966898",
+        "title": "Can Clinicians Predict Which Patients Respond Best to a Specific Treatment? A Systematic Review of Low Back Pain Moderators in Primary Care.",
+        "journal": "The Journal of orthopaedic and sports physical therapy",
+        "journal_issn": "0190-6011",
+        "discipline": "anatomy",
+        "date": "2026-Nov",
+        "authors": "Tayla Douglas, Hazel Jenkins, Leticia Amaral Corrêa et al.",
+        "abstract": "OBJECTIVE: To synthesize and critically evaluate evidence on treatment effect moderators in the primary care management of low back pain (LBP). DESIGN: Systematic review of randomized controlled trials (RCTs) and secondary analyses of RCTs. LITERATURE SEARCH: Medline, EMBASE, CINAHL, and Cochrane Library were searched from inception to August 2025. STUDY SELECTION CRITERIA: We included RCTs investigating moderators for primary care interventions in nonspecific LBP. DATA SYNTHESIS: Data were synthesized by exploring data clusters (similar intervention-moderator combinations) and examining high-quality evidence with promising effects. The quality of moderation analyses was assessed using the Instrument for assessing the Credibility of Effect Modification Analyses tool, and trial quality was assessed using the Physiotherapy Evidence Database scale. Study diversity precluded meta-analysis. RESULTS: Seventy-three studies were identified. The studies were highly heterogeneous with almost no repeated investigations of the same intervention-moderator combination. While RCT quality was generally high, moderation analysis quality was poor. Six studies (8% of 73) prioritized effect moderation as the primary aim. The remaining studies tended to analyze available data post hoc rather than assessing theory driven moderators. Ten higher-quality analyses did not identify any clearly important moderators. Results were inconclusive due to high uncertainty (eg, wide confidence intervals, lack of statistical significance) and conflicting findings. Some promising moderators were identified in fair-quality analyses; for example, graded exposure appeared more effective for those with high catastrophizing. CONCLUSION: We identified a broad but superficial body of literature on effect moderation in LBP primary care. The promising moderators identified require further testing before they can be recommended for clinical practice. J Orthop Sports Phys Ther 2026;56(11):699-709. Epub 2 Sep 2026. doi:10.2519/jospt.2026.14384.",
+        "doi": "10.2519/jospt.2026.14384",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966898/",
+        "relevance": 4,
+        "matched": [
+          "pain",
+          "sports"
+        ]
+      },
+      {
         "pmid": "42954053",
         "title": "Anatomical Network Analyses of Pre- and Post-Metamorphic Cranial Systems Support the Adaptive Decoupling Hypothesis in Anura.",
         "journal": "Journal of morphology",
@@ -4892,6 +5001,22 @@
         "matched": [
           "hip",
           "morphology"
+        ]
+      },
+      {
+        "pmid": "42967236",
+        "title": "Does β-hydroxy-β-methylbutyrate-associated improvement in mitochondrial respiration preserve fast-twitch muscle function in Duchenne muscular dystrophy?",
+        "journal": "The Journal of physiology",
+        "journal_issn": "0022-3751",
+        "discipline": "physiology",
+        "date": "2026-Nov-01",
+        "authors": "Israel Lopes de Lima",
+        "abstract": "",
+        "doi": "10.1113/JP292720",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42967236/",
+        "relevance": 2,
+        "matched": [
+          "mitochondrial"
         ]
       },
       {
@@ -6053,5 +6178,5 @@
       }
     ]
   },
-  "built_at": "2026-11-01 07:42"
+  "built_at": "2026-11-01 22:25"
 }
