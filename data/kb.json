@@ -13,7 +13,7 @@
       "latest_articles": 189,
       "raw_articles": 241,
       "fascia_lines": 6,
-      "agent_drafts": 10
+      "agent_drafts": 16
     }
   },
   "disciplines": [
@@ -6034,8 +6034,92 @@
     ]
   },
   "agent_drafts": {
-    "updated": "2026-11-01 15:42",
+    "updated": "2026-11-02 07:23",
     "items": [
+      {
+        "pmid": "42932892",
+        "title": "Cold fluid ingestion does not enhance exogenous carbohydrate oxidation during prolonged endurance exercise in the heat.",
+        "discipline": "physiology",
+        "principle": "在热环境中进行长时间耐力骑行时，摄入4°C冷碳水化合物饮料相比约36°C温饮料，不改变外源性碳水化合物氧化速率（约0.50 vs 0.51 g/min）。",
+        "mechanism": "冷饮料降低心率和直肠温度（心血管与热应激），但未改变外源性葡萄糖氧化、总碳水/脂肪氧化及血糖、乳酸、胰岛素，提示降温效应未转化为肠道吸收或外源糖氧化增加。",
+        "evidence_level": "B",
+        "evidence_note": "随机交叉试验，11名训练良好、非热习服男性自行车手，100分钟50% Wpeak骑行+计时赛，36°C环境，15%葡萄糖溶液60 g/h，[U-13C]葡萄糖示踪；样本小、单一性别、单一剂量。",
+        "application": "热环境中可能倾向用冷饮料改善热舒适和心血管应激，但不应期待其提高外源糖氧化或计时赛表现。",
+        "counterexample": "在更高热应激、脱水、不同糖浓度/多转运糖配方或热习服人群中，冷饮料对吸收或表现的影响可能不同；本摘要未支持表现获益。",
+        "confidence": 0.8,
+        "status": "draft",
+        "generated_at": "2026-11-02 07:23"
+      },
+      {
+        "pmid": "42742930",
+        "title": "The Effects of Intermittent Hypoxic Training Strategies on Maximal Oxygen Uptake in Healthy Humans: A Meta-analysis with Meta-regression.",
+        "discipline": "physiology",
+        "principle": "间歇性低氧训练对健康人VO2max的效应依策略和人群而异：LHTL在运动员中显著提高VO2max，LLTH和PHC在非运动员中显著提高，而在另一人群中不显著。",
+        "mechanism": "低氧暴露的严重程度、持续时间与频率与VO2max变化显著相关，提示低氧剂量通过血液学/通气或外周适应影响有氧能力，但具体机制摘要未详述。",
+        "evidence_level": "A",
+        "evidence_note": "系统综述与随机效应荟萃分析，62项对照研究、1332名参与者（610运动员/722非运动员），RoB2评估质量、漏斗图与Egger检验发表偏倚；异质性来源和具体方案细节摘要有限。",
+        "application": "可能根据人群选择策略：运动员倾向LHTL，非运动员可考虑LLTH或PHC；低氧剂量（严重度、时长、频率）可能是处方关键。",
+        "counterexample": "效应在运动员与非运动员间不一致，且PHC在运动员中无显著获益；不同低氧方案、训练背景和测量方法可能改变结论。",
+        "confidence": 0.85,
+        "status": "draft",
+        "generated_at": "2026-11-02 07:23"
+      },
+      {
+        "pmid": "42952382",
+        "title": "Effects of creatine supplementation on lean mass, muscle size and muscle performance during immobilisation and rehabilitation: A systematic review.",
+        "discipline": "nutrition",
+        "principle": "在1–2周肢体固定期间，肌酸补充对股四头肌横截面积减少无一致保护作用；在康复期联合抗阻训练时，部分研究报告肌酸组肌肉大小、瘦体重、力量和功率增幅更大。",
+        "mechanism": "肌酸可能通过磷酸肌酸能量缓冲和训练容量效应促进康复期抗阻训练适应；固定期BIA/DXA的瘦体重差异可能受水合作用影响而非真实肌肉保存。",
+        "evidence_level": "A",
+        "evidence_note": "系统综述，6项随机安慰剂对照试验、n=118，年龄15–24岁，固定模型1–2周；结局指标包括CT/NMR、BIA/DXA，部分康复研究采用抗阻训练；样本小、人群年轻、固定期短。",
+        "application": "康复期可能倾向在抗阻训练基础上考虑肌酸以增强力量和肌肉量恢复；固定期单独使用肌酸不应被期待防止萎缩。",
+        "counterexample": "固定期肌肉横截面积研究未显示一致保护；BIA/DXA水合偏差可能夸大瘦体重获益；上肢与下肢表现结果不一致。",
+        "confidence": 0.8,
+        "status": "draft",
+        "generated_at": "2026-11-02 07:23"
+      },
+      {
+        "pmid": "42935275",
+        "title": "Pre-season friendly match-play as a double-edged sword: Performance gains and inflammatory cost in semi-professional soccer players (a natural experiment).",
+        "discipline": "physiology",
+        "principle": "季前友谊赛累计出场时间越多，半职业足球运动员的体脂下降、下肢功率和通气阈速度提升越明显，同时炎症标志物（hs-CRP、IL-6、TNF-α）和肌损伤标志物升高越明显。",
+        "mechanism": "较大比赛负荷通过高代谢和机械刺激促进体成分与有氧/无氧表现适应，同时引起肌肉损伤和全身炎症反应；炎症标志物与比赛时间强相关（r=0.79–0.86）。",
+        "evidence_level": "B",
+        "evidence_note": "自然实验，24名半职业男足球员，季前3个时间点评估，按8场友谊赛累计出场时间回顾分组（EP vs LP）；非随机分组、样本小、单队。",
+        "application": "季前可能倾向逐步增加比赛暴露以获取体成分和体能适应，同时监测炎症/肌损伤标志物以管理恢复。",
+        "counterexample": "炎症成本可能抵消表现获益或增加伤病风险；样本为单支半职业队，不能外推到精英或不同训练负荷结构。",
+        "confidence": 0.7,
+        "status": "draft",
+        "generated_at": "2026-11-02 07:23"
+      },
+      {
+        "pmid": "42932961",
+        "title": "Platelet Mitochondrial Bioenergetics in Adolescents at Risk of MASLD Following High-Intensity Interval Training.",
+        "discipline": "physiology",
+        "principle": "在MASLD风险青少年中，4周监督下HIIT后血小板线粒体呼吸（NADH-linked和琥珀酸支持呼吸）仅在MASLD组下降，非MASLD组无此变化。",
+        "mechanism": "基线时MASLD组血小板最大电子传递能力、NADH-linked和琥珀酸支持呼吸更高，且与肝内甘油三酯和HOMA-IR正相关、与瘦素负相关；HIIT可能逆转与MASLD相关的线粒体生物能量学改变。",
+        "evidence_level": "B",
+        "evidence_note": "非随机分组纵向研究，n=27（10 MASLD/17非MASLD），青少年15.4±1.5岁，4周监督HIIT，高分辨呼吸测定；样本小、分组非随机、血小板作为替代组织。",
+        "application": "可能倾向将HIIT作为改善肥胖青少年代谢风险相关线粒体功能的干预，但需结合肝脂和胰岛素抵抗评估。",
+        "counterexample": "血小板线粒体呼吸不能直接等同于骨骼肌或肝脏线粒体功能；无MASLD组无变化提示效应依赖基线代谢状态。",
+        "confidence": 0.65,
+        "status": "draft",
+        "generated_at": "2026-11-02 07:23"
+      },
+      {
+        "pmid": "42700960",
+        "title": "Influence of Guideline-Based Carbohydrate Intake on Training Adaptations, Health, and Sleep in Female Rugby Athletes: An Exploratory Study.",
+        "discipline": "nutrition",
+        "principle": "在7周季前中，将训练日碳水提高至约6.3 vs 3.1 g/kg/天可提高能量可用性（45.0 vs 29.9 kcal/kg FFM/天），但未显著改变力量、体能、体成分、生化指标或睡眠（除CON训练夜睡眠时长更长）。",
+        "mechanism": "提高碳水摄入增加训练日能量可用性，但摘要未显示其通过能量可用性改善训练适应或健康标志物；蛋白质摄入标准化（>1.2 g/kg/天）。",
+        "evidence_level": "B",
+        "evidence_note": "探索性研究，半职业女子橄榄球运动员，干预n=7 vs CON n=6，7周季前，训练日全食物提供、非训练日随意；样本很小、非盲、探索性。",
+        "application": "可能倾向保证训练日碳水以维持能量可用性，但不应期待短期季前内显著增强力量或体成分适应。",
+        "counterexample": "样本小且探索性，可能不足以检测小效应；CON训练夜睡眠更长提示高碳水方案并非全面优于对照。",
+        "confidence": 0.55,
+        "status": "draft",
+        "generated_at": "2026-11-02 07:23"
+      },
       {
         "pmid": "42720840",
         "title": "Comparison of the Linear versus Non-Linear Repeated Sprint Training on Lower Limb Sports Performance Tasks in Team Sport Athletes: A Systematic Review and Meta-Analysis.",
@@ -6178,5 +6262,5 @@
       }
     ]
   },
-  "built_at": "2026-11-01 22:25"
+  "built_at": "2026-11-01 23:23"
 }
