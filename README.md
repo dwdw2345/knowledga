@@ -3,7 +3,9 @@
 一个可持续更新的运动科学知识库：
 - **四学科分栏**：运动解剖学、运动生理学、筋膜学、营养学
 - **交叉主题**：同一问题用四学科分别分析，再整合成可执行方案
-- **每日文献**：按顶级期刊 ISSN 抓取 PubMed 最新标题/摘要/链接，去重、筛选、归档
+- **筋膜链深度**：6 条肌筋膜链，逐节点拆解构成、走向、问题、评估与解决
+- **智能问答**：DeepSeek API，key 只存本机，基于知识库检索回答
+- **每日文献**：按顶级期刊 ISSN 抓取 PubMed 最新标题/摘要/链接，去重、筛选、归档；支持 Europe PMC 与摘要翻译
 - **证据分级**：A/B/C，每条核心笔记都有来源
 
 > 原则：**不胡编乱造**。自动任务只抓原文元数据/摘要；核心笔记和交叉分析必须写来源并标注证据等级；证据不足标 C，不把模型当事实。
@@ -12,6 +14,7 @@
 
 - 四学科各 **12 篇**，共 **48 篇**核心笔记
 - **5 个**交叉主题（肩胛/卧推、跑步膝、久坐腰痛、踝扭伤、增肌平台期）
+- **6 条**筋膜链深度专题（浅背线、浅前线、侧线、螺旋线、深前线、臂线）
 - **30 本**期刊
 - **177 条**原始文献 / **138 条**关键词筛选后进入前端
 
@@ -19,6 +22,7 @@
 
 - GitHub 仓库：`https://github.com/dwdw2345/Knowledga`
 - GitHub Pages：`https://dwdw2345.github.io/knowledga/`
+- 问答页：`https://dwdw2345.github.io/knowledga/#/ask`
 - GitHub Actions：`Daily knowledge base`，每天北京时间约 06:00 抓取/构建/提交
 - Netlify：待连接（Import from Git，或 `https://app.netlify.com/start/deploy?repository=https://github.com/dwdw2345/Knowledga`）
 
