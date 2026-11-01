@@ -12,7 +12,8 @@
       "journals": 30,
       "latest_articles": 138,
       "raw_articles": 177,
-      "fascia_lines": 6
+      "fascia_lines": 6,
+      "agent_drafts": 4
     }
   },
   "disciplines": [
@@ -1533,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-01",
-    "updated_at": "2026-11-01 14:38",
+    "updated": "2026-10-31",
+    "updated_at": "2026-10-31 15:42",
     "raw_count": 177,
     "articles": [
       {
@@ -5082,5 +5083,66 @@
       }
     ]
   },
-  "built_at": "2026-11-01 06:38"
+  "agent_drafts": {
+    "updated": "2026-11-01 15:15",
+    "items": [
+      {
+        "pmid": "42945482",
+        "title": "Effects of In-Season Contrast Strength Training on Jump Performance and Sprint Ability in Female Field Hockey Players.",
+        "discipline": "physiology",
+        "principle": "6周赛季内对比力量训练（高负荷70-85%1RM + 低负荷约30%1RM高速爆发动作 + 高速专项任务）可提升亚精英女子曲棍球运动员的跳跃与短跑表现。",
+        "mechanism": "高负荷力量刺激后接低负荷高速爆发动作，可能通过增强牵张-缩短周期（SSC）的神经肌肉募集与发力速率，转化为跳跃和短跑能力。",
+        "evidence_level": "B",
+        "evidence_note": "单队列前后测干预研究，25名亚精英女子曲棍球运动员，6周赛季内训练；无对照组，无法排除赛季常规训练或学习效应。",
+        "application": "赛季内可能采用对比训练组合（重负荷+轻负荷高速+专项高速任务）以兼顾力量与爆发力维持；跳跃提升幅度可能大于短跑。",
+        "counterexample": "无对照组时不能确定增益完全归因于对比训练；对已有高水平爆发力或训练量过高的运动员，叠加负荷可能增加疲劳而非增益。",
+        "confidence": 0.6,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:15"
+      },
+      {
+        "pmid": "42956728",
+        "title": "Effects of Ballistic and Traditional Half-Squat Training With Light Loads on Strength, Jump, and Sprint Performance in Young Rugby Players: A Randomized Controlled Trial.",
+        "discipline": "physiology",
+        "principle": "6周赛季内轻负荷（30-40%1RM）弹道跳跃蹲比传统半蹲更能提升年轻橄榄球运动员的最大力量与跳跃表现，但两者均未能阻止30米短跑表现下降。",
+        "mechanism": "弹道跳跃蹲具有完全加速和速度导向特性，可能更有效刺激发力速率与功率输出；但力量-功率增益不足以抵消密集赛程下短跑专项能力的下降。",
+        "evidence_note": "随机对照试验，25名高训练水平青年橄榄球运动员，每周3次共6周，3个时间点评估；样本量小，短跑下降原因（赛程疲劳）为推断。",
+        "evidence_level": "B",
+        "application": "赛季内可能优先选用轻负荷弹道跳跃蹲以提升力量与跳跃并减少疲劳；同时可能需额外短跑专项训练以维持冲刺表现。",
+        "counterexample": "在赛程密集或短跑专项刺激不足时，仅靠力量-功率训练不能防止短跑下降；对短跑为主要目标的运动员单用此法可能不成立。",
+        "confidence": 0.65,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:15"
+      },
+      {
+        "pmid": "42949799",
+        "title": "Lower-Body Strength and Hypertrophy Adaptations in Response to Concurrent Training in Trained Young Males.",
+        "discipline": "physiology",
+        "principle": "11周同期训练（耐力+抗阻）在训练有素年轻男性中削弱最大等长力量增益，但不干扰跳跃相关爆发力与股外侧肌横截面积增长。",
+        "mechanism": "耐力训练可能干扰最大力量适应（MVIC仅在纯抗阻组增加），而爆发力（RFD、CMJ正冲量）与肌肥大可通过不同时间进程适应，未显示明显干扰。",
+        "evidence_note": "随机分组研究，30名训练有素年轻男性，分耐力、抗阻、同期训练三组，11周两中周期；样本量较小，结论限于下肢指标。",
+        "evidence_level": "B",
+        "application": "若目标是最大力量，可能倾向避免同期大量耐力训练；若目标为爆发力或肌肥大，同期训练可能仍可接受，但爆发力适应可能延迟出现。",
+        "counterexample": "对以最大力量为优先目标的运动员，同期训练可能不成立；样本小且仅年轻男性，外推至女性或高水平力量运动员需谨慎。",
+        "confidence": 0.6,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:15"
+      },
+      {
+        "pmid": "42958899",
+        "title": "Combined time-restricted feeding and resistance training enhance tirzepatide-induced improvements in adiposity and whole-body insulin sensitivity in female mice.",
+        "discipline": "physiology",
+        "principle": "在肥胖雌性小鼠中，替尔泊肽联合限时进食与抗阻训练可加速减重、改善脂肪组织重塑并增强全身胰岛素敏感性，抗阻训练还提升力量表现。",
+        "mechanism": "替尔泊肽（GIP/GLP-1双激动剂）造成负能量平衡；限时进食与抗阻训练叠加进一步减少脂肪质量与脂肪细胞肥大，抗阻训练增加骨骼肌量并改善力量，可能协同改善胰岛素敏感性。",
+        "evidence_note": "动物实验（雌性Swiss小鼠，10周肥胖诱导后8周干预）；摘要信息不足，未提供具体效应量与统计细节，且物种差异限制外推。",
+        "evidence_level": "C",
+        "application": "在动物模型中提示减重干预联合限时进食与抗阻训练可能更有利于体脂与胰岛素敏感性；人类应用仅为推测，需临床研究验证。",
+        "counterexample": "小鼠结果不能直接外推至人类；药物相关组合涉及医疗决策，不适用于无监督的营养或训练建议。",
+        "confidence": 0.4,
+        "status": "draft",
+        "generated_at": "2026-11-01 15:15"
+      }
+    ]
+  },
+  "built_at": "2026-11-01 15:15"
 }

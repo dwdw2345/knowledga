@@ -139,6 +139,7 @@ const NOTES = {}; KB.disciplines.forEach(d=>d.notes.forEach(n=>{NOTES[n.id]={...
 const CROSS = {}; (KB.cross||[]).forEach(c=>CROSS[c.id]=c);
 const FL = (KB.fascia_lines && KB.fascia_lines.lines) || [];
 const FL_BY_ID = {}; FL.forEach(l=>FL_BY_ID[l.id]=l);
+const DRAFTS = (KB.agent_drafts && KB.agent_drafts.items) || [];
 const state = {q:'', disc:'all', ask:{key: localStorage.getItem('kb_deepseek_key') || '', messages: [], busy: false, model:'deepseek-chat', base:'https://api.deepseek.com/chat/completions'}};
 
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
@@ -171,6 +172,7 @@ function vHome(){
     <div class="card"><h2>四学科</h2><div class="grid">${KB.disciplines.map(d=>`<a class="dcard" href="#/d/${d.id}"><div class="ic">${d.icon||'📘'}</div><b>${esc(d.name)}</b><span>${nCount(d)} 篇笔记</span></a>`).join('')}</div></div>
     <div class="card"><h2>筋膜链深度专题</h2><p class="sub">6 条肌筋膜链，逐节点：构成、走向、易出问题的点、评估与解决。</p>${FL.map(l=>`<a class="note" href="#/fl/${l.id}"><div class="ntitle"><span>${esc(l.name)}</span><span class="tag">${esc(l.en)}</span></div><div class="nsum">${esc(l.tagline)}</div></a>`).join('')||'<p class="sub">暂无</p>'}<div class="small" style="margin-top:6px">筋膜链是模型（C 级证据），不是诊断标准。</div></div>
     <div class="card"><h2>交叉主题</h2>${(KB.cross||[]).map(c=>`<a class="note" href="#/c/${c.id}"><div class="ntitle"><span>${esc(c.title)}</span><span class="tag">四学科</span></div><div class="nsum">${esc(c.summary)}</div></a>`).join('')||'<p class="sub">暂无</p>'}</div>
+    <div class="card"><h2>智能体学习草稿</h2><p class="sub">DeepSeek 从新文献提取原理卡，标 draft 待审核；不是最终结论。</p>${DRAFTS.slice(0,2).map(d=>`<div class="node"><b>${esc(d.principle||'')}</b><div class="row"><b>机制：</b>${esc((d.mechanism||'').slice(0,180))}</div><div class="row"><b>PMID：</b>${esc(d.pmid)} · 证据 ${esc(d.evidence_level)}</div></div>`).join('')||'<p class="sub">还没有学习草稿。运行 scripts/agent_learn.py 或等待每周任务。</p>'}<a class="chip on" href="#/drafts" style="display:inline-block;margin-top:8px">查看全部草稿 →</a></div>
     <div class="card"><h2>最新文献</h2>${latest.slice(0,3).map(a=>`<div class="article"><div class="atitle"><a href="${esc(a.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(a.title)}</a></div><div class="ameta">${esc(a.journal)} · ${esc(a.date)}</div></div>`).join('')||'<p class="sub">还没有抓取记录。运行 scripts/kb_update.py 或等待每日自动任务。</p>'}<div class="small" style="margin-top:6px">每日更新只保存原文标题/摘要/链接，不自动生成结论。</div></div>
     <div class="notice blue"><b>怎么用：</b>从「学科」看基础笔记；遇到具体问题看「交叉」；想追新文献看「每日」。每篇笔记都有证据等级与来源。</div>`;
 }
@@ -262,6 +264,19 @@ function vDaily(){
     ${filtered.length?filtered.map(articleHTML).join(''):'<div class="card"><p class="sub">这个分类还没有更新。运行 scripts/kb_update.py 或等待 GitHub Actions 每日任务。</p></div>'}
     <div class="notice">文献摘要只代表原文作者观点；证据等级、样本量、人群差异需要自己判断。不要用单篇摘要直接下结论。</div>`;
 }
+function vDrafts(){
+  const items=DRAFTS||[];
+  return `<a class="back" href="#/home">← 返回总览</a>
+  <div class="card"><h2>智能体学习草稿</h2><p class="sub">DeepSeek 从最新文献摘要提取“原理卡”，标记为 draft；需要人工/智能体复核后才能作为正式知识。不是诊断或治疗建议。</p></div>
+  ${items.length?items.map(d=>`<div class="card"><div class="ntitle"><span>${esc(d.principle||'（无 principle）')}</span>${badge(d.evidence_level)}</div>
+    <div class="row"><b>PMID：</b><a href="https://pubmed.ncbi.nlm.nih.gov/${esc(d.pmid)}/" target="_blank" rel="noopener">${esc(d.pmid)}</a> · ${esc(d.title||'')}</div>
+    <div class="row"><b>机制：</b>${esc(d.mechanism||'')}</div>
+    <div class="row"><b>证据：</b>${esc(d.evidence_note||'')}</div>
+    <div class="row"><b>应用：</b>${esc(d.application||'')}</div>
+    <div class="row"><b>反例/边界：</b>${esc(d.counterexample||'')}</div>
+    <div class="small">confidence ${esc(d.confidence!=null?d.confidence:'—')} · status ${esc(d.status||'draft')}</div></div>`).join(''):'<div class="card"><p class="sub">还没有草稿。运行 scripts/agent_learn.py 或等待每周学习任务。</p></div>'}
+  <div class="notice">草稿只代表“从摘要中提取的可能原理”，不是定论；正式使用前请核对原文与证据等级。</div>`;
+}
 function vAsk(){
   const a=state.ask;
   const canAsk=!!a.key;
@@ -305,11 +320,13 @@ function buildContext(q){
   const crosses=(KB.cross||[]).filter(c=>hit([c.title,c.summary,...(c.sections||[]).map(s=>s.body)].join(' '))).slice(0,2);
   const fl=(FL||[]).map(l=>({l,score:(l.nodes||[]).filter(n=>hit([n.name,n.anatomy,n.role,...(n.issues||[]),...(n.solutions||[])].join(' '))).length})).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,2);
   const arts=((KB.latest&&KB.latest.articles)||[]).filter(a=>hit([a.title,a.abstract,a.journal].join(' '))).slice(0,3);
+  const drafts=(DRAFTS||[]).filter(d=>hit([d.principle,d.mechanism,d.application,d.counterexample,d.title].join(' '))).slice(0,2);
   let out='';
   notes.forEach(({n})=>{out+=`【笔记】${n.title}（证据 ${n.evidence}）\n${n.summary}\n关键点：${(n.points||[]).join('；')}\n来源：${(n.sources||[]).join('；')}\n\n`;});
   crosses.forEach(c=>{out+=`【交叉】${c.title}\n${c.summary}\n`+(c.sections||[]).map(s=>`${s.title}：${s.body}`).join('\n')+`\n\n`;});
   fl.forEach(({l})=>{out+=`【筋膜链】${l.name}（${l.en}）\n${l.overview}\n`+(l.nodes||[]).slice(0,4).map(n=>`${n.name}：${n.role}；易出问题：${(n.issues||[]).join('、')}；解决：${(n.solutions||[]).join('、')}`).join('\n')+`\n\n`;});
   arts.forEach(a=>{out+=`【文献】${a.title}（${a.journal} ${a.date}，PMID ${a.pmid}）\n${(a.abstract||'').slice(0,500)}\n\n`;});
+  drafts.forEach(d=>{out+=`【智能体草稿·未审核】${d.principle}（证据 ${d.evidence_level}，PMID ${d.pmid}）\n机制：${d.mechanism}\n应用：${d.application}\n反例：${d.counterexample}\n\n`;});
   return out.slice(0,7000)||'（知识库中没有直接匹配的资料，请基于通用教科书共识回答，并明确说明证据不足。）';
 }
 async function askAgent(){
@@ -399,10 +416,11 @@ function render(){
   else if(tab==='cross')view.innerHTML=vCrossList();
   else if(tab==='c')view.innerHTML=vCross(CROSS[parts[1]]);
   else if(tab==='daily')view.innerHTML=vDaily();
+  else if(tab==='drafts')view.innerHTML=vDrafts();
   else if(tab==='ask')view.innerHTML=vAsk();
   else if(tab==='about')view.innerHTML=vAbout();
   else view.innerHTML=vHome();
-  const active = (tab==='d'||tab==='n'||tab==='fascia-lines'||tab==='fl')?'disciplines':(tab==='c')?'cross':(tab==='home'||tab===''?'home':tab);
+  const active = (tab==='d'||tab==='n'||tab==='fascia-lines'||tab==='fl')?'disciplines':(tab==='c')?'cross':(tab==='drafts')?'home':(tab==='home'||tab===''?'home':tab);
   setActive(active);
   const m=KB.meta||{};
   document.getElementById('updated').textContent='更新 '+(m.updated||(KB.latest&&KB.latest.updated)||'—');
