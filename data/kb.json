@@ -10,8 +10,8 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 222,
-      "raw_articles": 287,
+      "latest_articles": 228,
+      "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 16
     }
@@ -1534,9 +1534,9 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-04",
-    "updated_at": "2026-11-04 06:28",
-    "raw_count": 287,
+    "updated": "2026-11-05",
+    "updated_at": "2026-11-05 06:37",
+    "raw_count": 300,
     "articles": [
       {
         "pmid": "42945482",
@@ -1560,6 +1560,27 @@
         ]
       },
       {
+        "pmid": "42975894",
+        "title": "Athletic Performance Adaptations: Just Training Sprints or Combining Sprints With Three Different Strength Training Methods?",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-03",
+        "authors": "Glenn Trane, Stein Edgar Rodahl, Olav Melhus Gomo et al.",
+        "abstract": "Trane, G, Rodahl, SE, Gomo, OM, Mehus, HA, Helgerud, J, and Unhjem, RJ. Athletic performance adaptations: Just training sprints or combining sprints with three different strength training methods? J Strength Cond Res XX(X): 000-000, 2026-In this exploratory study, we compared the effects of combining maximal strength training (MST), hypertrophy training (HT), or explosive strength training (EST) with sprint running vs. sprint running alone in control (CON). Fifty-eight recreationally active, nonstrength-trained men and women were randomized to 8 weeks, 3 sessions/week of MST (4 × 4 squats at ≥ 85% 1 repetition maximum [1RM]), HT (3 × 8-12 squats at ∼70-80% 1RM), EST (4 × 6-7 squat jumps at body weight), or CON (no strength training). All 4 groups performed 2 weekly 6 × 25-meter sprints. Maximal and explosive strength, sprint running performance, endurance performance determinants, and 30-second Wingate test cycling performance were evaluated. Leg press maximal voluntary isometric force (MVIF) improved more after MST (+14.5%) than after EST (+5.2%, p = 0.004) and CON (p ≤ 0.001), and more after HT (+10.6%) than CON (p = 0.008). The squat dynamic rate of force development improved more after MST (+37.4%) and HT (+36.0%) than CON (p = 0.014 and 0.002). Moreover, 0-25-meter sprint time improved more after MST (-0.11 s) and HT (-0.10 s) than CON (p = 0.019 and 0.042). Running economy improved more after MST (-2.5%) than CON (p = 0.026). Wingate test average power output improved more after MST (+6.6%) and HT (+6.9%) than EST (p = 0.020 and 0.010) and CON (p = 0.016 and 0.009). Peak power output improved more after MST (+11.8%) and HT (+10.1%) than CON (p = 0.011 and 0.040). ΔMVIF was associated with performance changes. Integrating sprint training with high-load strength training improved maximal and explosive strength and athletic performance more than sprint training alone, whereas this was not observed in EST. Performance improvements were attributed to enhanced maximal strength. Given the exploratory study design and the use of Fisher's least significant difference post hoc tests for between-group comparisons, these findings should be interpreted with caution and regarded as hypothesis-generating.",
+        "doi": "10.1519/JSC.0000000000005694",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975894/",
+        "relevance": 24,
+        "matched": [
+          "training",
+          "strength",
+          "sprint",
+          "adaptation",
+          "performance",
+          "hypertrophy"
+        ]
+      },
+      {
         "pmid": "42956728",
         "title": "Effects of Ballistic and Traditional Half-Squat Training With Light Loads on Strength, Jump, and Sprint Performance in Young Rugby Players: A Randomized Controlled Trial.",
         "journal": "International journal of sports physiology and performance",
@@ -1578,6 +1599,27 @@
           "performance",
           "exercise",
           "fatigue"
+        ]
+      },
+      {
+        "pmid": "42976123",
+        "title": "Moderate-Intensity Interval Training Is Sufficient to Increase Muscle Mitochondrial Respiratory Capacity and Exercise Tolerance in Young Untrained Men.",
+        "journal": "Medicine and science in sports and exercise",
+        "journal_issn": "0195-9131",
+        "discipline": "physiology",
+        "date": "2026-Nov-03",
+        "authors": "Jerzy A Zoladz, Marcin Grandys, Barbara Pakula et al.",
+        "abstract": "INTRODUCTION: There is considerable evidence that physical activity can stimulate mitochondrial biogenesis in muscles, enhance maximal mitochondrial oxygen consumption rate, improve physical fitness, and help maintain overall health in humans. On the other hand, there is growing evidence that excessive training load may have a detrimental effect on mitochondria and glucose homeostasis. HYPOTHESIS: We hypothesized that moderate-intensity interval training (MIIT) would be sufficient to increase muscle mitochondrial oxidative capacity and exercise tolerance in untrained healthy people. METHODS: Eleven young, healthy, untrained males took part in this study. They performed a 7-week endurance training program (MIIT) on a cycle ergometer, composed of 4 sessions per week, each lasting 40 min. Before and after the MIIT training program, a pulmonary maximal oxygen consumption (V̇O2max) as well as lactate threshold (LT) were determined and a muscle biopsy from the m. vastus lateralis was taken to evaluate the level of muscle proteins related to energy metabolism and mitochondrial biogenesis, and to measure the muscle's maximal mitochondrial respiration rate. RESULTS: The training resulted in an increase of skeletal muscle homogenate V̇O2max (by ~50%, P=0.001), due to increased mitochondrial mass and the enrichment of mitochondria with the individual respiratory chain complexes. The MIIT increased the power output at the lactate threshold (PO at LT) by ~43 W (P=0.001) and the pulmonary V̇O2max by 7% (P=0.01) and had no adverse effect on blood glucose homeostasis. CONCLUSIONS: MIIT, which is a less intense form of training than the commonly used types of interval training, effectively induces a range of beneficial muscular and systemic adaptations that contribute to improvement of physical fitness and maintenances good health in humans.",
+        "doi": "10.1249/MSS.0000000000004203",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976123/",
+        "relevance": 23,
+        "matched": [
+          "exercise",
+          "training",
+          "mitochondrial",
+          "endurance",
+          "metabolism",
+          "power"
         ]
       },
       {
@@ -1686,6 +1728,27 @@
         ]
       },
       {
+        "pmid": "42980048",
+        "title": "Ergocycling-Based Repeated-Sprint Training in Hypoxia Performed at Either 3,000 m or 2,000 m Similarly Impacts Overground Performance in Under-18 Field Hockey Players.",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-04",
+        "authors": "Dorian Le Moan, Jean Slawinski, Léa Lecru et al.",
+        "abstract": "Le Moan, D, Slawinski, J, Lecru, L, Braize, E, Brocherie, F, and Bouten, J. Ergocycling-based repeated-sprint training in hypoxia performed at either 3,000 m or 2,000 m similarly impacts overground performance in under-18 field hockey players. J Strength Cond Res XX(X): 000-000, 2026-This study aimed to compare the effects of 2 levels of hypoxic stress during ergocycling-based repeated-sprint training in hypoxia (RSH) on overground repeated-sprint ability (RSA). Fifteen highly trained under-18 male field hockey players performed a 3-week training program with 6 ergocycling-based RSH sessions (3 × 6 10-s \"all-out\" sprints with 20-second intraset passive recovery and 5-minute interset rest; 2 sessions per week) under moderate (MH, FiO2 14.5%, simulated altitude of 3,000 m, n = 8) or low normobaric hypoxia (LH, FiO2 16.3%, 2,000 m, n = 7). Peak (PPO) and mean power output (MPO) were recorded during each RSH session. At Pre- and Postintervention, overground sprinting horizontal force-velocity profiles and RSA test (6 × 20-m \"all-out\" sprints interspersed by 20 seconds) were performed. Ergocycling-based PPO (p < 0.001) and MPO (p = 0.015) improved significantly for both groups from training 1 to 6. However, overground theoretical maximal force and theoretical maximal power remained unchanged (both p > 0.377), and theoretical maximal velocity (p = 0.026) was significantly decreased for both groups. Although no significant effect (time, group, interaction) was observed for overground RSA best time and sprint decrement (all p > 0.139), RSA total time decreased (p = 0.048) in both MH and LH (-1.1 ± 2.9% and -0.9 ± 1.0%), indicating performance enhancement, irrespective of the hypoxic stress. Using moderate or low normobaric hypoxic stress during a 3-week ergocycling-based RSH intervention resulted in similar improvement during training, albeit with limited, but not negligible, transferability effect in overground performance.",
+        "doi": "10.1519/JSC.0000000000005732",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980048/",
+        "relevance": 18,
+        "matched": [
+          "training",
+          "sprint",
+          "performance",
+          "strength",
+          "recovery",
+          "power"
+        ]
+      },
+      {
         "pmid": "42958899",
         "title": "Combined time-restricted feeding and resistance training enhance tirzepatide-induced improvements in adiposity and whole-body insulin sensitivity in female mice.",
         "journal": "The Journal of physiology",
@@ -1788,6 +1851,27 @@
           "training",
           "hip",
           "ligament"
+        ]
+      },
+      {
+        "pmid": "42980077",
+        "title": "Large-Scale Evaluation of Performance and Biological Maturation in Post-PHV Youth Soccer Players: Sprinting, Jumping, Aerobic Fitness, and Functional Movement.",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-04",
+        "authors": "Anna Akbaş, Victoria Hadyk, Piotr Bryk et al.",
+        "abstract": "Akbaş, A, Hadyk, V, Bryk, P, Mazzei, S, Stanula, A, and Juras, G. Large-scale evaluation of performance and biological maturation in post-PHV youth soccer players: Sprinting, jumping, aerobic fitness, and functional movement. J Strength Cond Res XX(X): 000-000, 2026-This study aimed to provide an integrated developmental profile of adolescent soccer players by examining how chronological age, biological maturation, and functional movement quality interact to shape sprint, jump, and aerobic fitness performance. A total of 246 male athletes (U15-U17) from 5 elite youth soccer academies completed sprint, jump, change-of-direction (COD), and aerobic tests alongside Functional Movement Screen (FMS) and Y-Balance Test (YBT) assessments. Maturity offset (years from peak height velocity, PHV) was used to estimate biological age, and group differences were analyzed using analysis of variance and analysis of covariance, with statistical significance set at p ≤ 0.05. Significant improvements with age were observed in sprinting, jumping, and aerobic fitness (p < 0.001); however, after controlling for PHV, differences in jumping and COD performance were no longer significant, whereas sprint performance and aerobic fitness remained age-dependent. Functional movement and balance showed small age-related differences that were largely explained by maturational variation. Weak and inconsistent correlations between FMS, YBT, and performance (|r| ≈ 0.20-0.35) suggested partial independence between movement quality and motor output. Notably, in older players, higher scores in mobility-related FMS components were associated with slower sprinting, a pattern that may reflect-rather than cause-reduced mechanical efficiency associated with greater flexibility. These findings indicate that post-PHV players are not a homogeneous group and support the use of maturity-informed, multidimensional athlete monitoring to guide individualized training even after PHV.",
+        "doi": "10.1519/JSC.0000000000005715",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980077/",
+        "relevance": 16,
+        "matched": [
+          "aerobic",
+          "sprint",
+          "performance",
+          "training",
+          "strength",
+          "athlete"
         ]
       },
       {
@@ -1956,47 +2040,6 @@
           "vo2",
           "performance",
           "athlete"
-        ]
-      },
-      {
-        "pmid": "42954267",
-        "title": "Is plant-based protein supplementation as effective as whey protein? A systematic review and meta-analysis in untrained adults undergoing resistance training.",
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "journal_issn": "1550-2783",
-        "discipline": "nutrition",
-        "date": "2026-Dec-30",
-        "authors": "Irineu Otavio Marchiori Callegari, Giovana Molina Silva, Alexandre Gabarra Oliveira",
-        "abstract": "BACKGROUND: Dietary protein supplements are commonly consumed to support increases in lean body mass among healthy adults engaged in resistance training (RT). Although whey protein has been extensively investigated, plant-based protein supplements have emerged as a viable alternative for individuals who avoid animal-derived products. METHODS: The present study aims to evaluate, through a systematic review and meta-analysis, the effects of plant-based versus whey protein supplementation on body composition in untrained adults (18-59 years) undergoing RT, using Dual-Energy X-Ray Absorptiometry (DEXA). The systematic review was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 checklist and was registered in PROSPERO (CRD420251145410). Searches were conducted in PubMed, Web of Science, and ScienceDirect, identifying 5 studies that met the inclusion criteria for qualitative synthesis and meta-analysis. RESULTS: When combined with RT, both plant-based and whey protein supplementation were associated with improvements in lean body mass (LBM) and body fat mass (BFM), with no significant between-group differences observed. CONCLUSIONS: Thus, soy- and pea-based protein supplements may support favorable body composition changes in adults initiating RT and could be considered practical nutritional options for individuals seeking alternatives to whey protein. Regarding chia-based protein, the available evidence is currently limited to a single study that did not demonstrate significant changes in lean body mass; therefore, firm conclusions regarding its efficacy cannot be drawn at this time.",
-        "doi": "10.1080/15502783.2026.2752317",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42954267/",
-        "relevance": 15,
-        "matched": [
-          "protein",
-          "supplement",
-          "training",
-          "nutrition",
-          "fat",
-          "diet"
-        ]
-      },
-      {
-        "pmid": "42908119",
-        "title": "Acute caffeine and carbohydrate strategies for fatigue-related sport-specific performance in team-sport athletes: a systematic review and multilevel meta-analysis.",
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "journal_issn": "1550-2783",
-        "discipline": "nutrition",
-        "date": "2026-Dec-30",
-        "authors": "Shu Xie, Xueming Wen",
-        "abstract": "BACKGROUND: Although caffeine and carbohydrate are established ergogenic strategies for physical performance, it remains unclear whether these benefits translate to the decision-making and sport-specific skills that determine team-sport performance under fatigue. METHODS: PubMed, Web of Science Core Collection, and SPORTDiscus were searched on 28 July 2026. Thirty-one reports were retained; their reported analyzed sample sizes summed to 441 athletes. Twenty-three independent quantitative study clusters, with reported analyzed sample sizes summing to 341 athletes, contributed 67 effects. Multilevel random-effects models nested effect sizes within studies; primary assumptions were r = 0.5 and rho = 0.80. Inference used CR2 robust standard errors and Satterthwaite degrees of freedom. RESULTS: Soccer supplied 11 of the 23 quantitative clusters; every other sport category supplied four or fewer. Broad caffeine was centered near zero (Hedges' g = 0.040, 95% CI -0.211 to 0.291; p = 0.691; df = 4.41). Tier 1a perceptual-motor and Tier 1b technical/tactical estimates were imprecise. Broad carbohydrate was positive but uncertain (g = 0.256, 95% CI -0.094 to 0.605; p = 0.118; df = 4.96), and one study cluster materially influenced this estimate. All six GRADE comparisons were rated very low certainty. The two-study mental-fatigue calculation was too fragile for conventional inference. CONCLUSIONS: Current evidence does not support assuming that the established physical ergogenic effects of caffeine translate to fatigue-related decision-making or sport-specific skill. Carbohydrate may provide a small benefit, but the evidence remains sparse and highly uncertain. Sensitivity to study composition was driven primarily by one influential cluster, whose omission increased the pooled estimate. The carbohydrate estimates apply only to heterogeneous ingested-beverage protocols and should not be extrapolated to mouth-rinse or gel strategies. Parallel syntheses do not establish intervention superiority or combined-strategy synergy.",
-        "doi": "10.1080/15502783.2026.2731524",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42908119/",
-        "relevance": 15,
-        "matched": [
-          "carbohydrate",
-          "fat",
-          "caffeine",
-          "athlete",
-          "performance"
         ]
       },
       {
@@ -2204,6 +2247,27 @@
         ]
       },
       {
+        "pmid": "41528392",
+        "title": "What Accelerates the Deterioration of Whole-Life Cycle Events in Type 2 Diabetes: Too Much Dietary Fat or Carbohydrates.",
+        "journal": "Nutrition reviews",
+        "journal_issn": "0029-6643",
+        "discipline": "nutrition",
+        "date": "2026-Nov-01",
+        "authors": "Wenjie Sun, Qing Gao, Shanshan Tang et al.",
+        "abstract": "Diabetes is a chronic, lifelong metabolic disorder characterized by elevated blood glucose levels. The role of diet and nutrition in the entire life cycle of metabolic diseases, particularly type 2 diabetes (T2D), is pivotal and represents the primary modifiable factors in combating the onset and progression of diabetes. The previous association between a high-sugar diet and diabetes risk has been well established. However, there is now evidence suggesting that a shift towards reduced carbohydrate intake and increased dietary fat may be linked to higher morbidity and mortality rates in patients with diabetes. This review investigated the effects of dietary fats and carbohydrates on the onset and progression of T2D and its associated complications (microvascular and macrovascular) and fatal events by reviewing several clinical studies and animal experiments. A lack of controlled trials comparing high-sugar and high-fat diets (HFDs) in clinical studies hinders us from drawing consistent conclusions. The majority of animal studies demonstrated a greater impact from HFDs compared with higher-sugar diets. There are several diets for treating diabetes that restrict fat intake below the upper limit of the dietary guidelines, and people with diabetes or abnormal glucose tolerance seem more able to tolerate low-fat, high-carbohydrate, low-calorie diets. Due to various factors, including the types of carbohydrates and fats, caloric intake, cognition, population age, and study design, it is difficult to conclusively determine which ratio of dietary components is more likely to contribute to diabetes, microvascular and macrovascular complications, or mortality events. Animal experiments may provide a systematic approach for simulating the effects of dietary fats and carbohydrates across the entire diabetes life cycle. Nevertheless, care must be taken when generalizing the findings from animal models to human contexts. Consequently, there is still a need for more high-quality, large, prospective controlled research to elucidate the role of dietary structure with different fat to carbohydrate ratios across the life cycle of diabetes. Meanwhile, studies should analyze relevant interactions, including potential effect modification factors.",
+        "doi": "10.1093/nutrit/nuaf250",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41528392/",
+        "relevance": 14,
+        "matched": [
+          "carbohydrate",
+          "fat",
+          "diet",
+          "dietary",
+          "nutrition",
+          "calorie"
+        ]
+      },
+      {
         "pmid": "42965617",
         "title": "Longitudinal transcriptomic monitoring of erythropoietic adaptations in endurance athletes: a prospective study protocol.",
         "journal": "European journal of applied physiology",
@@ -2383,6 +2447,46 @@
           "training",
           "hypertrophy",
           "resistance"
+        ]
+      },
+      {
+        "pmid": "42980213",
+        "title": "Feasibility of Heart Rate-Based Total Daily Energy Expenditure Estimation of Pararescuemen in Garrison.",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-04",
+        "authors": "Kelley G Hammond, Andrea C Bair, Adam J Strang et al.",
+        "abstract": "Hammond, KG, Bair, AC, Strang, AJ, Young, JC, Kruskall, LJ, Dunnick, DD, and Schilling, BK. Feasibility of heart rate-based total daily energy expenditure estimation of pararescuemen in garrison. J Strength Cond Res XX(X): 000-000, 2026-Pararescuemen are a group of Air Force Special Operations Forces who engage in vigorous daily training to prepare for deployment operations. This training can elicit high-energy expenditure, yet few studies have measured the energy expenditure of these airmen while at their home station (in garrison). Twelve operational pararescuemen (age: 27 ± 3 years; years of service: 5 ± 3 years) were assessed for resting energy expenditure, heart rate (HR) at rest and during initial exercise, and the HR-oxygen consumption (V̇o2) linear equation. Subjects' HR was recorded over 2 normal training days and used to estimate total daily energy expenditure (TDEE). Subjects reported an average 9 ± 2 hours of sleep per night of analysis and had an average basal metabolic rate = 82 ± 4 kcal·h-1. Average TDEE was 4,021 ± 890 kcals. Pararescuemen expend high levels of energy during routine training at their home station, similar to those of other elite military groups. Observed and reported high-energy expenditures in pararescuemen suggest further investigation into energy intake in this population to optimize performance.",
+        "doi": "10.1519/JSC.0000000000005720",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980213/",
+        "relevance": 12,
+        "matched": [
+          "heart rate",
+          "exercise",
+          "training",
+          "strength",
+          "metabolic",
+          "oxygen"
+        ]
+      },
+      {
+        "pmid": "42980063",
+        "title": "Effectiveness of Pelvic Floor Muscle Training in Women Soccer Players and Its Relationship With Quality of Life and Pelvic Floor Muscle Strength: A Randomized Controlled Pilot Study.",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-04",
+        "authors": "Julia M Sebastian-Rico, María Jesús Muñoz-Fernández, Luis Manuel Martínez-Aranda et al.",
+        "abstract": "Sebastian-Rico, JM, Muñoz-Fernández, MJ, Martínez-Aranda, LM, Calvo-Lluch, Á, and Ortega-Becerra, M. Effectiveness of pelvic floor muscle training in women soccer players and its relationship with quality of life and pelvic floor muscle strength: a randomized controlled pilot study. J Strength Cond Res XX(X): 000-000, 2026-This study investigated the effects of a 6-week pelvic floor muscle training (PFMT) program on muscle strength, function, and the prevalence of related dysfunctions in professional female soccer players using a randomized controlled pilot study design. Twenty nulliparous professional soccer players from the Spanish professional league (2024-2025 season) were randomly assigned to an experimental group (n = 12) or a control group (n = 8). Assessments included anthropometric data, validated questionnaires (International Consultation on Incontinence Questionnaire-Short Form and Broome Pelvic Muscle Self-Efficacy Scale), clinical interviews, and physical examination using the PERFECT method and manometry. The intervention consisted of a 6-week supervised PFMT program (4 sessions/week, 30 minutes each) progressed through 4 phases: education, proprioception, strengthening, and functional integration. Results showed significant group × time interactions for pelvic floor self-efficacy (Broome Pelvic Muscle Self-Efficacy Scale), with scores in the PFMT group increasing by 48.8 and 59.6% (p < 0.05), representing large between-group effect sizes (d = 0.91-1.26). Pelvic floor muscle performance increased by 122.4% in the intervention group (d = 1.25), whereas no meaningful changes were observed in the control group. No adverse events were reported. In conclusion, a 6-week supervised PFMT program is an effective and safe intervention for professional female soccer players, significantly improving muscle function and self-efficacy. These findings support the integration of PFMT for both therapeutic and preventive purposes in elite, high-impact sports environments.",
+        "doi": "10.1519/JSC.0000000000005729",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980063/",
+        "relevance": 12,
+        "matched": [
+          "training",
+          "strength",
+          "performance",
+          "sports"
         ]
       },
       {
@@ -2690,47 +2794,6 @@
         ]
       },
       {
-        "pmid": "42970420",
-        "title": "Effects of milk fat globule membrane supplementation on physical function and body composition in older adults: a narrative review.",
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "journal_issn": "1550-2783",
-        "discipline": "nutrition",
-        "date": "2026-Dec-30",
-        "authors": "Rachel H Barclay, Marlena C Kruger, Matthew J Barnes",
-        "abstract": "BACKGROUND: Healthy aging is a priority for many individuals; however, a decline in physical function and poor body composition are common age-related changes that can cause the added years from rising life expectancy to be spent in poor health. Consequently, understanding the mechanisms involved in aging has become increasingly important, including the role of phospholipids (PLs) and how age-related changes in PL content may interfere with lipid metabolism and normal functioning of the musculoskeletal system. Milk fat globule membrane (MFGM) is a bovine milk fraction rich in PLs that may have the potential to support good physical health, so that quality of life can rise alongside life expectancy. METHODS: This narrative review was based on a literature search conducted on Google Scholar, PubMed, and Scopus in May 2026 using the following keywords and Boolean operators: milk fat globule membrane OR MFGM AND physical function OR body composition OR older adults. Studies were included if they were randomized clinical trials (RCTs) investigating MFGM's effects on physical function and/or body composition in older adults. RESULTS: Findings suggest that MFGM supplementation, when consumed in conjunction with exercise, is an effective way to improve physical function in older adults, particularly among Japanese cohorts; however, changes in habitual diet in response to exercise, variable PL concentrations, and other added ingredients used in interventions may have influenced these results. In contrast, its effects on body composition appear more modest, with some studies reporting no benefits, especially when exercise was not part of the study design, or when compliance may have been a factor. CONCLUSIONS: Beyond the combined use of supplementation and exercise, future RCTs should consistently report participant compliance and, where possible, examine MFGM as a standalone intervention to distinguish its effects from other bioactive ingredients. Greater standardization is also needed, particularly regarding PL dose. Studies should also aim to include participants from more diverse ethnic backgrounds to capture a wider range of physiological responses and improve generalizability of the findings.",
-        "doi": "10.1080/15502783.2026.2753931",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42970420/",
-        "relevance": 11,
-        "matched": [
-          "fat",
-          "supplement",
-          "body composition",
-          "diet",
-          "exercise"
-        ]
-      },
-      {
-        "pmid": "42897977",
-        "title": "Pre-sleep milk-derived proteins do not impair sleep or recovery in elite female athletes.",
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "journal_issn": "1550-2783",
-        "discipline": "nutrition",
-        "date": "2026-Dec-30",
-        "authors": "Kieran G P Paterson, Timothy D Griest, Elisa Angeles et al.",
-        "abstract": "BACKGROUND: Sleep is essential for athlete recovery and performance, yet athletes frequently experience restricted or poor-quality sleep. Pre-sleep feeding (PSF) has emerged as a strategy to support recovery, but randomized, double-blinded, crossover trials comparing PSF macronutrient options on objective and subjective sleep outcomes in elite female athletes remain limited. METHODS: Twenty-five National Collegiate Athletic Association (NCAA) Division I female athletes (18-25 years old) were recruited; 21 completed the trial. In a randomized, double-blinded, placebo controlled, crossover design conducted over 4-8 weeks, participants consumed four treatments for three consecutive nights each: 40 g casein protein (CAS; 160 kcal), 40 g α-lactalbumin protein (ALA; 160 kcal), 40 g carbohydrate (CHO; 160 kcal), and 40g of a placebo (PLA; 5 kcal), with a minimum three-day washout between conditions. Supplements were consumed ~2 h after the final meal and ~30 min before bedtime as the last caloric intake of the day. Objective outcomes were obtained from the WHOOP 4.0 device (total sleep time (TST), sleep onset latency (SOL), sleep efficiency (SE), resting heart rate (RHR), and heart rate variability (HRV)). Subjective outcomes were assessed each morning via questionnaires (subjective sleep quality (SSQ), subjective sleep onset latency (SSOL), and subjective recovery (SREC)). Nocturnal interstitial glucose was assessed via blinded continuous glucose monitoring (CGM) in a subset (n = 6). Sleep and recovery variables were analyzed using one-way repeated-measures analysis of variance (ANOVA) to evaluate treatment effects across the four supplementation conditions. For CGM data, a two-way repeated-measures ANOVA was used to evaluate main effects of treatment and time, as well as the treatment × time interaction. Tukey's post hoc testing was used with significance set at p < 0.05. RESULTS: No significant treatment effects were observed for TST, SOL, SE, RHR, or HRV (p > 0.05). TST ranged from 7.47-7.62 h, SE from 91.5-92.0%, RHR from 53.5-54.1 bpm, and HRV from 98.2-103.9 ms across conditions. No significant treatment effects were detected for SSQ, SSOL, or SREC (p > 0.05); SSQ ranged from 69-75%, SSOL from 16-20 min, and SREC from 61-66%. In the CGM sub-analysis, a main effect of time was observed for nocturnal glucose (p = 0.008), but no differences among treatments (p = 0.187) or a time × treatment interaction (p = 0.550) were detected. CONCLUSIONS: In NCAA Division I female athletes, three consecutive nights of pre-sleep ingestion of CAS, ALA, or CHO did not impair objective or subjective measures of sleep or recovery compared with PLA. These findings demonstrate that pre-sleep feeding, regardless of macronutrient type, can be incorporated without negatively affecting sleep quality or recovery metrics. TRIAL REGISTRATION: ClinicalTrials.gov (Identifier: STUDY00004409).",
-        "doi": "10.1080/15502783.2026.2746899",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42897977/",
-        "relevance": 11,
-        "matched": [
-          "protein",
-          "athlete",
-          "nutrient",
-          "carbohydrate",
-          "supplement",
-          "meal"
-        ]
-      },
-      {
         "pmid": "42965622",
         "title": "Visual external focus of attention modulates corticospinal excitation-inhibition balance after acute exercise.",
         "journal": "European journal of applied physiology",
@@ -2905,27 +2968,6 @@
           "exercise",
           "pain",
           "sports"
-        ]
-      },
-      {
-        "pmid": "42970451",
-        "title": "Effects of extremely low-volume high-intensity interval training combined with iron supplementation versus iron supplementation alone on postural control in young women with iron deficiency anemia: a randomized controlled trial.",
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "journal_issn": "1550-2783",
-        "discipline": "nutrition",
-        "date": "2026-Dec-30",
-        "authors": "Mohamed Achraf Harrabi, Thouraya Fendri, Rahma Ayed et al.",
-        "abstract": "BACKGROUND: Recent research revealed postural control deterioration in young women with Iron Deficiency Anemia (IDA). To address this postural deficit, it is crucial to develop intervention strategies for postural rehabilitation in these individuals. This study aimed to explore the effect of 8-week extremely low-volume high-intensity interval training (HIIT) based on plyometric exercises combined with iron supplementation versus simple iron treatment on postural control of young women with IDA. METHODS: This randomized controlled trial enrolled young women with IDA aged 18-25 years, who were randomly assigned to a training group (TG; n = 16) or a non-training group (NTG; n = 17). All participants received oral iron supplementation (ferrous sulfate, 494.5 mg/day, administered as 247.25 mg twice daily), while the TG additionally completed an 8-week extremely low-volume HIIT program based on plyometric exercises. Hemoglobin (Hb) and serum ferritin concentrations were assessed, alongside muscle endurance, reaction time performance, and postural control. Muscle endurance was evaluated using the Killy test, reaction time performance using an online simple reaction time test, and postural control using a stabilometric platform under bipodal and semi-tandem stance conditions. Postural assessments were conducted with eyes open (EO) and eyes closed (EC) on firm and foam surfaces. All outcomes were measured at baseline and 72 h after the final intervention session. RESULTS: After the 8-week intervention, this study demonstrated significant improvements across both groups, irrespective of the intervention. However, TG showed significantly greater post-intervention improvements than NTG in Hb concentration (P = 0.042), muscle endurance (P < 0.001), and postural control. Superior postural control in TG was observed during a bipedal stance on a foam surface (EO: P = 0.001); EC: P = 0.035), as well as during semi-tandem stance on a firm surface (EO: P = 0.015; EC: P = 0.040) and on a foam surface (EO: P = 0.019; EC: P = 0.003), compared to the NTG. With a Bonferroni-adjusted significance threshold for multiple comparisons (α = 0.00625), between-group differences in postural control remained significant for bipedal foam EO (P = 0.001) and semi-tandem foam EC (P = 0.003). CONCLUSIONS: The study showed that women with IDA improved their postural performance regardless of the intervention used. However, an 8-week program of extremely low-volume HIIT combined with plyometric exercises and iron supplementation had a more beneficial effect compared to traditional iron therapy. These greater improvements in postural control occurred alongside greater improvements in the Hb concentration and muscle endurance in the TG compared to the NTG.",
-        "doi": "10.1080/15502783.2026.2753371",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42970451/",
-        "relevance": 10,
-        "matched": [
-          "supplement",
-          "training",
-          "fat",
-          "exercise",
-          "rehabilitation",
-          "performance"
         ]
       },
       {
@@ -3204,44 +3246,24 @@
         ]
       },
       {
-        "pmid": "42068023",
-        "title": "Scratching beneath the surface: Quantification of muscle architecture and myosin heavy chain content in the forelimbs of black-tailed prairie dogs (Cynomys, Rodentia).",
-        "journal": "Journal of anatomy",
-        "journal_issn": "0021-8782",
-        "discipline": "anatomy",
+        "pmid": "42425140",
+        "title": "Physiological evaluation of the Calgary adapted aRm ergometer (CARE) concussion exertion test in adolescent athletes: A repeated-measures observational study.",
+        "journal": "Experimental physiology",
+        "journal_issn": "0958-0670",
+        "discipline": "physiology",
         "date": "2026-Nov",
-        "authors": "Luke A Scheetz, Carter A Burnett, Benjamin R Kimble et al.",
-        "abstract": "Black-tailed prairie dogs (Cynomys ludovicianus) excavate burrow systems for a variety of reasons, including social organization and predator avoidance. As such, they have evolved a suite of musculoskeletal traits in their forelimbs that are employed for scratch-digging (i.e., digging motion performed by alternating power and recovery strokes). However, the degree to which their muscular anatomy has become modified in response to the selective pressures of their semi-fossorial lifestyle is unknown. To better understand the functional capacities of their forelimb musculature, dissections of C. ludovicianus (N = 9) were conducted to quantify limb mechanical advantage, muscle architectural properties, and myosin heavy chain (MHC) isoform content. Compared with previous data from other ground squirrels, forelimb muscle mass distribution in black-tailed prairie dogs is broadly similar with a large investment of scapular and shoulder muscle mass that accounts for two-thirds of the total forelimb muscle mass. The majority of muscles have long fascicles with correspondingly high fascicle length-to-muscle length (LF/ML) ratios, whereas aside from the main carpal and digital flexors/extensors, selected intrinsic shoulder flexors/extensors, and the smallest elbow extensors, most muscles have low physiological cross-sectional area to muscle mass (PCSA/MM) ratios. Notably, only the massive m. pectoralis superficialis was considered to be a high power muscle by its architectural properties, although several muscles are modified for large joint torque or torque range, including m. latissimus dorsi and a well-developed m. triceps brachii long head. Mechanical advantage is correspondingly greatest at the shoulder joint, intermediate at the elbow joint, and low at the carpal joint. Lastly, muscle composition is fast-contracting by moderate expression of fast MHC-2B and low expression of slow MHC-1. That said, %MHC isoform content shows a predominance of fast MHC-2A as predicted, which progressively increases distally throughout the forelimb. These findings collectively suggest that C. ludovicianus is less specialized among burrowing rodents as hypothesized. Its forelimb musculoskeletal properties are likely constrained by a preference for medium soil types and cooperative social behavior, and may further represent a trade-off between terrestrial locomotor behavior and digging function. Nonetheless, the modifications observed are comparible with other semi-fossorial members of the Marmotini tribe with respect to distinctive traits for scratch-digging. Future work is needed to quantify muscle properties in additional genera (e.g., Tamias, Spermophilus) to better assess selection for burrowing in ground squirrels.",
-        "doi": "10.1111/joa.70158",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068023/",
+        "authors": "Joshua J Burkart, Matthew G Neill, Jean-Michel Galarneau et al.",
+        "abstract": "Exertion testing helps inform exercise prescription during concussion recovery. The Calgary Adapted aRm Ergometer (CARE) test, developed as the first upper-body specific exertion test, aims to improve accessibility and inclusivity in concussion care. While initial development was conducted in adults, its applicability in adolescents remains unknown. This study compared physiological responses between the CARE test and the Calgary Concussion Cycle Test (CCCT) in non-disabled adolescent male and female athletes. Fifteen females and fifteen males (aged 14-17) performed CARE and CCCT to volitional fatigue. Response differences, Bland-Altman plots, effect sizes, intraclass correlation and moderation by sex for heart rate (HR), middle cerebral artery velocity (MCAv), volume of oxygen consumption ( V ̇ O 2 ), minute ventilation ( V ̇ E ) and end-tidal carbon dioxide ( P ETC O 2 ) were analysed at 25%, 50%, 75% and 100% of peak exertion levels. CARE elicited lower absolute values for HR, MCAv, P ETC O 2 , V ̇ O 2 and V ̇ E compared to CCCT, with differences and 95% limits-of-agreement becoming more pronounced at higher intensities. For mild-to-moderate exercise (25-50% exertion), the range typically used in clinical concussion testing, HR and MCAv differences were small for both sexes. Near maximal intensity, the HR gap widened, but MCAv was comparable. Sex did not modify the relationship between tests for HR and MCAv. While CARE predominantly employs smaller muscle mass than CCCT, results showed robust and relatively comparable physiological responses between tests and between male and female adolescents. These findings further support CARE as an accessible and inclusive post-concussion exertion test for those not able to perform lower-body protocols.",
+        "doi": "10.1113/EP093264",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42425140/",
         "relevance": 9,
         "matched": [
-          "muscle",
-          "muscular",
-          "joint",
-          "scapula",
-          "shoulder",
-          "skeletal"
-        ]
-      },
-      {
-        "pmid": "42899516",
-        "title": "Selective recovery effects of short-term beetroot juice supplementation after exercise-induced muscle damage in trained female volleyball players.",
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "journal_issn": "1550-2783",
-        "discipline": "nutrition",
-        "date": "2026-Dec-30",
-        "authors": "Shuning Zhang, Xudong Yang, Hongqi Xu et al.",
-        "abstract": "BACKGROUND: Beetroot juice (BRJ) has been proposed as a nutritional aid for recovery from exercise-induced muscle damage (EIMD), but evidence in female team-sport athletes is limited. It also remains unclear whether any benefit extends across functional, pain-related, swelling, and strength outcomes. METHODS: Seventeen female university volleyball players entered a randomized, double-blind, placebo-controlled crossover trial. Four did not complete the second period, so outcomes were analyzed with linear mixed models. After baseline testing, participants performed 200 loaded vertical jumps and consumed BRJ or placebo at 24, 48, and 72 h post-EIMD. Recovery outcomes were countermovement jump (CMJ) height, volleyball-specific agility time, pressure pain threshold, thigh circumference, visual analog scale soreness, and knee isokinetic measures. Holm-adjusted planned contrasts were used. RESULTS: CMJ height was the clearest BRJ-related functional finding. The treatment × time interaction showed a trend toward statistical significance (P = 0.062), and CMJ height was higher under BRJ than PLA at 72 h post-EIMD (P = 0.033, d = 1.01). Calf pressure pain threshold also favored BRJ at 72 h, accompanied by a significant treatment × time interaction (P < 0.001). In contrast, agility time and soreness changed over time without clear between-condition differences, while thigh pressure pain threshold, thigh circumference, and low-velocity knee isokinetic outcomes showed no consistent BRJ-related advantage. CONCLUSIONS: Short-term BRJ supplementation was associated with selective rather than generalized recovery benefits after EIMD in trained female volleyball players. The clearest findings were higher CMJ height and calf PPT under BRJ than PLA at 72 h, whereas the remaining outcomes showed no consistent treatment-related differences.",
-        "doi": "10.1080/15502783.2026.2751785",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42899516/",
-        "relevance": 9,
-        "matched": [
-          "supplement",
-          "exercise",
-          "nutrition",
           "athlete",
-          "pain"
+          "exercise",
+          "fatigue",
+          "recovery",
+          "heart rate",
+          "oxygen"
         ]
       },
       {
@@ -3394,6 +3416,25 @@
           "performance",
           "fat",
           "exercise"
+        ]
+      },
+      {
+        "pmid": "42979974",
+        "title": "Key Physical Predictors of Maximal Velocity Sprinting in Australian Track and Field Athletes.",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-04",
+        "authors": "Timothy A Sayer, Nicholas Cross",
+        "abstract": "Sayer, TA, and Cross, N. Key physical predictors of maximal velocity sprinting in Australian track and field athletes. J Strength Cond Res XX(X): 000-000, 2026-This study aimed to identify the key physical predictors of maximal velocity (MaxV) sprinting at 20 and 60 meters among highly trained Australian track sprinters. Twenty-four athletes (mixed sample: 12 male, 12 female, 68.90 ± 8.77 kg, 1.74 ± 0.08 m) completed a battery of strength and dynamic tests followed by maximal 60-meter sprints. Best-subset multiple linear regression (up to 5 predictors), evaluated by leave-one-out cross-validation, was used to model MaxV at each distance. The 60-meter MaxV model was highly significant, F (5,18) = 50.39, p < 0.001, explaining 93.3% of the variance (R2 = 0.93, adjusted R2 = 0.92, SEE = 0.19), with countermovement jump (CMJ) impulse (β = 0.78, p < 0.001), isometric leg-press peak force (β = 0.43, p = 0.001) and CMJ stiffness (β = 0.40, p < 0.001) the strongest positive contributors. The 20 meter MaxV model was also significant, F (5,18) = 28.12, p < 0.001, explaining 88.6% of the variance (R2 = 0.89, adjusted R2 = 0.86, SEE = 0.18), with single-leg drop jump (SLDJ) eccentric impulse (β = 0.87, p < 0.001) and CMJ power (β = 0.46, p < 0.001) the strongest contributors. Single-leg drop jump reactive strength index and isometric quadriceps force were significant within both models but carried suppressor (sign-reversed) coefficients. These results indicate that vertical jump force time qualities, particularly CMJ impulse and power, isometric leg-press force, and SLDJ eccentric impulse, are key physical components of MaxV sprinting and should be prioritized by coaches when assessing and developing sprint athletes.",
+        "doi": "10.1519/JSC.0000000000005719",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42979974/",
+        "relevance": 8,
+        "matched": [
+          "sprint",
+          "athlete",
+          "strength",
+          "power"
         ]
       },
       {
@@ -3694,6 +3735,24 @@
         ]
       },
       {
+        "pmid": "42977745",
+        "title": "Development and validation of a questionnaire on food knowledge and perception of the Mediterranean diet: the ICARO food knowledge questionnaire.",
+        "journal": "European journal of clinical nutrition",
+        "journal_issn": "0954-3007",
+        "discipline": "nutrition",
+        "date": "2026-Nov-03",
+        "authors": "Marika Dello Russo, Annarita Formisano, Marialaura Bonaccio et al.",
+        "abstract": "BACKGROUND/OBJECTIVES: Adherence to the Mediterranean diet has significantly declined over the last decades, particularly among younger generations, due to socioeconomic factors, increased consumption of ultra-processed foods and limited awareness of its positive effects on health. Addressing these barriers necessitates the enhancement of nutritional education and improved access to healthy food options. This study aims to develop and validate a comprehensive questionnaire, the ICARO-Food Knowledge Questionnaire (I-FKQ), to assess food knowledge related to the Mediterranean diet among children, adolescents, and adults. SUBJECT/METHODS: In the context of the ICARO Study, we recruited a sample of 46 parents (for children), 111 adolescents, and 164 adults, from November 2023 to July 2024. Content validity was established through a review by an expert panel, which refined the questionnaire. Assessments of face validity indicated that the I-FKQ is manageable and user-friendly for online administration. Item analysis demonstrated acceptable difficulty and discrimination indices. RESULTS: High test-retest reliability was observed, with strong correlations in scores between the two testing occasions, indicating robust temporal stability. All constructs of the questionnaire demonstrated adequate Cronbach's α and Pearson's correlation coefficients. The overall internal consistency of the questionnaire was acceptable (Cronbach's α = 0.848), although Section 2 showed slightly lower reliability (Cronbach's α = 0.662). Construct validity, evaluated only in adults, was supported by expected differences in scores according to educational level. CONCLUSION: The I-FKQ demonstrated satisfactory overall psychometric properties and reliable temporal stability. However, while fundamental reliability and face validity parameters were confirmed across multiple age groups, construct validity was established exclusively within the adult population. This specific lack of structural validation currently restricts the full applicability of the instrument in pediatric and adolescent groups. Consequently, pending further psychometric evaluation in younger demographics, the I-FKQ is best suited to support educational and public health initiatives targeting adult populations.",
+        "doi": "10.1038/s41430-026-01838-8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42977745/",
+        "relevance": 7,
+        "matched": [
+          "diet",
+          "food",
+          "nutrition"
+        ]
+      },
+      {
         "pmid": "42971358",
         "title": "Saturated and Trans Fatty Acids Were Not Associated with All-Cause or Cause-Specific Mortality in a Japanese Population with Relatively Low Intakes: The Japan Public Health Center-Based Prospective Study.",
         "journal": "The Journal of nutrition",
@@ -3728,6 +3787,24 @@
         "matched": [
           "physical activity",
           "oxygen"
+        ]
+      },
+      {
+        "pmid": "42980137",
+        "title": "Moving in Sand: Effects of Sex and Morphology on Performance in the Sandfish Skink (Scincus scincus).",
+        "journal": "Journal of morphology",
+        "journal_issn": "0362-2525",
+        "discipline": "anatomy",
+        "date": "2026-Nov",
+        "authors": "Anastasia M Shevchik, Ethan H Livingston, Jasmyn D Zimmerman et al.",
+        "abstract": "An animal's morphology directly influences its ability to perform fundamental tasks, which can be vital to its survival and reproduction. This is especially true in harsh or extreme environments, like the shifting-sand desert of the Sahara. Additionally, sexes can differ in their morphology, performance, or in the relationship between morphology and performance, with implications for behaviors such as habitat selection, predator avoidance, and reproduction. Despite being common across a broad geographic range, little is known of the ecomorphology and sexual dimorphism of the sandfish skink (Scincus scincus). To investigate this, we first validated the uses of molecular sexing protocols and morphology (hemipene eversion) to identify the sex of our animals. We then tested for differences in body size, the multivariate morphological phenotype, and coloration between the sexes. While patterns generally suggested male bias in both body size and limb dimension in concordance with previous studies, these differences were not statistically significant. Additionally, we found several exceptions to the standard color-based sex assignment of these animals, especially for females. We then conducted an experiment to test how body size and dimensions affect performance at optimum temperatures. We quantified three different types of movement: sprinting on top of sand (used in hunting behavior), swimming under sand (an undulatory form of locomotion used in thermoregulation), and diving into sand (an important escape behavior). Overall, skinks with larger body sizes sprinted faster and swam faster through sand. Female skinks sprinted faster than male skinks even after accounting for differences in body size. Larger heads, wider bodies, and longer limbs were negatively correlated with swim speed. Diving performance exhibited the lowest among-individual variation, did not differ between the sexes, and was not dependent on body size or shape. Finally, we found no evidence of among-individual correlations in performance measures, suggesting each performance is independent of the others. Overall, this experiment provides insight into morphology-performance relationships across a number of ecologically important aspects of locomotion for a species inhabiting an extreme desert environment.",
+        "doi": "10.1002/jmor.70193",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980137/",
+        "relevance": 7,
+        "matched": [
+          "morphology",
+          "performance",
+          "hip"
         ]
       },
       {
@@ -4150,22 +4227,77 @@
         ]
       },
       {
-        "pmid": "42924484",
-        "title": "Hematological and biochemical responses to three doses of caffeine during the CrossFit® workout: a randomized, double-blind, crossover trial.",
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "journal_issn": "1550-2783",
+        "pmid": "42977032",
+        "title": "Higher Quantity and Diversity of Dietary Bioactive Pigments Are Associated with Lower All-Cause Mortality.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
         "discipline": "nutrition",
-        "date": "2026-Dec-30",
-        "authors": "Natalia Główka, Tomasz Podgórski, Jakub Malik et al.",
-        "abstract": "BACKGROUND: This study investigated the effects of three doses of caffeine (CAF) on hematological and biochemical responses during the CrossFit® workout, a protocol known to induce significant physiological fluctuations. METHODS: In a randomized, double-blind, placebo (PLA)-controlled crossover trial, 26 moderately trained CrossFit® athletes received acute doses of 3, 6, or 9 mgCAF/kgbody mass (BM), or a PLA, 70 min before a 17-min CrossFit® workout. RESULTS: While exercise was the predominant driver of hematological changes, with no CAF-specific modulation of blood cell indices, significant treatment × time point interactions were observed solely for glucose concentration. Specifically, MEDIUM (6 mgCAF/kgBM) and HIGH (9 mgCAF/kgBM) CAF doses produced significantly greater post-exercise glucose elevations compared to baseline and PLA visits. Phosphates concentrations increased over time, particularly post-exercise, with no treatment effect retained after excluding baseline visit in the sensitivity analysis. Calcium level dynamics were influenced by temporal factors rather than CAF, and magnesium concentration remained stable. CONCLUSIONS: These findings suggest that acute CAF ingestion selectively influences post-exercise glucose responses during the CrossFit® workout, whereas hematological variables and most biochemical markers remain unaffected. Significant post-exercise glucose elevations were observed following the 6 and 9 mgCAF/kgBM conditions compared with baseline and PLA visits, while serum mineral concentrations remained largely stable across treatments. CLINICAL TRIALS REGISTRATION: NCT03822663.",
-        "doi": "10.1080/15502783.2026.2740805",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42924484/",
+        "date": "2026-Nov-03",
+        "authors": "Zhiyu Huang, Kelin Zhao, Wei Chen et al.",
+        "abstract": "BACKGROUND: Although higher intakes of specific subclasses of dietary bioactive pigments are associated with lower all-cause mortality, the associations of total pigment intake and dietary diversity with mortality risk remain unclear. OBJECTIVES: The aim of the study was to examine associations of the quantity and diversity of total dietary bioactive pigment with all-cause mortality. METHODS: To address this, we prospectively analyzed 4,596 participants from the Health and Retirement Study (HRS) followed for a mean of 7.5 years. Using Shannon entropy converted to Hill's effective numbers, we quantified pigment diversity. Multivariable Cox models estimated mortality hazard ratios (HRs). RESULTS: During 34,583 person-years of follow-up, 717 deaths were identified. Both higher pigment quantity (HRQ5vs.Q1 = 0.63; 95% CI: 0.48 to 0.81; P-trend = 0.002) and greater diversity (HRQ5vs.Q1: 0.64; 95% CI: 0.49 to 0.82; P-trend < 0.001) were associated after mutual adjustment with lower mortality. These pigments were primarily derived from tea, apples or pears, berries, peaches or plums, and dark chocolate. Regarding specific subclasses, higher proanthocyanidin intake was associated with a lower mortality risk. CONCLUSIONS: This study extends an established diversity framework to dietary bioactive pigments and shows that both quantity and diversity of dietary bioactive pigment are inversely associated with mortality risk.",
+        "doi": "10.1016/j.tjnut.2026.101925",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42977032/",
         "relevance": 6,
         "matched": [
-          "caffeine",
-          "mineral",
-          "exercise",
-          "athlete"
+          "diet",
+          "dietary"
+        ]
+      },
+      {
+        "pmid": "42976750",
+        "title": "Effects of footwear bending stiffness on direction-specific functional base of support in healthy older adults.",
+        "journal": "Journal of biomechanics",
+        "journal_issn": "0021-9290",
+        "discipline": "anatomy",
+        "date": "2026-Nov-02",
+        "authors": "Paula S Kramer, Kota Z Takahashi, Jason R Franz et al.",
+        "abstract": "Less than 30 % of the anatomical footprint is typically available for balance control, and this available area, known as the functional base of support (fBoS), can decrease with age. In older adults, smaller fBoS values are associated with a higher risk of falls. Because the strength of intrinsic foot muscles can influence the fBoS, we hypothesized that increasing footwear bending stiffness may similarly increase the fBoS. Twenty-one healthy older adults (70 ± 6 years, 10F/11 M) provided informed consent. Participants \"leaned as far as you can with both feet together in one of four directions (forward, backward, right, left) without stepping\". Heels, toes, and feet could lift freely to allow full ankle motion. Footwear stiffness was manipulated using standardized shoes (S00), S00 with a 1.6 mm carbon-fiber insole (S16), and S00 with a 3.2 mm carbon-fiber insole (S32). The directional fBoS was defined using the minimum distance between the maximum excursion of the center of pressure and direction-specific foot boundary landmarks. There were no differences in fBoS between S00 and S16 (all p-values > 0.05) or between S00 and S32 (all p-values > 0.145). Contrary to our hypotheses, no detectable immediate group-level effect of footwear bending stiffness was observed, suggesting that increasing footwear bending stiffness alone does not fully explain a mechanism underlying decreased fBoS with aging.",
+        "doi": "10.1016/j.jbiomech.2026.113664",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976750/",
+        "relevance": 6,
+        "matched": [
+          "foot",
+          "muscle",
+          "ankle",
+          "anatomical"
+        ]
+      },
+      {
+        "pmid": "42980336",
+        "title": "Targeting pulmonary arterial hypertension with aerobic training: anti-inflammatory and cardioprotective effects enhance survival in experimental models.",
+        "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+        "journal_issn": "8750-7587",
+        "discipline": "physiology",
+        "date": "2026-Nov-01",
+        "authors": "Timothy I Musch, Nathan Kenney, Kiana Schulze et al.",
+        "abstract": "",
+        "doi": "10.1152/japplphysiol.90094.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980336/",
+        "relevance": 6,
+        "matched": [
+          "training",
+          "aerobic"
+        ]
+      },
+      {
+        "pmid": "41475008",
+        "title": "Parents' and Children's Perceptions and Attitudes Towards Traditional and Novel Plant-Based Meat Alternatives: A Scoping Review.",
+        "journal": "Nutrition reviews",
+        "journal_issn": "0029-6643",
+        "discipline": "nutrition",
+        "date": "2026-Nov-01",
+        "authors": "Ai Ting Goh, Yunfan Mo, Jessica C McCormack et al.",
+        "abstract": "The growing popularity of plant-based meat alternatives (PBMAs) as a sustainable dietary option highlights the need to understand family perceptions to support their integration into daily diets. Early-life food preferences often stem from parents or caregivers. This scoping review synthesized existing findings on parents' and children's perceptions of traditional and novel PBMAs and identified motivators and barriers to adopting them in family meals. A comprehensive search across 5 databases (Nutrition and Food Sciences, Web of Science, Global Health, Scopus, PsycINFO) was performed on April 1, 2024, using predefined terms. The review adhered to Joanna Briggs Institute (JBI) methodology and PRISMA-ScR reporting guidelines. The Mixed Methods Appraisal Tool was used to assess study quality. Twenty studies were identified: 5 articles on parents or caregivers, 11 studies on children, and 4 articles on parent-child dyads. Parents were more accepting of traditional PBMAs (eg, lentils, tofu, beans, chickpeas), but expressed concerns over the nutritional adequacy, sodium content, and processing of novel PBMAs. Among parents who were non-regular users, traditional PBMAs were viewed mainly as a textural enhancement rather than a nutrient source. By contrast, children were generally more receptive to novel PBMAs compared with parents, particularly when products resembled meat and were linked to environmental and animal welfare benefits. For both parents and children, taste emerged as the primary driver for repeated consumption. Strategies to increase PBMA uptake in families should be focusing on improving the sensory appeal and nutritional profile of these products, enhancing product transparency around ingredients and processing technologies, and providing tailored nutrition education that aligns with existing knowledge and cooking skills. Family-based interventions that address both parental concerns and children's motivations may be particularly effective in positioning PBMAs as an accepted component of everyday family meals. Systematic Review Registration : Open Science Framework identifier osf.io/98n7r.",
+        "doi": "10.1093/nutrit/nuaf257",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41475008/",
+        "relevance": 6,
+        "matched": [
+          "nutrition",
+          "nutrient",
+          "diet",
+          "dietary",
+          "food",
+          "meal"
         ]
       },
       {
@@ -4392,6 +4524,42 @@
         ]
       },
       {
+        "pmid": "42979759",
+        "title": "Oxidative balance and cognitive function in Chinese older adults: the mediating role of plasma 25-hydroxyvitamin D.",
+        "journal": "The British journal of nutrition",
+        "journal_issn": "0007-1145",
+        "discipline": "nutrition",
+        "date": "2026-Nov-04",
+        "authors": "Kangting Luo, Rui Li, Qian Guo et al.",
+        "abstract": "Rapid global ageing is increasing the burden of cognitive impairment. Oxidative stress may contribute to cognitive decline, and the oxidative balance score (OBS), which integrates dietary and lifestyle pro- and antioxidants, has an unclear relationship with cognitive function in older adults. This study aimed to investigate the association between the OBS and cognitive function among older adults and to examine potential indirect pathways through circulating oxidative stress-related biomarkers. We used data from 1891 adults aged ≥60 years who participated in the 2011-2014 Chinese Longitudinal Healthy Longevity Survey. Cognitive function was assessed using the Mini-Mental State Examination (MMSE). Oxidative stress markers, including albumin, superoxide dismutase, malondialdehyde and plasma 25-hydroxyvitamin D [25(OH)D], were measured at baseline and follow-up. Associations were examined using mixed-effects linear regression models and semi-longitudinal cross-lagged mediation analysis. The median cognitive score was 28 (interquartile range, 23-29). Each one-point higher OBS was associated with a 0·16-point higher MMSE score (β = 0·16, 95 % CI 0·06 to 0·26), and participants in the highest OBS tertile had a 1·12-point higher MMSE score than those in the lowest tertile (β = 1·12, 95 % CI 0·50 to 1·73). In mediation analysis, higher baseline OBS predicted lower plasma 25(OH)D at follow-up (path a = -1·015), and higher baseline 25(OH)D was associated with better cognitive scores at follow-up (path b = 0·025). The indirect effect of OBS on cognition through 25(OH)D was significant (a × b = -0·025). OBS was positively associated with cognitive function, partially mediated by 25(OH)D. Further research is warranted to clarify these mechanisms and implications for cognitive aging.",
+        "doi": "10.1017/S0007114526109350",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42979759/",
+        "relevance": 5,
+        "matched": [
+          "vitamin",
+          "diet",
+          "dietary"
+        ]
+      },
+      {
+        "pmid": "42978415",
+        "title": "Mitochondrial content and intrinsic coupling-related differences shape bioenergetic output and redox responses across striated muscles in rats.",
+        "journal": "Experimental physiology",
+        "journal_issn": "0958-0670",
+        "discipline": "physiology",
+        "date": "2026-Nov-03",
+        "authors": "Alex Chan, Jules Devaux, Claudia Wen et al.",
+        "abstract": "Striated muscles differ markedly in energetic demand, but whether mitochondrial respiration and reactive oxygen species emission differ intrinsically across muscle types remains unclear. This study compared mitochondrial respiration, hydrogen peroxide (H2O2) emission and antioxidant enzyme expression in heart, diaphragm and hindlimb skeletal muscle from healthy rats. Mitochondrial O2 flux and H2O2 emission were measured simultaneously using high-resolution respirometry coupled with fluorometry in tissue homogenates subjected to substrate-uncoupler-inhibitor titration protocols. Mitochondrial content was estimated by citrate synthase activity, and antioxidant enzyme expression was measured by immunoblotting. Heart tissue displayed the highest mitochondrial respiration and H2O2 emission when expressed per tissue mass, followed by diaphragm and skeletal muscle. However, normalisation by citrate synthase activity eliminated differences in respiratory flux between muscles, indicating that variations in tissue-level respiration were primarily driven by mitochondrial content. Net H2O2 emission was greatest during leak respiration and decreased during oxidative phosphorylation and uncoupled states in all muscle types. Cardiac mitochondria exhibited a higher H2O2/O2 ratio during leak respiration and higher coupling-related ratios than those of diaphragm and skeletal muscle. In association, cardiac muscle showed greater expression of the mitochondrial antioxidant enzymes superoxide dismutase 2 and catalase in a separate cohort. These findings indicate that absolute oxidative metabolism across striated muscles is largely determined by mitochondrial content, whereas respiratory capacity per mitochondrial unit was conserved. Cardiac muscle exhibits elevated leak-associated reactive oxygen species emission but compensates by enhancing antioxidant defences, highlighting coordination between bioenergetic demand and redox regulation in continuously active muscles.",
+        "doi": "10.1113/EP094334",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42978415/",
+        "relevance": 5,
+        "matched": [
+          "mitochondrial",
+          "metabolism",
+          "oxygen"
+        ]
+      },
+      {
         "pmid": "42947639",
         "title": "Intraskeletal Pathway of the Trigeminal Nerve in Modern Bird Beak: 3D Comparative Anatomy Using the diceCT Method.",
         "journal": "Journal of morphology",
@@ -4426,42 +4594,6 @@
           "performance",
           "sports",
           "pain"
-        ]
-      },
-      {
-        "pmid": "42017399",
-        "title": "An investigation of the functional significance of the pyramidalis muscle using shear wave elastography.",
-        "journal": "Journal of anatomy",
-        "journal_issn": "0021-8782",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Craig L Short, Troy Morrison, Tania N Crotti et al.",
-        "abstract": "The pyramidalis (Py) is a small triangular-shaped anterior abdominal wall muscle, the function of which remains uncertain. We used brightness-mode (B-mode) ultrasound to determine Py prevalence and tested the hypothesis that Py contributed to stiffness of the linea alba (LA) using shear wave elastography (SWE). Py prevalence was observed and documented using conventional B-mode ultrasound in 20 participants (7 male). LA stiffness was measured using SWE with Py relaxed and during Py contraction in 10 of the participants (3 male, mean [SD] age 26.3 ± 8.0 years). Py activity was controlled using neuromuscular electrical stimulation (NMES), while lower rectus abdominis activity was monitored using electromyography (EMG). Py was present bilaterally in 15 of 20 (75%) participants, unilaterally in 2 (10%) and absent in 3 (15%). A statistically significant difference (p < 0.002) in the mean LA stiffness was observed when comparing SWE measurements of the Py at relaxed (15.7 kPa ± 6.1 kPa, 95% CI 11.4-20.1 kPa) and during contraction (24.2 kPa ± 10.8 kPa, 95% CI 16.5-32.0 kPa). No statistically significant difference in lower rectus abdominis activity was observed between the presence and absence of NMES (p = 0.517), indicating accurate and isolated Py stimulation. Our results indicate that Py muscle is commonly present (75% participants) and that Py contraction results in a significant increase in LA stiffness, supporting the previously unvalidated hypothesis that the function of Py, at least in part, is to increase LA stiffness and contribute to the biomechanics of the trunk.",
-        "doi": "10.1111/joa.70160",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42017399/",
-        "relevance": 5,
-        "matched": [
-          "muscle",
-          "muscular",
-          "biomechanic"
-        ]
-      },
-      {
-        "pmid": "41589510",
-        "title": "Comparative cranial biomechanics reveal macroevolutionary trends in theropod dinosaurs, with emphasis on Tyrannosauroidea.",
-        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-        "journal_issn": "1932-8486",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Evan Johnson-Ransom, Paul Gignac, Daniel E Barta et al.",
-        "abstract": "Tyrannosaurus is viewed as a model organism in vertebrate paleontology, with numerous studies analyzing its feeding biomechanics. Nonetheless, the evolution of this feeding performance has been under-addressed in Tyrannosauroidea, especially in basal tyrannosauroids. Here we used muscle-force reconstruction and finite element analysis (FEA) to quantify the cranial performance of tyrannosauroids and outgroup theropod clades. 2D (planar) cranial models, set to standardized skull lengths and jaw adductor forces, were used to analyze the evolution of feeding behavior in a large sample size of Tyrannosauroidea and other theropods. Sampled stresses matched well between planar and 3D analyses of three disparately shaped crania, suggesting valid interpretations from 2D models along the lateral sides of theropod crania if symmetrical bite loadings are assumed. We traced cranial evolution by sampling stresses at homologous points of theropod crania and input their average stress values into a maximum likelihood ancestral character state estimation. Our results show tyrannosauroids having moderate-to-low cranial stresses. We further tested whether the average stress value correlates with head size through phylogenetic generalized least square regressions. We found that 2D FEA provides significant information on the evolution of feeding performance in a major dinosaur clade. Along internal branches of Tyrannosauroidea, hypothetical common ancestors exhibit low cranial stress values owing to a combination of robust skulls and cranial protuberances. These traits may have been passed down to later tyrannosauroids, enabling them to handle high forces. Our results additionally demonstrate a possible correlation between cranial shape (brevirostrine versus longirostrine) and inferred cranial performance in non-tyrannosauroid clades.",
-        "doi": "10.1002/ar.70126",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41589510/",
-        "relevance": 5,
-        "matched": [
-          "biomechanic",
-          "muscle",
-          "performance"
         ]
       },
       {
@@ -4530,6 +4662,23 @@
           "morphology",
           "acl",
           "anatomical"
+        ]
+      },
+      {
+        "pmid": "42976752",
+        "title": "Effects of forkball pitching on forearm flexor-pronator muscle stiffness and grip strength.",
+        "journal": "Journal of biomechanics",
+        "journal_issn": "0021-9290",
+        "discipline": "anatomy",
+        "date": "2026-Oct-29",
+        "authors": "Ryota Oshima, Hiroyuki Nunome",
+        "abstract": "In baseball, the forkball pitch is a highly effective breaking ball. However, its unique grip has been said to place excessive load on the forearm flexor-pronator muscles. This study aimed to clarify and compare the effects of forkball and fastball pitching on the forearm flexor-pronator muscles using shear wave elastography. This interventional study (single group pre- and post-intervention comparison) included eight adult men. For each pitch type, they pitched 25 balls with maximum effort toward a net 3 m away. We assessed shear wave speed, a quantitative metric of muscle stiffness, and handgrip strength before and after the pitching sessions. To verify changes in shear wave speed after isometric exercise, we also implemented an additional isometric grip exercise protocol. Of the forearm flexor-pronator muscles, we found a significant reduction in shear wave speed only in the flexor digitorum superficialis after forkball pitching (0 pitches: 2.43 ± 0.24 m/s vs 25 pitches: 2.10 ± 0.24 m/s; p = 0.004), while there were no significant changes in the forearm flexor-pronator muscles after fastball pitching. Shear wave speed also decreased significantly in the forearm flexor-pronator muscles after the additional isometric grip exercise. The observed reduction in shear wave speed during repeated isometric grip likely reflects transient changes in forearm flexor-pronator muscle stiffness. Similarly, among the forearm flexor-pronator muscles, only the flexor digitorum superficialis showed a significant reduction in shear wave speed after repeated forkball pitching, suggesting that pitching forkball with a unique grip, in which the second and third fingers were spread apart during pitching, placed a specific load on that muscle.",
+        "doi": "10.1016/j.jbiomech.2026.113652",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976752/",
+        "relevance": 4,
+        "matched": [
+          "muscle",
+          "exercise"
         ]
       },
       {
@@ -4812,6 +4961,25 @@
         ]
       },
       {
+        "pmid": "42977033",
+        "title": "Identifying 24-h Urine Osmolality Thresholds for Adequate Water Intake in U.S. Children.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-03",
+        "authors": "HyunGyu Suh, Adam D Seal, Sajjad Rezaei et al.",
+        "abstract": "BACKGROUND: Validated pediatric reference values for hydration biomarkers remain limited. This study aimed to identify 24-h urine osmolality (UOsm) thresholds corresponding to the reference water intake values for children as defined by National Academy of Medicine (NAM) guidelines. METHODS: In this cross-sectional study, 729 healthy children (3-13 y; 46% female) from Arkansas and Arizona completed two-day dietary records and provided 24-h urine samples. We used logistic regression, receiver operating characteristic (ROC) analyses, and relative risk (RR) analyses to identify optimal UOsm cutoffs for adequate water intake and compare them with previously used candidate thresholds (<500 and <800 mmol/kg). RESULTS: More than half of children (58%) did not meet NAM water intake reference values. Children meeting the recommendations consumed more plain water than those who did not (P<0.05). Among children aged ≥4 years, not meeting the recommendations was consistently associated with higher UOsm, darker urine, and lower urine volume (all P<0.05). ROC analysis suggested an optimal UOsm cutoff of 595 mmol/kg (AUC=61%; sensitivity=0.72; specificity=0.45; P<0.001). After adjusting for age, sex, body mass index z-score, and physical activity, children with UOsm >600 mmol/kg had a 39% higher risk of not meeting NAM recommendations. Logistic regression revealed that children with UOsm <500 mmol/kg and 500-600 mmol/kg had significantly higher odds of meeting NAM guidelines than those with UOsm >800 mmol/kg (OR: 3.02 and 1.84, respectively; P<0.05). CONCLUSIONS: These findings suggest using approximately 600 mmol/kg as a clinically meaningful 24-h UOsm cutoff for identifying adequate water intake in children. This is slightly higher than the traditional 500 mmol/kg threshold suggested for adults.",
+        "doi": "10.1016/j.tjnut.2026.101924",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42977033/",
+        "relevance": 4,
+        "matched": [
+          "diet",
+          "dietary",
+          "hydration",
+          "physical activity"
+        ]
+      },
+      {
         "pmid": "42968357",
         "title": "Neonatal stress is associated with region-specific changes in mitochondrial respiration and sex-dependent respiratory instability in adulthood.",
         "journal": "The Journal of physiology",
@@ -4861,6 +5029,25 @@
           "exercise",
           "aerobic",
           "recovery"
+        ]
+      },
+      {
+        "pmid": "41418335",
+        "title": "Encouraging Healthier Choices for Children in Restaurants: A Review of Interventions and Health Promotion Strategies.",
+        "journal": "Nutrition reviews",
+        "journal_issn": "0029-6643",
+        "discipline": "nutrition",
+        "date": "2026-Nov-01",
+        "authors": "Mackenzie J Ferrante, Sara Tauriello, Stephanie Anzman-Frasca",
+        "abstract": "Restaurants are normative eating contexts for many families and thus are prime targets for health promotion efforts as restaurant meals are typically high in calories, saturated fat, and sodium. Recently, health promotion efforts have focused on children's menus in an effort to improve the food intake of children in these settings. The goal of the present narrative review is to summarize the current, peer-reviewed literature describing interventions and other health promotion efforts to improve the healthfulness of children's meal selection and/or intake in restaurants. Efforts to accomplish this goal were organized into implicit (subtle and typically involving environmental changes) and explicit (direct and typically information-based) strategies and described using a narrative method. Significant changes in children's ordering of restaurant food were consistently demonstrated in studies using optimal defaults (an implicit strategy) to increase the healthfulness of children's meals. Future research and policy efforts in this area could further examine this strategy alongside other strategies such as personalized prompts or pricing promotions, evaluating impacts across a wider range of sociodemographic groups. Future studies should also include randomized controlled trials with objective assessments of children's intake to build upon existing knowledge and improve the healthfulness of the restaurant environment for children.",
+        "doi": "10.1093/nutrit/nuaf251",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41418335/",
+        "relevance": 4,
+        "matched": [
+          "fat",
+          "calorie",
+          "food",
+          "meal"
         ]
       },
       {
@@ -4929,44 +5116,6 @@
         "matched": [
           "athlete",
           "sports"
-        ]
-      },
-      {
-        "pmid": "41601422",
-        "title": "Descriptive, comparative, and functional anatomy of the facial musculature in cattle (Bos taurus).",
-        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-        "journal_issn": "1932-8486",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Maja Söderlind, Bridget Cain, Katrina Ask et al.",
-        "abstract": "Facial expressions can provide insight into animal emotions and pain, but no standardized system for assessing the entire facial display in cattle (Bos taurus Linnaeus) exists. The Facial Action Coding System (FACS), originally developed for humans, identifies distinct facial movements based on mimetic muscles. Developing a cattle-specific FACS requires mapping and comparing cattle mimetic musculature with that of humans and related species, which was the aim of this study. Dissection of three heads-using skinning and facial mask preparation on opposite sides-identified 30 mimetic muscles and revealed notable fiber blending in the lower face and ear region. The method helped clarify subtle anatomical discrepancies in previous literature that are important for interpreting muscle function. Muscular differences with humans and horses suggest a slightly less diverse or different facial repertoire in cattle. Robust lips and a different lip-muscle arrangement likely restrict the marginal, upper lip, and lip-corner movements described in one or both comparison species. A broad insertion of the M. levator labii superioris indicates involvement in both upper lip and nostril movements, and several muscles appeared to influence nostril shape. The eyebrow region-served only by a broad M. frontalis-suggests fewer eyebrow movements than in humans and broader ones than in horses. Cattle also possess musculature supporting movements not described in one or both comparison species, including upper lip retraction, nostril lifting, cheek raising, and diverse ear movements supported by well-developed ear muscles. The findings provide a basis for developing a FACS for cattle, pending validation in live animals.",
-        "doi": "10.1002/ar.70124",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41601422/",
-        "relevance": 4,
-        "matched": [
-          "muscle",
-          "muscular",
-          "anatomical",
-          "pain"
-        ]
-      },
-      {
-        "pmid": "41589553",
-        "title": "Hominin postcranial remains from Drimolen Main Quarry, South Africa.",
-        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-        "journal_issn": "1932-8486",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Caley M Orr, Stephanie E Baker, Tara E Hobbs et al.",
-        "abstract": "Drimolen Main Quarry (the primary excavation within the Drimolen paleocave system in Gauteng Province, South Africa) dates to ~2 Ma and has yielded abundant hominin remains. Most craniodental specimens are attributed to Paranthropus robustus, but the collection also includes a cranial vault of Homo aff. erectus and teeth with early Homo affinities. Here we catalog isolated postcranial specimens recovered between 1994 and 2015 and contribute formal descriptions along with comparative and functional analyses to provide further information on the paleobiology of the Drimolen hominins. Twenty-eight fossil specimens are cataloged, although two previously considered as possibly hominin are formally removed from that status. Like the craniodental assemblage, the postcrania include a high proportion of juveniles and subadults. Upper limb elements include an adult distal humerus (DNH 32), ulnar fragment (DNH 109, previously described), three fetal/perinatal humeri, three fetal/perinatal radius fragments, and nine manual phalanges. Lower limb elements include two fetal/perinatal tibiae, hallucal metatarsal, and nonhallucal pedal proximal phalanx. Vertebral and pelvic material include an adult lumbar centrum, a partial pelvis (DNH 43, previously described), and infant thoracic and lumbar neural arches (DNH 150 a and b). DNH 32 and DNH 43 can be attributed to P. robustus with some confidence while DNH 150a and b can possibly be associated with the DNH 134 juvenile cranium attributed to Homo aff. erectus. Although most other specimens probably belong to P. robustus, taxonomic attribution is challenging given Drimolen's mixed assemblage. Functional analyses indicate small-bodied hominins committed to terrestrial bipedality. However, the first metatarsal evinces a tight tarsometatarsal joint curvature possibly suggesting increased hallucal divergence in that individual. These results might reflect taxonomic variation or evolutionary mosaicism of the postcrania.",
-        "doi": "10.1002/ar.70141",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41589553/",
-        "relevance": 4,
-        "matched": [
-          "joint",
-          "pelvic",
-          "thoracic",
-          "lumbar"
         ]
       },
       {
@@ -5155,6 +5304,41 @@
         ]
       },
       {
+        "pmid": "42979770",
+        "title": "Assessing the risk of iodine deficiency - a study to validate a digital screening tool in UK adults.",
+        "journal": "The British journal of nutrition",
+        "journal_issn": "0007-1145",
+        "discipline": "nutrition",
+        "date": "2026-Nov-04",
+        "authors": "Katie Nicol, Anne P Nugent, Jayne Woodside et al.",
+        "abstract": "Iodine is essential for thyroid hormone synthesis and is needed for brain development. In the UK, milk and dairy products are the main dietary sources, but the increasing consumption of plant-based alternatives may affect iodine intake. Few iodine-specific dietary assessment tools have been validated in UK adults, and none reflects recent changes in food availability, food composition and dietary patterns. This study aimed to develop and validate the Iodine Intake Risk Score screening tool, using a rapid digital iodine-specific questionnaire. Healthy UK adults (n 108) aged ≥18 years completed the Iodine Intake Risk Score screening tool and a 6-d food diary, which served as the reference method. Iodine intake from the tool and food diaries was estimated and was classified as insufficient (<140 µg/d) or sufficient (140-600 µg/d). Agreement between methods was assessed using Cohen's kappa, Wilcoxon signed-rank tests and Spearman's correlation. There was substantial agreement in iodine classification (κ = 0·68, p < 0·001). The screening tool demonstrated high sensitivity (82%) and specificity (87%) for identifying individuals with insufficient iodine intake. The median iodine intake from the screening tool did not differ significantly from that of the food diaries (145 v 140 µg/d; p = 0·07), and the two methods were strongly correlated (r 0·70, p < 0·001). Median completion time was 4 min. The screening tool provides a valid and efficient method for assessing iodine intake in UK adults, incorporating conventional and plant-based sources. It offers a practical approach for identifying individuals at risk of iodine deficiency and for supporting population monitoring and dietary interventions.",
+        "doi": "10.1017/S0007114526108721",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42979770/",
+        "relevance": 3,
+        "matched": [
+          "diet",
+          "dietary",
+          "food"
+        ]
+      },
+      {
+        "pmid": "42976152",
+        "title": "Differential Effects of Hip- and Knee-Based Stretches on Torque and Motor Unit Activity in the Hamstrings.",
+        "journal": "Medicine and science in sports and exercise",
+        "journal_issn": "0195-9131",
+        "discipline": "physiology",
+        "date": "2026-Nov-03",
+        "authors": "Chrysostomos Sahinis, Ioannis G Amiridis, Roger M Enoka et al.",
+        "abstract": "PURPOSE: The purpose of the study was to compare the acute effects of hip- and knee-based static stretches on hamstrings torque and motor unit discharge characteristics. METHODS: Fourteen healthy young adults (2 females) completed three experimental sessions that comprised hip- and knee-focused stretching exercises or a control condition. Participants performed maximal voluntary contractions as well as submaximal contractions at 10% and 40% of maximal torque during a hip-extension and knee-flexion task. High-density surface electromyography recordings were obtained from proximal and distal regions of semitendinosus and biceps femoris. Motor unit discharge times were identified and a subset was tracked before and after stretching using a filter reapplication approach. Mean discharge rate (MDR), coefficient of variation for interspike interval (variability in discharge times), and standard deviation of the filtered cumulative spike train (neural-drive variability) were analyzed. RESULTS: Analysis of variance indicated hip-stretching resulted in greater reduction in maximal hip-extension torque compared with knee-stretching (~19% vs ~8%), whereas knee-stretching led to a larger reduction in maximal knee-flexion torque (~16% vs ~8%;p<0.001). Torque fluctuations increased (~28-32%) in the task most closely associated with the stretching modality. Linear mixed-effects models showed that both stretching conditions increased MDR (~5-20%), variability in discharge times (~10-25%), and neural drive variability (~20-45%), with no significant differences between muscles (p>0.05). Notably, hip-stretching induced greater increases in MDR in proximal regions (~10-18%), whereas knee-stretching produced larger increases distally (~12-25%). These regional patterns were also observed in the tracked motor-unit subset. CONCLUSIONS: The acute neuromuscular effects of prolonged static stretching depend on joint configuration and differ between muscle regions. Thus, hip- and knee-stretching exercises should not be treated as equivalent interventions.",
+        "doi": "10.1249/MSS.0000000000004204",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976152/",
+        "relevance": 3,
+        "matched": [
+          "exercise",
+          "neuromuscular"
+        ]
+      },
+      {
         "pmid": "42971357",
         "title": "Eicosapentaenoic acid in adipose tissue is associated with a lower risk of hemorrhagic stroke: A Danish case-cohort study.",
         "journal": "The Journal of nutrition",
@@ -5224,58 +5408,6 @@
         ]
       },
       {
-        "pmid": "42145183",
-        "title": "Characterisation of human hair follicle development.",
-        "journal": "Journal of anatomy",
-        "journal_issn": "0021-8782",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Zoe R Sudderick, James D Glover, Cameron Batho-Samblas et al.",
-        "abstract": "Humans have a characteristic distribution of hair across the body. Visible, relatively long and thick terminal hair fibres are present on the scalp and eyebrows in childhood, and are stimulated to grow on other parts of the body, such as the beard and armpits, by hormones during puberty. The short and fine vellus hairs, in contrast, are not readily visible and cover most of the body, including the face. Here we report quantification of the timing and characteristics of hair follicle development in human embryogenesis, from gestational Weeks 8-19, and compare this to mouse hair follicle development. We find that human hair follicles develop first on the head, where we identify several distinct initiation sites, followed by the torso. Clustered follicular units are produced by secondary hair follicles budding off the epidermis from sites close to earlier-forming primary follicles. Arrector pili muscles are detected from gestational Week 17. Although terminal and vellus hair follicles have clear differences in the adult, both hair types initially develop from placodes and dermal condensates of similar size. Once their development is initiated, we find that human hair follicles grow and mature at the same rate, regardless of anatomical location, but have different density at different body sites. These findings demonstrate that regional differences in hair characteristics of human skin, such as the distinction between scalp and forehead, are largely caused by processes that act after the initial stages of hair follicle morphogenesis. Efforts to understand the evolution of human 'hairlessness' should, therefore, focus on genetic and cellular events that take place after hair follicle morphogenesis. We compared human skin appendages, including eccrine sweat glands, with those in mouse. We found that molecular markers, such as EDA, EDAR, SOX2 and WNT pathway components, are broadly similar in expression between both species, although species-specific differences do exist. Notably, SOX2 expression, which distinguishes different hair follicle types in the mouse, is detected in all human hair follicle types, though with a later onset of expression than that observed in mouse. Together with comparison of morphology and gene expression, these results support the use of embryonic mouse primary hair follicles as a model for human hair follicle development.",
-        "doi": "10.1111/joa.70150",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42145183/",
-        "relevance": 3,
-        "matched": [
-          "muscle",
-          "anatomical",
-          "morphology"
-        ]
-      },
-      {
-        "pmid": "42068019",
-        "title": "The variability of giraffe skull morphology.",
-        "journal": "Journal of anatomy",
-        "journal_issn": "0021-8782",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Nikolaos Kargopoulos, Jesús Marugán-Lobón, Anusuya Chinsamy-Turan et al.",
-        "abstract": "Giraffe (Giraffa spp.) are among the most unique and charismatic extant animals, largely due to their distinct morphology. The evolutionary and developmental origin of ossicones is a key factor in giraffid biology, yet other features building their characteristic head physiognomy remain poorly studied. Here, we analysed the cranial diversity of extant Giraffa using a continent-wide sample with a balanced sex ratio and ontogenetic growth series, using shape analysis (3D geometric morphometrics). Detailed comparisons showed significant differences in cranial morphology across the four Giraffa species, and in some cases also between subspecies of the same species. The analyses revealed that females reach adult cranial form at an earlier age (around 4 years old), while males continue growing until the eighth year, aligning with the onset of sexual maturity for each of the sexes. Multivariate methods unambiguously prompt significant covariation between skull parts. Such high covariation patterns indicate that Giraffa skull morphology largely evolves as a whole (i.e., morphologically integrated), even though parts of it (such as the ossicones) develop in different magnitudes. Considering their role in territorial and mating behaviours, we suggest that ossicone morphology influences the parapatric evolution of Giraffa through sexual selection. Palaeontological evidence shows that development of larger ossicones is a relatively recent trait for members of the genus Giraffa, with the cranial morphology of the southern giraffe (Giraffa giraffa) being the closest to that of the ancestral forms, possibly through plesiomorphy or paedomorphosis.",
-        "doi": "10.1111/joa.70157",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068019/",
-        "relevance": 3,
-        "matched": [
-          "morphology"
-        ]
-      },
-      {
-        "pmid": "41552969",
-        "title": "Osteohistology of two phorusrhacids reveals uninterrupted growth strategy.",
-        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-        "journal_issn": "1932-8486",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Lotta Dreyer, Christian Cooper, Jingmai O'Connor",
-        "abstract": "Phorusrhacidae were apex predators that primarily dominated South America ecosystems for at least 40 million years with their imposing size and predatory lifestyle-yet some aspects of their biology remain poorly understood. Osteohistology is a tool for understanding growth dynamics and biomechanical adaptations. Despite their ecological significance, histological analyses of these birds were non-existent until the recent publication of a sampled metatarsus. Here, we present the first osteohistological data of a phorusrhacid femur together with other hindlimb elements representing two taxa, Andrewsornis abbotti and Physornis fortis, from the late Oligocene of Argentina. Ground-section microscopy reveals highly vascularized fibrolamellar bone tissue, indicating rapid, sustained growth with lines of arrested growth appearing only in the outer circumferential layer. Extensive secondary remodeling, particularly at muscle attachment sites, highlights high mechanical stress, consistent with active cursorial locomotion. Body mass estimates (60-89 kg for Andrewsornis abbotti) and high relative cortical thickness in both specimens (bone compactness = 0.55-0.78) provide additional data for comparative studies. Our findings confirm the uninterrupted growth strategy of phorusrhacids, consistent with other large-bodied flightless neognaths but in contrast to most giant flightless palaeognath birds.",
-        "doi": "10.1002/ar.70135",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41552969/",
-        "relevance": 3,
-        "matched": [
-          "muscle",
-          "bone",
-          "biomechanic"
-        ]
-      },
-      {
         "pmid": "42966568",
         "title": "Temporal Eating Patterns Show Inconsistent Associations With Cancer Incidence and Mortality: Systematic Review of Prospective Studies.",
         "journal": "The Journal of nutrition",
@@ -5324,6 +5456,23 @@
         "matched": [
           "hip",
           "neck"
+        ]
+      },
+      {
+        "pmid": "42976753",
+        "title": "Mechanisms of body rotation in the discus throw: contributions of ground reaction forces and the free moment to the angular momentum of the body-discus system in male throwers.",
+        "journal": "Journal of biomechanics",
+        "journal_issn": "0021-9290",
+        "discipline": "anatomy",
+        "date": "2026-Oct-28",
+        "authors": "Keitaro Seki, Shota Kikuchi",
+        "abstract": "The angular momentum about the vertical axis is closely associated with release speed in the discus throw; however, kinetic studies remain almost nonexistent due to the methodological difficulties of measurement. The present study aimed to investigate the mechanisms underlying angular momentum generation about the vertical axis from the perspective of the ground reaction forces. Twelve elite or highly trained male right-handed discus throwers performed discus throw on force platforms while their motions were captured. The largest contributions to angular momentum were the moments of ground reaction forces (MGRF) of both feet during the first double support phase (DSP1). Furthermore, the MGRF of the right foot during DSP1 and the left foot during the first single support phase (SSP1) were correlated positively with the maximum angular momentum. The leftward shift of the system's center of mass during DSP1 effectively increased the moment arm, thereby enhancing the contribution of the MGRF to the angular momentum. During SSP1, although the contribution of the left foot MGRF was relatively smaller than that during DSP1, its correlation with the maximum angular momentum suggests that precise control of the right leg swing is crucial for minimizing the loss of angular momentum.",
+        "doi": "10.1016/j.jbiomech.2026.113648",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976753/",
+        "relevance": 2,
+        "matched": [
+          "kinetic",
+          "foot"
         ]
       },
       {
@@ -5653,40 +5802,6 @@
         "relevance": 2,
         "matched": [
           "injury"
-        ]
-      },
-      {
-        "pmid": "42093201",
-        "title": "Allometric patterns in Rhamphorhynchus muensteri and their role in the paleoecology, life habits, and taxonomic framework of pterosaurs.",
-        "journal": "Journal of anatomy",
-        "journal_issn": "0021-8782",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Gabriela Menezes Cerqueira, João Lucas Da Silva, Ingmar Werneburg et al.",
-        "abstract": "Pterosaurs were the first vertebrates to achieve powered flight, a result of various unique anatomical adaptations, and significant morphological diversity throughout their evolutionary history. Although the pterosaurs body structure was specialized for powered flight, the clade exhibited great disparity from its origins, with later evolution giving rise to multiple phylogenetic lineages and a wide range of body sizes, from small forms such as Anurognathus ammoni to truly giant species like Quetzalcoatlus northropi. This variation led to distinct flight strategies within the group. Here, we assess allometry in the skeletal elements of Rhamphorhynchus muensteri in comparison with Eupterodactyloidea and Euctenochasmatia, examining their implications for paleoecology and flight capacity. The analysis included 127 specimens and assessed 13 skeletal variables using statistical methods, principal components analysis (PCA), and standardized major analysis (SMA). The results reveal differences in size-shape trajectories and functional adaptations related to activity flight. R. muensteri exhibits a trend of negative allometry (PCRW/body, humerus, radius/ulna, metacarpal IV, and femur), indicating distinct allometric scaling patterns and flight style. These patterns suggest behavior and ecological differences, as well differing flight capabilities between R. muensteri likely relied on active flapping flight interspersed with gliding, whereas other taxa may have exhibited greater migratory adaptations within Eupterodactyloidea, and a greater dependence on flapping flight in Euctenochasmatia. The negative allometry in R. muensteri suggests a flight style characterized by early flight capability (precocial flight), whereas Eupterodactyloidea showed positive allometry and Euctenochasmatia isometry. Additionally, the study highlights how allometric patterns influence pterosaur phylogeny, underscoring the importance of incorporating them into future analysis.",
-        "doi": "10.1111/joa.70146",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42093201/",
-        "relevance": 2,
-        "matched": [
-          "skeletal",
-          "anatomical"
-        ]
-      },
-      {
-        "pmid": "42056719",
-        "title": "Comparative histological analysis of vertebrates reveals Triassic climate variability across southern Pangea.",
-        "journal": "Journal of anatomy",
-        "journal_issn": "0021-8782",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Valerie Trinidad, Darlington Munyikwa, Michel Zondo et al.",
-        "abstract": "Climate highly influenced the distribution of major animal groups that emerged during the Triassic throughout the supercontinent Pangea. The earliest dinosaurs and associated assemblages (Carnian Stage, Late Triassic, ~230 Ma) are recovered along a paleolatitudinal climate belt spanning southern Pangea. However, developmental responses of different amniotic clades to climate across these environments remain unknown. Characterizing developmental variability, presumably driven in part by climatic variability within this belt, helps constrain the climatic ranges that shaped the earliest dinosaurs prior to their worldwide dispersal, while also providing insights into developmental plasticity of Triassic fauna. We analyzed the bone histology of five vertebrate taxa from the Carnian of Zimbabwe, including sauropodomorph and herrerasaurid dinosaurs, a gomphodontosuchine cynodont, a hyperodapedontine rhynchosaur, and a suchian archosaur (?aetosaur) as a proxy to assess probable climatic influence by comparing various growth strategies/metabolisms of these clades across southern Pangea. The dinosaurs are continuously growing individuals that exhibit well-vascularized woven-parallel and parallel-fibered cortical bone with no apparent growth marks. The cynodont is an immature specimen with a well-vascularized fibrolamellar matrix that has anastomosing vascular canals throughout the cortex and a single growth mark, indicating rapid growth. The rhynchosaurian femur and suchian tibia show moderate to poorly vascularized parallel-fibered and woven-fibered matrixes possessing multiple lines of arrested growth along with an external fundamental system, suggesting these were slow-growing individuals that had reached skeletal maturity at the time of death. Comparing this histology to that of similar assemblages from current-day Brazil, Argentina, and India (which fell along the same paleolatitudinal zone during the Triassic), the mid-continent (i.e., Zimbabwean) dinosaurs exhibit continuous uninterrupted growth in contrast to other histologically sampled dinosaurs from different localities along this climatic belt, whereas the Zimbabwean rhynchosaur and suchian exhibit patterns with more frequent cessation of growth than their South American counterparts. Slower-growing Zimbabwean taxa-presumably, more susceptible to climatic stressors-exhibit characteristics suggestive of a less resource-rich environment (e.g., frequent cessations, more interrupted growth) compared with rhynchosaurs and aetosaurs from South America. Taxa with faster growth rates and higher metabolic regimes (i.e., dinosaurs, cynodont) from this same assemblage apparently grew rapidly-and roughly continuously-throughout the year. This is consistent with an overall more arid but less seasonal climate in Zimbabwe compared to the signals recovered in Brazil, Argentina, and India.",
-        "doi": "10.1111/joa.70159",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056719/",
-        "relevance": 2,
-        "matched": [
-          "bone",
-          "skeletal"
         ]
       }
     ]
@@ -6882,5 +6997,5 @@
       }
     ]
   },
-  "built_at": "2026-11-03 22:29"
+  "built_at": "2026-11-04 22:37"
 }

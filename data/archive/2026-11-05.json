@@ -1,0 +1,658 @@
+{
+  "updated": "2026-11-05",
+  "articles": [
+    {
+      "pmid": "41474076",
+      "title": "Analysis of Progress and Trends in Histology and Education Research Based on VOSviewer and Citespace (1936-2024).",
+      "journal": "Clinical anatomy (New York, N.Y.)",
+      "journal_issn": "0897-3806",
+      "discipline": "anatomy",
+      "date": "2026-Nov",
+      "authors": "Peiling Cai, Xiwei Li, Zhen Zhang et al.",
+      "abstract": "Innovations in histology and education are widespread. However, the field currently lacks a systematic analysis of trends. Therefore, this study employed bibliometric methods to systematically review research on histology and education, filling a gap in the field and providing a reference for further studies. We retrieved articles related to histology and education from 1900 to 2024 from the Science Citation Index-Expanded of the Web of Science Core Collection. Data on publication trends, countries, leading institutions, prolific authors, influential journals, co-cited references, and popular keywords were analyzed using Microsoft Excel 2019, CiteSpace, and VOSviewer. The analysis revealed that a total of 3004 research papers and reviews related to histology and education were published globally (1936-2024). The United States emerged as the core research power in this field. Hortsch, Michael was identified as the most prolific author. The journal \"Anatomical Sciences Education\" published the highest number of articles. Notably, the current hot topic is artificial intelligence technology. This research provides a comprehensive knowledge map of histology and education. As a current hot technology, artificial intelligence will see further global research in this field focus on how to more organically integrate AI technology into histology education in the future.",
+      "doi": "10.1002/ca.70070",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41474076/",
+      "relevance": 1,
+      "matched": [
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "41455123",
+      "title": "The Retropharyngeal Internal Carotid Artery: A Systematic Review, Meta-Analysis of the Current Literature, and Evidence Sampling.",
+      "journal": "Clinical anatomy (New York, N.Y.)",
+      "journal_issn": "0897-3806",
+      "discipline": "anatomy",
+      "date": "2026-Nov",
+      "authors": "Răzvan Costin Tudose, Andrei Darius Stan, Alexandra Diana Vrapciu et al.",
+      "abstract": "A retropharyngeal internal carotid artery (RP-ICA) is a cervical ICA variant that courses adjacent to or abuts the pharyngeal wall, reducing the safety margin during procedures such as nasotracheal intubation and transoral surgery. Although described for over a century, relatively few cohort studies have investigated its prevalence, and no pooled estimate has been established. Following PRISMA guidelines, we systematically searched PubMed, Embase, Scopus, Web of Science, and Google Scholar (as of August 2025) for adult imaging cohorts that reported both the numerator (RP-ICA cases) and the denominator. Two reviewers independently performed study screening and data extraction. Exclusion criteria included non-ICA vascular variants, studies of low quality, those written in languages other than English, and those with unavailable full text. The risk of bias was assessed using a modified Newcastle-Ottawa Scale. Study-specific proportions were logit-transformed and pooled using a DerSimonian-Laird random-effects model with 95% confidence intervals (CI). Of 743 records identified, 595 titles/abstracts were screened and 89 full texts assessed; 47 studies were included qualitatively, and five imaging cohorts were meta-analyzed. Across these cohorts, 150 RP-ICA cases were identified among 10,066 adults. Prevalence in individual studies ranged from 0.07% to 7.97%. The pooled prevalence was 1.51% (95% CI, 0.53%-4.21%), with substantial heterogeneity. The oropharynx was the most frequent site of RP-ICA. Several reports described carotid arteries within a few millimeters of the pharyngeal mucosa or in direct contact, and positional changes were observed on serial imaging. The qualitative synthesis detailed pharyngeal level, laterality, and carotid-pharyngeal distances. Original imaging evidence of cases involving multiple RP-ICAs and additional carotid segments was further reported. RP-ICA is an uncommon but clinically significant vascular variant. Standardized reporting of minimum carotid-pharyngeal distance, pharyngeal level, laterality, and core imaging parameters would enhance comparability across studies and facilitate risk communication in otolaryngology, anesthesia, dentistry, vascular surgery, and spine surgery.",
+      "doi": "10.1002/ca.70072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41455123/",
+      "relevance": 1,
+      "matched": [
+        "spine"
+      ]
+    },
+    {
+      "pmid": "41542804",
+      "title": "The internal crest anatomy of Lambeosaurini (Hadrosauridae: Lambeosaurinae).",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov",
+      "authors": "Thomas W Dudgeon, Courtney Brown, David C Evans",
+      "abstract": "The supracranial crests of lambeosaurine hadrosaurids have long been a focus of study due primarily to their extreme morphology. The external anatomy of lambeosaurine crests is understood to be highly variable between species, but variation in their internal anatomy is less well understood. The poor understanding of taxonomic variation in internal anatomy is due in large part to data limitations, where comparisons were historically made using fragmentary specimens, or more recently using CT imaging of primarily immature specimens. Here, we provide a detailed comparison of the internal anatomy of mature individuals of the lambeosaurines Corythosaurus casuarius, Corythosaurus intermedius, and Lambeosaurus lambei, and contrast their morphology with previously described juvenile congeners and mature Hypacrosaurus altispinus. The lateral diverticula of Corythosaurus spp. and L. lambei are large and lobate, with short anterior projections and well-developed posterior projections, lacking the elongated anterior expansions to the diverticula that are unique to H. altispinus. The s-loop of the nasal vestibule is highly developed in L. lambei, forming exaggerated loops anterior to the orbit. The s-loops of Corythosaurus spp. and L. lambei curve from lateral to medial within the premaxilla, differing from the direction of curvature of the s-loops in H. altispinus that curve from medial to lateral. Very few differences occur between C. casuarius and C. intermedius, suggesting that there is minimal interspecific variation between these congeneric species. Our results demonstrate that lambeosaurine nasal passages are highly variable between genera, supporting strong internal differences in crest morphology, even in closely related genera within the same tribe.",
+      "doi": "10.1002/ar.70125",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41542804/",
+      "relevance": 1,
+      "matched": [
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "42980137",
+      "title": "Moving in Sand: Effects of Sex and Morphology on Performance in the Sandfish Skink (Scincus scincus).",
+      "journal": "Journal of morphology",
+      "journal_issn": "0362-2525",
+      "discipline": "anatomy",
+      "date": "2026-Nov",
+      "authors": "Anastasia M Shevchik, Ethan H Livingston, Jasmyn D Zimmerman et al.",
+      "abstract": "An animal's morphology directly influences its ability to perform fundamental tasks, which can be vital to its survival and reproduction. This is especially true in harsh or extreme environments, like the shifting-sand desert of the Sahara. Additionally, sexes can differ in their morphology, performance, or in the relationship between morphology and performance, with implications for behaviors such as habitat selection, predator avoidance, and reproduction. Despite being common across a broad geographic range, little is known of the ecomorphology and sexual dimorphism of the sandfish skink (Scincus scincus). To investigate this, we first validated the uses of molecular sexing protocols and morphology (hemipene eversion) to identify the sex of our animals. We then tested for differences in body size, the multivariate morphological phenotype, and coloration between the sexes. While patterns generally suggested male bias in both body size and limb dimension in concordance with previous studies, these differences were not statistically significant. Additionally, we found several exceptions to the standard color-based sex assignment of these animals, especially for females. We then conducted an experiment to test how body size and dimensions affect performance at optimum temperatures. We quantified three different types of movement: sprinting on top of sand (used in hunting behavior), swimming under sand (an undulatory form of locomotion used in thermoregulation), and diving into sand (an important escape behavior). Overall, skinks with larger body sizes sprinted faster and swam faster through sand. Female skinks sprinted faster than male skinks even after accounting for differences in body size. Larger heads, wider bodies, and longer limbs were negatively correlated with swim speed. Diving performance exhibited the lowest among-individual variation, did not differ between the sexes, and was not dependent on body size or shape. Finally, we found no evidence of among-individual correlations in performance measures, suggesting each performance is independent of the others. Overall, this experiment provides insight into morphology-performance relationships across a number of ecologically important aspects of locomotion for a species inhabiting an extreme desert environment.",
+      "doi": "10.1002/jmor.70193",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980137/",
+      "relevance": 7,
+      "matched": [
+        "morphology",
+        "performance",
+        "hip"
+      ]
+    },
+    {
+      "pmid": "42976753",
+      "title": "Mechanisms of body rotation in the discus throw: contributions of ground reaction forces and the free moment to the angular momentum of the body-discus system in male throwers.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Oct-28",
+      "authors": "Keitaro Seki, Shota Kikuchi",
+      "abstract": "The angular momentum about the vertical axis is closely associated with release speed in the discus throw; however, kinetic studies remain almost nonexistent due to the methodological difficulties of measurement. The present study aimed to investigate the mechanisms underlying angular momentum generation about the vertical axis from the perspective of the ground reaction forces. Twelve elite or highly trained male right-handed discus throwers performed discus throw on force platforms while their motions were captured. The largest contributions to angular momentum were the moments of ground reaction forces (MGRF) of both feet during the first double support phase (DSP1). Furthermore, the MGRF of the right foot during DSP1 and the left foot during the first single support phase (SSP1) were correlated positively with the maximum angular momentum. The leftward shift of the system's center of mass during DSP1 effectively increased the moment arm, thereby enhancing the contribution of the MGRF to the angular momentum. During SSP1, although the contribution of the left foot MGRF was relatively smaller than that during DSP1, its correlation with the maximum angular momentum suggests that precise control of the right leg swing is crucial for minimizing the loss of angular momentum.",
+      "doi": "10.1016/j.jbiomech.2026.113648",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976753/",
+      "relevance": 2,
+      "matched": [
+        "kinetic",
+        "foot"
+      ]
+    },
+    {
+      "pmid": "42976752",
+      "title": "Effects of forkball pitching on forearm flexor-pronator muscle stiffness and grip strength.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Oct-29",
+      "authors": "Ryota Oshima, Hiroyuki Nunome",
+      "abstract": "In baseball, the forkball pitch is a highly effective breaking ball. However, its unique grip has been said to place excessive load on the forearm flexor-pronator muscles. This study aimed to clarify and compare the effects of forkball and fastball pitching on the forearm flexor-pronator muscles using shear wave elastography. This interventional study (single group pre- and post-intervention comparison) included eight adult men. For each pitch type, they pitched 25 balls with maximum effort toward a net 3 m away. We assessed shear wave speed, a quantitative metric of muscle stiffness, and handgrip strength before and after the pitching sessions. To verify changes in shear wave speed after isometric exercise, we also implemented an additional isometric grip exercise protocol. Of the forearm flexor-pronator muscles, we found a significant reduction in shear wave speed only in the flexor digitorum superficialis after forkball pitching (0 pitches: 2.43 ± 0.24 m/s vs 25 pitches: 2.10 ± 0.24 m/s; p = 0.004), while there were no significant changes in the forearm flexor-pronator muscles after fastball pitching. Shear wave speed also decreased significantly in the forearm flexor-pronator muscles after the additional isometric grip exercise. The observed reduction in shear wave speed during repeated isometric grip likely reflects transient changes in forearm flexor-pronator muscle stiffness. Similarly, among the forearm flexor-pronator muscles, only the flexor digitorum superficialis showed a significant reduction in shear wave speed after repeated forkball pitching, suggesting that pitching forkball with a unique grip, in which the second and third fingers were spread apart during pitching, placed a specific load on that muscle.",
+      "doi": "10.1016/j.jbiomech.2026.113652",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976752/",
+      "relevance": 4,
+      "matched": [
+        "muscle",
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "42976750",
+      "title": "Effects of footwear bending stiffness on direction-specific functional base of support in healthy older adults.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-02",
+      "authors": "Paula S Kramer, Kota Z Takahashi, Jason R Franz et al.",
+      "abstract": "Less than 30 % of the anatomical footprint is typically available for balance control, and this available area, known as the functional base of support (fBoS), can decrease with age. In older adults, smaller fBoS values are associated with a higher risk of falls. Because the strength of intrinsic foot muscles can influence the fBoS, we hypothesized that increasing footwear bending stiffness may similarly increase the fBoS. Twenty-one healthy older adults (70 ± 6 years, 10F/11 M) provided informed consent. Participants \"leaned as far as you can with both feet together in one of four directions (forward, backward, right, left) without stepping\". Heels, toes, and feet could lift freely to allow full ankle motion. Footwear stiffness was manipulated using standardized shoes (S00), S00 with a 1.6 mm carbon-fiber insole (S16), and S00 with a 3.2 mm carbon-fiber insole (S32). The directional fBoS was defined using the minimum distance between the maximum excursion of the center of pressure and direction-specific foot boundary landmarks. There were no differences in fBoS between S00 and S16 (all p-values > 0.05) or between S00 and S32 (all p-values > 0.145). Contrary to our hypotheses, no detectable immediate group-level effect of footwear bending stiffness was observed, suggesting that increasing footwear bending stiffness alone does not fully explain a mechanism underlying decreased fBoS with aging.",
+      "doi": "10.1016/j.jbiomech.2026.113664",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976750/",
+      "relevance": 6,
+      "matched": [
+        "foot",
+        "muscle",
+        "ankle",
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "42976749",
+      "title": "Diffuse adverse coronary hemodynamics associated with type 2 diabetes: A CCTA-CFD phenotyping study.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Oct-30",
+      "authors": "Yue Qiu, Pei-Lun Han, Si-Quan Cheng et al.",
+      "abstract": "Patients with type 2 diabetes mellitus (T2DM) have a disproportionately high risk of atherosclerotic cardiovascular disease, which is not fully explained by the degree of coronary stenosis alone. In this retrospective study, patient-specific computational fluid dynamics (CFD) models were reconstructed from coronary computed tomography angiography (CCTA) data obtained from 53 individuals (26 non-T2DM and 27 T2DM). Time-averaged wall shear stress (TAWSS), oscillatory shear index (OSI), and relative residence time (RRT) were calculated to characterize the hemodynamic environment. Plaque composition and cardiac chamber dimensions were also analyzed. Results show patients with T2DM had significantly greater proportions of coronary surface area meeting the prespecified criteria for low TAWSS, high OSI, and high RRT than patients without T2DM (all P < 0.05) despite similar percent diameter stenosis. In plaque-level mixed-effects analyses accounting for within-patient clustering and clinical covariates, T2DM remained associated with lower TAWSS across all plaques (all P < 0.05). In plaque-type-stratified analyses, the most consistent adjusted differences were observed in non-calcified plaques. Longer diabetes duration was significantly associated with higher RRT (β = 0.0738, 95% CI: 0.0153 to 0.1324, P = 0.0135). These findings suggest that under standardized CCTA-CFD modeling assumptions, T2DM was associated with a greater patient-level burden of adverse simulated coronary hemodynamic regions. Plaque-level associations varied according to plaque composition and remained most evident in non-calcified plaques after multivariable adjustment. These findings suggest that CFD-derived hemodynamic assessment may provide information complementary to conventional anatomical measurements.",
+      "doi": "10.1016/j.jbiomech.2026.113641",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976749/",
+      "relevance": 1,
+      "matched": [
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "42980337",
+      "title": "Reply to Musch et al.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Carla Cristina de Araújo Alves, Cássia da Luz Goulart, Patricia Rieken Macedo Rocco et al.",
+      "abstract": "",
+      "doi": "10.1152/japplphysiol.90125.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980337/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42980336",
+      "title": "Targeting pulmonary arterial hypertension with aerobic training: anti-inflammatory and cardioprotective effects enhance survival in experimental models.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Timothy I Musch, Nathan Kenney, Kiana Schulze et al.",
+      "abstract": "",
+      "doi": "10.1152/japplphysiol.90094.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980336/",
+      "relevance": 6,
+      "matched": [
+        "training",
+        "aerobic"
+      ]
+    },
+    {
+      "pmid": "42977714",
+      "title": "Conventional transcutaneous spinal stimulation waveforms recruit sensory pathways more effectively than burst-modulated high-frequency waveforms.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Janie Provencher, Harrison T Finn, Simon C Gandevia et al.",
+      "abstract": "Transcutaneous spinal stimulation (TSS) can improve motor function in people with paresis, although outcomes remain inconsistent across studies. Different stimulation parameters may influence the effectiveness and sensory fiber selectivity of TSS. Here, we systematically compared the ability of ten TSS waveforms applied over the T11-L1 vertebral levels to evoke a soleus muscle response in people with intact neurological function (n = 12). Burst-modulated high-frequency waveforms (2 kHz, 5 kHz, 10 kHz) were compared with a conventional square waveform of the same total cathodal phase duration (400 μ s); a longer conventional waveform (1,000 μ s) was also tested. All waveforms were delivered in biphasic and monophasic pulse types. Relative to the conventional 400 μ s waveform, response threshold intensities were lower with the 1,000 μ s waveform (-28 to -27%) and higher with high-frequency stimulation: 2 kHz (+26 to +43%), 5 kHz (+111 to +129%), and 10 kHz (+254 to +273%). Recruitment curve slopes were also steeper with the 1,000 μ s waveform (+33 to +46%) and generally less steep with high-frequency stimulation: 2 kHz (biphasic: -25%), 5 kHz (-50 to -46%), and 10 kHz (-75 to -64%). Paired-pulse depression was weak at intensities >100%-120% of threshold but increased markedly at higher intensities across all waveforms. The 10 kHz waveforms showed the weakest paired-pulse depression, consistent with a smaller sensory contribution than the conventional 400 μ s waveform. Onset latencies were comparable to peripheral conduction times at near-threshold intensities but became shorter at higher stimulation intensities, suggesting changes in the relative contributions of sensory and motor fiber activation. Overall, burst-modulated high-frequency waveforms required higher stimulation intensities than conventional waveforms to evoke spinally-evoked motor responses and provided no physiological evidence of an advantage over conventional waveforms.",
+      "doi": "10.1152/japplphysiol.90326.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977714/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42976152",
+      "title": "Differential Effects of Hip- and Knee-Based Stretches on Torque and Motor Unit Activity in the Hamstrings.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Chrysostomos Sahinis, Ioannis G Amiridis, Roger M Enoka et al.",
+      "abstract": "PURPOSE: The purpose of the study was to compare the acute effects of hip- and knee-based static stretches on hamstrings torque and motor unit discharge characteristics. METHODS: Fourteen healthy young adults (2 females) completed three experimental sessions that comprised hip- and knee-focused stretching exercises or a control condition. Participants performed maximal voluntary contractions as well as submaximal contractions at 10% and 40% of maximal torque during a hip-extension and knee-flexion task. High-density surface electromyography recordings were obtained from proximal and distal regions of semitendinosus and biceps femoris. Motor unit discharge times were identified and a subset was tracked before and after stretching using a filter reapplication approach. Mean discharge rate (MDR), coefficient of variation for interspike interval (variability in discharge times), and standard deviation of the filtered cumulative spike train (neural-drive variability) were analyzed. RESULTS: Analysis of variance indicated hip-stretching resulted in greater reduction in maximal hip-extension torque compared with knee-stretching (~19% vs ~8%), whereas knee-stretching led to a larger reduction in maximal knee-flexion torque (~16% vs ~8%;p<0.001). Torque fluctuations increased (~28-32%) in the task most closely associated with the stretching modality. Linear mixed-effects models showed that both stretching conditions increased MDR (~5-20%), variability in discharge times (~10-25%), and neural drive variability (~20-45%), with no significant differences between muscles (p>0.05). Notably, hip-stretching induced greater increases in MDR in proximal regions (~10-18%), whereas knee-stretching produced larger increases distally (~12-25%). These regional patterns were also observed in the tracked motor-unit subset. CONCLUSIONS: The acute neuromuscular effects of prolonged static stretching depend on joint configuration and differ between muscle regions. Thus, hip- and knee-stretching exercises should not be treated as equivalent interventions.",
+      "doi": "10.1249/MSS.0000000000004204",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976152/",
+      "relevance": 3,
+      "matched": [
+        "exercise",
+        "neuromuscular"
+      ]
+    },
+    {
+      "pmid": "42976123",
+      "title": "Moderate-Intensity Interval Training Is Sufficient to Increase Muscle Mitochondrial Respiratory Capacity and Exercise Tolerance in Young Untrained Men.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Jerzy A Zoladz, Marcin Grandys, Barbara Pakula et al.",
+      "abstract": "INTRODUCTION: There is considerable evidence that physical activity can stimulate mitochondrial biogenesis in muscles, enhance maximal mitochondrial oxygen consumption rate, improve physical fitness, and help maintain overall health in humans. On the other hand, there is growing evidence that excessive training load may have a detrimental effect on mitochondria and glucose homeostasis. HYPOTHESIS: We hypothesized that moderate-intensity interval training (MIIT) would be sufficient to increase muscle mitochondrial oxidative capacity and exercise tolerance in untrained healthy people. METHODS: Eleven young, healthy, untrained males took part in this study. They performed a 7-week endurance training program (MIIT) on a cycle ergometer, composed of 4 sessions per week, each lasting 40 min. Before and after the MIIT training program, a pulmonary maximal oxygen consumption (V̇O2max) as well as lactate threshold (LT) were determined and a muscle biopsy from the m. vastus lateralis was taken to evaluate the level of muscle proteins related to energy metabolism and mitochondrial biogenesis, and to measure the muscle's maximal mitochondrial respiration rate. RESULTS: The training resulted in an increase of skeletal muscle homogenate V̇O2max (by ~50%, P=0.001), due to increased mitochondrial mass and the enrichment of mitochondria with the individual respiratory chain complexes. The MIIT increased the power output at the lactate threshold (PO at LT) by ~43 W (P=0.001) and the pulmonary V̇O2max by 7% (P=0.01) and had no adverse effect on blood glucose homeostasis. CONCLUSIONS: MIIT, which is a less intense form of training than the commonly used types of interval training, effectively induces a range of beneficial muscular and systemic adaptations that contribute to improvement of physical fitness and maintenances good health in humans.",
+      "doi": "10.1249/MSS.0000000000004203",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976123/",
+      "relevance": 23,
+      "matched": [
+        "exercise",
+        "training",
+        "mitochondrial",
+        "endurance",
+        "metabolism",
+        "power"
+      ]
+    },
+    {
+      "pmid": "42978248",
+      "title": "Steady state or not? Understanding muscle protein turnover during disuse atrophy.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Matthew S Brook",
+      "abstract": "",
+      "doi": "10.1113/JP292782",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978248/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42978182",
+      "title": "Acute mechanical stretch enhances β-adrenergic-protein kinase A signalling and increases susceptibility to ventricular arrhythmias.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Houcheng Wang, En-Chi Lai, Zhen Hua et al.",
+      "abstract": "Mechanical stretch can increase ventricular arrhythmia susceptibility during sympathetic activation, but the mechanisms linking stretch to altered β-adrenergic receptor (βAR) signalling, Ca2 + handling and electrical instability remain unclear. We tested whether left ventricular (LV) stretch alters Cav3-associated membrane organisation and enhances βAR-protein kinase A (PKA)-dependent arrhythmogenic signalling. Langendorff-perfused male rat hearts were studied using a fluid-filled LV balloon, with sham hearts fitted with an unstretched balloon. Optical mapping during S1-S2 programmed stimulation showed that LV stretch had limited effects at baseline but altered the response to βAR stimulation, increasing ventricular arrhythmia severity, prolonging APD50, reducing local conduction velocity and steepening APD80 restitution. H89 markedly reduced βAR stimulation-induced arrhythmia severity in stretched hearts, whereas KN93 did not provide comparable protection. LV stretch also increased cardiomyocyte length and altered Cav3 organisation at wheat germ agglutinin (WGA)-defined membrane regions. In isolated LV cardiomyocytes, hypoosmotic membrane deformation did not alter basal caffeine-induced Ca2 + release but enhanced isoprenaline-induced irregular activity and Ca2 +-transient amplitude, both of which were attenuated by PKA inhibition. Hypoosmotic membrane deformation also amplified isoprenaline-evoked PKA activity and increased RyR2 Ser2030 phosphorylation. These findings indicate that LV mechanical stretch alters the ventricular βAR response in association with altered Cav3-associated membrane organisation and enhanced βAR-PKA-dependent Ca2 + instability. KEY POINTS: Left ventricular (LV) balloon stretch has limited baseline electrophysiological effects but increases arrhythmia severity, slows conduction and steepens APD80 restitution during β-adrenergic stimulation. LV balloon stretch is associated with cardiomyocyte elongation and altered Cav3 enrichment at wheat germ agglutinin (WGA)-defined membrane regions. Hypoosmotic membrane deformation enhances isoprenaline-induced irregular activity and Ca2 +-transient amplitude without increasing basal caffeine-induced Ca2 + release. PKA inhibition reduces stretch-enhanced irregular activity in isolated ventricular myocytes and β-adrenergic receptor (βAR)-induced arrhythmia severity in stretched hearts. Hypoosmotic membrane deformation enhances isoprenaline-evoked PKA activity and increases RyR2 Ser2030 phosphorylation.",
+      "doi": "10.1113/JP290891",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978182/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42978075",
+      "title": "Knockdown of mitotically associated long non-coding RNA dysregulates endothelial functions, transcriptome and proteome.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Si-Yan Zhang, Chi Zhou, Jing Zheng",
+      "abstract": "Preeclampsia (PE) is a hypertensive disorder during pregnancy, which is characterized by a wide spectrum of endothelial dysfunction. However, the mechanisms underlying PE-associated endothelial dysfunction remain poorly understood. Our previous RNA-sequencing analysis showed that PE down-regulated mitotically-associated long non-coding RNA (MANCR) in human umbilical vein endothelial cells (HUVECs). Herein, we tested the hypothesis that knockdown of MANCR dysregulates endothelial functions via disrupting the transcriptome and proteome using HUVECs as a cell model. Reverse transcription quantitative PCR (RT-qPCR) was conducted to confirm the down-regulation of MANCR in PE-HUVECs. MANCR was knocked down in HUVECs from normotensive pregnancy using antisense oligonucleotides (ASOs), followed by functional assays, RNA-sequencing and proteomics. RT-qPCR revealed that PE decreased MANCR in male and female HUVECs. Compared with scrambled ASOs, MANCR ASOs reduced MANCR by 71% and 74% in male and female HUVECs, respectively. Functionally, MANCR ASOs blocked fibroblast growth factor-2 (FGF2)- and vascular endothelial growth factor-A (VEGFA)-stimulated cell proliferation, whereas they did not affect cell chemotaxis and tube formation in responses to FGF2 and VEGFA. MANCR ASOs dysregulated the expression of 37 and 39 genes as well as 97 and 15 proteins in male and female cells, respectively. Bioinformatics analysis predicted that MANCR-regulated genes and proteins in male and female HUVECs were differently associated with diseases and biological functions, many of which are relevant to cell mitosis and hypertension. Thus, down-regulation of MANCR impairs endothelial functions and causes sex-specific disruption of transcriptome and proteome, possibly partially contributing to PE-associated fetal endothelial dysfunction. KEY POINTS: Preeclampsia causes widespread endothelial dysfunction, but the roles of long non-coding RNAs in endothelial cells remain poorly understood. Mitotically associated long non-coding RNA (MANCR) is down-regulated in human umbilical vein endothelial cells (HUVECs) obtained from preeclampsia. We provide the first evidence that down-regulation of MANCR blocks endothelial cell proliferation stimulated by fibroblast growth factor 2 and vascular endothelial growth factor A. We also demonstrate that down-regulation of MANCR disrupts transcriptome and proteome as well as pathways associated with cell division, cardiovascular disease-related processes and immune responses. These findings identify MANCR as a previously unrecognized regulator of endothelial cell function.",
+      "doi": "10.1113/JP292141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978075/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42980331",
+      "title": "Publisher's note for Huang et al., volume 296, 2009, p. E1344-E1353.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "",
+      "abstract": "",
+      "doi": "10.1152/ajpendo.90929.2008_NOT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980331/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42980330",
+      "title": "Publisher's note for Berg et al., volume 287, 2004, p. E1178-E1188.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "",
+      "abstract": "",
+      "doi": "10.1152/ajpendo.00002.2004_NOT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980330/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42978415",
+      "title": "Mitochondrial content and intrinsic coupling-related differences shape bioenergetic output and redox responses across striated muscles in rats.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Alex Chan, Jules Devaux, Claudia Wen et al.",
+      "abstract": "Striated muscles differ markedly in energetic demand, but whether mitochondrial respiration and reactive oxygen species emission differ intrinsically across muscle types remains unclear. This study compared mitochondrial respiration, hydrogen peroxide (H2O2) emission and antioxidant enzyme expression in heart, diaphragm and hindlimb skeletal muscle from healthy rats. Mitochondrial O2 flux and H2O2 emission were measured simultaneously using high-resolution respirometry coupled with fluorometry in tissue homogenates subjected to substrate-uncoupler-inhibitor titration protocols. Mitochondrial content was estimated by citrate synthase activity, and antioxidant enzyme expression was measured by immunoblotting. Heart tissue displayed the highest mitochondrial respiration and H2O2 emission when expressed per tissue mass, followed by diaphragm and skeletal muscle. However, normalisation by citrate synthase activity eliminated differences in respiratory flux between muscles, indicating that variations in tissue-level respiration were primarily driven by mitochondrial content. Net H2O2 emission was greatest during leak respiration and decreased during oxidative phosphorylation and uncoupled states in all muscle types. Cardiac mitochondria exhibited a higher H2O2/O2 ratio during leak respiration and higher coupling-related ratios than those of diaphragm and skeletal muscle. In association, cardiac muscle showed greater expression of the mitochondrial antioxidant enzymes superoxide dismutase 2 and catalase in a separate cohort. These findings indicate that absolute oxidative metabolism across striated muscles is largely determined by mitochondrial content, whereas respiratory capacity per mitochondrial unit was conserved. Cardiac muscle exhibits elevated leak-associated reactive oxygen species emission but compensates by enhancing antioxidant defences, highlighting coordination between bioenergetic demand and redox regulation in continuously active muscles.",
+      "doi": "10.1113/EP094334",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978415/",
+      "relevance": 5,
+      "matched": [
+        "mitochondrial",
+        "metabolism",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "42425140",
+      "title": "Physiological evaluation of the Calgary adapted aRm ergometer (CARE) concussion exertion test in adolescent athletes: A repeated-measures observational study.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov",
+      "authors": "Joshua J Burkart, Matthew G Neill, Jean-Michel Galarneau et al.",
+      "abstract": "Exertion testing helps inform exercise prescription during concussion recovery. The Calgary Adapted aRm Ergometer (CARE) test, developed as the first upper-body specific exertion test, aims to improve accessibility and inclusivity in concussion care. While initial development was conducted in adults, its applicability in adolescents remains unknown. This study compared physiological responses between the CARE test and the Calgary Concussion Cycle Test (CCCT) in non-disabled adolescent male and female athletes. Fifteen females and fifteen males (aged 14-17) performed CARE and CCCT to volitional fatigue. Response differences, Bland-Altman plots, effect sizes, intraclass correlation and moderation by sex for heart rate (HR), middle cerebral artery velocity (MCAv), volume of oxygen consumption ( V ̇ O 2 ), minute ventilation ( V ̇ E ) and end-tidal carbon dioxide ( P ETC O 2 ) were analysed at 25%, 50%, 75% and 100% of peak exertion levels. CARE elicited lower absolute values for HR, MCAv, P ETC O 2 , V ̇ O 2 and V ̇ E compared to CCCT, with differences and 95% limits-of-agreement becoming more pronounced at higher intensities. For mild-to-moderate exercise (25-50% exertion), the range typically used in clinical concussion testing, HR and MCAv differences were small for both sexes. Near maximal intensity, the HR gap widened, but MCAv was comparable. Sex did not modify the relationship between tests for HR and MCAv. While CARE predominantly employs smaller muscle mass than CCCT, results showed robust and relatively comparable physiological responses between tests and between male and female adolescents. These findings further support CARE as an accessible and inclusive post-concussion exertion test for those not able to perform lower-body protocols.",
+      "doi": "10.1113/EP093264",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425140/",
+      "relevance": 9,
+      "matched": [
+        "athlete",
+        "exercise",
+        "fatigue",
+        "recovery",
+        "heart rate",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "42330007",
+      "title": "Cerebrovascular flow-mediated dilation in humans: Methodological challenges, physiological interpretation and future integrations.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov",
+      "authors": "Yi Zhen Bao, Tabitha V Craig, Jenna C McCrone et al.",
+      "abstract": "Arterial shear-mediated vasodilation is a well-established measure of endothelial function and serves as a critical biomarker for cardiovascular disease risk. Endothelial function can be measured using a variety of experimental methodologies; however, the most widely adopted technique is ultrasound-based flow-mediated dilation (FMD), in which arterial diameter (e.g., brachial or femoral artery) is quantified before and after a standardized period of blood occlusion using a pressure cuff. Recently, there have been several published studies that have assessed cerebrovascular flow-mediated dilation (cFMD) in the internal carotid artery (ICA) using transient and steady-state hypercapnia. Hypercapnia increases cerebral blood flow (CBF), and the consequent increase in arterial shear stress provokes ICA vasodilation. The ICA diameter response is mediated by endothelial derived nitric oxide, like the peripheral vasculature. Since the introduction of the cFMD technique, there have been several early studies investigating the effects of exercise, environment, autonomic nervous activity, age, sex and vasoactive hormones on cerebral endothelial function. While some findings parallel existing literature on peripheral endothelial function or studies primarily measuring shear stress (e.g. effects of ageing), others reveal unique aspects of cFMD regulation that diverge from trends seen in other techniques (e.g., smoking, sitting and handgrip exercise). This review aims to synthesize early findings on the mechanism(s) underlying cFMD, compare methodological approaches, and outline future research directions and potential clinical applications in this emerging field.",
+      "doi": "10.1113/EP093070",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330007/",
+      "relevance": 3,
+      "matched": [
+        "exercise",
+        "hormone"
+      ]
+    },
+    {
+      "pmid": "42980213",
+      "title": "Feasibility of Heart Rate-Based Total Daily Energy Expenditure Estimation of Pararescuemen in Garrison.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-04",
+      "authors": "Kelley G Hammond, Andrea C Bair, Adam J Strang et al.",
+      "abstract": "Hammond, KG, Bair, AC, Strang, AJ, Young, JC, Kruskall, LJ, Dunnick, DD, and Schilling, BK. Feasibility of heart rate-based total daily energy expenditure estimation of pararescuemen in garrison. J Strength Cond Res XX(X): 000-000, 2026-Pararescuemen are a group of Air Force Special Operations Forces who engage in vigorous daily training to prepare for deployment operations. This training can elicit high-energy expenditure, yet few studies have measured the energy expenditure of these airmen while at their home station (in garrison). Twelve operational pararescuemen (age: 27 ± 3 years; years of service: 5 ± 3 years) were assessed for resting energy expenditure, heart rate (HR) at rest and during initial exercise, and the HR-oxygen consumption (V̇o2) linear equation. Subjects' HR was recorded over 2 normal training days and used to estimate total daily energy expenditure (TDEE). Subjects reported an average 9 ± 2 hours of sleep per night of analysis and had an average basal metabolic rate = 82 ± 4 kcal·h-1. Average TDEE was 4,021 ± 890 kcals. Pararescuemen expend high levels of energy during routine training at their home station, similar to those of other elite military groups. Observed and reported high-energy expenditures in pararescuemen suggest further investigation into energy intake in this population to optimize performance.",
+      "doi": "10.1519/JSC.0000000000005720",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980213/",
+      "relevance": 12,
+      "matched": [
+        "heart rate",
+        "exercise",
+        "training",
+        "strength",
+        "metabolic",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "42980197",
+      "title": "B-Strong and KAATSU Bands Produce Similar Patterns of Blood Flow Restriction in the Leg.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-04",
+      "authors": "Pat R Vehrs, Kalissa Cox, Sadie Heyborne et al.",
+      "abstract": "Vehrs, PR, Cox, K, Heyborne, S, Knotes, E, Broberg, C, Clark, J, Swinson, K, Callahan, C, McDougal, H, and Miller, E. B-Strong and KAATSU bands produce similar patterns of blood flow restriction in the leg. J Strength Cond Res XX(X): 000-000, 2026-B-Strong and KAATSU blood flow restriction (BFR) bands are narrow and made of soft, elastic material with multichambered or segmented bladder designs. Research has yet to compare their ability to regulate blood flow at various set pressures in the leg. Ultrasound was used to measure unoccluded blood flow and blood flow at 4 set pressures (200, 300, 400, and 500 mm Hg) in the leg using B-Strong multichambered BFR bands and KAATSU bands in each of 40 healthy young adults (20 male and 20 female subjects). Unoccluded blood flow was measured before the measurement of blood flow at each set pressure. Blood flow at each set pressure was expressed as a percentage of the paired unoccluded blood flow value. A set pressure of 500 mm Hg was unable to occlude superficial femoral artery blood flow using either band in all subjects. Data were analyzed using a linear mixed-effects model. There were no significant main effects for gender (p = 0.716) or band (p = 0.750). There was a significant effect for set pressure (p < 0.001). Further post hoc pairwise comparisons revealed significant differences in relative blood flow between all combinations of set pressures (p < 0.006). All 2-way and 3-way interactions were not significant (p values = 0.524-0.981). B-Strong and KAATSU bands resulted in similar blood flow responses to BFR of the superficial femoral artery in both male and female subjects.",
+      "doi": "10.1519/JSC.0000000000005733",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980197/",
+      "relevance": 1,
+      "matched": [
+        "strength"
+      ]
+    },
+    {
+      "pmid": "42980077",
+      "title": "Large-Scale Evaluation of Performance and Biological Maturation in Post-PHV Youth Soccer Players: Sprinting, Jumping, Aerobic Fitness, and Functional Movement.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-04",
+      "authors": "Anna Akbaş, Victoria Hadyk, Piotr Bryk et al.",
+      "abstract": "Akbaş, A, Hadyk, V, Bryk, P, Mazzei, S, Stanula, A, and Juras, G. Large-scale evaluation of performance and biological maturation in post-PHV youth soccer players: Sprinting, jumping, aerobic fitness, and functional movement. J Strength Cond Res XX(X): 000-000, 2026-This study aimed to provide an integrated developmental profile of adolescent soccer players by examining how chronological age, biological maturation, and functional movement quality interact to shape sprint, jump, and aerobic fitness performance. A total of 246 male athletes (U15-U17) from 5 elite youth soccer academies completed sprint, jump, change-of-direction (COD), and aerobic tests alongside Functional Movement Screen (FMS) and Y-Balance Test (YBT) assessments. Maturity offset (years from peak height velocity, PHV) was used to estimate biological age, and group differences were analyzed using analysis of variance and analysis of covariance, with statistical significance set at p ≤ 0.05. Significant improvements with age were observed in sprinting, jumping, and aerobic fitness (p < 0.001); however, after controlling for PHV, differences in jumping and COD performance were no longer significant, whereas sprint performance and aerobic fitness remained age-dependent. Functional movement and balance showed small age-related differences that were largely explained by maturational variation. Weak and inconsistent correlations between FMS, YBT, and performance (|r| ≈ 0.20-0.35) suggested partial independence between movement quality and motor output. Notably, in older players, higher scores in mobility-related FMS components were associated with slower sprinting, a pattern that may reflect-rather than cause-reduced mechanical efficiency associated with greater flexibility. These findings indicate that post-PHV players are not a homogeneous group and support the use of maturity-informed, multidimensional athlete monitoring to guide individualized training even after PHV.",
+      "doi": "10.1519/JSC.0000000000005715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980077/",
+      "relevance": 16,
+      "matched": [
+        "aerobic",
+        "sprint",
+        "performance",
+        "training",
+        "strength",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "42980063",
+      "title": "Effectiveness of Pelvic Floor Muscle Training in Women Soccer Players and Its Relationship With Quality of Life and Pelvic Floor Muscle Strength: A Randomized Controlled Pilot Study.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-04",
+      "authors": "Julia M Sebastian-Rico, María Jesús Muñoz-Fernández, Luis Manuel Martínez-Aranda et al.",
+      "abstract": "Sebastian-Rico, JM, Muñoz-Fernández, MJ, Martínez-Aranda, LM, Calvo-Lluch, Á, and Ortega-Becerra, M. Effectiveness of pelvic floor muscle training in women soccer players and its relationship with quality of life and pelvic floor muscle strength: a randomized controlled pilot study. J Strength Cond Res XX(X): 000-000, 2026-This study investigated the effects of a 6-week pelvic floor muscle training (PFMT) program on muscle strength, function, and the prevalence of related dysfunctions in professional female soccer players using a randomized controlled pilot study design. Twenty nulliparous professional soccer players from the Spanish professional league (2024-2025 season) were randomly assigned to an experimental group (n = 12) or a control group (n = 8). Assessments included anthropometric data, validated questionnaires (International Consultation on Incontinence Questionnaire-Short Form and Broome Pelvic Muscle Self-Efficacy Scale), clinical interviews, and physical examination using the PERFECT method and manometry. The intervention consisted of a 6-week supervised PFMT program (4 sessions/week, 30 minutes each) progressed through 4 phases: education, proprioception, strengthening, and functional integration. Results showed significant group × time interactions for pelvic floor self-efficacy (Broome Pelvic Muscle Self-Efficacy Scale), with scores in the PFMT group increasing by 48.8 and 59.6% (p < 0.05), representing large between-group effect sizes (d = 0.91-1.26). Pelvic floor muscle performance increased by 122.4% in the intervention group (d = 1.25), whereas no meaningful changes were observed in the control group. No adverse events were reported. In conclusion, a 6-week supervised PFMT program is an effective and safe intervention for professional female soccer players, significantly improving muscle function and self-efficacy. These findings support the integration of PFMT for both therapeutic and preventive purposes in elite, high-impact sports environments.",
+      "doi": "10.1519/JSC.0000000000005729",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980063/",
+      "relevance": 12,
+      "matched": [
+        "training",
+        "strength",
+        "performance",
+        "sports"
+      ]
+    },
+    {
+      "pmid": "42980048",
+      "title": "Ergocycling-Based Repeated-Sprint Training in Hypoxia Performed at Either 3,000 m or 2,000 m Similarly Impacts Overground Performance in Under-18 Field Hockey Players.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-04",
+      "authors": "Dorian Le Moan, Jean Slawinski, Léa Lecru et al.",
+      "abstract": "Le Moan, D, Slawinski, J, Lecru, L, Braize, E, Brocherie, F, and Bouten, J. Ergocycling-based repeated-sprint training in hypoxia performed at either 3,000 m or 2,000 m similarly impacts overground performance in under-18 field hockey players. J Strength Cond Res XX(X): 000-000, 2026-This study aimed to compare the effects of 2 levels of hypoxic stress during ergocycling-based repeated-sprint training in hypoxia (RSH) on overground repeated-sprint ability (RSA). Fifteen highly trained under-18 male field hockey players performed a 3-week training program with 6 ergocycling-based RSH sessions (3 × 6 10-s \"all-out\" sprints with 20-second intraset passive recovery and 5-minute interset rest; 2 sessions per week) under moderate (MH, FiO2 14.5%, simulated altitude of 3,000 m, n = 8) or low normobaric hypoxia (LH, FiO2 16.3%, 2,000 m, n = 7). Peak (PPO) and mean power output (MPO) were recorded during each RSH session. At Pre- and Postintervention, overground sprinting horizontal force-velocity profiles and RSA test (6 × 20-m \"all-out\" sprints interspersed by 20 seconds) were performed. Ergocycling-based PPO (p < 0.001) and MPO (p = 0.015) improved significantly for both groups from training 1 to 6. However, overground theoretical maximal force and theoretical maximal power remained unchanged (both p > 0.377), and theoretical maximal velocity (p = 0.026) was significantly decreased for both groups. Although no significant effect (time, group, interaction) was observed for overground RSA best time and sprint decrement (all p > 0.139), RSA total time decreased (p = 0.048) in both MH and LH (-1.1 ± 2.9% and -0.9 ± 1.0%), indicating performance enhancement, irrespective of the hypoxic stress. Using moderate or low normobaric hypoxic stress during a 3-week ergocycling-based RSH intervention resulted in similar improvement during training, albeit with limited, but not negligible, transferability effect in overground performance.",
+      "doi": "10.1519/JSC.0000000000005732",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980048/",
+      "relevance": 18,
+      "matched": [
+        "training",
+        "sprint",
+        "performance",
+        "strength",
+        "recovery",
+        "power"
+      ]
+    },
+    {
+      "pmid": "42979974",
+      "title": "Key Physical Predictors of Maximal Velocity Sprinting in Australian Track and Field Athletes.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-04",
+      "authors": "Timothy A Sayer, Nicholas Cross",
+      "abstract": "Sayer, TA, and Cross, N. Key physical predictors of maximal velocity sprinting in Australian track and field athletes. J Strength Cond Res XX(X): 000-000, 2026-This study aimed to identify the key physical predictors of maximal velocity (MaxV) sprinting at 20 and 60 meters among highly trained Australian track sprinters. Twenty-four athletes (mixed sample: 12 male, 12 female, 68.90 ± 8.77 kg, 1.74 ± 0.08 m) completed a battery of strength and dynamic tests followed by maximal 60-meter sprints. Best-subset multiple linear regression (up to 5 predictors), evaluated by leave-one-out cross-validation, was used to model MaxV at each distance. The 60-meter MaxV model was highly significant, F (5,18) = 50.39, p < 0.001, explaining 93.3% of the variance (R2 = 0.93, adjusted R2 = 0.92, SEE = 0.19), with countermovement jump (CMJ) impulse (β = 0.78, p < 0.001), isometric leg-press peak force (β = 0.43, p = 0.001) and CMJ stiffness (β = 0.40, p < 0.001) the strongest positive contributors. The 20 meter MaxV model was also significant, F (5,18) = 28.12, p < 0.001, explaining 88.6% of the variance (R2 = 0.89, adjusted R2 = 0.86, SEE = 0.18), with single-leg drop jump (SLDJ) eccentric impulse (β = 0.87, p < 0.001) and CMJ power (β = 0.46, p < 0.001) the strongest contributors. Single-leg drop jump reactive strength index and isometric quadriceps force were significant within both models but carried suppressor (sign-reversed) coefficients. These results indicate that vertical jump force time qualities, particularly CMJ impulse and power, isometric leg-press force, and SLDJ eccentric impulse, are key physical components of MaxV sprinting and should be prioritized by coaches when assessing and developing sprint athletes.",
+      "doi": "10.1519/JSC.0000000000005719",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979974/",
+      "relevance": 8,
+      "matched": [
+        "sprint",
+        "athlete",
+        "strength",
+        "power"
+      ]
+    },
+    {
+      "pmid": "42975894",
+      "title": "Athletic Performance Adaptations: Just Training Sprints or Combining Sprints With Three Different Strength Training Methods?",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-03",
+      "authors": "Glenn Trane, Stein Edgar Rodahl, Olav Melhus Gomo et al.",
+      "abstract": "Trane, G, Rodahl, SE, Gomo, OM, Mehus, HA, Helgerud, J, and Unhjem, RJ. Athletic performance adaptations: Just training sprints or combining sprints with three different strength training methods? J Strength Cond Res XX(X): 000-000, 2026-In this exploratory study, we compared the effects of combining maximal strength training (MST), hypertrophy training (HT), or explosive strength training (EST) with sprint running vs. sprint running alone in control (CON). Fifty-eight recreationally active, nonstrength-trained men and women were randomized to 8 weeks, 3 sessions/week of MST (4 × 4 squats at ≥ 85% 1 repetition maximum [1RM]), HT (3 × 8-12 squats at ∼70-80% 1RM), EST (4 × 6-7 squat jumps at body weight), or CON (no strength training). All 4 groups performed 2 weekly 6 × 25-meter sprints. Maximal and explosive strength, sprint running performance, endurance performance determinants, and 30-second Wingate test cycling performance were evaluated. Leg press maximal voluntary isometric force (MVIF) improved more after MST (+14.5%) than after EST (+5.2%, p = 0.004) and CON (p ≤ 0.001), and more after HT (+10.6%) than CON (p = 0.008). The squat dynamic rate of force development improved more after MST (+37.4%) and HT (+36.0%) than CON (p = 0.014 and 0.002). Moreover, 0-25-meter sprint time improved more after MST (-0.11 s) and HT (-0.10 s) than CON (p = 0.019 and 0.042). Running economy improved more after MST (-2.5%) than CON (p = 0.026). Wingate test average power output improved more after MST (+6.6%) and HT (+6.9%) than EST (p = 0.020 and 0.010) and CON (p = 0.016 and 0.009). Peak power output improved more after MST (+11.8%) and HT (+10.1%) than CON (p = 0.011 and 0.040). ΔMVIF was associated with performance changes. Integrating sprint training with high-load strength training improved maximal and explosive strength and athletic performance more than sprint training alone, whereas this was not observed in EST. Performance improvements were attributed to enhanced maximal strength. Given the exploratory study design and the use of Fisher's least significant difference post hoc tests for between-group comparisons, these findings should be interpreted with caution and regarded as hypothesis-generating.",
+      "doi": "10.1519/JSC.0000000000005694",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975894/",
+      "relevance": 24,
+      "matched": [
+        "training",
+        "strength",
+        "sprint",
+        "adaptation",
+        "performance",
+        "hypertrophy"
+      ]
+    },
+    {
+      "pmid": "42977033",
+      "title": "Identifying 24-h Urine Osmolality Thresholds for Adequate Water Intake in U.S. Children.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-03",
+      "authors": "HyunGyu Suh, Adam D Seal, Sajjad Rezaei et al.",
+      "abstract": "BACKGROUND: Validated pediatric reference values for hydration biomarkers remain limited. This study aimed to identify 24-h urine osmolality (UOsm) thresholds corresponding to the reference water intake values for children as defined by National Academy of Medicine (NAM) guidelines. METHODS: In this cross-sectional study, 729 healthy children (3-13 y; 46% female) from Arkansas and Arizona completed two-day dietary records and provided 24-h urine samples. We used logistic regression, receiver operating characteristic (ROC) analyses, and relative risk (RR) analyses to identify optimal UOsm cutoffs for adequate water intake and compare them with previously used candidate thresholds (<500 and <800 mmol/kg). RESULTS: More than half of children (58%) did not meet NAM water intake reference values. Children meeting the recommendations consumed more plain water than those who did not (P<0.05). Among children aged ≥4 years, not meeting the recommendations was consistently associated with higher UOsm, darker urine, and lower urine volume (all P<0.05). ROC analysis suggested an optimal UOsm cutoff of 595 mmol/kg (AUC=61%; sensitivity=0.72; specificity=0.45; P<0.001). After adjusting for age, sex, body mass index z-score, and physical activity, children with UOsm >600 mmol/kg had a 39% higher risk of not meeting NAM recommendations. Logistic regression revealed that children with UOsm <500 mmol/kg and 500-600 mmol/kg had significantly higher odds of meeting NAM guidelines than those with UOsm >800 mmol/kg (OR: 3.02 and 1.84, respectively; P<0.05). CONCLUSIONS: These findings suggest using approximately 600 mmol/kg as a clinically meaningful 24-h UOsm cutoff for identifying adequate water intake in children. This is slightly higher than the traditional 500 mmol/kg threshold suggested for adults.",
+      "doi": "10.1016/j.tjnut.2026.101924",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977033/",
+      "relevance": 4,
+      "matched": [
+        "diet",
+        "dietary",
+        "hydration",
+        "physical activity"
+      ]
+    },
+    {
+      "pmid": "42977032",
+      "title": "Higher Quantity and Diversity of Dietary Bioactive Pigments Are Associated with Lower All-Cause Mortality.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-03",
+      "authors": "Zhiyu Huang, Kelin Zhao, Wei Chen et al.",
+      "abstract": "BACKGROUND: Although higher intakes of specific subclasses of dietary bioactive pigments are associated with lower all-cause mortality, the associations of total pigment intake and dietary diversity with mortality risk remain unclear. OBJECTIVES: The aim of the study was to examine associations of the quantity and diversity of total dietary bioactive pigment with all-cause mortality. METHODS: To address this, we prospectively analyzed 4,596 participants from the Health and Retirement Study (HRS) followed for a mean of 7.5 years. Using Shannon entropy converted to Hill's effective numbers, we quantified pigment diversity. Multivariable Cox models estimated mortality hazard ratios (HRs). RESULTS: During 34,583 person-years of follow-up, 717 deaths were identified. Both higher pigment quantity (HRQ5vs.Q1 = 0.63; 95% CI: 0.48 to 0.81; P-trend = 0.002) and greater diversity (HRQ5vs.Q1: 0.64; 95% CI: 0.49 to 0.82; P-trend < 0.001) were associated after mutual adjustment with lower mortality. These pigments were primarily derived from tea, apples or pears, berries, peaches or plums, and dark chocolate. Regarding specific subclasses, higher proanthocyanidin intake was associated with a lower mortality risk. CONCLUSIONS: This study extends an established diversity framework to dietary bioactive pigments and shows that both quantity and diversity of dietary bioactive pigment are inversely associated with mortality risk.",
+      "doi": "10.1016/j.tjnut.2026.101925",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977032/",
+      "relevance": 6,
+      "matched": [
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "42978043",
+      "title": "Exploratory serum renal biomarker and eGFR responses to high-protein diets during resistance versus concurrent training in resistance-trained men.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "journal_issn": "1550-2783",
+      "discipline": "nutrition",
+      "date": "2026-Dec-30",
+      "authors": "Reza Bagheri, Zohreh Karimi, Hamid Ghobadi et al.",
+      "abstract": "BACKGROUND: High protein intake is common among resistance-trained athletes, but its association with renal biomarkers across different exercise modalities remains uncertain. This study investigated whether consuming a high-protein diet (3.2 g·kg⁻¹·d⁻¹) during 16 weeks of resistance training (RT) or concurrent training (CT) affects renal biomarkers and estimated glomerular filtration rate (eGFR) in resistance-trained men. METHODS: Forty-eight resistance-trained men (26 ± 6 years; BMI 25.6 ± 2.9 kg·m⁻²) were randomized to 16 weeks of RT or CT (4 sessions·wk⁻¹) while consuming either 1.6 or 3.2 g·kg⁻¹·d⁻¹ of protein in a 2 × 2 factorial design. Forty-four participants with complete pre- and post-intervention data were analyzed. Fasting blood samples were assessed for blood urea nitrogen (BUN), BUN/creatinine ratio, cystatin C, and eGFR calculated using the CKD-EPI creatinine (2021), cystatin C (2012), and creatinine-cystatin C (2021) equations. Within-group changes were evaluated using paired t-tests, and factorial effects were assessed using linear mixed-effects models (Time × Training × Protein). RESULTS: No statistically significant Time × Protein or Time × Training × Protein interactions were detected for any renal biomarker or eGFR estimate (all p ≥ 0.182). No significant within-group changes occurred in the 1.6 g·kg⁻¹·d⁻¹ groups (all p > 0.05). In both 3.2 g·kg⁻¹·d⁻¹ groups, BUN and cystatin C increased (all p ≤ 0.017), while eGFR estimates decreased (all p ≤ 0.009). The BUN/creatinine ratio remained unchanged (p ≥ 0.614). However, these within-group findings were descriptive because the corresponding interaction effects were not statistically significant. CONCLUSIONS: In resistance-trained men, 16 weeks of high protein intake did not produce statistically detectable differences in renal biomarker or eGFR changes compared with moderate protein intake, irrespective of training modality. Although modest increases in BUN and cystatin C and small decreases in eGFR estimates were observed within the high-protein groups, these findings were not supported by significant factorial interactions. The limited sample size precludes excluding clinically meaningful differences, warranting further investigation in larger studies.",
+      "doi": "10.1080/15502783.2026.2757309",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978043/",
+      "relevance": 11,
+      "matched": [
+        "protein",
+        "diet",
+        "training",
+        "exercise",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "42977745",
+      "title": "Development and validation of a questionnaire on food knowledge and perception of the Mediterranean diet: the ICARO food knowledge questionnaire.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-03",
+      "authors": "Marika Dello Russo, Annarita Formisano, Marialaura Bonaccio et al.",
+      "abstract": "BACKGROUND/OBJECTIVES: Adherence to the Mediterranean diet has significantly declined over the last decades, particularly among younger generations, due to socioeconomic factors, increased consumption of ultra-processed foods and limited awareness of its positive effects on health. Addressing these barriers necessitates the enhancement of nutritional education and improved access to healthy food options. This study aims to develop and validate a comprehensive questionnaire, the ICARO-Food Knowledge Questionnaire (I-FKQ), to assess food knowledge related to the Mediterranean diet among children, adolescents, and adults. SUBJECT/METHODS: In the context of the ICARO Study, we recruited a sample of 46 parents (for children), 111 adolescents, and 164 adults, from November 2023 to July 2024. Content validity was established through a review by an expert panel, which refined the questionnaire. Assessments of face validity indicated that the I-FKQ is manageable and user-friendly for online administration. Item analysis demonstrated acceptable difficulty and discrimination indices. RESULTS: High test-retest reliability was observed, with strong correlations in scores between the two testing occasions, indicating robust temporal stability. All constructs of the questionnaire demonstrated adequate Cronbach's α and Pearson's correlation coefficients. The overall internal consistency of the questionnaire was acceptable (Cronbach's α = 0.848), although Section 2 showed slightly lower reliability (Cronbach's α = 0.662). Construct validity, evaluated only in adults, was supported by expected differences in scores according to educational level. CONCLUSION: The I-FKQ demonstrated satisfactory overall psychometric properties and reliable temporal stability. However, while fundamental reliability and face validity parameters were confirmed across multiple age groups, construct validity was established exclusively within the adult population. This specific lack of structural validation currently restricts the full applicability of the instrument in pediatric and adolescent groups. Consequently, pending further psychometric evaluation in younger demographics, the I-FKQ is best suited to support educational and public health initiatives targeting adult populations.",
+      "doi": "10.1038/s41430-026-01838-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977745/",
+      "relevance": 7,
+      "matched": [
+        "diet",
+        "food",
+        "nutrition"
+      ]
+    },
+    {
+      "pmid": "42979770",
+      "title": "Assessing the risk of iodine deficiency - a study to validate a digital screening tool in UK adults.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-04",
+      "authors": "Katie Nicol, Anne P Nugent, Jayne Woodside et al.",
+      "abstract": "Iodine is essential for thyroid hormone synthesis and is needed for brain development. In the UK, milk and dairy products are the main dietary sources, but the increasing consumption of plant-based alternatives may affect iodine intake. Few iodine-specific dietary assessment tools have been validated in UK adults, and none reflects recent changes in food availability, food composition and dietary patterns. This study aimed to develop and validate the Iodine Intake Risk Score screening tool, using a rapid digital iodine-specific questionnaire. Healthy UK adults (n 108) aged ≥18 years completed the Iodine Intake Risk Score screening tool and a 6-d food diary, which served as the reference method. Iodine intake from the tool and food diaries was estimated and was classified as insufficient (<140 µg/d) or sufficient (140-600 µg/d). Agreement between methods was assessed using Cohen's kappa, Wilcoxon signed-rank tests and Spearman's correlation. There was substantial agreement in iodine classification (κ = 0·68, p < 0·001). The screening tool demonstrated high sensitivity (82%) and specificity (87%) for identifying individuals with insufficient iodine intake. The median iodine intake from the screening tool did not differ significantly from that of the food diaries (145 v 140 µg/d; p = 0·07), and the two methods were strongly correlated (r 0·70, p < 0·001). Median completion time was 4 min. The screening tool provides a valid and efficient method for assessing iodine intake in UK adults, incorporating conventional and plant-based sources. It offers a practical approach for identifying individuals at risk of iodine deficiency and for supporting population monitoring and dietary interventions.",
+      "doi": "10.1017/S0007114526108721",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979770/",
+      "relevance": 3,
+      "matched": [
+        "diet",
+        "dietary",
+        "food"
+      ]
+    },
+    {
+      "pmid": "42979759",
+      "title": "Oxidative balance and cognitive function in Chinese older adults: the mediating role of plasma 25-hydroxyvitamin D.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-04",
+      "authors": "Kangting Luo, Rui Li, Qian Guo et al.",
+      "abstract": "Rapid global ageing is increasing the burden of cognitive impairment. Oxidative stress may contribute to cognitive decline, and the oxidative balance score (OBS), which integrates dietary and lifestyle pro- and antioxidants, has an unclear relationship with cognitive function in older adults. This study aimed to investigate the association between the OBS and cognitive function among older adults and to examine potential indirect pathways through circulating oxidative stress-related biomarkers. We used data from 1891 adults aged ≥60 years who participated in the 2011-2014 Chinese Longitudinal Healthy Longevity Survey. Cognitive function was assessed using the Mini-Mental State Examination (MMSE). Oxidative stress markers, including albumin, superoxide dismutase, malondialdehyde and plasma 25-hydroxyvitamin D [25(OH)D], were measured at baseline and follow-up. Associations were examined using mixed-effects linear regression models and semi-longitudinal cross-lagged mediation analysis. The median cognitive score was 28 (interquartile range, 23-29). Each one-point higher OBS was associated with a 0·16-point higher MMSE score (β = 0·16, 95 % CI 0·06 to 0·26), and participants in the highest OBS tertile had a 1·12-point higher MMSE score than those in the lowest tertile (β = 1·12, 95 % CI 0·50 to 1·73). In mediation analysis, higher baseline OBS predicted lower plasma 25(OH)D at follow-up (path a = -1·015), and higher baseline 25(OH)D was associated with better cognitive scores at follow-up (path b = 0·025). The indirect effect of OBS on cognition through 25(OH)D was significant (a × b = -0·025). OBS was positively associated with cognitive function, partially mediated by 25(OH)D. Further research is warranted to clarify these mechanisms and implications for cognitive aging.",
+      "doi": "10.1017/S0007114526109350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979759/",
+      "relevance": 5,
+      "matched": [
+        "vitamin",
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "41528392",
+      "title": "What Accelerates the Deterioration of Whole-Life Cycle Events in Type 2 Diabetes: Too Much Dietary Fat or Carbohydrates.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-01",
+      "authors": "Wenjie Sun, Qing Gao, Shanshan Tang et al.",
+      "abstract": "Diabetes is a chronic, lifelong metabolic disorder characterized by elevated blood glucose levels. The role of diet and nutrition in the entire life cycle of metabolic diseases, particularly type 2 diabetes (T2D), is pivotal and represents the primary modifiable factors in combating the onset and progression of diabetes. The previous association between a high-sugar diet and diabetes risk has been well established. However, there is now evidence suggesting that a shift towards reduced carbohydrate intake and increased dietary fat may be linked to higher morbidity and mortality rates in patients with diabetes. This review investigated the effects of dietary fats and carbohydrates on the onset and progression of T2D and its associated complications (microvascular and macrovascular) and fatal events by reviewing several clinical studies and animal experiments. A lack of controlled trials comparing high-sugar and high-fat diets (HFDs) in clinical studies hinders us from drawing consistent conclusions. The majority of animal studies demonstrated a greater impact from HFDs compared with higher-sugar diets. There are several diets for treating diabetes that restrict fat intake below the upper limit of the dietary guidelines, and people with diabetes or abnormal glucose tolerance seem more able to tolerate low-fat, high-carbohydrate, low-calorie diets. Due to various factors, including the types of carbohydrates and fats, caloric intake, cognition, population age, and study design, it is difficult to conclusively determine which ratio of dietary components is more likely to contribute to diabetes, microvascular and macrovascular complications, or mortality events. Animal experiments may provide a systematic approach for simulating the effects of dietary fats and carbohydrates across the entire diabetes life cycle. Nevertheless, care must be taken when generalizing the findings from animal models to human contexts. Consequently, there is still a need for more high-quality, large, prospective controlled research to elucidate the role of dietary structure with different fat to carbohydrate ratios across the life cycle of diabetes. Meanwhile, studies should analyze relevant interactions, including potential effect modification factors.",
+      "doi": "10.1093/nutrit/nuaf250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41528392/",
+      "relevance": 14,
+      "matched": [
+        "carbohydrate",
+        "fat",
+        "diet",
+        "dietary",
+        "nutrition",
+        "calorie"
+      ]
+    },
+    {
+      "pmid": "41475008",
+      "title": "Parents' and Children's Perceptions and Attitudes Towards Traditional and Novel Plant-Based Meat Alternatives: A Scoping Review.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-01",
+      "authors": "Ai Ting Goh, Yunfan Mo, Jessica C McCormack et al.",
+      "abstract": "The growing popularity of plant-based meat alternatives (PBMAs) as a sustainable dietary option highlights the need to understand family perceptions to support their integration into daily diets. Early-life food preferences often stem from parents or caregivers. This scoping review synthesized existing findings on parents' and children's perceptions of traditional and novel PBMAs and identified motivators and barriers to adopting them in family meals. A comprehensive search across 5 databases (Nutrition and Food Sciences, Web of Science, Global Health, Scopus, PsycINFO) was performed on April 1, 2024, using predefined terms. The review adhered to Joanna Briggs Institute (JBI) methodology and PRISMA-ScR reporting guidelines. The Mixed Methods Appraisal Tool was used to assess study quality. Twenty studies were identified: 5 articles on parents or caregivers, 11 studies on children, and 4 articles on parent-child dyads. Parents were more accepting of traditional PBMAs (eg, lentils, tofu, beans, chickpeas), but expressed concerns over the nutritional adequacy, sodium content, and processing of novel PBMAs. Among parents who were non-regular users, traditional PBMAs were viewed mainly as a textural enhancement rather than a nutrient source. By contrast, children were generally more receptive to novel PBMAs compared with parents, particularly when products resembled meat and were linked to environmental and animal welfare benefits. For both parents and children, taste emerged as the primary driver for repeated consumption. Strategies to increase PBMA uptake in families should be focusing on improving the sensory appeal and nutritional profile of these products, enhancing product transparency around ingredients and processing technologies, and providing tailored nutrition education that aligns with existing knowledge and cooking skills. Family-based interventions that address both parental concerns and children's motivations may be particularly effective in positioning PBMAs as an accepted component of everyday family meals. Systematic Review Registration : Open Science Framework identifier osf.io/98n7r.",
+      "doi": "10.1093/nutrit/nuaf257",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41475008/",
+      "relevance": 6,
+      "matched": [
+        "nutrition",
+        "nutrient",
+        "diet",
+        "dietary",
+        "food",
+        "meal"
+      ]
+    },
+    {
+      "pmid": "41418335",
+      "title": "Encouraging Healthier Choices for Children in Restaurants: A Review of Interventions and Health Promotion Strategies.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-01",
+      "authors": "Mackenzie J Ferrante, Sara Tauriello, Stephanie Anzman-Frasca",
+      "abstract": "Restaurants are normative eating contexts for many families and thus are prime targets for health promotion efforts as restaurant meals are typically high in calories, saturated fat, and sodium. Recently, health promotion efforts have focused on children's menus in an effort to improve the food intake of children in these settings. The goal of the present narrative review is to summarize the current, peer-reviewed literature describing interventions and other health promotion efforts to improve the healthfulness of children's meal selection and/or intake in restaurants. Efforts to accomplish this goal were organized into implicit (subtle and typically involving environmental changes) and explicit (direct and typically information-based) strategies and described using a narrative method. Significant changes in children's ordering of restaurant food were consistently demonstrated in studies using optimal defaults (an implicit strategy) to increase the healthfulness of children's meals. Future research and policy efforts in this area could further examine this strategy alongside other strategies such as personalized prompts or pricing promotions, evaluating impacts across a wider range of sociodemographic groups. Future studies should also include randomized controlled trials with objective assessments of children's intake to build upon existing knowledge and improve the healthfulness of the restaurant environment for children.",
+      "doi": "10.1093/nutrit/nuaf251",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41418335/",
+      "relevance": 4,
+      "matched": [
+        "fat",
+        "calorie",
+        "food",
+        "meal"
+      ]
+    }
+  ]
+}
