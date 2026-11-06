@@ -10,7 +10,7 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 227,
+      "latest_articles": 226,
       "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 16
@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-06",
-    "updated_at": "2026-11-06 06:37",
+    "updated": "2026-11-07",
+    "updated_at": "2026-11-07 06:28",
     "raw_count": 300,
     "articles": [
       {
@@ -1875,27 +1875,6 @@
         ]
       },
       {
-        "pmid": "42601059",
-        "title": "The Effect of a Repetitive Feeding Challenge With Carbohydrate Versus Fat on Markers of Gastrointestinal Integrity and Systemic Outcomes in Response to Endurance Exercise.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Isabel G Martinez, Jessica R Biesiekierski, Christopher E Rauch et al.",
-        "abstract": "Athletes report consuming nutritionally dense foods before and during exercise to manage gastrointestinal symptoms (GIS). The study investigated whether fat, compared with carbohydrate (CHO), as a gut-training supplement, compromises gastrointestinal integrity and triggers systemic inflammation in response to endurance exercise. Thirty-six endurance athletes (seven females and 29 males) completed a preintervention gut-challenge trial (T1), involving a 2-hr run (60%V˙O2max) with CHO gel intake every 20 min (87 g/hr), followed by a 1-hr self-paced distance test. Participants were randomized to a fat (FFC; 20 g nut butter) or CHO supplement (CFC; 47 g CHO gel) for a feeding-challenge protocol (1 hr exercise with supplement for 7 days), followed by a gut-challenge retrial (T2). During T1 and T2, blood samples were collected before and after exercise to measure intestinal fatty-acid binding protein (I-FABP), soluble CD14 (sCD14), and C-reactive protein (CRP). Pre- to postexercise peak responses were similar within and between groups for plasma I-FABP (FFC: 254 ± 495 vs. 349 ± 622 pg/ml, p = .911; CFC: 344 ± 336 vs. 421 ± 362 pg/ml, p = .501; between groups T1: p = .404; T2: p = .440) and sCD14 (FFC: 0.346 ± 0.703 vs. 0.175 ± 0.603 μg/ml, p = .509; CFC: 0.336 ± 0.522 vs. 0.546 ± 0.777 μg/ml, p = .587; between groups T1: p = .888; T2: p = .149). CRP was significantly reduced in CFC (0.327 ± 0.449 vs. 0.062 ± 0.231 μg/ml, p = .030) but not in FFC (p = .351). Total-GIS severity during exercise or recovery were not correlated with I-FABP, sCD14, and CRP. The repetitive feeding-challenge with fat, compared with CHO, did not increase markers of gastrointestinal injury, bacterial endotoxin translocation, and systemic inflammation in response to endurance exercise.",
-        "doi": "10.1123/ijsnem.2026-0043",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601059/",
-        "relevance": 16,
-        "matched": [
-          "carbohydrate",
-          "fat",
-          "exercise",
-          "nutrition",
-          "protein",
-          "supplement"
-        ]
-      },
-      {
         "pmid": "42934389",
         "title": "Lean Body Mass Accounts for the Sex Dimorphism of the Circulatory System and Aerobic Exercise Capacity in Humans.",
         "journal": "Sports medicine (Auckland, N.Z.)",
@@ -2207,67 +2186,6 @@
         ]
       },
       {
-        "pmid": "42700960",
-        "title": "Influence of Guideline-Based Carbohydrate Intake on Training Adaptations, Health, and Sleep in Female Rugby Athletes: An Exploratory Study.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Rebekka Frazer, Christopher D Askew, Amy-Lee Bowler et al.",
-        "abstract": "This exploratory study examined the effect of carbohydrate and subsequent energy availability (EA) on training adaptations, health, and sleep metrics across a 7-week preseason in semiprofessional female rugby union athletes. Full food provision on training days (four/week) manipulated carbohydrate intake: 6 versus 3 g·kg-1·day-1 for intervention (n = 7) and CON (n = 6), respectively while standardizing protein intake (>1.2 g·kg-1·day-1). Nontraining days involved ad libitum intake. Quantification of exercise energy expenditure via an individually calibrated wearable device allowed estimation of EA. Strength (three-repetition max squat, bench pull, and bench press), Bronco shuttle time; countermovement jump; biomarkers including iron studies, thyroid function, and cholesterol; sleep metrics; and physique (four-compartment model) were assessed before and after preseason. Training day carbohydrate intake was higher in intervention than CON (6.3 ± 0.2 vs. 3.1 ± 0.2 g·kg-1·day-1, p < .001), resulting in higher EA across the preseason (45.0 ± 5.8 vs. 29.9 ± 5.8 kcal·kg-1 fat-free mass-1·day-1, p < .001). Significant time effects were observed for bench pull (+3.6 kg, p = .024) and bench press (+4.6 kg, p = .011), fat mass (-1.1 kg, p < .001), fat-free mass (+1.2 kg, p = .025), and ferritin (-29 μg/L, p = .009). No significant interaction was observed for training adaptations, physique, or biochemical markers. Greater sleep duration was observed in CON on training nights, F(1, 156.072) = 5.821, p = .017, although other sleep metrics showed limited between-group differences. While increased carbohydrate intake improved EA, it had limited effect on training adaptations, health, or sleep metrics in this small, exploratory cohort.",
-        "doi": "10.1123/ijsnem.2026-0112",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42700960/",
-        "relevance": 14,
-        "matched": [
-          "carbohydrate",
-          "athlete",
-          "training",
-          "protein",
-          "fat",
-          "fat mass"
-        ]
-      },
-      {
-        "pmid": "42492489",
-        "title": "Determinants of Reclassification of Exercise Performance across Cardiopulmonary Exercise Testing Prediction Equations.",
-        "journal": "Medicine and science in sports and exercise",
-        "journal_issn": "0195-9131",
-        "discipline": "physiology",
-        "date": "2026-Nov-01",
-        "authors": "Faezeh Abbaspour Kaboudan, Siyang Zeng, Yorusaliem Abrham et al.",
-        "abstract": "PURPOSE: Volume of oxygen uptake at peak exercise ( ) is a key indicator of cardiorespiratory fitness used to assess surgical risk and clinical trial outcomes. However, multiple prediction equations exist for its interpretation, often yielding inconsistent classifications of exercise performance. We aimed to determine how different prediction equations affect exercise performance classification and identify factors contributing to its variability. METHODS: We performed a post hoc analysis of cardiopulmonary exercise testing (CPET) data collected from 332 nonsmoking flight attendants who participated in our previous studies examining the health effects of occupational exposure to secondhand tobacco smoke. Percent-predicted was calculated using seven prediction equations (Fitness Registry and the Importance of Exercise National Database, Wasserman, Hansen-Wasserman, Study of Health in Pomerania, Jones, Bruce, and Cooper-Storer). Reduced exercise performance was defined as < 80 percent-predicted. Agreement across equations was assessed using Cohen's κ. Associations with dyspnea (modified Medical Research Council ≥ 1) were examined using C-statistics to assess the discriminative performance of prediction equations for this patient-centered outcome. The magnitude of change in percent-predicted when switching from one equation to another (\"recalculation magnitude\") was quantified for individual participants, and multivariable regression modeling was used to identify demographic and anthropometric determinants of recalculation magnitude. RESULTS: Participants were 56 ± 12 years old, 86% female, with body mass index = 24 ± 4 kg/m 2 . Depending on the prediction equation, mean percent-predicted varied widely (83%-113%), and the prevalence of reduced exercise performance ranged from 7% to 51%. Agreement across equations ranged from slight to substantial (κ = 0.10-0.79). At an individual level, switching between equations recalculated percent-predicted by -93% to +84%, leading to bidirectional exercise performance reclassification of 6.6%-45.5% of participants. Body mass index was the strongest determinant of recalculation magnitude, followed by age and sex. The discrimination accuracy of prediction equations for dyspnea was modest (area under the curve = 0.56-0.71), with the Study of Health in Pomerania equation showing the best performance. CONCLUSIONS: Different prediction equations yielded materially different percent-predicted values and frequently changed exercise capacity classification in a bidirectional manner. The observed discordance appears to arise in substantial part from limitations in how demographic and anthropometric factors, particularly body size, are modeled across equations, underscoring the need for improved reference standards that better capture physiological variability.",
-        "doi": "10.1249/MSS.0000000000004065",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42492489/",
-        "relevance": 14,
-        "matched": [
-          "exercise",
-          "performance",
-          "oxygen",
-          "cardiorespiratory"
-        ]
-      },
-      {
-        "pmid": "41528392",
-        "title": "What Accelerates the Deterioration of Whole-Life Cycle Events in Type 2 Diabetes: Too Much Dietary Fat or Carbohydrates.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Wenjie Sun, Qing Gao, Shanshan Tang et al.",
-        "abstract": "Diabetes is a chronic, lifelong metabolic disorder characterized by elevated blood glucose levels. The role of diet and nutrition in the entire life cycle of metabolic diseases, particularly type 2 diabetes (T2D), is pivotal and represents the primary modifiable factors in combating the onset and progression of diabetes. The previous association between a high-sugar diet and diabetes risk has been well established. However, there is now evidence suggesting that a shift towards reduced carbohydrate intake and increased dietary fat may be linked to higher morbidity and mortality rates in patients with diabetes. This review investigated the effects of dietary fats and carbohydrates on the onset and progression of T2D and its associated complications (microvascular and macrovascular) and fatal events by reviewing several clinical studies and animal experiments. A lack of controlled trials comparing high-sugar and high-fat diets (HFDs) in clinical studies hinders us from drawing consistent conclusions. The majority of animal studies demonstrated a greater impact from HFDs compared with higher-sugar diets. There are several diets for treating diabetes that restrict fat intake below the upper limit of the dietary guidelines, and people with diabetes or abnormal glucose tolerance seem more able to tolerate low-fat, high-carbohydrate, low-calorie diets. Due to various factors, including the types of carbohydrates and fats, caloric intake, cognition, population age, and study design, it is difficult to conclusively determine which ratio of dietary components is more likely to contribute to diabetes, microvascular and macrovascular complications, or mortality events. Animal experiments may provide a systematic approach for simulating the effects of dietary fats and carbohydrates across the entire diabetes life cycle. Nevertheless, care must be taken when generalizing the findings from animal models to human contexts. Consequently, there is still a need for more high-quality, large, prospective controlled research to elucidate the role of dietary structure with different fat to carbohydrate ratios across the life cycle of diabetes. Meanwhile, studies should analyze relevant interactions, including potential effect modification factors.",
-        "doi": "10.1093/nutrit/nuaf250",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41528392/",
-        "relevance": 14,
-        "matched": [
-          "carbohydrate",
-          "fat",
-          "diet",
-          "dietary",
-          "nutrition",
-          "calorie"
-        ]
-      },
-      {
         "pmid": "42965617",
         "title": "Longitudinal transcriptomic monitoring of erythropoietic adaptations in endurance athletes: a prospective study protocol.",
         "journal": "European journal of applied physiology",
@@ -2286,6 +2204,27 @@
           "training",
           "recovery",
           "metabolism"
+        ]
+      },
+      {
+        "pmid": "42987660",
+        "title": "Fatty infiltration of the lumbar paravertebral muscles is related to functional limitations in patients with adult spinal deformity.",
+        "journal": "Gait & posture",
+        "journal_issn": "0966-6362",
+        "discipline": "anatomy",
+        "date": "2026-Oct-30",
+        "authors": "Nabil Nassim, Ayman Assi, Elio Mekhael et al.",
+        "abstract": "BACKGROUND: Adult spinal deformity (ASD) is associated with reduced quality of life and functional impairment. Fatty infiltration of paravertebral muscles, quantified on MRI, has been linked to global malalignment and postoperative complications, but requires time-consuming analysis and specific protocols. The simpler qualitative Goutallier classification remains underexplored in ASD. This study aimed to assess the relationship between paravertebral muscle fatty infiltration, functional and radiographic parameters, and quality-of-life scores using the Goutallier method. METHODS: Sixty-four ASD patients underwent full-body biplanar X-rays and completed the ODI questionnaire. 3D gait analysis was performed to calculate joint kinematics, spatiotemporal parameters, and the Gait Deviation Index (GDI: 0-100; decreases with severity). Lumbar MRIs were used to assess paravertebral muscle fatty infiltration with the Goutallier classification. Patients were grouped as High-Infiltration (Goutallier grades 3-4) or Low-Mod-Infiltration (Goutallier grades 0-2). Radiographic, kinematic parameters and quality-of-life scores were compared, and correlations with Goutallier grade were calculated. RESULTS: Patients were divided into 33 High-Infiltration and 31 Low-Mod-Infiltration. The High-Infiltration group had increased SVA (76 vs 22mm) and PI-LL mismatch (19 vs 3°; all p < 0.05). During gait, they showed decreased GDI (80 vs 91), walking speed (0.7 vs 0.9 m/s) and increased thorax flexion (13 vs 4°; all p < 0.05). They also had increased ODI scores (47 vs 36, p = 0.02). Goutallier grades correlated with SVA (ρ = 0.43), PI-LL mismatch (ρ = 0.44) and walking speed (ρ = -0.43; all p < 0.05). CONCLUSION: The Goutallier classification, a simple method using routine MRI, is associated with malalignment severity and functional impairment in ASD. High grades may help identify patients who could benefit from targeted interventions, such as muscle strengthening to optimize outcomes.",
+        "doi": "10.1016/j.gaitpost.2026.110683",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42987660/",
+        "relevance": 13,
+        "matched": [
+          "muscle",
+          "spinal",
+          "lumbar",
+          "joint",
+          "hip",
+          "kinematic"
         ]
       },
       {
@@ -2348,26 +2287,6 @@
           "nutrition",
           "nutrient",
           "energy intake"
-        ]
-      },
-      {
-        "pmid": "42775533",
-        "title": "Exercise-mimicking effect of exogenous lactate administration: promoting visceral fat reduction via ventromedial hypothalamic SF-1 neurons in female rats.",
-        "journal": "American journal of physiology. Endocrinology and metabolism",
-        "journal_issn": "0193-1849",
-        "discipline": "physiology",
-        "date": "2026-Nov-01",
-        "authors": "Jinchan Du, Zhaomin Zhang, Jing Han et al.",
-        "abstract": "Lactate, a metabolic product of high-intensity training, may possess exercise-mimicking effects that promote fat loss via the hypothalamic-adipose axis, yet its neuronal targets remain unclear. This study investigated whether lactate administration mimics high-intensity training (HIT)-induced fat loss through steroidogenic factor-1 (SF-1) neurons in the ventromedial hypothalamus (VMH). Female SD rats fed a high-fat diet were subjected to a 6-wk intervention. The results showed that chronic lactate administration independently reduced visceral adipose tissue (VAT) mass and enhanced the resting fat oxidation rate more effectively than moderate-intensity aerobic training, which conversely suppressed postexercise lipolysis. The VAT loss was accompanied by neuroplastic changes in the VMH and upregulated markers of sympathetic capacity in adipose tissue. In contrast, chemogenetic inhibition of VMH SF-1 neurons using designer receptors exclusively activated by designer drugs reversed the lactate-mediated electrophysiological changes and abolished the elevation in resting metabolic rate, confirming the necessity of this neuronal population for the metabolic effects of lactate. These findings demonstrate that lactate acts as a central exerkine, activating VMH SF-1 neurons, which correlates with an upregulated capacity for sympathetic nervous system-mediated VAT reduction, thereby providing a mechanistic explanation for the superior efficacy of HIT in managing central obesity.NEW & NOTEWORTHY This study identifies lactate as a key central signal that mimics the VAT-reducing effects of HIT. We demonstrate that lactate administration activates SF-1 neurons in the VMH, triggering a sympathetic drive that promotes lipolysis in female rats. Crucially, chemogenetic inhibition of these neurons abolishes lactate's metabolic benefits, establishing a direct causal link between lactate signaling and the central regulation of adipose tissue.",
-        "doi": "10.1152/ajpendo.00059.2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42775533/",
-        "relevance": 13,
-        "matched": [
-          "exercise",
-          "lactate",
-          "training",
-          "aerobic",
-          "metabolic"
         ]
       },
       {
@@ -2592,26 +2511,6 @@
         ]
       },
       {
-        "pmid": "42492232",
-        "title": "Resistance Exercise at Different Periods Before and After Ovariectomy Attenuates Bone Loss in Ovariectomized Mice.",
-        "journal": "Medicine and science in sports and exercise",
-        "journal_issn": "0195-9131",
-        "discipline": "physiology",
-        "date": "2026-Nov-01",
-        "authors": "Yang Xu, Yuting He, Linzhen Rao et al.",
-        "abstract": "PURPOSE: Postmenopausal osteoporosis is a prevalent metabolic bone disease characterized by reduced bone density, decreased bone strength, and increased fracture risk. While resistance exercise has been shown to attenuate osteoporosis, the optimal timing for exercise intervention remains unclear. This study aimed to investigate whether the timing of resistance exercise-initiated before, after, or throughout the period of estrogen deficiency-differentially affects bone health in ovariectomized mice, and to provide a theoretical basis for postmenopausal osteoporosis prevention and treatment with exercise. METHODS: Five-week-old female C57BL/6 mice were assigned to one of five groups: sham operation group (SHAM), ovariectomized sedentary group (OVX), pre-OVX +exercise group (Pre-OVX+E), OVX +exercise group (OVX+E), and post-OVX + exercise group (Post-OVX+E). Mice performed a ladder-climbing resistance exercise protocol at the designated time points. Bone microstructure was assessed by micro-computed tomography, bone biomechanical properties by three-point bending test, osteogenic and osteoclast-related factors by reverse transcription quantitative polymerase chain reaction, western blot assays and Enzyme-linked immunosorbent assay analysis, and potential regulatory molecular mechanisms through RNA-Seq analysis. RESULTS: All three exercise groups could enhance the bone biomechanical properties and improve the bone microstructure of ovariectomized mice. The Post-OVX+E group performed better than the other exercise groups on microstructure in both cortical bone and cancellous bone. The Post-OVX+E group and the OVX+E group showed better effects on the expression of osteogenic and osteoclast-related factors. RNA-Seq analysis revealed that the extracellular matrix-receptor interaction pathway represented the common signaling pathway shared among groups. CONCLUSIONS: Resistance exercise at different periods before and after ovariectomy can attenuate bone loss in ovariectomized mice, with exercise after ovariectomy demonstrating superior protective benefits on bone. The mechanism underlying these beneficial effects may involve the extracellular matrix-receptor interaction pathway.",
-        "doi": "10.1249/MSS.0000000000004075",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42492232/",
-        "relevance": 12,
-        "matched": [
-          "exercise",
-          "resistance",
-          "strength",
-          "metabolic",
-          "sedentary"
-        ]
-      },
-      {
         "pmid": "42965620",
         "title": "Neuromechanical associations in vertical jump adaptation after plyometric training: a multivariate meta-analysis.",
         "journal": "European journal of applied physiology",
@@ -2813,27 +2712,6 @@
         ]
       },
       {
-        "pmid": "42744290",
-        "title": "UCI Sports Nutrition Project: Position Statement on Nutrition for Cycling.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Louise M Burke, Eimear Dolan, Javier T Gonzalez et al.",
-        "abstract": "Nutrition is a key determinant of cycling performance, underpinning the ability to optimize on-bike performance, support training adaptation and recovery, and maintain rider health and well-being. While these goals are shared across disciplines, the diverse physiological demands and logistical constraints of different cycling disciplines present distinct nutritional challenges. In recognition of both the importance of nutrition and the diverse individual and discipline-specific demands of cycling, the Union Cycliste Internationale Sports Nutrition Project was established and led by a steering committee that synthesized the expertise of 54 researchers to identify key nutritional requirements for elite cycling and develop recommendations that account for both individual and discipline-specific needs. These insights were published within a series of 14 topic-specific reviews. In this position statement, we present the principal take-home messages from the overall project, organized into 10 overarching themes spanning performance preparation, in-competition fueling, recovery and adaptation, energy availability, physique management, protecting against illness and injury, technological support, the use of supplements and sports foods, and age- and sex-specific considerations. Cycling-specific considerations are used to develop targeted nutritional recommendations within each of these themes, and high-priority future research directions are identified.",
-        "doi": "10.1123/ijsnem.2026-0135",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42744290/",
-        "relevance": 11,
-        "matched": [
-          "nutrition",
-          "sports",
-          "supplement",
-          "food",
-          "injury",
-          "training"
-        ]
-      },
-      {
         "pmid": "42965622",
         "title": "Visual external focus of attention modulates corticospinal excitation-inhibition balance after acute exercise.",
         "journal": "European journal of applied physiology",
@@ -2952,6 +2830,24 @@
         ]
       },
       {
+        "pmid": "42987818",
+        "title": "Initial Acceleration Deficit as a Timing-Derived Performance Metric of Early-Phase Sprint Acceleration in Elite Youth Soccer Players.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-04",
+        "authors": "Nikolaos Androulakis, Evaggelos Sideropoulos, Nikolaos Koundourakis",
+        "abstract": "PURPOSE: To examine the applied relevance of initial acceleration deficit (IAD) as a timing-derived performance metric of early-phase sprint acceleration in elite youth soccer players. METHODS: A cross-sectional study was conducted in 112 elite male youth soccer players (aged 15-18 y). Sprint performance was assessed over 25 m using dual-beam timing gates (splits at 0, 5, 10, 15, 20, and 25 m). IAD was calculated as the difference between the 0- to 10- and 5- to 15-m intervals derived from the same trial. Vertical jump performance and anthropometric characteristics were also assessed. IAD was additionally expressed in normalized form, and percentile-based reference values (25th, 50th, and 75th) were established. RESULTS: A strong association was observed between IAD and 0- to 10-m sprint time (r = .805, P < .001). No significant associations were observed between IAD and vertical jump performance or anthropometric variables (all P > .10), whereas 20-m sprint time demonstrated moderate associations with jump performance. No significant positional differences were identified for IAD; however, goalkeepers exhibited a nonsignificant tendency for faster 0- to 10-m times without corresponding differences in IAD. CONCLUSION: IAD represents a timing-derived performance metric of early acceleration structure. While derived from shared temporal components with sprint time, it provides additional insight into how acceleration is distributed during the initial phase of sprinting. Expression in normalized form may support athlete profiling and monitoring in applied environments where advanced biomechanical assessment is not feasible.",
+        "doi": "10.1123/ijspp.2026-0212",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42987818/",
+        "relevance": 10,
+        "matched": [
+          "sprint",
+          "performance",
+          "athlete"
+        ]
+      },
+      {
         "pmid": "42982277",
         "title": "Protein restriction amplifies nucleus accumbens dopamine responses to protein-rich food during operant feeding in male mice.",
         "journal": "The Journal of nutrition",
@@ -2991,27 +2887,6 @@
           "biomechanic",
           "thoracic",
           "lumbar"
-        ]
-      },
-      {
-        "pmid": "42521197",
-        "title": "Comparison of 2 Days of Moderate or High Carbohydrate Intake on Physical and Cognitive Performance in Female Team Sport Players During a Simulated Soccer Match Protocol.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Laura McManus, Michael Scriney, Brendan Egan",
-        "abstract": "High carbohydrate (CHO) intakes are recommended in the 24-48 hr before soccer matches to increase glycogen stores and delay the development of match-related fatigue, but this concept is unexplored in female soccer players. This study compared the effects of 2 days of divergent CHO intake on physical and cognitive performance during a simulated soccer match protocol. Using a double-blind, placebo-controlled, crossover design, 15 female field-based intermittent team sport players consumed either a high CHO diet (6 g·kg body mass [BM]-1·day-1; HIGH) or an isocaloric moderate CHO diet (3 g·kg BM-1·day-1; MOD) for 2 days after completing a standardized (∼35 min) intermittent exercise protocol. For the main experimental trials, participants completed the Loughborough Intermittent Shuttle Test as 5 × 15-min blocks of intermittent running followed by a shuttle run time to exhaustion, with cognitive performance assessed before and after the test. There was no significant difference (6.9 [-71.1, 84.8] s) in time to exhaustion between conditions (HIGH, 295 ± 137 s; MOD, 288 ± 133 s; p = .852; g = 0.05). Sprint times were faster during HIGH compared with MOD at Block 3 (p = .021; g = 0.33), Block 4 (p = .035; g = 0.31), and Block 5 (p < .001; g = 0.34). Rating of perceived exertion was lower during HIGH compared with MOD after Block 1 (p < .001; g = 0.78) and Block 2 (p = .018; g = 0.49). Reaction time in the Task Switching test was improved from pre- to postexercise in HIGH (p = .017; g = 0.67) but not MOD (p = .913; g = 0.05). These results suggest that female soccer players may benefit from increasing daily CHO intake to at least 6 g/kg BM for the 2 days preceding competitive matches.",
-        "doi": "10.1123/ijsnem.2026-0098",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42521197/",
-        "relevance": 10,
-        "matched": [
-          "carbohydrate",
-          "performance",
-          "fat",
-          "diet",
-          "glycogen",
-          "exercise"
         ]
       },
       {
@@ -3169,6 +3044,24 @@
         ]
       },
       {
+        "pmid": "42988169",
+        "title": "Animal-source foods in infancy contribute to higher dietary quality.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-05",
+        "authors": "Saralyn F Foster, Deborah Jacobvitz, Marcela R Abrego et al.",
+        "abstract": "BACKGROUND: Few studies have characterized infant animal-source food introduction and intake longitudinally to determine whether these foods are associated with dietary quality or growth at 12-months of age. OBJECTIVE: Describe patterns and determinants of animal-source food consumption during complementary feeding and evaluate associations between animal-source foods with dietary quality and growth. METHODS: Mothers And careGivers Investing in Children (MAGIC) randomized trial is a complementary feeding intervention with responsive feeding coaching (MAGIC-FEED) compared to an attention control (MAGIC-SAFE), and an exploratory arm (MAGIC-FEED+FOOD) including food provision along with MAGIC-FEED. 135 mother-infant-caregiver triads in the Austin, Texas, United States enrolled at age 5-months, received virtual intervention visits at age 6, 7, 8 and 10 months, and had anthropometrics measured at 12-months. Diet was assessed repeatedly from 5-12-months with a 7-day food-frequency questionnaire and 24-hour diet recall from which infant dietary quality index (IDQI, range 0-1) was calculated. Descriptive statistics and covariate adjusted linear regression evaluated patterns of intake and associations between intervention arm or dietary components with dietary quality and growth. RESULTS: Overall, animal-source food intake increased from age 6 through 12 months. At age 12-months, more infants consumed egg (72%), poultry (77%) and beef (68%) and less consumed fish (30%) and pork (25%) in the prior 7-days. MAGIC-FEED was not associated with IDQI and had limited effects on animal source food consumption. In covariate-adjusted models, poultry (β=0.12, 95%CI 0.04,0.19) egg (β=0.06, 95%CI 0.01,0.12) and beef (β=0.07, 95%CI 0.01,0.13) predicted higher IDQI across infancy, compared to non-consumers. at 12-months of age. Poultry consumers predicted higher IDQI (β=0.14, 95%CI: 0.05,0.23), and pork consumers had higher length-for-age Z-scores (β=0.48, 95%CI: 0.03,0.92) at age 12-months. CONCLUSIONS: MAGIC-FEED was not associated with animal source food intake. Poultry, beef, and eggs as complementary foods were associated with higher dietary quality, and pork was associated with linear growth. Clinical Trial Registry number and website where it was obtained NCT04177472; https://clinicaltrials.gov/study/NCT04177472.",
+        "doi": "10.1016/j.tjnut.2026.101929",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988169/",
+        "relevance": 9,
+        "matched": [
+          "diet",
+          "dietary",
+          "food"
+        ]
+      },
+      {
         "pmid": "42972855",
         "title": "Dietary fibre intake and suicide in Japanese adults: the Japan Public Health Center-based Prospective Study.",
         "journal": "The British journal of nutrition",
@@ -3246,47 +3139,6 @@
           "bone",
           "cartilage",
           "thoracic"
-        ]
-      },
-      {
-        "pmid": "42722363",
-        "title": "Menstrual Cycle Phase Is Associated With Changes in Body Weight, Bioimpedance, and Carbohydrate Intake, but Not in Resting Metabolic Rate in Physically Active Females.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Michaela Wagner, Adam Wagner, Ida Löfberg et al.",
-        "abstract": "This observational repeated-measures study investigated the effect of three menstrual cycle phases on resting metabolic rate (RMR), body composition, and dietary intake in 21 naturally menstruating, physically active females (age 24.9 ± 4.1 years; height 168.4 ± 7.8 cm). Measurements were scheduled during the early follicular (EFP), ovulatory, and mid-luteal (MLP) phases using menstrual bleeding onset and urinary luteinizing hormone tests. RMR was measured using indirect calorimetry, body composition via multifrequency bioelectrical impedance analysis, and dietary intake through 3-day food records. Linear mixed-effects models revealed no statistically significant differences in RMR across phases (p = .148). Most dietary intake variables remained stable across the cycle (all p ≥ .074); however, absolute carbohydrate intake was significantly higher in the EFP (234 ± 48 g) than in the MLP (209 ± 53 g; p = .037). Body weight significantly decreased from the EFP (65.2 ± 7.4 kg) to the MLP (64.9 ± 7.3 kg; p = .029). Similarly, the extracellular water ratio decreased (0.376 ± 0.004 vs. 0.374 ± 0.005; p = .019), and phase angle increased (5.85 ± 0.45 vs. 5.98 ± 0.53; p = .021) between the EFP and the MLP. Estimates of fat-free mass and body fat percentage did not differ (p > .05). In physically active females, RMR and most dietary intake variables remained statistically stable across the cycle, whereas carbohydrate intake was higher in EFP than in MLP. Observed fluctuations in body weight and bioimpedance metrics likely reflect hydration shifts rather than changes in tissue composition.",
-        "doi": "10.1123/ijsnem.2026-0015",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42722363/",
-        "relevance": 9,
-        "matched": [
-          "carbohydrate",
-          "fat",
-          "diet",
-          "dietary",
-          "hydration",
-          "body composition"
-        ]
-      },
-      {
-        "pmid": "42601056",
-        "title": "Comparing the Effects of Water, Sodium-Potassium, and Potassium-Rich Solutions on Fluid Balance and Thermal Strain Following Exercise in the Heat: A Randomized Triple-Blind Crossover Study.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Joseph A Killick, Elliott J Jenkins, Jemima Benson et al.",
-        "abstract": "Exercise in the heat perturbs human physiology through elevated core temperature, fluid loss, and cardiovascular strain. While fluid intake can mitigate these effects, the electrolyte composition of hydration solutions may improve rehydration efficacy. This study evaluated whether hydration strategy modulates thermal strain, inflammation, and performance during and after exercise in a hot environment, comparing three different fluid solutions: water, sodium-potassium drink, and coconut water. Twelve participants (seven males) completed a randomized, triple-blind crossover trial. Measures included handgrip strength, countermovement jump, tympanic temperature, thermal sensation, discomfort, body mass, body water percentage, heart rate, and total leukocyte count. Participants were randomly assigned 300 ml of one of three solutions before cycling for 60 min at 1.5 W/kg in ∼33 °C conditions. Additional 300-ml doses were consumed postexercise at 0, 30, and 60 min; measures were taken at each time point before solution consumption and at 90-min postexercise. Following exercise in the heat, a significant main effect for time was observed for all outcomes: thermal responses, heart rate, body mass and body water (p < .001); fatigue (p < .001); and leukocyte count (p = .016), indicating a strong physiological response to heat stress. However, no significant differences were observed between hydration strategies (p ≥ .152) for all measures. In conclusion, exercise in the heat elicited significant thermal strain, fatigue, and inflammation, independent of hydration strategy. Electrolyte composition did not significantly alter responses when fluid intake was controlled, highlighting the need for further research.",
-        "doi": "10.1123/ijsnem.2026-0016",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601056/",
-        "relevance": 9,
-        "matched": [
-          "fluid",
-          "exercise",
-          "fat",
-          "hydration",
-          "performance"
         ]
       },
       {
@@ -3458,44 +3310,6 @@
           "athlete",
           "strength",
           "power"
-        ]
-      },
-      {
-        "pmid": "42722356",
-        "title": "Fuel Doesn't Fix It: Oculomotor Control Declines During 3 Hr of Exercise Irrespective of Carbohydrate Availability.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Charlotte J W Connell, Shelley Duncan, Joanna M Black et al.",
-        "abstract": "PURPOSE: This study investigates whether carbohydrate supplementation during 3 hr of cycling attenuates postexercise changes in oculomotor control and visual performance. METHODS: Within a double-blind, randomized, placebo-controlled, repeated-measures, crossover design, nine healthy males completed two 180-min cycling trials at 60% of maximal aerobic capacity, ingesting either a carbohydrate (0.7 g·kg-1·hr-1) or placebo solution. Saccadic eye movements (rapid, ballistic gaze shifts used to redirect the fovea to targets of interest), visual acuity, binocular function, and global motion perception were assessed before and after exercise. Heart rate, perceived exertion, blood glucose, and serum insulin levels were monitored throughout exercise. RESULTS: Blood glucose diverged significantly between conditions across the 180-min exercise protocol, reaching hypoglycemic levels (<4 mmol/L) in placebo from 150 min (placebo: 3.2 ± 0.4 vs. carbohydrate: 5.2 ± 0.7 mmol/L at 180 min). Postexercise saccade velocity, amplitude, and latency changed equivalently across both conditions (-13% velocity, -1° amplitude, +25-ms latency; all p < .01). Visual attention, global motion perception, visual acuity, and binocular function were unchanged by exercise or intervention. CONCLUSION: Postexercise reductions in saccade velocity and amplitude, and increased latency, were observed regardless of glycemic state, reflecting impaired oculomotor output independent of carbohydrate availability, while visual performance was preserved. These findings point toward a centrally mediated neural mechanism rather than carbohydrate substrate limitation.",
-        "doi": "10.1123/ijsnem.2025-0231",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42722356/",
-        "relevance": 8,
-        "matched": [
-          "carbohydrate",
-          "exercise",
-          "supplement",
-          "performance"
-        ]
-      },
-      {
-        "pmid": "42521198",
-        "title": "Seven Days of Highbush Blueberry Supplementation Improves Trail Running Performance in Experienced Runners Without Elevating Physiological or Perceptual Stress Markers.",
-        "journal": "International journal of sport nutrition and exercise metabolism",
-        "journal_issn": "1526-484X",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Luisa V Giles, Jason P Brandenburg",
-        "abstract": "Trail running, particularly with a downhill segment, can lead to muscle damage, oxidative stress, and inflammation-factors linked to fatigue. Antioxidant-rich foods like blueberries may help reduce these effects and improve performance. We evaluated 7 days of blueberry supplementation on physiological responses, performance, and recovery from a 22.2-km simulated trail race. Nine runners completed the race following 7 days of freeze-dried blueberry (BLU) and placebo (PLA) powder supplementation. Measurements taken prerace, immediately postrace, and 24 hr postrace included symptoms, pulse wave analysis, pulse wave velocity, reactive strength index, drop jump height, muscle soreness, pulmonary function, salivary cortisol, and immunoglobulin A. Fraction of exhaled nitric oxide was measured pre- and postrace. During the race, heart rate and ratings of perceived exertion for legs and lungs were assessed. Race time was significantly faster with BLU (p = .003), with no differences in race heart rate or ratings of perceived exertion. Supine heart rate (p = .031) and feelings of tiredness (p = .005) were lower in BLU, while FEV1/FVC was higher (p = .023). Drop jump height declined at 24 hr after the trail race in PLA (p = .022) but was preserved in BLU. Blueberry supplementation improved running performance without increasing physiological or perceptual stress.",
-        "doi": "10.1123/ijsnem.2026-0036",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42521198/",
-        "relevance": 8,
-        "matched": [
-          "supplement",
-          "performance",
-          "fat",
-          "food"
         ]
       },
       {
@@ -3758,6 +3572,46 @@
         ]
       },
       {
+        "pmid": "42992850",
+        "title": "Mitochondrial Oxysterol Signaling in Epigenetic Regulation and Therapeutic Development.",
+        "journal": "American journal of physiology. Endocrinology and metabolism",
+        "journal_issn": "0193-1849",
+        "discipline": "physiology",
+        "date": "2026-Nov-06",
+        "authors": "Yaping Wang, Shunlin Ren",
+        "abstract": "Oxysterols are oxygenated cholesterol derivatives with receptor-dependent and epigenetic activities. This review examines how mitochondrial cholesterol metabolism and oxysterol sulfation may connect lipid metabolism to DNA methylation and communication between hepatocytes and macrophages. Biochemical studies show that 25-hydroxycholesterol (25HC) and 27-hydroxycholesterol (27HC) activate DNA methyltransferase 1 (DNMT1), whereas their 3-sulfated derivatives inhibit the activities of DNMT1, DNMT3A, and DNMT3B. Cholestenoic acid (CA) has a concentration-dependent effect, activating DNMT1 at lower concentrations and inhibiting it at higher concentrations. In hepatocyte models, these activities are associated with altered promoter CpG methylation and expression of genes involved in lipid metabolism, inflammatory responses, and cell survival. The sulfated CA metabolite, 3β-sulfate-5-cholestenoic acid (3SCA), is secreted by hepatocytes and modifies inflammatory gene expression in macrophages. We propose an oxysterol epigenetic rheostat in which metabolite concentrations and sulfation influence DNMT activities. Published animal studies support protective effects of 25-hydroxycholesterol 3-sulfate in fatty liver disease, endotoxemia, and acetaminophen-induced liver injury. Its clinical formulation, larsucosterol, has shown favorable hepatic and metabolic signals in Phase 1b fatty liver studies and nominally significant mortality reductions in prespecified US Phase 2b alcohol-associated hepatitis (AH) analyses. These encouraging findings require confirmation because the overall Phase 2b primary endpoint was not met. Larsucosterol has received Fast Track and Breakthrough Therapy designations from the US Food and Drug Administration (FDA) for AH and is currently being evaluated in a registrational Phase 3 trial.",
+        "doi": "10.1152/ajpendo.90058.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42992850/",
+        "relevance": 7,
+        "matched": [
+          "mitochondrial",
+          "metabolic",
+          "metabolism",
+          "oxygen",
+          "injury"
+        ]
+      },
+      {
+        "pmid": "42988168",
+        "title": "Confronting the Twin Divides: Data Bias and Infrastructure Gaps in AI-Driven Nutrition for the Global South.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-05",
+        "authors": "Haddijatou Kadji Ceesay, Jean Claude Nahayo, Abdul Samad et al.",
+        "abstract": "Nutrition science is being rapidly transformed by artificial intelligence (AI). Yet, its application in the Global South, here defined as low- and middle-income countries (LMICs) primarily across Sub-Saharan Africa, South Asia, and Latin America, is constrained by two interrelated challenges: data bias (e.g., non-diverse datasets, imbalanced samples, and inadequate attention to demographic, cultural, and socioeconomic variation) and infrastructure gaps (e.g., intermittent connectivity, unreliable electricity, and limited device access). These issues are not merely technical but structural, ranging from non-diverse training sets and culturally mismatched food recognition systems to limited population-specific validation, which produce biased outputs when deployed in settings with substantially different dietary patterns and food environments. Weak digital infrastructure, the absence of data governance, and limited workforce capacity further undermine equitable deployment. The Food Recognition Assistance and Nudging Insights (FRANI) application, validated in Ghana, Vietnam, and Sri Lanka, demonstrates what is technically possible but also highlights the boundaries of current progress: more than 90% of AI models for malnutrition go unused in day-to-day clinical practice. Existing reviews map these domains separately. This commentary argues that integrating data bias and infrastructure gaps within a single analytical framework is essential for equitable AI-driven nutrition in the Global South, and it calls for actionable policy responses that prioritize local data sovereignty, infrastructure investment, and governance frameworks before algorithmic deployment.",
+        "doi": "10.1016/j.tjnut.2026.101930",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988168/",
+        "relevance": 7,
+        "matched": [
+          "nutrition",
+          "diet",
+          "dietary",
+          "food",
+          "training"
+        ]
+      },
+      {
         "pmid": "42980793",
         "title": "Ethical, methodological, and translational framework for animal studies in physical exercise research.",
         "journal": "European journal of applied physiology",
@@ -3830,41 +3684,6 @@
           "dietary",
           "energy intake",
           "food"
-        ]
-      },
-      {
-        "pmid": "42870357",
-        "title": "Physical Activity Levels and Lung-Kidney Function in a Cohort of COVID-19 Survivors.",
-        "journal": "Medicine and science in sports and exercise",
-        "journal_issn": "0195-9131",
-        "discipline": "physiology",
-        "date": "2026-Nov-01",
-        "authors": "Heitor S Ribeiro, Dário R Mondini, Francisco Z Mattedi et al.",
-        "abstract": "BACKGROUND: The relationship between physical activity levels and overall health among survivors of moderate to severe COVID-19 remains underexplored in target organs, such as lungs and kidneys. We examined the association between physical activity levels and lung-kidney abnormalities in survivors of COVID-19 hospitalization. METHODS: A cross-sectional analysis was performed within a prospective cohort of survivors of COVID-19 hospitalization. Physical activity levels were assessed with the International Physical Activity Questionnaire (short form), and physical inactivity was classified according to the World Health Organization guidelines (<150 min/week of physical activity). Abnormal kidney function was defined as estimated glomerular filtration rate <60 mL/min/1.73 m2, whereas pulmonary involvement was defined as chest X-ray pulmonary lesion, and/or forced vital capacity less than the lower limit of normal, and/or altered oximetry. RESULTS: In total, 653 survivors (46% female and 28% ≥65 years) were assessed 8 ± 2 months posthospital discharge. Physical inactivity was found in 53% of the cohort. Lung and kidney abnormalities were observed in 36% and 20% of survivors, respectively, whereas coexistence was observed in 7%. Physically active survivors had lower odds of lung abnormality (32% vs 41%; adjusted odds ratio [aOR] = 0.67, 95% confidence interval [CI]:0.47 to 0.97), but not of kidney (17% vs 23%; aOR = 0.81, 95% CI: 0.52 to 1.26) nor lung-kidney abnormality (6% vs 9%; aOR = 0.58, 95% CI: 0.29 to 1.20), compared with those physically inactive. Subgroup and sensitivity analyses showed distinct associations for lung abnormalities by age and among survivors without severe oxygen desaturation or very low kidney function. The restricted cubic spline curve for lung-kidney abnormalities showed a nonlinear dose-response relationship, with higher odds below and lower odds above 150 min/week. CONCLUSIONS: Among survivors of COVID-19 hospitalization, being physically active was associated with better lung function outcomes, but not kidney or composite outcomes. This association was modified by age and baseline clinical status and followed a non-linear dose-response pattern.",
-        "doi": "10.1249/MSS.0000000000004062",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42870357/",
-        "relevance": 7,
-        "matched": [
-          "physical activity",
-          "oxygen"
-        ]
-      },
-      {
-        "pmid": "42980137",
-        "title": "Moving in Sand: Effects of Sex and Morphology on Performance in the Sandfish Skink (Scincus scincus).",
-        "journal": "Journal of morphology",
-        "journal_issn": "0362-2525",
-        "discipline": "anatomy",
-        "date": "2026-Nov",
-        "authors": "Anastasia M Shevchik, Ethan H Livingston, Jasmyn D Zimmerman et al.",
-        "abstract": "An animal's morphology directly influences its ability to perform fundamental tasks, which can be vital to its survival and reproduction. This is especially true in harsh or extreme environments, like the shifting-sand desert of the Sahara. Additionally, sexes can differ in their morphology, performance, or in the relationship between morphology and performance, with implications for behaviors such as habitat selection, predator avoidance, and reproduction. Despite being common across a broad geographic range, little is known of the ecomorphology and sexual dimorphism of the sandfish skink (Scincus scincus). To investigate this, we first validated the uses of molecular sexing protocols and morphology (hemipene eversion) to identify the sex of our animals. We then tested for differences in body size, the multivariate morphological phenotype, and coloration between the sexes. While patterns generally suggested male bias in both body size and limb dimension in concordance with previous studies, these differences were not statistically significant. Additionally, we found several exceptions to the standard color-based sex assignment of these animals, especially for females. We then conducted an experiment to test how body size and dimensions affect performance at optimum temperatures. We quantified three different types of movement: sprinting on top of sand (used in hunting behavior), swimming under sand (an undulatory form of locomotion used in thermoregulation), and diving into sand (an important escape behavior). Overall, skinks with larger body sizes sprinted faster and swam faster through sand. Female skinks sprinted faster than male skinks even after accounting for differences in body size. Larger heads, wider bodies, and longer limbs were negatively correlated with swim speed. Diving performance exhibited the lowest among-individual variation, did not differ between the sexes, and was not dependent on body size or shape. Finally, we found no evidence of among-individual correlations in performance measures, suggesting each performance is independent of the others. Overall, this experiment provides insight into morphology-performance relationships across a number of ecologically important aspects of locomotion for a species inhabiting an extreme desert environment.",
-        "doi": "10.1002/jmor.70193",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42980137/",
-        "relevance": 7,
-        "matched": [
-          "morphology",
-          "performance",
-          "hip"
         ]
       },
       {
@@ -4233,6 +4052,79 @@
         ]
       },
       {
+        "pmid": "42990018",
+        "title": "Dietary patterns and the testosterone-estrogen axis in men: evidence from osteoporotic fractures in men and a systematic review.",
+        "journal": "The British journal of nutrition",
+        "journal_issn": "0007-1145",
+        "discipline": "nutrition",
+        "date": "2026-Nov-06",
+        "authors": "Zahra Aslani, Amy E Kless, Steven K Clinton et al.",
+        "abstract": "Diet may influence circulating sex steroid hormones, but evidence for overall dietary patterns remains limited. We examined associations of dietary patterns reflecting lower inflammatory potential, lower insulinaemic potential and higher overall diet quality, with circulating sex steroids in older men and systematically reviewed the literature in apparently healthy men published through June 2024. We conducted cross-sectional analyses of 1622 men aged ≥65 years from the Osteoporotic Fractures in Men Study. Diet was assessed using FFQ and sex hormone-binding globulin (SHBG), total and free testosterone and total and free estradiol were measured. Dietary patterns included the reversed Empirical Dietary Inflammatory Pattern (rEDIP), reversed Empirical Dietary Index for Hyperinsulinaemia (rEDIH) and Healthy Eating Index-2020 (HEI-2020). Among older men, each 1-standard deviation increase in rEDIP was associated with higher total testosterone (β = 2·15; 95 % CI 0·12, 4·18) and free testosterone (β = 2·02 ng/dL; 95 % CI 0·29, 3·75), whereas rEDIH showed similar but non-significant associations with total testosterone (β = 1·64; 95 % CI -0·28, 3·57) and free testosterone (β = 1·43; 95 % CI -0·21, 3·08). Higher HEI-2020 scores were associated with higher free estradiol (β = 2·46 pg/mL; 95 % CI 0·85, 4·07). Across twenty-one studies, healthier dietary patterns were generally associated with lower estradiol and higher concentrations of SHBG and total testosterone. Taken together, the individual-level analyses and systematic review suggest that anti-inflammatory, low-insulinaemic and overall healthy dietary patterns are associated with more favourable sex steroid hormone profiles in men, although prospective studies are needed to establish temporality.",
+        "doi": "10.1017/S0007114526109362",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42990018/",
+        "relevance": 6,
+        "matched": [
+          "diet",
+          "dietary"
+        ]
+      },
+      {
+        "pmid": "42987425",
+        "title": "Effects of Weight-Loss Diets on Circulating MicroRNA Profiles in Overweight and Obese Adults: Systematic Review of Randomized Clinical Trials.",
+        "journal": "Nutrition reviews",
+        "journal_issn": "0029-6643",
+        "discipline": "nutrition",
+        "date": "2026-Nov-05",
+        "authors": "Natália Ellen Delmicon, Helen Cristina Vidal, Paula Nascimento Brandão-Lima et al.",
+        "abstract": "CONTEXT: Obesity, particularly visceral adiposity, is associated with metabolic inflammation and increased cardiometabolic risk. Dietary interventions are essential for weight loss and improved metabolic health; however, individual responses vary widely. Circulating microRNAs are key epigenetic mediators of metabolic adaptation, although their variable expression patterns often preclude a unified biological interpretation. OBJECTIVE: This systematic review aims to synthesize evidence on how weight-loss diets affect the circulating microRNA profile in adults with overweight or obesity. DATA SOURCES: PubMed Central, LILACS, Scopus, Embase, Web of Science, ClinicalTrials.gov, and Google Scholar were searched without language or publication date restrictions through May 2026. DATA EXTRACTION: Of 4383 records identified, 12 articles representing 9 independent randomized clinical trials met the eligibility criteria. Data on study characteristics, dietary interventions, and circulating microRNA expression profiles were extracted. Risk of bias was assessed using the Cochrane Risk of Bias 2.0 tool. DATA ANALYSIS: The included studies were conducted in 6 countries and evaluated dietary interventions lasting 2-18 months. A total of 32 distinct circulating microRNAs were differentially expressed, with miR-221-3p, miR-223, miR-99b, miR-122, and miR-128 reported in more than one study. Considerable heterogeneity was observed among the dietary protocols, particularly regarding macronutrient composition. Alterations in microRNA expression were associated with weight loss, adiposity, glycemic parameters, lipid profile, inflammation, and cardiovascular risk. Bioinformatic analyses indicated enrichment of pathways related to inflammation, insulin signaling, and lipid metabolism, including the PI3K-Akt and MAPK pathways, suggesting an integrated role for these microRNAs in metabolic regulation. CONCLUSION: Weight-loss diets modulate the circulating miRNA profile, potentially influencing glycolipid metabolism and inflammation, supporting their role as candidate biomarkers. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. CRD42024580048.",
+        "doi": "10.1093/nutrit/nuag154",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42987425/",
+        "relevance": 6,
+        "matched": [
+          "diet",
+          "nutrient",
+          "dietary",
+          "weight loss"
+        ]
+      },
+      {
+        "pmid": "42986715",
+        "title": "How Plants Feed Our Microbes: Plant-Based Diets and Gut Microbiota Modulation-A Systematic Review.",
+        "journal": "Nutrition reviews",
+        "journal_issn": "0029-6643",
+        "discipline": "nutrition",
+        "date": "2026-Nov-05",
+        "authors": "Paulina Kozłowska, Alicja Borowiecka, Martyna Strzemkowska et al.",
+        "abstract": "CONTEXT: Diet is a key factor shaping gut microbiota composition and function, with important implications for human health. The growing popularity of plant-based dietary patterns has increased interest in their effects on the gut microbiota. OBJECTIVE: This systematic review examines specific changes in gut microbiota among individuals following a plant-based diet (PBD), as well as shifts occurring after transitioning from an omnivorous diet. DATA SOURCES: PubMed and Google Scholar were searched for articles reporting original English-language human and animal studies investigating the effects of PBDs on gut microbiota composition or function. Studies published from 2015 onward were primarily considered, with most included articles published during 2020-2024. DATA EXTRACTION: Four reviewers independently screened records according to eligibility criteria and extracted data on study characteristics, populations, dietary patterns, and outcomes related to gut microbiota composition and function. DATA ANALYSIS: A total of 37 studies met the inclusion criteria. A PBD appeared to promote the growth of short-chain fatty acid-producing and probiotic bacteria, which help maintain intestinal integrity and support carbohydrate metabolism and may offer protection against certain diseases. A PBD was also reported to encourage the growth of beneficial taxa such as Roseburia spp., Akkermansia muciniphila, Clostridium symbiosum, and Faecalibacterium prausnitzii, which are considered indicators of a healthy microbiome. An increased Bacteroidetes/Firmicutes ratio, which was found to be a common occurrence in study participants following a PBD, correlated with a lower body mass index (BMI) and a more favorable metabolic profile, supporting healthy weight maintenance. In addition, PBDs were also associated with improvements in alpha- and beta-diversity compared with omnivorous diets. CONCLUSIONS: This review indicates that PBDs appear to beneficially influence the gut microbiota and may have positive effects on human health. Nonetheless, not all studies agree on the extent or direction of microbiota changes associated with dietary patterns. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. [CRD420251229407]; link: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251229407.",
+        "doi": "10.1093/nutrit/nuag157",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42986715/",
+        "relevance": 6,
+        "matched": [
+          "diet",
+          "carbohydrate",
+          "fat",
+          "dietary"
+        ]
+      },
+      {
+        "pmid": "42986605",
+        "title": "Understanding the Complexity of Athlete Sleep: A Systems Approach to Modelling the Athlete Sleep Environment.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-05",
+        "authors": "Matthew Morrison, Shona L Halson, Carissa L Gardiner et al.",
+        "abstract": "BACKGROUND: Athlete sleep can be disrupted by sport- and non-sport-related factors. However, the interactions of these sleep-related factors are not well understood. Systems science approaches, such as causal loop diagramming (CLD), provide an opportunity to map these interactions. This project aimed to (1) develop a CLD of the athlete sleep system describing the interacting variables, (2) identify feedback loops and potential leverage points to optimise athlete sleep, and (3) demonstrate the applicability of a CLD to guide the development of a sleep monitoring framework. METHODS: A systems-based model of athlete sleep was developed using CLD, informed by existing literature and refined through a consensus process involving ten subject matter experts (nine from Australia, one from the USA). The model was then interrogated using network analysis to identify key variables based on their position and connectivity within the system. These findings informed the development of a generic sleep monitoring framework. RESULTS: The CLD comprised 48 variables and 120 relationships across four domains: travel demands, behavioural and lifestyle factors, athlete condition and readiness, and resourcing and scheduling constraints. Overall, 12 key variables were identified, with hours of travel, number of time zones crossed, dose of caffeine, and amount of resources or expenditure available being the most connected upstream variables. Level of pre-sleep arousal, sleep opportunity, travel fatigue, and level of performance received the greatest number of incoming relationships, representing points at which multiple pathways converge. Physical condition, level of performance, quality of diet, and importance of competition most frequently linked different quadrants of the system. These variables informed a three-tier monitoring framework capturing upstream determinants and downstream consequences of sleep. CONCLUSIONS: According to the CLD, sleep health in athletes extends beyond an individual behaviour issue and is influenced by the structure and functioning of sport systems. Interactions among travel demands, physical readiness, behavioural and lifestyle factors, and organisational constraints sustain athlete sleep health over time. Consequently, meaningful improvements in sleep health are likely to arise from both system-level interventions and individual behaviour change strategies.",
+        "doi": "10.1007/s40279-026-02568-4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42986605/",
+        "relevance": 6,
+        "matched": [
+          "athlete",
+          "fatigue",
+          "performance"
+        ]
+      },
+      {
         "pmid": "42984300",
         "title": "Exercise-induced mitochondrial remodelling: Breaking apart to rebuild.",
         "journal": "The Journal of physiology",
@@ -4300,27 +4192,6 @@
         "matched": [
           "training",
           "aerobic"
-        ]
-      },
-      {
-        "pmid": "41475008",
-        "title": "Parents' and Children's Perceptions and Attitudes Towards Traditional and Novel Plant-Based Meat Alternatives: A Scoping Review.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Ai Ting Goh, Yunfan Mo, Jessica C McCormack et al.",
-        "abstract": "The growing popularity of plant-based meat alternatives (PBMAs) as a sustainable dietary option highlights the need to understand family perceptions to support their integration into daily diets. Early-life food preferences often stem from parents or caregivers. This scoping review synthesized existing findings on parents' and children's perceptions of traditional and novel PBMAs and identified motivators and barriers to adopting them in family meals. A comprehensive search across 5 databases (Nutrition and Food Sciences, Web of Science, Global Health, Scopus, PsycINFO) was performed on April 1, 2024, using predefined terms. The review adhered to Joanna Briggs Institute (JBI) methodology and PRISMA-ScR reporting guidelines. The Mixed Methods Appraisal Tool was used to assess study quality. Twenty studies were identified: 5 articles on parents or caregivers, 11 studies on children, and 4 articles on parent-child dyads. Parents were more accepting of traditional PBMAs (eg, lentils, tofu, beans, chickpeas), but expressed concerns over the nutritional adequacy, sodium content, and processing of novel PBMAs. Among parents who were non-regular users, traditional PBMAs were viewed mainly as a textural enhancement rather than a nutrient source. By contrast, children were generally more receptive to novel PBMAs compared with parents, particularly when products resembled meat and were linked to environmental and animal welfare benefits. For both parents and children, taste emerged as the primary driver for repeated consumption. Strategies to increase PBMA uptake in families should be focusing on improving the sensory appeal and nutritional profile of these products, enhancing product transparency around ingredients and processing technologies, and providing tailored nutrition education that aligns with existing knowledge and cooking skills. Family-based interventions that address both parental concerns and children's motivations may be particularly effective in positioning PBMAs as an accepted component of everyday family meals. Systematic Review Registration : Open Science Framework identifier osf.io/98n7r.",
-        "doi": "10.1093/nutrit/nuaf257",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41475008/",
-        "relevance": 6,
-        "matched": [
-          "nutrition",
-          "nutrient",
-          "diet",
-          "dietary",
-          "food",
-          "meal"
         ]
       },
       {
@@ -4544,6 +4415,26 @@
           "bone",
           "anatomical",
           "performance"
+        ]
+      },
+      {
+        "pmid": "42988167",
+        "title": "The NHANES WIC Impact Index is a Valid Measure of WIC's Impact on Children.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-05",
+        "authors": "Meghan Zimmer, Cindy W Leung, Cristina M Gago et al.",
+        "abstract": "BACKGROUND: The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides food benefits, nutrition education, breastfeeding support, and referrals to social and medical services. However, WIC's impact on children is often evaluated using isolated dietary or health outcomes, and no validated tool exists to measure WIC's multidimensional impact across all program services. OBJECTIVES: We developed and validated the NHANES WIC Impact Index using cross-sectional data from the 2007-2010 National Health and Nutrition Examination Survey (NHANES). The index captures the four domains targeted by WIC: dietary intake, nutrition literacy, breastfeeding practices, and social/medical service access. METHODS: Reliability was assessed using item-item correlations and Cronbach's alpha. Validity assessments included content validity via expert consultation and policy mapping; criterion validity of the dietary domain compared with the Healthy Eating Index-2020 (HEI-2020); discriminant validity using known-groups analyses by WIC participation status; and divergent validity by Supplemental Nutrition Assistance Program (SNAP) participation. RESULTS: Reliability was demonstrated through item-item correlations that supported the internal structure of the index domains, and low internal consistency (α = 0.32 to 0.33) as expected for a multidimensional index. The dietary domain was moderately correlated with HEI-2020 scores (r = 0.58), demonstrating criterion validity. Among WIC-eligible children, prior participants scored 2.2 points lower on the index [-2.2 (95% CI: -3.9, -0.5), P<0.05] than current participants, but current participants and nonparticipants (i.e., never enrolled) scored similarly (P>0.05). Scores were not predicted by SNAP participation status (P>0.05), supporting divergent validity. CONCLUSION: The NHANES WIC Impact Index is a reliable and valid measure for evaluating WIC's impact on four domains of child health targeted by WIC. This index enables assessment of WIC's holistic impact and may support future surveillance and policy evaluation research.",
+        "doi": "10.1016/j.tjnut.2026.101907",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988167/",
+        "relevance": 5,
+        "matched": [
+          "nutrition",
+          "diet",
+          "dietary",
+          "supplement",
+          "food"
         ]
       },
       {
@@ -4982,6 +4873,92 @@
         ]
       },
       {
+        "pmid": "42992949",
+        "title": "Cardiometabolic Outcomes in Dahl Salt-Sensitive Rat Pregnancies: Impact of a Maternal Hypertensive High-Fat Diet.",
+        "journal": "American journal of physiology. Endocrinology and metabolism",
+        "journal_issn": "0193-1849",
+        "discipline": "physiology",
+        "date": "2026-Nov-06",
+        "authors": "Viviane C L Gomes, Victoria N Bailey, Lauren G Kim et al.",
+        "abstract": "Excessive adiposity and chronic hypertension are major risk factors of preeclampsia, a leading hypertensive disorder of pregnancy. Yet, mechanisms underlying the complex interplay between adiposity, chronic hypertension, and preeclampsia remain incompletely understood, partly due to the limited availability of experimental models that capture these interactions. Herein, we explored maternal cardiometabolic adaptations in high-fat diet (HFD)-fed Dahl Salt-Sensitive rats, an established model of HFD-associated chronic hypertension. We hypothesized that HFD-fed dams would display a superimposed preeclampsia-like phenotype compared to control diet (CD)-fed Dahl Salt-Sensitive females. HFD-fed dams exhibited attenuated gestational weight gain, increased ketogenesis, cardiovascular dysfunction and blunted uteroplacental vascular adaptation to pregnancy. HFD feeding was associated with high blood pressure pre-pregnancy and during most of gestation and lactation. Interestingly, however, both groups displayed a drop in blood pressure during late gestation, with lower blood pressure nadir and lower urine protein excretion in HFD-fed dams. Short-term pregnancy outcomes were largely preserved in HFD-fed dams, including litter size, pup viability, and placental efficiency. Long-term, dietary normalization failed to reverse the hypertensive phenotype of HFD-exposed dams, with blood pressure remaining 10-15 mmHg higher than controls for at least 14 weeks post-weaning. In conclusion, HFD-fed Dahl salt-sensitive females developed chronic hypertension and impaired metabolic and cardiovascular adaptations to pregnancy. Yet, neither CD- nor HFD-fed dams exhibited hallmark preeclampsia features, including late-gestation blood pressure rise, proteinuria, and fetal growth restriction. This model therefore provides a valuable platform to investigate adaptive cardiometabolic mechanisms that may attenuate preeclampsia risk in obese and chronic hypertensive patients.",
+        "doi": "10.1152/ajpendo.90128.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42992949/",
+        "relevance": 4,
+        "matched": [
+          "metabolic",
+          "adaptation"
+        ]
+      },
+      {
+        "pmid": "42990005",
+        "title": "On methodological approaches for non-invasive characterization of muscle oxygen uptake recovery kinetics.",
+        "journal": "Experimental physiology",
+        "journal_issn": "0958-0670",
+        "discipline": "physiology",
+        "date": "2026-Nov-06",
+        "authors": "Alessio Marciano, Harry B Rossiter",
+        "abstract": "",
+        "doi": "10.1113/EP094185",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42990005/",
+        "relevance": 4,
+        "matched": [
+          "recovery",
+          "oxygen"
+        ]
+      },
+      {
+        "pmid": "42989993",
+        "title": "Increased muscle temperature: A time-dependent stimulus of group III/IV afferent-mediated exercise pressor reflex.",
+        "journal": "The Journal of physiology",
+        "journal_issn": "0022-3751",
+        "discipline": "physiology",
+        "date": "2026-Nov-06",
+        "authors": "Elsa N Musselman, Ashley M Day, Jake W C Johansen et al.",
+        "abstract": "",
+        "doi": "10.1113/JP292749",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989993/",
+        "relevance": 4,
+        "matched": [
+          "exercise"
+        ]
+      },
+      {
+        "pmid": "42989586",
+        "title": "The Vertebral Nerve as a Selective Target for Upper Limb Sympathetic Blockade: Anatomy, Ultrasound-Guided Technique, and Proof of Concept.",
+        "journal": "Clinical anatomy (New York, N.Y.)",
+        "journal_issn": "0897-3806",
+        "discipline": "anatomy",
+        "date": "2026-Nov-05",
+        "authors": "Bruno Buchholz, Alejandro Ortega, Verena B Franco-Riveros et al.",
+        "abstract": "The vertebral nerve (VN) is a postganglionic sympathetic structure that arises from the cervicothoracic ganglion, ascends alongside the vertebral artery, and provides sympathetic innervation to the upper limb via the brachial plexus. Despite its anatomical relevance, it remains largely unknown to anesthesiologists and pain clinicians. The stellate ganglion block (SGB) is the current standard for upper-limb sympatholysis but produces nonselective effects, including Horner's syndrome and potential cardiac involvement. A more selective approach targeting the VN could achieve equivalent upper-limb sympatholysis while potentially offering a superior safety profile. We conducted a comprehensive anatomical review of the VN, covering its origin, trajectory, branching patterns, and communications with both the cervical spinal nerves and the vertebral plexus. Using this anatomical framework, we describe an ultrasound-guided technique for selective VN blockade at the C7 level, validated with fluoroscopic contrast confirmation. We objectively evaluated clinical efficacy using infrared thermography and laser Doppler flowmetry. The VN is an anatomically consistent and sonographically accessible target for selective upper-limb sympathetic blockade. At this target, effective sympatholysis can be achieved with minimal injectate volumes, thereby avoiding the nonselective effects of conventional SGB. Further studies are needed to compare efficacy, optimal technique parameters, and complication rates with existing approaches.",
+        "doi": "10.1002/ca.70252",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989586/",
+        "relevance": 4,
+        "matched": [
+          "spinal",
+          "thoracic",
+          "anatomical",
+          "pain"
+        ]
+      },
+      {
+        "pmid": "42988571",
+        "title": "Taxonomic and anatomical comments on \"Traversodon(?) major\" von Huene, 1936 (Cynodontia) from the Middle Triassic of Brazil.",
+        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+        "journal_issn": "1932-8486",
+        "discipline": "anatomy",
+        "date": "2026-Nov-05",
+        "authors": "Leonardo Kerber, Ingmar Werneburg",
+        "abstract": "Traversodontids were diverse non-mammaliaform cynodonts that occupied herbivorous and omnivorous niches during the Middle and Late Triassic. In Brazil, they are particularly well represented in the Santa Maria Supersequence, although the taxonomic status of some historically described taxa remains uncertain. Among them, \"Traversodon(?) major\" von Huene, 1936 was established on the basis of isolated cranial, mandibular, and postcranial remains from the Chiniquá region of southern Brazil. Here, we reassess the anatomy and taxonomic affinities of the specimens historically assigned to this species. A left maxilla (GPIT-PV-61005, here designated as lectotype) is the most informative specimen. It exhibits a combination of a broad maxillary platform, a maxillary recess, and strongly shouldered postcanine alveoli, supporting traversodontid affinities but not the original assignment to the genus Traversodon. These features are typical of deeply nested gomphodontosuchines, but do not form a unique combination of diagnostic characters that would allow a confident referral to any particular genus. The remaining specimens have no association or anatomical overlap with the lectotype and are here treated independently: the mandibular fragment is referred to Traversodontidae indet., the humerus to Eucynodontia indet., and the scapulocoracoid to an indeterminate non-cynodont amniote. Accordingly, \"Traversodon(?) major\" is retained as a nomen dubium: its lectotype lacks autapomorphies, and the remaining specimens cannot be reliably referred to the same taxon.",
+        "doi": "10.1002/ar.70385",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988571/",
+        "relevance": 4,
+        "matched": [
+          "anatomical",
+          "shoulder"
+        ]
+      },
+      {
         "pmid": "42977033",
         "title": "Identifying 24-h Urine Osmolality Thresholds for Adequate Water Intake in U.S. Children.",
         "journal": "The Journal of nutrition",
@@ -5050,25 +5027,6 @@
           "exercise",
           "aerobic",
           "recovery"
-        ]
-      },
-      {
-        "pmid": "41418335",
-        "title": "Encouraging Healthier Choices for Children in Restaurants: A Review of Interventions and Health Promotion Strategies.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-01",
-        "authors": "Mackenzie J Ferrante, Sara Tauriello, Stephanie Anzman-Frasca",
-        "abstract": "Restaurants are normative eating contexts for many families and thus are prime targets for health promotion efforts as restaurant meals are typically high in calories, saturated fat, and sodium. Recently, health promotion efforts have focused on children's menus in an effort to improve the food intake of children in these settings. The goal of the present narrative review is to summarize the current, peer-reviewed literature describing interventions and other health promotion efforts to improve the healthfulness of children's meal selection and/or intake in restaurants. Efforts to accomplish this goal were organized into implicit (subtle and typically involving environmental changes) and explicit (direct and typically information-based) strategies and described using a narrative method. Significant changes in children's ordering of restaurant food were consistently demonstrated in studies using optimal defaults (an implicit strategy) to increase the healthfulness of children's meals. Future research and policy efforts in this area could further examine this strategy alongside other strategies such as personalized prompts or pricing promotions, evaluating impacts across a wider range of sociodemographic groups. Future studies should also include randomized controlled trials with objective assessments of children's intake to build upon existing knowledge and improve the healthfulness of the restaurant environment for children.",
-        "doi": "10.1093/nutrit/nuaf251",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41418335/",
-        "relevance": 4,
-        "matched": [
-          "fat",
-          "calorie",
-          "food",
-          "meal"
         ]
       },
       {
@@ -5381,22 +5339,6 @@
         ]
       },
       {
-        "pmid": "42492233",
-        "title": "Resting Metabolic Rate in Collegiate Male Wrestlers: Cross-Validation and Development of Prediction Equations.",
-        "journal": "Medicine and science in sports and exercise",
-        "journal_issn": "0195-9131",
-        "discipline": "physiology",
-        "date": "2026-Nov-01",
-        "authors": "Andrew R Jagim, Ward C Dobbs, Meghan K Magee et al.",
-        "abstract": "PURPOSE: The purpose of the current study was to cross-validate previously developed resting metabolic rate (RMR) prediction equations using laboratory measurements of RMR as a criterion. METHODS: National Collegiate Athletic Association Division I (n = 60) and III (n = 113) male wrestlers participated in the current study (n = 173; Age: 19.6 ± 1.5 yrs.; Height: 176.3 ± 6.3 cm; Weight: 76.6 ± 10.9 kg; Body Fat: 11.4 ± 3.0%). Indirect calorimetry was used to measure RMR and Skinfold thickness was used to estimate body fat percentage (BF%) during the preseason period under standardized dress (underwear only), fasting, and resting conditions. RESULTS: Mean measured RMR was 2102 ± 341 kcal·d -1 . All body mass-based RMR prediction equations significantly underestimated the measured RMR, with the exception of the Jagim and Schofield equations. The Tinsley fat-free mass (FFM) equation and the Cunningham equation had the lowest constant error values when compared with measured RMR (mean bias ± standard error: 80 ± 20 kcal and 126 ± 20 kcal·d -1 , respectively). Linear regression indicated the Tinsley FFM (R 2 = 0.422, root-mean-squared error (RMSE) = 279 kcals, %RMSE = 13.3%), and Cunningham FFM equations had the closest agreement to measured RMR (R 2 = 0.422, RMSE = 301 kcals, %RMSE = 14.3%), along with the Jagim equation for a body mass-based prediction equation (R 2 = 0.377, RMSE = 338 kcals, %RMSE = 16.1%). The standard error of the estimate (SEE) ranged from 260 to 272 kcal·d -1 across equations. Coefficients of determination (R 2 ) ranged from 37% to 42%. The new body mass and FFM-based equations exhibited good agreement based on the constant error (26 and -13 kcal·d -1 ), RMSE (274 and 252 kcal·d -1 ), respectively. CONCLUSIONS: The newly developed equations demonstrated mean bias <2% of measured RMR.",
-        "doi": "10.1249/MSS.0000000000004071",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42492233/",
-        "relevance": 3,
-        "matched": [
-          "metabolic"
-        ]
-      },
-      {
         "pmid": "42966568",
         "title": "Temporal Eating Patterns Show Inconsistent Associations With Cancer Incidence and Mortality: Systematic Review of Prospective Studies.",
         "journal": "The Journal of nutrition",
@@ -5661,6 +5603,22 @@
         "matched": [
           "hip",
           "morphology"
+        ]
+      },
+      {
+        "pmid": "42993147",
+        "title": "Adipocyte FGF21 signalling connects protein restriction and metabolic cellular ageing.",
+        "journal": "The Journal of physiology",
+        "journal_issn": "0022-3751",
+        "discipline": "physiology",
+        "date": "2026-Nov-06",
+        "authors": "Carter M Holloway, Spencer W Holloway",
+        "abstract": "",
+        "doi": "10.1113/JP292602",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993147/",
+        "relevance": 2,
+        "matched": [
+          "metabolic"
         ]
       },
       {
@@ -6988,5 +6946,5 @@
       }
     ]
   },
-  "built_at": "2026-11-05 22:37"
+  "built_at": "2026-11-06 22:29"
 }

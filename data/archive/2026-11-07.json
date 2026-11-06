@@ -1,0 +1,540 @@
+{
+  "updated": "2026-11-07",
+  "articles": [
+    {
+      "pmid": "42989586",
+      "title": "The Vertebral Nerve as a Selective Target for Upper Limb Sympathetic Blockade: Anatomy, Ultrasound-Guided Technique, and Proof of Concept.",
+      "journal": "Clinical anatomy (New York, N.Y.)",
+      "journal_issn": "0897-3806",
+      "discipline": "anatomy",
+      "date": "2026-Nov-05",
+      "authors": "Bruno Buchholz, Alejandro Ortega, Verena B Franco-Riveros et al.",
+      "abstract": "The vertebral nerve (VN) is a postganglionic sympathetic structure that arises from the cervicothoracic ganglion, ascends alongside the vertebral artery, and provides sympathetic innervation to the upper limb via the brachial plexus. Despite its anatomical relevance, it remains largely unknown to anesthesiologists and pain clinicians. The stellate ganglion block (SGB) is the current standard for upper-limb sympatholysis but produces nonselective effects, including Horner's syndrome and potential cardiac involvement. A more selective approach targeting the VN could achieve equivalent upper-limb sympatholysis while potentially offering a superior safety profile. We conducted a comprehensive anatomical review of the VN, covering its origin, trajectory, branching patterns, and communications with both the cervical spinal nerves and the vertebral plexus. Using this anatomical framework, we describe an ultrasound-guided technique for selective VN blockade at the C7 level, validated with fluoroscopic contrast confirmation. We objectively evaluated clinical efficacy using infrared thermography and laser Doppler flowmetry. The VN is an anatomically consistent and sonographically accessible target for selective upper-limb sympathetic blockade. At this target, effective sympatholysis can be achieved with minimal injectate volumes, thereby avoiding the nonselective effects of conventional SGB. Further studies are needed to compare efficacy, optimal technique parameters, and complication rates with existing approaches.",
+      "doi": "10.1002/ca.70252",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989586/",
+      "relevance": 4,
+      "matched": [
+        "spinal",
+        "thoracic",
+        "anatomical",
+        "pain"
+      ]
+    },
+    {
+      "pmid": "42988571",
+      "title": "Taxonomic and anatomical comments on \"Traversodon(?) major\" von Huene, 1936 (Cynodontia) from the Middle Triassic of Brazil.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-05",
+      "authors": "Leonardo Kerber, Ingmar Werneburg",
+      "abstract": "Traversodontids were diverse non-mammaliaform cynodonts that occupied herbivorous and omnivorous niches during the Middle and Late Triassic. In Brazil, they are particularly well represented in the Santa Maria Supersequence, although the taxonomic status of some historically described taxa remains uncertain. Among them, \"Traversodon(?) major\" von Huene, 1936 was established on the basis of isolated cranial, mandibular, and postcranial remains from the Chiniquá region of southern Brazil. Here, we reassess the anatomy and taxonomic affinities of the specimens historically assigned to this species. A left maxilla (GPIT-PV-61005, here designated as lectotype) is the most informative specimen. It exhibits a combination of a broad maxillary platform, a maxillary recess, and strongly shouldered postcanine alveoli, supporting traversodontid affinities but not the original assignment to the genus Traversodon. These features are typical of deeply nested gomphodontosuchines, but do not form a unique combination of diagnostic characters that would allow a confident referral to any particular genus. The remaining specimens have no association or anatomical overlap with the lectotype and are here treated independently: the mandibular fragment is referred to Traversodontidae indet., the humerus to Eucynodontia indet., and the scapulocoracoid to an indeterminate non-cynodont amniote. Accordingly, \"Traversodon(?) major\" is retained as a nomen dubium: its lectotype lacks autapomorphies, and the remaining specimens cannot be reliably referred to the same taxon.",
+      "doi": "10.1002/ar.70385",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988571/",
+      "relevance": 4,
+      "matched": [
+        "anatomical",
+        "shoulder"
+      ]
+    },
+    {
+      "pmid": "42913125",
+      "title": "Reliability of multilevel functional data in resistance training biomechanics - a pointwise mixed-modelling approach.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov",
+      "authors": "Ignas Palamarcukas, Tianming Zhu, Pui Wah Kong",
+      "abstract": "Despite the increasing use of waveform analysis methods in resistance training biomechanics research, test-retest reliability assessments remain largely focused on discrete outcome measures. Thus, this study aimed to investigate test-retest reliability of joint kinetic waveforms of a heavy lower-body strength training task by adopting a pointwise linear mixed-effects model. In total, 21 participants performed 2 sets of 5 repetitions of rear-foot-elevated split squat (RFESS) at 80% 1-repetition maximum (RM) on two separate sessions, spaced apart by 7.4 ± 1.1 days. Reliability was assessed for joint moment and vertical ground reaction force (vGRF) variables using intraclass correlation coefficient (ICCJ) and smallest detectable change (SDCJ) for J averaged repetitions. Random intercept linear mixed-effects models were applied pointwise to each curve point to acquire variance components for ICCJ and SDCJ. Joint confidence intervals and bands were constructed using bootstrap. The most reliable portions of RFESS were the middle 25-75% region (ICCJ 0.75 to above 0.90), with both the onset and end of repetition showing wide confidence intervals spanning poor-to-excellent ICCJ values. The mixed-effects models revealed that there was substantially more variance attributed to within-session than between-sessions components. Further analysis revealed that ICCJ and SDCJ values could be improved by increasing number of repetitions collected, with diminishing returns past approximately 10 repetitions. In conclusion, parts of RFESS repetition with high force demands show good-to-excellent kinetic waveform reliability in healthy young adults, whereas the start and end of the repetition suggest high uncertainty in reliability and relatively large smallest detectable change thresholds.",
+      "doi": "10.1016/j.jbiomech.2026.113587",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913125/",
+      "relevance": 10,
+      "matched": [
+        "biomechanic",
+        "training",
+        "joint",
+        "kinetic",
+        "foot",
+        "acl"
+      ]
+    },
+    {
+      "pmid": "42900973",
+      "title": "Towards understanding the ankle torque conundrum in isokinetic dynamometry: mechanical validation of dynamometer torque measurements under quasi-static actuator loading.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov",
+      "authors": "Gabriele Ghezzi, Juha-Pekka Kulmala",
+      "abstract": "Isokinetic dynamometers (IKD) are widely used to measure passive and active torque generated at the joints, but active ankle plantarflexor torques measured with IKD are substantially lower than those derived from inverse dynamics (ID) for reasons that remain unclear. We conducted mechanical testing to investigate whether this discrepancy reflects intrinsic mechanical error in IKD measurement. A linear actuator-force plate setup was used to calculate torques via ID and compare them with IKD (Con-Trex) torques measured with ankle pedal attachment under four conditions that varied the vertical and lateral distances between the point of force application on the pedal and the IKD axis. Bland-Altman analysis showed small systematic bias across testing conditions (-2.97 to 2.30 Nm), but a significant proportional bias in all configurations (p < 0.001): IKD underestimated torque by ∼ 3 Nm at levels relevant to maximal plantarflexor effort and overestimated torque by 1-3 Nm at levels relevant to passive torque measurement. Reducing the lateral distance of force application by 4.5 cm reduced the external force required to produce the same IKD torque by 9% and substantially reduced off-axis torque. These findings indicate that mechanical bias alone is unlikely to explain the large IKD-ID discrepancy previously reported for human maximal plantarflexor torque, although it may be relevant for passive torque measurement. The greater off-axis loading observed with a larger lateral force-application distance may affect torque transmission within the dynamometer. Whether off-axis loading, mechanical compliance, or other factors contribute to the IKD-ID discrepancy during human testing remains to be determined.",
+      "doi": "10.1016/j.jbiomech.2026.113632",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900973/",
+      "relevance": 7,
+      "matched": [
+        "kinetic",
+        "ankle",
+        "joint"
+      ]
+    },
+    {
+      "pmid": "42987660",
+      "title": "Fatty infiltration of the lumbar paravertebral muscles is related to functional limitations in patients with adult spinal deformity.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Oct-30",
+      "authors": "Nabil Nassim, Ayman Assi, Elio Mekhael et al.",
+      "abstract": "BACKGROUND: Adult spinal deformity (ASD) is associated with reduced quality of life and functional impairment. Fatty infiltration of paravertebral muscles, quantified on MRI, has been linked to global malalignment and postoperative complications, but requires time-consuming analysis and specific protocols. The simpler qualitative Goutallier classification remains underexplored in ASD. This study aimed to assess the relationship between paravertebral muscle fatty infiltration, functional and radiographic parameters, and quality-of-life scores using the Goutallier method. METHODS: Sixty-four ASD patients underwent full-body biplanar X-rays and completed the ODI questionnaire. 3D gait analysis was performed to calculate joint kinematics, spatiotemporal parameters, and the Gait Deviation Index (GDI: 0-100; decreases with severity). Lumbar MRIs were used to assess paravertebral muscle fatty infiltration with the Goutallier classification. Patients were grouped as High-Infiltration (Goutallier grades 3-4) or Low-Mod-Infiltration (Goutallier grades 0-2). Radiographic, kinematic parameters and quality-of-life scores were compared, and correlations with Goutallier grade were calculated. RESULTS: Patients were divided into 33 High-Infiltration and 31 Low-Mod-Infiltration. The High-Infiltration group had increased SVA (76 vs 22mm) and PI-LL mismatch (19 vs 3°; all p < 0.05). During gait, they showed decreased GDI (80 vs 91), walking speed (0.7 vs 0.9 m/s) and increased thorax flexion (13 vs 4°; all p < 0.05). They also had increased ODI scores (47 vs 36, p = 0.02). Goutallier grades correlated with SVA (ρ = 0.43), PI-LL mismatch (ρ = 0.44) and walking speed (ρ = -0.43; all p < 0.05). CONCLUSION: The Goutallier classification, a simple method using routine MRI, is associated with malalignment severity and functional impairment in ASD. High grades may help identify patients who could benefit from targeted interventions, such as muscle strengthening to optimize outcomes.",
+      "doi": "10.1016/j.gaitpost.2026.110683",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987660/",
+      "relevance": 13,
+      "matched": [
+        "muscle",
+        "spinal",
+        "lumbar",
+        "joint",
+        "hip",
+        "kinematic"
+      ]
+    },
+    {
+      "pmid": "42986605",
+      "title": "Understanding the Complexity of Athlete Sleep: A Systems Approach to Modelling the Athlete Sleep Environment.",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "journal_issn": "0112-1642",
+      "discipline": "physiology",
+      "date": "2026-Nov-05",
+      "authors": "Matthew Morrison, Shona L Halson, Carissa L Gardiner et al.",
+      "abstract": "BACKGROUND: Athlete sleep can be disrupted by sport- and non-sport-related factors. However, the interactions of these sleep-related factors are not well understood. Systems science approaches, such as causal loop diagramming (CLD), provide an opportunity to map these interactions. This project aimed to (1) develop a CLD of the athlete sleep system describing the interacting variables, (2) identify feedback loops and potential leverage points to optimise athlete sleep, and (3) demonstrate the applicability of a CLD to guide the development of a sleep monitoring framework. METHODS: A systems-based model of athlete sleep was developed using CLD, informed by existing literature and refined through a consensus process involving ten subject matter experts (nine from Australia, one from the USA). The model was then interrogated using network analysis to identify key variables based on their position and connectivity within the system. These findings informed the development of a generic sleep monitoring framework. RESULTS: The CLD comprised 48 variables and 120 relationships across four domains: travel demands, behavioural and lifestyle factors, athlete condition and readiness, and resourcing and scheduling constraints. Overall, 12 key variables were identified, with hours of travel, number of time zones crossed, dose of caffeine, and amount of resources or expenditure available being the most connected upstream variables. Level of pre-sleep arousal, sleep opportunity, travel fatigue, and level of performance received the greatest number of incoming relationships, representing points at which multiple pathways converge. Physical condition, level of performance, quality of diet, and importance of competition most frequently linked different quadrants of the system. These variables informed a three-tier monitoring framework capturing upstream determinants and downstream consequences of sleep. CONCLUSIONS: According to the CLD, sleep health in athletes extends beyond an individual behaviour issue and is influenced by the structure and functioning of sport systems. Interactions among travel demands, physical readiness, behavioural and lifestyle factors, and organisational constraints sustain athlete sleep health over time. Consequently, meaningful improvements in sleep health are likely to arise from both system-level interventions and individual behaviour change strategies.",
+      "doi": "10.1007/s40279-026-02568-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986605/",
+      "relevance": 6,
+      "matched": [
+        "athlete",
+        "fatigue",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "42993147",
+      "title": "Adipocyte FGF21 signalling connects protein restriction and metabolic cellular ageing.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Carter M Holloway, Spencer W Holloway",
+      "abstract": "",
+      "doi": "10.1113/JP292602",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993147/",
+      "relevance": 2,
+      "matched": [
+        "metabolic"
+      ]
+    },
+    {
+      "pmid": "42992456",
+      "title": "Epitope-dependent acute inhibition and potentiation of N-methyl-d-aspartate receptors by GluN1 autoantibodies.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Shang Yang, Johanna Heckmann, Maximilian Zettner et al.",
+      "abstract": "Transfer of autoantibodies targeting ionotropic N-methyl-d-aspartate (NMDA) receptors from patients with autoimmune encephalitis to mice induces characteristic disease signs. The long-term effects of pathogenic antibodies include immunoglobulin G (IgG)-induced cross-linking and receptor internalization. We investigated the direct and immediate impact of two specific pathogenic patient-derived monoclonal autoantibodies (IgG #003-102 and #007-168) on NMDA receptor (NMDAR) function. We performed cell-attached recordings from cells transfected with the GluN1-3a and GluN2A subunits of NMDARs. IgG #003-102 binds to the R2 lobe of the amino-terminal domain (ATD) of the glycine-binding GluN1 subunit. It significantly reduced the number of simultaneous NMDAR openings compared to controls at both low and high concentrations of glutamate and glycine. Closer examination revealed that IgG #003-102 rapidly reduced the number of open receptors and shortened receptor-opening bursts. However, antigen-binding fragments of IgG #003-102 did not reduce receptor openings. By contrast, IgG #007-168, which binds to the top of the R1 lobe of the GluN1-ATD, potentiated the NMDAR response. In conclusion, patient-derived IgG #003-102 inhibits NMDARs within seconds, before receptor internalization, and the full IgG is required for this acute inhibitory effect. This suggests that monovalent IgG #003-102 constructs could be a new treatment strategy to shield a pathogenic epitope on NMDARs. KEY POINTS: N-methyl-d-aspartate (NMDA) receptors (NMDARs) are ionotropic glutamate receptors central to brain development and function. Anti-NMDAR encephalitis is the most common cause of non-viral autoimmune brain inflammation and is characterized by psychosis, dyskinesias, autonomic dysfunction and seizures. Symptoms are considered to result from autoantibodies that internalize surface NMDARs on neurons. Using patch clamp recordings, we tested the acute effects of two monoclonal anti-GluN1 autoantibodies and the Fab fragment of one of them on NMDARs. The autoantibody (IgG #003-102), which binds to the R2 lobe of the GluN1-amino-terminal domain (ATD), inhibits receptors within seconds. The entire IgG is required for this inhibition. By contrast, IgG #007-168, which binds to the top of the R1 lobe of the GluN1-ATD, potentiates receptor responses. By capitalizing on the null phenotype of a Fab from IgG #003-102, we propose monovalent constructs as a potential new treatment strategy to prevent pathogenic antibodies from causing receptor dysfunction.",
+      "doi": "10.1113/JP287479",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992456/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42992386",
+      "title": "Multiparametric cardiomyocyte profiling with single-LED excitation reveals subtype-specific electromechanical coupling in LQTS in vitro.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Aleksandr Khudiakov, Chiara Alberio, Davide Fernando Dragani et al.",
+      "abstract": "Cardiac excitation-contraction coupling (ECC) is an essential and tightly regulated process that links action potentials to intracellular calcium release and mechanical contraction. At the whole-heart level, ECC is captured by integrative evaluation of electrical and mechanical components of the cardiac cycle through parameters termed electromechanical delay (EMD) and electromechanical window (EMW). Alterations in the EMD or EMW reflect impaired electromechanical coupling and have been associated with increased arrhythmic risk across multiple cardiac diseases. However, it is currently unclear whether and how equivalent metrics can be derived and interpreted in vitro or meaningfully applied to patient-specific human disease models. Here, we implement ECC profiling in vitro using a single-LED optical imaging system that enables simultaneous measurements of membrane voltage, intracellular calcium and contractility. This approach allows quantification of individual transients and their temporal relationships. To investigate distinct perturbations of ECC, we applied this platform to human-induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) representing three mechanistically distinct ECC perturbations: a repolarization defect (LQT2, KCNH2 p.A561V), a calmodulin-associated calcium-handling defect (CALM-LQTS, CALM1 p.F142L) and pharmacological contractile uncoupling by myosin ATPase inhibition (blebbistatin). Cellular analogues of the clinical EMD and EMW were robustly quantifiable and provided mechanistically informative ECC signatures that were not entirely captured by conventional metrics focused on asynchronous individual transient analysis. Pharmacological targeting of the main cardiac ion currents further validated these findings and confirmed the robustness of the ECC quantification. This novel technique provides a basis for more sensitive assessment of disease phenotypes, arrhythmogenic risk and pharmacological effects in human cellular models, supporting the development of new approach methodologies. KEY POINTS: A single-LED optical platform enables fully synchronized, simultaneous measurement of voltage, calcium and contraction in human-induced pluripotent stem cell (hiPSC)-derived cardiomyocytes (CMs) at a high spatial and temporal resolution. In vitro analogues of the clinical electromechanical delay and electromechanical window can be robustly quantified in hiPSC-CM monolayers and behave consistently with their in vivo counterparts under genetic and pharmacological perturbations. Despite comparable APD80 prolongation, LQT2 and CALM-LQTS hiPSC-CMs display divergent electromechanical signatures, demonstrating that integrative ECC metrics resolve mechanistic differences not captured by conventional single-transient analyses. Pharmacological recapitulation of the disease phenotypes further confirmed these observations. In vitro ECC profiling offers a sensitive approach for distinguishing mechanistic perturbations of cardiac function and improving the characterization of arrhythmogenic risk.",
+      "doi": "10.1113/JP290466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992386/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42989993",
+      "title": "Increased muscle temperature: A time-dependent stimulus of group III/IV afferent-mediated exercise pressor reflex.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Elsa N Musselman, Ashley M Day, Jake W C Johansen et al.",
+      "abstract": "",
+      "doi": "10.1113/JP292749",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989993/",
+      "relevance": 4,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "42992949",
+      "title": "Cardiometabolic Outcomes in Dahl Salt-Sensitive Rat Pregnancies: Impact of a Maternal Hypertensive High-Fat Diet.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Viviane C L Gomes, Victoria N Bailey, Lauren G Kim et al.",
+      "abstract": "Excessive adiposity and chronic hypertension are major risk factors of preeclampsia, a leading hypertensive disorder of pregnancy. Yet, mechanisms underlying the complex interplay between adiposity, chronic hypertension, and preeclampsia remain incompletely understood, partly due to the limited availability of experimental models that capture these interactions. Herein, we explored maternal cardiometabolic adaptations in high-fat diet (HFD)-fed Dahl Salt-Sensitive rats, an established model of HFD-associated chronic hypertension. We hypothesized that HFD-fed dams would display a superimposed preeclampsia-like phenotype compared to control diet (CD)-fed Dahl Salt-Sensitive females. HFD-fed dams exhibited attenuated gestational weight gain, increased ketogenesis, cardiovascular dysfunction and blunted uteroplacental vascular adaptation to pregnancy. HFD feeding was associated with high blood pressure pre-pregnancy and during most of gestation and lactation. Interestingly, however, both groups displayed a drop in blood pressure during late gestation, with lower blood pressure nadir and lower urine protein excretion in HFD-fed dams. Short-term pregnancy outcomes were largely preserved in HFD-fed dams, including litter size, pup viability, and placental efficiency. Long-term, dietary normalization failed to reverse the hypertensive phenotype of HFD-exposed dams, with blood pressure remaining 10-15 mmHg higher than controls for at least 14 weeks post-weaning. In conclusion, HFD-fed Dahl salt-sensitive females developed chronic hypertension and impaired metabolic and cardiovascular adaptations to pregnancy. Yet, neither CD- nor HFD-fed dams exhibited hallmark preeclampsia features, including late-gestation blood pressure rise, proteinuria, and fetal growth restriction. This model therefore provides a valuable platform to investigate adaptive cardiometabolic mechanisms that may attenuate preeclampsia risk in obese and chronic hypertensive patients.",
+      "doi": "10.1152/ajpendo.90128.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992949/",
+      "relevance": 4,
+      "matched": [
+        "metabolic",
+        "adaptation"
+      ]
+    },
+    {
+      "pmid": "42992851",
+      "title": "Hydration of Fat-Free Mass: Mechanistic Basis of Classic Body Composition Constant.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Christian Rodriguez, Jonathan P Bennett, Shengping Yang et al.",
+      "abstract": "The widely used two-component hydrometry model of body composition rests on the assumption that fat-free mass hydration (total body water, TBW/FFM) is stable at 0.732. Deviations from this constant have been reported, but their basis is unknown. The current study applied Wang's 2008 mechanistic FFM hydration model to establish factors underlying this variation. Healthy participants (407 males, 469 females) had TBW, total body potassium (TBK), body density, and bone mineral (Mo) measured; FFM was derived with a five-component model. Two key model terms, extracellular-to-intracellular water ratio (ECW/ICW) and extracellular solids-to-TBW ratio (ECS/TBW), were evaluated across discrete age-sex groups and modeled as continuous functions of age, followed by causal mediation analysis. Group mean FFM hydration ranged from ∼0.73 and 0.75, and within that range increased significantly with age (0.00018/yr, P=0.003) after adjusting for sex and BMI. ECW/ICW increased (0.00463/yr, P<0.001) and ECS/TBW decreased (-0.00018/yr, P<0.001) with age, two main factors contributing to age-related increase in FFM hydration. Mediation analysis indicated near-complete mediation by ECW/ICW (P<0.001; direct effect, P=0.862) and partial mediation by ECS/TBW (56.2%), the latter differing by sex. ECS/TBW demonstrated near-complete mediation in females (97.6%) but no significant total age effect on TBW/FFM in males, reflecting an increase rather than decrease in ECS/TBW with age in males. Although FFM hydration occupies a narrow absolute range in adults, it rises systematically with age, mechanistically attributable to relative expansion of ECW and secondarily to loss of ECS. The practical importance of this shift is likely minimal for two-component densitometric applications, but potentially meaningful for bioimpedance and other methods that embed a fixed hydration constant.",
+      "doi": "10.1152/ajpendo.90102.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992851/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42992850",
+      "title": "Mitochondrial Oxysterol Signaling in Epigenetic Regulation and Therapeutic Development.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Yaping Wang, Shunlin Ren",
+      "abstract": "Oxysterols are oxygenated cholesterol derivatives with receptor-dependent and epigenetic activities. This review examines how mitochondrial cholesterol metabolism and oxysterol sulfation may connect lipid metabolism to DNA methylation and communication between hepatocytes and macrophages. Biochemical studies show that 25-hydroxycholesterol (25HC) and 27-hydroxycholesterol (27HC) activate DNA methyltransferase 1 (DNMT1), whereas their 3-sulfated derivatives inhibit the activities of DNMT1, DNMT3A, and DNMT3B. Cholestenoic acid (CA) has a concentration-dependent effect, activating DNMT1 at lower concentrations and inhibiting it at higher concentrations. In hepatocyte models, these activities are associated with altered promoter CpG methylation and expression of genes involved in lipid metabolism, inflammatory responses, and cell survival. The sulfated CA metabolite, 3β-sulfate-5-cholestenoic acid (3SCA), is secreted by hepatocytes and modifies inflammatory gene expression in macrophages. We propose an oxysterol epigenetic rheostat in which metabolite concentrations and sulfation influence DNMT activities. Published animal studies support protective effects of 25-hydroxycholesterol 3-sulfate in fatty liver disease, endotoxemia, and acetaminophen-induced liver injury. Its clinical formulation, larsucosterol, has shown favorable hepatic and metabolic signals in Phase 1b fatty liver studies and nominally significant mortality reductions in prespecified US Phase 2b alcohol-associated hepatitis (AH) analyses. These encouraging findings require confirmation because the overall Phase 2b primary endpoint was not met. Larsucosterol has received Fast Track and Breakthrough Therapy designations from the US Food and Drug Administration (FDA) for AH and is currently being evaluated in a registrational Phase 3 trial.",
+      "doi": "10.1152/ajpendo.90058.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992850/",
+      "relevance": 7,
+      "matched": [
+        "mitochondrial",
+        "metabolic",
+        "metabolism",
+        "oxygen",
+        "injury"
+      ]
+    },
+    {
+      "pmid": "42990005",
+      "title": "On methodological approaches for non-invasive characterization of muscle oxygen uptake recovery kinetics.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Alessio Marciano, Harry B Rossiter",
+      "abstract": "",
+      "doi": "10.1113/EP094185",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990005/",
+      "relevance": 4,
+      "matched": [
+        "recovery",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "42987186",
+      "title": "Knee Joint Contact Force and Muscle Contributions in Back vs. Front Squats Across Different Loads.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-05",
+      "authors": "Taewoong Kong, Kristof Kipp, Hoon Kim",
+      "abstract": "",
+      "doi": "10.1519/JSC.0000000000005728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987186/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42987818",
+      "title": "Initial Acceleration Deficit as a Timing-Derived Performance Metric of Early-Phase Sprint Acceleration in Elite Youth Soccer Players.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-04",
+      "authors": "Nikolaos Androulakis, Evaggelos Sideropoulos, Nikolaos Koundourakis",
+      "abstract": "PURPOSE: To examine the applied relevance of initial acceleration deficit (IAD) as a timing-derived performance metric of early-phase sprint acceleration in elite youth soccer players. METHODS: A cross-sectional study was conducted in 112 elite male youth soccer players (aged 15-18 y). Sprint performance was assessed over 25 m using dual-beam timing gates (splits at 0, 5, 10, 15, 20, and 25 m). IAD was calculated as the difference between the 0- to 10- and 5- to 15-m intervals derived from the same trial. Vertical jump performance and anthropometric characteristics were also assessed. IAD was additionally expressed in normalized form, and percentile-based reference values (25th, 50th, and 75th) were established. RESULTS: A strong association was observed between IAD and 0- to 10-m sprint time (r = .805, P < .001). No significant associations were observed between IAD and vertical jump performance or anthropometric variables (all P > .10), whereas 20-m sprint time demonstrated moderate associations with jump performance. No significant positional differences were identified for IAD; however, goalkeepers exhibited a nonsignificant tendency for faster 0- to 10-m times without corresponding differences in IAD. CONCLUSION: IAD represents a timing-derived performance metric of early acceleration structure. While derived from shared temporal components with sprint time, it provides additional insight into how acceleration is distributed during the initial phase of sprinting. Expression in normalized form may support athlete profiling and monitoring in applied environments where advanced biomechanical assessment is not feasible.",
+      "doi": "10.1123/ijspp.2026-0212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987818/",
+      "relevance": 10,
+      "matched": [
+        "sprint",
+        "performance",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "42815454",
+      "title": "The Underappreciated Methods Section-What Is Needed, and How Is It Best Presented?",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "David B Pyne, Naroa Etxebarria",
+      "abstract": "",
+      "doi": "10.1123/ijspp.2026-0465",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815454/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42686137",
+      "title": "Response to Jaén-Carrillo Comment on Rodríguez-Medina and Rodríguez-Marroyo: Methodological Concerns Regarding Running Power Validity in Mountain Running Championship Analysis.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Juan Rodríguez-Medina, Jose A Rodríguez-Marroyo",
+      "abstract": "",
+      "doi": "10.1123/ijspp.2026-0368",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686137/",
+      "relevance": 2,
+      "matched": [
+        "power"
+      ]
+    },
+    {
+      "pmid": "42686134",
+      "title": "Uphill Performance in Master Mountain Runners: How Age and Participation Affect Sex Differences.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Esther Eustache, Antoine Raberin, Sarah Rowell et al.",
+      "abstract": "OBJECTIVE: This study aimed to investigate the sex difference in uphill performance of Master runners. We tested the hypothesis that aging would reduce this difference, with the aging-induced performance decline being smaller in females than in males. We also analyzed changes in female participation over the past 20 years, with the hypothesis that increasing participation would be associated with a narrowing of sex differences during this period. METHODS: Data were extracted from the uphill races of the World Masters Mountain Running Championships between 2004 and 2024 and consisted of n = 116 top-3 performances in male and female Master runners (aged 35-69), across 5-year age categories. RESULTS: The sex differences in uphill performance of Master runners were 22.2% (4.9%) and remained similar across ages. Over the 20-year period, sex differences remained constant. There was a linear relationship between the number of female participants and the sex-based performance differences (r = -.31, P < .05). DISCUSSION: The 22% sex difference reported in Master mountain runners is comparable to that reported in elite athletes. Contrary to our hypotheses, sex differences in uphill running performance did not change across age categories and remained stable over the past 20 years. However, sex differences appeared to narrow as female participation increased, possibly due to the small female sample (approximately 20 on average), where individual performances may have had a greater proportional impact.",
+      "doi": "10.1123/ijspp.2025-0206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686134/",
+      "relevance": 7,
+      "matched": [
+        "performance",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "42686125",
+      "title": "Comment on Rodríguez-Medina and Rodríguez-Marroyo: Methodological Concerns Regarding Running Power Validity in Mountain Running Championship Analysis.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Diego Jaén-Carrillo",
+      "abstract": "This letter highlights key methodological concerns regarding the use of running power in mountain running analysis. The estimation of critical power from nonmaximal, race-derived efforts using a 2-point model may lead to inaccurate critical power and W' values, affecting derived intensity domains. Additionally, walking-running transitions act as a confounding factor, as power metrics underestimate the metabolic cost of walking. Finally, the validity of running power during downhill running is limited due to the dissociation between mechanical power and metabolic demand, and the greater influence of neuromuscular factors. These limitations suggest that running power should be interpreted cautiously as a proxy for physiological intensity in mountain running.",
+      "doi": "10.1123/ijspp.2026-0286",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686125/",
+      "relevance": 5,
+      "matched": [
+        "power",
+        "metabolic",
+        "neuromuscular"
+      ]
+    },
+    {
+      "pmid": "42642029",
+      "title": "Longitudinal Changes in Running Economy Following Minimalist Footwear and Running-Retraining Interventions Over 12 Months.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Guillaume Abran, Nadia Dardenne, François Delvaux et al.",
+      "abstract": "PURPOSE: The objective of this study was to compare the long-term effects of running retraining and minimalist footwear on running economy (RE), foot and ankle adaptations, and running biomechanics over a 12-month period. METHOD: In this randomized controlled trial, 61 habitual rearfoot runners were allocated to 3 groups: minimalist footwear (n = 19), running-retraining (n = 18), and control (n = 24). Participants were evaluated at baseline, 2, 6, and 12 months. Outcome measures included RE and biomechanics assessed on a treadmill at self-selected comfortable speed, as well as foot and ankle characteristics. RESULTS: RE improved over time in all groups, with no clear between-group differences at any time point. RE significantly improved from baseline in both the minimalist group (+4.9% at 6 mo and +9.3% at 12 mo; P = .03 and P < .001, respectively) and the running-retraining group (+5.6% at 6 mo and +10.5% at 12 mo; P < .001 for both). The control group showed an improvement in RE (+4.7%) at 12 months compared to baseline (P = .01). No significant changes were observed in foot and ankle characteristics in any group across the follow-up period. CONCLUSION: RE improved similarly across all groups, suggesting that neither running retraining nor transitioning to minimalist footwear provides additional benefits beyond the control condition over a 12-month period. Although descriptive trends indicated greater improvements in the intervention groups, substantial interindividual variability highlights the need to identify responders to these interventions in future studies.",
+      "doi": "10.1123/ijspp.2026-0047",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642029/",
+      "relevance": 7,
+      "matched": [
+        "training",
+        "adaptation"
+      ]
+    },
+    {
+      "pmid": "42642026",
+      "title": "The Relationship Between Trunk Strength and Turn Performance in 400-m Front Crawl for National-Level Swimmers.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Jiaoyang Zhong, Yingqi Yin, Wen Luo et al.",
+      "abstract": "PURPOSE: Turns are critical in 400-m front crawl (FC) swimming and may rely on trunk strength for efficient rotation and underwater propulsion. This study investigated the relationship between trunk strength and turn performance in 400-m FC. METHODS: Twenty national-level swimmers completed trunk strength assessments using an IsoMed 2000 dynamometer: isokinetic flexion/extension (60°/s and 180°/s), bilateral rotation (90°/s and 150°/s), and isometric strength in 4 directions. Turn performance, including 15-m turn time, 5 m before and 5 m/10 m after wall contact, and 5-m round-trip time, as well as overall turn time and 400-m FC performance were obtained from a 400-m FC test. Pearson or Kendall correlations examined relationships between peak torque (PT), weight-normalized PT (wPT), and performance metrics. Multiple linear regression examined sex moderation effects. RESULTS: 15-m turn time, 5-m round-trip time, 5 m/10 m after wall contact, and overall turn time showed moderate to strong negative correlations with trunk flexion-extension PT and wPT at 60°/s (r = -.466 to -.734, P < .05) and bilateral rotation PT and wPT at 150°/s (r = -.515 to -.799, P < .05). Isometric flexion and bilateral rotation PT were also significantly correlated with most turn parameters (r = -.480 to -.669, P < .05). Sex did not significantly influence the most correlated associations. CONCLUSIONS: Trunk strength, particularly in flexion-extension at lower angular velocities and bilateral rotation at higher velocities, is closely associated with turn performance in national-level 400-m FC swimmers.",
+      "doi": "10.1123/ijspp.2025-0477",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642026/",
+      "relevance": 9,
+      "matched": [
+        "strength",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "42632638",
+      "title": "Rethinking the Minimum Standards for Medaling in National, Regional, and International Para Powerlifting Competitions.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Christopher Latella, Patrick Beaumont, Ngawang Norbu Dargay et al.",
+      "abstract": "PURPOSE: To provide up-to-date, evidence-based minimum standards for medaling and contemporary normative strength values in Para Powerlifting. METHODS: This was a retrospective analysis of competition data from the World Para Powerlifting database and an online open-access data set (openpowerlifting.org). Athletes ≥15 years of age competing from 2013 to 2025 were separated by competitive level: national, regional, or international (World Cup, World Championship, and Paralympic Games). Subgroup analysis was performed on World Para Powerlifting defined age categories: rookie (15-17), next gen (18-20), and legend (≥45). We determined the 50th percentile value for each competitive weight class and used this as the anchor for proposed minimum standards to determine medal-winning performances compared with those currently implemented by World Para Powerlifting originally based on percentages of the world record (25%-55% across age categories and competition levels). Normative values were calculated according to relative strength performance and defined according to deciles for each age, sex, and competition level. RESULTS: Records from 6064 male and 3187 female competitor entries were included. The proposed standards were, on average, 51 kg greater for males and 29 kg greater for females than current standards. In 41% of all categories, current minimum standards were reflective of the first percentile of all actual competition performances. For normative strength, the highest values were observed among elite athletes competing at the Paralympic Games, followed by World Championships, World Cups, regional competitions, and, finally, national events. CONCLUSION: The proposed standards and normative data presented here provide premise for discussion around medal-eligibility criteria and athlete development benchmarks within Para Powerlifting.",
+      "doi": "10.1123/ijspp.2026-0062",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632638/",
+      "relevance": 7,
+      "matched": [
+        "power",
+        "strength",
+        "performance",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "42799666",
+      "title": "Generative artificial intelligence use in United States Doctor of Physical Therapy programs.",
+      "journal": "Physical therapy",
+      "journal_issn": "0031-9023",
+      "discipline": "fascia",
+      "date": "2026-Nov-05",
+      "authors": "Craig P Hensley, Christa M Nelson, Benjamin Price et al.",
+      "abstract": "IMPORTANCE: Generative artificial intelligence (AI) in education is poised to significantly impact the field of physical therapy. Research on generative AI use in physical therapist education remains limited. OBJECTIVE: The objective was to examine generative AI use in physical therapist education among students and faculty. DESIGN: This was a cross-sectional, online survey. SETTING: The survey was conducted among accredited Doctor of Physical Therapy (DPT) programs in the United States (US). PARTICIPANTS: Students and faculty were recruited from US DPT programs as of January 2025. INTERVENTION(S) OR EXPOSURE(S): Generative AI use within DPT programs was measured by participant self-report. MAIN OUTCOMES AND MEASURES: A novel 32-item survey comprising closed- and open-ended questions assessed generative AI use, patterns and purposes of use, platforms, training and comfort levels, views on generative AI's role in physical therapist practice, student preparedness and academic integrity, adoption facilitators/barriers, and demographics. Factors associated with generative AI use were examined using multivariable logistic regression. RESULTS: Among 1067 respondents (873 students, 194 faculty), 853 (79.9%) reported using generative AI, including 687 students (78.7%) and 166 faculty (85.6%). ChatGPT was the most common used platform (662 students, 96.4%; 153 faculty, 92.2%). Common reasons for use included creating study guide/sample questions (482 students, 70.2%; 74 faculty, 44.6%) and creating patient cases (370 students, 53.9%; 102 faculty, 61.5%). Barriers to use included concerns about reliability and scientific rigor (student users: 411, 59.8%; non-users: 133, 71.5%; faculty users: 90, 54.2%; non-users: 14, 50.0%) and lack of trust in the technology and/or companies behind it (student users: 287, 41.8%; non-users: 112, 60.2%; faculty users: 63, 38.0%; non-users: 13, 46.4%). Generative AI use was associated with higher self-reported comfort with the technology (students: OR = 11.6, 95% CI = 7.9-17.1; faculty: OR = 14.3, 95% CI = 5.1-40.0). CONCLUSION: Generative AI is widely used among DPT students and faculty, yet substantial variability exists in its use and formal instruction within DPT programs. RELEVANCE: As its integration into health care accelerates, incorporating education on generative AI within DPT programs is crucial to ensure students are prepared to use these tools competently and responsibly.",
+      "doi": "10.1093/ptj/pzag102",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799666/",
+      "relevance": 1,
+      "matched": [
+        "training"
+      ]
+    },
+    {
+      "pmid": "42869714",
+      "title": "Life-course associations of early-life risk factors, modifiable adult lifestyles, and transitions of cardiometabolic disease and multimorbidity: A prospective cohort study.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov",
+      "authors": "Xiaoyan Zhang, Baiwei Xu, Cheng Peng et al.",
+      "abstract": "BACKGROUND: Whether associations of early-life risk factors with cardiometabolic disease (CMD) transitions vary by adult lifestyles remains unclear. OBJECTIVES: We aimed to examine the associations between early-life risk factors and CMD transitions, and to assess whether adult lifestyles can modify these associations. METHODS: We analyzed data from 174,718 adults participating in the United Kingdom Biobank prospective cohort study. We defined 5 CMD transitions using a multistate model: from CMD-free to first CMD (FCMD; including stroke, ischemic heart disease, and type 2 diabetes), from FCMD to cardiometabolic multimorbidity (CMM), and from CMD-free, FCMD, and CMM to death. An early-life risk score (ERS; 0-3) summed low birth weight, maternal smoking around birth, and absence of human milk feeding in infancy. Adult lifestyle was quantified using an adult lifestyle score (ALS) adapted from 4 behavioral metrics of the Life's Essential 8 framework, and data were collected at study enrollment when participants had a median age of 55 y. RESULTS: During a median follow-up of 14.6 y, individuals with both high early-life risk (ERS ≥2) and an unhealthy adult lifestyle (ALS: 0-49) had the highest risks for most adverse transitions, including CMD-free to FCMD [hazard ratio (HR): 2.04; 95% confidence interval (CI): 1.89, 2.21], FCMD to CMM (HR: 1.46; 95% CI: 1.27, 1.69), CMD-free to death (HR: 2.31; 95% CI: 1.95, 2.72), and FCMD to death (HR: 1.64; 95% CI: 1.34, 2.01). The associations of ERS with the risk of most CMD transitions were less pronounced among participants with a healthy adult lifestyle than among those with an unhealthy adult lifestyle. CONCLUSIONS: Joint exposure to adverse early-life experiences and an unhealthy adult lifestyle was associated with elevated risks of CMD progression and mortality. Notably, the detrimental associations of early-life risk factors with specific CMD transitions were less pronounced among individuals with healthier adult lifestyles.",
+      "doi": "10.1016/j.ajcnut.2026.101486",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869714/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42988169",
+      "title": "Animal-source foods in infancy contribute to higher dietary quality.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-05",
+      "authors": "Saralyn F Foster, Deborah Jacobvitz, Marcela R Abrego et al.",
+      "abstract": "BACKGROUND: Few studies have characterized infant animal-source food introduction and intake longitudinally to determine whether these foods are associated with dietary quality or growth at 12-months of age. OBJECTIVE: Describe patterns and determinants of animal-source food consumption during complementary feeding and evaluate associations between animal-source foods with dietary quality and growth. METHODS: Mothers And careGivers Investing in Children (MAGIC) randomized trial is a complementary feeding intervention with responsive feeding coaching (MAGIC-FEED) compared to an attention control (MAGIC-SAFE), and an exploratory arm (MAGIC-FEED+FOOD) including food provision along with MAGIC-FEED. 135 mother-infant-caregiver triads in the Austin, Texas, United States enrolled at age 5-months, received virtual intervention visits at age 6, 7, 8 and 10 months, and had anthropometrics measured at 12-months. Diet was assessed repeatedly from 5-12-months with a 7-day food-frequency questionnaire and 24-hour diet recall from which infant dietary quality index (IDQI, range 0-1) was calculated. Descriptive statistics and covariate adjusted linear regression evaluated patterns of intake and associations between intervention arm or dietary components with dietary quality and growth. RESULTS: Overall, animal-source food intake increased from age 6 through 12 months. At age 12-months, more infants consumed egg (72%), poultry (77%) and beef (68%) and less consumed fish (30%) and pork (25%) in the prior 7-days. MAGIC-FEED was not associated with IDQI and had limited effects on animal source food consumption. In covariate-adjusted models, poultry (β=0.12, 95%CI 0.04,0.19) egg (β=0.06, 95%CI 0.01,0.12) and beef (β=0.07, 95%CI 0.01,0.13) predicted higher IDQI across infancy, compared to non-consumers. at 12-months of age. Poultry consumers predicted higher IDQI (β=0.14, 95%CI: 0.05,0.23), and pork consumers had higher length-for-age Z-scores (β=0.48, 95%CI: 0.03,0.92) at age 12-months. CONCLUSIONS: MAGIC-FEED was not associated with animal source food intake. Poultry, beef, and eggs as complementary foods were associated with higher dietary quality, and pork was associated with linear growth. Clinical Trial Registry number and website where it was obtained NCT04177472; https://clinicaltrials.gov/study/NCT04177472.",
+      "doi": "10.1016/j.tjnut.2026.101929",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988169/",
+      "relevance": 9,
+      "matched": [
+        "diet",
+        "dietary",
+        "food"
+      ]
+    },
+    {
+      "pmid": "42988168",
+      "title": "Confronting the Twin Divides: Data Bias and Infrastructure Gaps in AI-Driven Nutrition for the Global South.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-05",
+      "authors": "Haddijatou Kadji Ceesay, Jean Claude Nahayo, Abdul Samad et al.",
+      "abstract": "Nutrition science is being rapidly transformed by artificial intelligence (AI). Yet, its application in the Global South, here defined as low- and middle-income countries (LMICs) primarily across Sub-Saharan Africa, South Asia, and Latin America, is constrained by two interrelated challenges: data bias (e.g., non-diverse datasets, imbalanced samples, and inadequate attention to demographic, cultural, and socioeconomic variation) and infrastructure gaps (e.g., intermittent connectivity, unreliable electricity, and limited device access). These issues are not merely technical but structural, ranging from non-diverse training sets and culturally mismatched food recognition systems to limited population-specific validation, which produce biased outputs when deployed in settings with substantially different dietary patterns and food environments. Weak digital infrastructure, the absence of data governance, and limited workforce capacity further undermine equitable deployment. The Food Recognition Assistance and Nudging Insights (FRANI) application, validated in Ghana, Vietnam, and Sri Lanka, demonstrates what is technically possible but also highlights the boundaries of current progress: more than 90% of AI models for malnutrition go unused in day-to-day clinical practice. Existing reviews map these domains separately. This commentary argues that integrating data bias and infrastructure gaps within a single analytical framework is essential for equitable AI-driven nutrition in the Global South, and it calls for actionable policy responses that prioritize local data sovereignty, infrastructure investment, and governance frameworks before algorithmic deployment.",
+      "doi": "10.1016/j.tjnut.2026.101930",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988168/",
+      "relevance": 7,
+      "matched": [
+        "nutrition",
+        "diet",
+        "dietary",
+        "food",
+        "training"
+      ]
+    },
+    {
+      "pmid": "42988167",
+      "title": "The NHANES WIC Impact Index is a Valid Measure of WIC's Impact on Children.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-05",
+      "authors": "Meghan Zimmer, Cindy W Leung, Cristina M Gago et al.",
+      "abstract": "BACKGROUND: The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides food benefits, nutrition education, breastfeeding support, and referrals to social and medical services. However, WIC's impact on children is often evaluated using isolated dietary or health outcomes, and no validated tool exists to measure WIC's multidimensional impact across all program services. OBJECTIVES: We developed and validated the NHANES WIC Impact Index using cross-sectional data from the 2007-2010 National Health and Nutrition Examination Survey (NHANES). The index captures the four domains targeted by WIC: dietary intake, nutrition literacy, breastfeeding practices, and social/medical service access. METHODS: Reliability was assessed using item-item correlations and Cronbach's alpha. Validity assessments included content validity via expert consultation and policy mapping; criterion validity of the dietary domain compared with the Healthy Eating Index-2020 (HEI-2020); discriminant validity using known-groups analyses by WIC participation status; and divergent validity by Supplemental Nutrition Assistance Program (SNAP) participation. RESULTS: Reliability was demonstrated through item-item correlations that supported the internal structure of the index domains, and low internal consistency (α = 0.32 to 0.33) as expected for a multidimensional index. The dietary domain was moderately correlated with HEI-2020 scores (r = 0.58), demonstrating criterion validity. Among WIC-eligible children, prior participants scored 2.2 points lower on the index [-2.2 (95% CI: -3.9, -0.5), P<0.05] than current participants, but current participants and nonparticipants (i.e., never enrolled) scored similarly (P>0.05). Scores were not predicted by SNAP participation status (P>0.05), supporting divergent validity. CONCLUSION: The NHANES WIC Impact Index is a reliable and valid measure for evaluating WIC's impact on four domains of child health targeted by WIC. This index enables assessment of WIC's holistic impact and may support future surveillance and policy evaluation research.",
+      "doi": "10.1016/j.tjnut.2026.101907",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988167/",
+      "relevance": 5,
+      "matched": [
+        "nutrition",
+        "diet",
+        "dietary",
+        "supplement",
+        "food"
+      ]
+    },
+    {
+      "pmid": "42990018",
+      "title": "Dietary patterns and the testosterone-estrogen axis in men: evidence from osteoporotic fractures in men and a systematic review.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-06",
+      "authors": "Zahra Aslani, Amy E Kless, Steven K Clinton et al.",
+      "abstract": "Diet may influence circulating sex steroid hormones, but evidence for overall dietary patterns remains limited. We examined associations of dietary patterns reflecting lower inflammatory potential, lower insulinaemic potential and higher overall diet quality, with circulating sex steroids in older men and systematically reviewed the literature in apparently healthy men published through June 2024. We conducted cross-sectional analyses of 1622 men aged ≥65 years from the Osteoporotic Fractures in Men Study. Diet was assessed using FFQ and sex hormone-binding globulin (SHBG), total and free testosterone and total and free estradiol were measured. Dietary patterns included the reversed Empirical Dietary Inflammatory Pattern (rEDIP), reversed Empirical Dietary Index for Hyperinsulinaemia (rEDIH) and Healthy Eating Index-2020 (HEI-2020). Among older men, each 1-standard deviation increase in rEDIP was associated with higher total testosterone (β = 2·15; 95 % CI 0·12, 4·18) and free testosterone (β = 2·02 ng/dL; 95 % CI 0·29, 3·75), whereas rEDIH showed similar but non-significant associations with total testosterone (β = 1·64; 95 % CI -0·28, 3·57) and free testosterone (β = 1·43; 95 % CI -0·21, 3·08). Higher HEI-2020 scores were associated with higher free estradiol (β = 2·46 pg/mL; 95 % CI 0·85, 4·07). Across twenty-one studies, healthier dietary patterns were generally associated with lower estradiol and higher concentrations of SHBG and total testosterone. Taken together, the individual-level analyses and systematic review suggest that anti-inflammatory, low-insulinaemic and overall healthy dietary patterns are associated with more favourable sex steroid hormone profiles in men, although prospective studies are needed to establish temporality.",
+      "doi": "10.1017/S0007114526109362",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990018/",
+      "relevance": 6,
+      "matched": [
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "42987425",
+      "title": "Effects of Weight-Loss Diets on Circulating MicroRNA Profiles in Overweight and Obese Adults: Systematic Review of Randomized Clinical Trials.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-05",
+      "authors": "Natália Ellen Delmicon, Helen Cristina Vidal, Paula Nascimento Brandão-Lima et al.",
+      "abstract": "CONTEXT: Obesity, particularly visceral adiposity, is associated with metabolic inflammation and increased cardiometabolic risk. Dietary interventions are essential for weight loss and improved metabolic health; however, individual responses vary widely. Circulating microRNAs are key epigenetic mediators of metabolic adaptation, although their variable expression patterns often preclude a unified biological interpretation. OBJECTIVE: This systematic review aims to synthesize evidence on how weight-loss diets affect the circulating microRNA profile in adults with overweight or obesity. DATA SOURCES: PubMed Central, LILACS, Scopus, Embase, Web of Science, ClinicalTrials.gov, and Google Scholar were searched without language or publication date restrictions through May 2026. DATA EXTRACTION: Of 4383 records identified, 12 articles representing 9 independent randomized clinical trials met the eligibility criteria. Data on study characteristics, dietary interventions, and circulating microRNA expression profiles were extracted. Risk of bias was assessed using the Cochrane Risk of Bias 2.0 tool. DATA ANALYSIS: The included studies were conducted in 6 countries and evaluated dietary interventions lasting 2-18 months. A total of 32 distinct circulating microRNAs were differentially expressed, with miR-221-3p, miR-223, miR-99b, miR-122, and miR-128 reported in more than one study. Considerable heterogeneity was observed among the dietary protocols, particularly regarding macronutrient composition. Alterations in microRNA expression were associated with weight loss, adiposity, glycemic parameters, lipid profile, inflammation, and cardiovascular risk. Bioinformatic analyses indicated enrichment of pathways related to inflammation, insulin signaling, and lipid metabolism, including the PI3K-Akt and MAPK pathways, suggesting an integrated role for these microRNAs in metabolic regulation. CONCLUSION: Weight-loss diets modulate the circulating miRNA profile, potentially influencing glycolipid metabolism and inflammation, supporting their role as candidate biomarkers. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. CRD42024580048.",
+      "doi": "10.1093/nutrit/nuag154",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987425/",
+      "relevance": 6,
+      "matched": [
+        "diet",
+        "nutrient",
+        "dietary",
+        "weight loss"
+      ]
+    },
+    {
+      "pmid": "42986715",
+      "title": "How Plants Feed Our Microbes: Plant-Based Diets and Gut Microbiota Modulation-A Systematic Review.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-05",
+      "authors": "Paulina Kozłowska, Alicja Borowiecka, Martyna Strzemkowska et al.",
+      "abstract": "CONTEXT: Diet is a key factor shaping gut microbiota composition and function, with important implications for human health. The growing popularity of plant-based dietary patterns has increased interest in their effects on the gut microbiota. OBJECTIVE: This systematic review examines specific changes in gut microbiota among individuals following a plant-based diet (PBD), as well as shifts occurring after transitioning from an omnivorous diet. DATA SOURCES: PubMed and Google Scholar were searched for articles reporting original English-language human and animal studies investigating the effects of PBDs on gut microbiota composition or function. Studies published from 2015 onward were primarily considered, with most included articles published during 2020-2024. DATA EXTRACTION: Four reviewers independently screened records according to eligibility criteria and extracted data on study characteristics, populations, dietary patterns, and outcomes related to gut microbiota composition and function. DATA ANALYSIS: A total of 37 studies met the inclusion criteria. A PBD appeared to promote the growth of short-chain fatty acid-producing and probiotic bacteria, which help maintain intestinal integrity and support carbohydrate metabolism and may offer protection against certain diseases. A PBD was also reported to encourage the growth of beneficial taxa such as Roseburia spp., Akkermansia muciniphila, Clostridium symbiosum, and Faecalibacterium prausnitzii, which are considered indicators of a healthy microbiome. An increased Bacteroidetes/Firmicutes ratio, which was found to be a common occurrence in study participants following a PBD, correlated with a lower body mass index (BMI) and a more favorable metabolic profile, supporting healthy weight maintenance. In addition, PBDs were also associated with improvements in alpha- and beta-diversity compared with omnivorous diets. CONCLUSIONS: This review indicates that PBDs appear to beneficially influence the gut microbiota and may have positive effects on human health. Nonetheless, not all studies agree on the extent or direction of microbiota changes associated with dietary patterns. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. [CRD420251229407]; link: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251229407.",
+      "doi": "10.1093/nutrit/nuag157",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986715/",
+      "relevance": 6,
+      "matched": [
+        "diet",
+        "carbohydrate",
+        "fat",
+        "dietary"
+      ]
+    }
+  ]
+}
