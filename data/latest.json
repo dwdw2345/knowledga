@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07",
-  "updated_at": "2026-11-07 06:28",
+  "updated": "2026-11-08",
+  "updated_at": "2026-11-08 06:24",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,155 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "42994694",
+      "title": "Lumping vs. Splitting Nutrients, Foods and Diet Patterns in Nutrition Research: Science Dialogue Mapping of Origins, Uses and Knowledge Gaps.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-06",
+      "authors": "Sabrina Ayoub-Charette, Laura Chiavaroli, Alexandra E Cowan-Pyle et al.",
+      "abstract": "BACKGROUND: The practices of lumping together and splitting apart foods, nutrients, and diet patterns shape the interpretation of nutritional evidence and guidance. OBJECTIVE & METHODS: To discuss the inherent complexity of 'lumping' and 'splitting' foods, nutrients, and diet patterns, we held an in-person colloquium in December 2024, where we utilized dialogue mapping to summarize the discussion in real-time. Knowledgeable early-career nutrition researchers explored the contexts for lumping and splitting with the goal of beginning a conversation in the scientific community on the topic. RESULTS: Six themes emerged about lumping or splitting: definitions and history, population heterogeneity, consumer behavior, policy and public health messaging, frameworks for categorization, and measurement and methods. Participants identified lumping that persists on historical rather than scientific grounds, with circularity in policy in which guidelines are used to build adherence indices that are then used to evaluate those guidelines. The shifting protein categories across successive Dietary Guidelines for Americans Scientific Reports showed the same foods being lumped or split for different purposes. Measurement error and incomplete food composition data limit splitting, whereas life stage, physiology, and culture favored finer categories. CONCLUSIONS: Participants emphasized that lumping and splitting are not inherently right or wrong, nor are they inherently a binary approach; rather, the appropriateness to lump or split depends on the purpose of the analysis, public health messaging, or evidence-informed policy decisions. Future work is needed to operationalize lumping and splitting decisions in the field of nutrition science, and to enhance transparency in the rationale of lumping and splitting decisions.",
+      "doi": "10.1016/j.tjnut.2026.101932",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994694/",
+      "relevance": 14,
+      "matched": [
+        "nutrition",
+        "nutrient",
+        "diet",
+        "food",
+        "protein",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "42994693",
+      "title": "A vegetarian meal reduces protein digestibility without altering postprandial protein utilization in old rats.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-06",
+      "authors": "M Muziot, M Andriamihaja, M Dufay et al.",
+      "abstract": "BACKGROUND: The composition of the meal, particularly its plants-based components, may reduce protein digestibility and amino acid (AA) availability. This issue is particularly relevant given the increasing adoption of plant-based diets, especially in populations with higher protein requirements, including older adults. OBJECTIVE: To assess the acute effects of meal context on pea protein and AA digestibility and metabolism across lifespan, comparing vegetarian and omnivorous meals. METHODS: 48 male Wistar rats aged 1, 10, and 18 months (n=16/age) consumed 15N-labeled peas within an omnivorous or vegetarian meal and were euthanized 6 h later. Digestive contents were collected for protein and AA digestibility. Plasma and urinary 15N enrichment was measured to evaluate deamination. Liver and muscle protein synthesis was determined using 13C-valine flooding dose method. Gene expression related to digestion and protein metabolism was quantified in liver, muscle, and intestinal mucosa. RESULTS: Fecal pea protein and caecal AA digestibility were slightly reduced with the vegetarian meal (93.5% vs. 94.7%, P = 0.01 and 90.5% vs. 93.7%, P = 0.0009, respectively), particularly in old rats (92.5% vs. 94.2%, P = 0.03 and 89.7% vs. 93.6%, P = 0.02, respectively). However, this reduction did not affect nitrogen utilization or protein synthesis. Young rats showed greater peripheral nitrogen utilization, with higher muscle protein synthesis (+70%, P < 0.0001) and lower deamination (-70%, P < 0.0001), consistent with growth demands. Adult and old rats exhibited higher liver protein synthesis (+40%, P = 0.0004) and higher deamination (+70%, P < 0.0001), indicating a shift toward maintenance metabolism, independent of meal type. CONCLUSIONS: The vegetarian meal slightly reduced protein and AA digestibility, likely due to its higher antinutritional factor content, with greater sensitivity in older rats, but did not impair postprandial protein metabolism. Long-term studies should determine whether these reductions have cumulative effects on muscle maintenance during aging. STATEMENT OF SIGNIFICANCE: This study provides novel evidence that the negative impact of complex vegetarian meals on protein digestibility may be amplified with aging, while postprandial protein utilization remains preserved despite reduced digestibility. It further demonstrates that age-related shifts toward increased splanchnic retention and amino acid oxidation predominate over meal composition effects, highlighting aging as a key determinant of plant protein utilization.",
+      "doi": "10.1016/j.tjnut.2026.101926",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994693/",
+      "relevance": 9,
+      "matched": [
+        "protein",
+        "meal",
+        "nutrition",
+        "diet",
+        "amino acid"
+      ]
+    },
+    {
+      "pmid": "42994692",
+      "title": "Lifestyle counseling including the DASH diet improves multiple metabolomic profiles.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-06",
+      "authors": "Mahya Mehri Hajmir, Xichen Wang, Rob M van Dam",
+      "abstract": "BACKGROUND: Lifestyle interventions improve cardiometabolic risk factors, but data from randomized trials on their impact on detailed metabolomic profiles remain limited. OBJECTIVES: Our aim was to evaluate the effects of lifestyle counseling with and without the Dietary Approaches to Stop Hypertension (DASH) diet on changes in metabolomic patterns. METHODS: We analyzed data from 690 adult participants of the randomized PREMIER trial. The trial compared three lifestyle interventions: 'Advice-only', 'Established', and 'Established plus DASH'. Fasting plasma metabolites were quantified by NMR spectroscopy at baseline and 6 months, and principal component (PC) analysis was used to identify metabolomic patterns. Multiple linear regression examined the interventions and changes in BMI and heart rate in relation to changes in PC scores and individual metabolites. RESULTS: Thirteen PCs representing lipoprotein, triglyceride-rich, amino acid, fatty acid, inflammatory, and ketone-related patterns were identified. Compared with Advice-only, the Established intervention reduced PC4 (β = -0.50, P = 0.04), VLDL cholesterol, and saturated fatty acids. Established plus DASH had broader effects, reducing PC9 (β = -0.33, P = 0.01), PC11 (β = -0.28 P = 0.004), and PC12 (β = -0.23, P = 0.02), increasing omega-3 fatty acids, and lowering branched-chain and aromatic amino acids, lactate, citrate, and GlycA. BMI change was associated with multiple PCs, whereas heart rate change showed fewer independent associations. CONCLUSIONS: Lifestyle interventions induce coordinated metabolomic changes across lipid, amino acid, and inflammatory pathways. Weight loss appears to be the primary driver, while adding DASH provides broader metabolomic benefits than standard lifestyle counseling. CLINICAL TRIAL REGISTRATION NUMBER: ClinicalTrials.gov NCT00000616 (PREMIER: Lifestyle Interventions for Blood Pressure Control - Full Text View - ClinicalTrials.gov).",
+      "doi": "10.1016/j.tjnut.2026.101931",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994692/",
+      "relevance": 9,
+      "matched": [
+        "diet",
+        "protein",
+        "fat",
+        "dietary",
+        "amino acid",
+        "weight loss"
+      ]
+    },
+    {
+      "pmid": "42994691",
+      "title": "Children at risk of vitamin A deficiency exhibit taxonomic dysbiosis and functional remodeling of the gut microbiome: a matched case-control study.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-06",
+      "authors": "Sofia Moran-Ramos, Johan Alvarado-Calderon, Daniel Cerqueda-Garcia et al.",
+      "abstract": "BACKGROUND: Vitamin A deficiency is one of the most prevalent micronutrient deficiencies worldwide. This condition increases susceptibility to infections and due to its role in intestinal barrier integrity, it has been suggested that it could predispose to gut dysbiosis. OBJECTIVE: The aim of the study was to identify whether the gut microbiome of school-aged children at risk of vitamin A deficiency is associated with a dysbiotic state. METHODS: This 1:2 matched case-control study for children at risk of vitamin A deficiency included thirteen school-aged children (6-9 years old) at risk of VAD and 26 with adequate vitamin A levels (VAA) from the ORSMEC cohort. Habitual diet was determined with a FFQ, plasma retinol levels were determined through HPLC, and gut microbial characterization was performed through shotgun sequencing. RESULTS: In the present study, children at risk of VAD showed significantly higher levels of serum CRP (P=0.026). Although taxonomic gut microbial characterization showed no differences in alpha or beta diversity among groups, children at risk of VAD showed an enrichment of some facultative anaerobes, proposed to be established pathogens mainly from Streptococcus and Enterococcus genera (PFDR<0.1). At a functional level vitamin A status explained 7.09% of the variation in gut microbial functionality, when evaluated with the Bray-Curtis dissimilarity metric (P=0.008). Specifically, pathways related to pathogenicity such as O-antigen biosynthesis, heme biosynthesis and ethanolamine utilization were significantly enriched in children at risk of VAD (PFDR<0.1). In contrast, abundance of pathways related to B vitamins metabolism such as folate transformations, the super pathway for Coenzyme A biosynthesis and its precursor phosphopantothenate (vitamin B5) were depleted (PFDR<0.1). CONCLUSION: Overall, our study showed that in school-aged children, being at risk of vitamin A deficiency is associated with an enrichment of potential pathobionts and a shift in gut microbial functionality that could be related to greater pathogenicity.",
+      "doi": "10.1016/j.tjnut.2026.101933",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994691/",
+      "relevance": 5,
+      "matched": [
+        "vitamin",
+        "nutrient",
+        "diet"
+      ]
+    },
+    {
+      "pmid": "42993581",
+      "title": "Semilunar nucleus neurons are highly excitable and potentiated by group I mGluRs to drive descending excitation to the mouse MNTB.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "Huimei Wang, Xiaoyu Wang, Danah Alquraish et al.",
+      "abstract": "Medial nucleus of the trapezoid body (MNTB) neurons receive one of the largest synapses in the mammalian brain, the calyx of Held; however, multiple studies reported additional non-calyceal excitatory inputs of largely unresolved origin to MNTB neurons. Most recently, the semilunar nucleus (SLN) was identified as a potential source of such non-calyceal input in the rat. To elucidate the function of this novel pathway, we investigated the connectivity and physiology of the mouse SLN, with particular focus on neuromodulation by group I metabotropic glutamate receptors (mGluRs). Viral tracing not only confirmed the SLN-MNTB pathway in mice, but also revealed that MNTB-projecting SLN neurons received their input from the ipsilateral auditory cortex. Physiological characterization of SLN neurons using whole-cell patch-clamp recordings showed that SLN neurons, unlike most other auditory brainstem neurons, were intrinsically highly excitable. Electrical stimulation of the fibre tracts located dorsal to the SLN, evoked small, slow AMPA receptor-mediated EPSCs in SLN neurons that readily summated temporally. Immunolabeling revealed a heterogeneous expression of mGluR1 and mGluR5 across SLN neurons. A subpopulation of SLN neurons exhibited spontaneous action potential firing at resting membrane potential. Pharmacological activation of group I mGluRs further increased spontaneous firing of SLN neurons. Probing for functional connectivity between SLN and the ipsilateral MNTB, fibre tracts dorsal and lateral to the MNTB were stimulated, eliciting primarily non-calyceal AMPA receptor-mediated EPSCs in MNTB neurons. These findings suggest that SLN output may provide a glutamatergic tonic drive to MNTB neurons, potentially modulating their temporal processing. KEY POINTS: MNTB receives a descending input from the ipsilateral auditory cortex via SLN. SLN neurons are highly excitable during development and into maturation, with a subset exhibiting spontaneous firing at resting membrane potential. Descending glutamatergic input to SLN is small and slow, and shows consistent temporal summation. Group I mGluRs further enhance spontaneous firing of SLN neurons and both mGluR1 and mGluR5 are expressed in the SLN. Descending ipsilateral projections to MNTB neurons primarily drive glutamatergic, non-calyceal inputs.",
+      "doi": "10.1113/JP291775",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993581/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42993297",
+      "title": "Neural correlates underlying motor sequence task performance: handedness and sequence complexity.",
+      "journal": "European journal of applied physiology",
+      "journal_issn": "1439-6319",
+      "discipline": "physiology",
+      "date": "2026-Nov-06",
+      "authors": "János Négyesi, Jun Zhao, Yifan Wang et al.",
+      "abstract": "PURPOSE: We aimed to determine the neural correlates of motor sequence performance in healthy young adults, with respect to handedness and sequence complexity. METHODS: Strongly left-handed (LH, n = 15, 24.9y) and right-handed (RH, n = 15, 26.4y) participants performed finger key presses on a numeric keypad at four levels of sequence complexity with each hand in a randomized order. RESULTS: Both LH and RH performed the motor sequence task with faster reaction and motor execution times when using their right hand, irrespective of sequence complexity. Increasing motor-sequence complexity reduced frontal and parietal EEG power in both LH and RH, particularly at the highest complexity level, while RH also showed increased occipital delta activity when using the non-dominant hand, indicating that both sequence complexity and handedness modulate cortical activity during motor sequence performance. In addition, connectivity analysis showed significant hemispheric differences in brain network organization across frequency bands, with mainly greater left-hemisphere frontal and occipital connectivity but stronger right-hemisphere parietal connectivity. Sequence complexity primarily influenced functional connectivity (wPLI) rather than network topology. Notably, connectivity measures and selected MST-derived graph-theoretical metrics were linked to motor performance. CONCLUSION: Our findings suggest that motor-sequence performance is faster with the right hand, regardless of handedness and sequence complexity, which relies on a consistently organized hemispheric network, while increasing task complexity is managed primarily through frequency-specific changes in functional connectivity rather than large-scale reorganization of network structure.",
+      "doi": "10.1007/s00421-026-06495-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993297/",
+      "relevance": 7,
+      "matched": [
+        "performance",
+        "power"
+      ]
+    },
+    {
+      "pmid": "42993290",
+      "title": "Medical students' perceptions of smartphone-derived three-dimensional cadaveric models for anatomy education: a cross-sectional study.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-06",
+      "authors": "Eren Ogut, Esma Büşra Yildirim, Sude Naz Kilic et al.",
+      "abstract": "PURPOSE: Smartphone-based photogrammetry may provide an accessible way to create reusable three-dimensional (3D) models from cadaveric specimens for anatomy education. This study evaluated medical students' perceptions of these models and explored factors associated with their overall evaluations. METHODS: This cross-sectional study included 100 medical students who evaluated images and linked videos of smartphone-derived cadaveric models using a 22-item Likert-type questionnaire. Group differences were examined using non-parametric tests. Internal consistency, preliminary factor analysis, Spearman correlations, and exploratory multiple linear regression were also assessed. RESULTS: Participating students generally evaluated the model materials positively. The highest-rated items concerned long-term reuse through a digital model library (4.28 ± 0.59), improved access when cadaveric material is limited (4.26 ± 0.71), support for 3D thinking in interventional or surgical settings (4.22 ± 0.60), and preparation for clinical clerkships (4.19 ± 0.53). Regular integration into anatomy teaching was supported by 82% of participants. No significant differences were observed by sex or year of study. After reverse scoring negatively worded items, Cronbach's alpha was 0.881. Age group showed a weak correlation with the exploratory overall evaluation score (r = 0.286, p = 0.004). The exploratory regression model explained 11.4% of the variance but was not statistically significant (R2 = 0.114, p = 0.122). CONCLUSION: Participating medical students generally viewed smartphone-derived cadaveric digital models favorably, particularly for repeated access and the development of digital specimen libraries. These findings describe perceived usefulness and acceptability; they do not establish improvements in anatomical knowledge, spatial ability, or retention. Controlled studies using objective learning outcomes are needed before educational effectiveness can be determined.",
+      "doi": "10.1007/s00276-026-04050-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993290/",
+      "relevance": 2,
+      "matched": [
+        "hip",
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "42993253",
+      "title": "The tibialis posterior tendon revisited: a classification-based anatomical and radiological framework.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-06",
+      "authors": "Łukasz Olewnik, Ingrid C Landfald, Piotr Łabętowicz et al.",
+      "abstract": "The tibialis posterior tendon (TPT) demonstrates substantial anatomical variability in its branching and attachment morphology, extending beyond the simplified concept of a predominantly navicular attachment. This narrative review critically reappraises the classification of TPT attachment patterns proposed by Olewnik and places it in the context of subsequent anatomical, radiological, and functional evidence. Later anatomical studies have confirmed extensive variation in the number, distribution, and surface area of TPT attachments and have identified configurations not represented within the original classification. These findings support the use of classification systems as structured descriptive frameworks rather than exhaustive catalogues of TPT morphology. Cadaveric imaging studies demonstrate that complex TPT branching and attachment anatomy can be depicted on MRI; however, individual anatomical types and subtypes have not undergone systematic radiological validation. Representative MRI examples are therefore included for anatomical illustration rather than as diagnostic criteria. The functional significance of individual attachment patterns and their potential relationship to hindfoot and midfoot joint morphology remain incompletely understood. Further anatomical, imaging, and biomechanical studies are required to determine whether specific TPT patterns have reproducible radiological or functional correlates.",
+      "doi": "10.1007/s00276-026-04036-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993253/",
+      "relevance": 11,
+      "matched": [
+        "tendon",
+        "anatomical",
+        "joint",
+        "hip",
+        "biomechanic",
+        "foot"
+      ]
+    },
+    {
       "pmid": "42993147",
       "title": "Adipocyte FGF21 signalling connects protein restriction and metabolic cellular ageing.",
       "journal": "The Journal of physiology",
@@ -3317,6 +3466,66 @@
       "relevance": 4,
       "matched": [
         "exercise"
+      ]
+    },
+    {
+      "pmid": "42994407",
+      "title": "Adaptive Responses to \"Top-up\" Repeated-Sprint Training in Hypoxia or Normoxia in Male University Basketball Players.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-05",
+      "authors": "Masahiro Hagiwara, Takaki Yamagishi, Daichi Yamashita",
+      "abstract": "PURPOSE: Repeated-sprint training in hypoxia (RSH) has been shown to provide greater performance benefits than similar training in normoxia (RSN), whereas little is known regarding beneficial effects of RSH following a block of RSN. This study aimed to determine adaptive responses to \"top-up\" RSH. METHODS: After pretesting, 15 male university basketball players completed 6 RSN sessions (2 sets of five to seven 6-second cycle sprints, 30-second intersprint, and 5-min interset recovery), followed by midtesting. Participants were then allocated to either hypoxic (HYP, n = 8) or normoxic (NOR, n = 7) group and completed 6 \"top-up\" sessions (3 sets of identical protocol), with 5 RSH (3000 m) plus 1 RSN in HYP and 6 RSN in NOR. Six-second and incremental cycle tests were performed to determine 1-second peak power (PP6s), 6-second mean power (MP6s), maximal aerobic power (MAP), and peak oxygen uptake (V˙O2peak) at pre, mid, and post. Repeated-sprint ability (PPRSA; averaged peak power over 10 sprints) was assessed during sessions 2, 6, and 12 in normoxia. RESULTS: A 2-way mixed analysis of variance revealed main effects of time (P < .05, partial η2 = .349-.537) in all test variables (PP6s: Δ 10.6% [13.8%], MP6s: Δ 12.2% [13.6%], MAP: Δ 5.3% [4.3%], V˙O2peak: Δ 6.1% [5.5%]) without time-by-group interaction, whereas neither group improved PPRSA. CONCLUSIONS: Twelve sessions of repeated-sprint training improved anaerobic and aerobic capacities in male basketball players, with no additional benefit of hypoxic exposure during the second training phase, suggesting increased training volume may have outweighed the environmental factor.",
+      "doi": "10.1123/ijspp.2026-0037",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994407/",
+      "relevance": 16,
+      "matched": [
+        "training",
+        "sprint",
+        "aerobic",
+        "anaerobic",
+        "recovery",
+        "power"
+      ]
+    },
+    {
+      "pmid": "42994406",
+      "title": "Case Study Insights Into Female World-Class and Elite Athletes' Training and Physiology.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-05",
+      "authors": "Guro Strøm Solli, Tilda Harju, Daichi Yamashita et al.",
+      "abstract": "PURPOSE: This article offers a structured overview of published case studies involving elite and world-class female Olympic athletes, highlighting the unique insights these studies provide into training characteristics, physiology, performance, and female-specific factors. METHODS: Four databases were systematically searched for peer-reviewed case studies involving tiers 4 to 5 female Olympic athletes reporting individual-level data on training, physiological, and/or performance characteristics. RESULTS: Thirty-eight studies describing 54 elite and world-class female athletes from 18 countries and 19 Olympic sports met the inclusion criteria. Most studies were published after 2017 (68%), originated from Europe (58%), and involved endurance sports (81%). Fifteen studies examined long-term athlete development, with observation periods ranging from 4 to 26 years. Fourteen studies reported annual training and physiological characteristics across 10 sports including training volume, intensity distribution, periodization, and physiological profiling. Four studies examined altitude training, 8 addressed competition demands, tapering, and precompetition strategies, and 8 focused on female-specific physiology, health, and performance, including energy availability, menstrual function, hormonal cycle monitoring and pregnancy, and postpartum return to sport. CONCLUSION: Case studies provide unique athlete-centered insights into the complex interactions between training, physiology, health, and performance in elite female athletes. Collectively, they demonstrate that pathways to world-class performance are highly individualized, while generating hypotheses that complement group-based research. Future case studies should prioritize underrepresented sports, geographical regions, and female-specific topics to expand the diversity of performance environments and athlete populations represented in the literature.",
+      "doi": "10.1123/ijspp.2026-0135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994406/",
+      "relevance": 13,
+      "matched": [
+        "training",
+        "athlete",
+        "endurance",
+        "performance",
+        "sports"
+      ]
+    },
+    {
+      "pmid": "42993813",
+      "title": "Six Weeks of Drop Jump Training on Stable Versus Unstable Landing Surfaces Result in Similar Improvements in Drop Jumping Performance in Young Healthy Men.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-05",
+      "authors": "Lysander Pollitt, Olaf Prieske, David G Behm et al.",
+      "abstract": "Pollitt, L, Pieske, O, Behm, DG, and Granacher, U. Six weeks of drop jump training on stable vs. unstable landing surfaces result in similar improvements in drop jumping performance in young healthy men. J Strength Cond Res XX(X): 000-000, 2026-To investigate how progressive drop jump (DJ) training performed on unstable landing surfaces affects jumping performance. Forty-two subjects were randomly allocated to no training (CONTROL, n = 8), stable surface (STABLE, n = 9), or 1 of 3 unstable landing conditions: mini-trampoline (n = 9), both-sides-used balance trainer (BOSU, n = 8), or an equated volume of BOSU and STABLE (MIX, n = 8). Subjects in each experimental condition completed 1,080 jumps across 9 drop heights (0.2 m progressing to 1 m) during 3 sessions per week over 6 weeks. Pre- and post-testing assessed maximal DJ at low (0.2 m), moderate (0.6 m), and high (1 m) drop heights for reactive strength index (RSI), jump height (JH), and contact time (CT). Using baseline as a covariate, analysis of covariance revealed significant, large main effects of condition for DJ outcome measures across all drop heights (0.19 < ηp2< 0.48). Bonferroni-adjusted post hoc comparisons identified significant postintervention differences between certain experimental conditions and CONTROL, depending on the outcome measure. No significant differences were observed between experimental conditions. At 0.2 m, differences in CT (p = 0.016) and RSI (p = 0.003) were observed for BOSU. At 0.6 m, CT for BOSU (p = 0.033), JH for STABLE (p = 0.034), and RSI for STABLE (p = 0.012) and BOSU (p = 0.013). At 1 m, JH for MIX (p = 0.012), and RSI (p ≤ 0.003) for all experimental conditions. Progressive DJ training on unstable training devices resulted in changes in performance comparable to a stable landing surface. When conceptualizing training programs, including plyometrics performed on unstable landing surfaces may provide an alternative neuromuscular stimulus without compromising performance.",
+      "doi": "10.1519/JSC.0000000000005636",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993813/",
+      "relevance": 14,
+      "matched": [
+        "training",
+        "performance",
+        "strength",
+        "neuromuscular"
       ]
     },
     {
@@ -3630,6 +3839,25 @@
       "relevance": 1,
       "matched": [
         "training"
+      ]
+    },
+    {
+      "pmid": "42994159",
+      "title": "Whole-body angular momentum regulation during Tai Chi stepping: Task- and experience-related differences.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-04",
+      "authors": "Leichao Liang, Yuzhao Xie, He Li et al.",
+      "abstract": "BACKGROUND: Tai Chi stepping involves slow progression, prolonged weight transfer, and coordinated trunk-limb rotation, but its whole-body angular momentum regulation remains poorly understood. RESEARCH QUESTION: How do whole-body angular momentum regulation patterns differ across the tested movement conditions of normal gait (NG), Brush Knee Twist Step (BKT), and Repulse Monkey (RM) at self-selected speeds, and between experienced and novice-level practitioners? METHODS: Seventeen experienced and 14 novice-level Tai Chi practitioners performed NG, BKT, and RM. In each anatomical plane, whole-body angular momentum excursion and intersegmental cancellation were quantified over the movement cycle, and bilateral external-moment cancellation during the double-support phases. Outcomes were analyzed using linear mixed-effects models. RESULTS: BKT and RM were slower than NG (0.14-0.23 vs. 1.28-1.29 m/s) and had longer total double-support duration (approximately 69% vs. 23% of the cycle). Relative to NG, both showed greater transverse-plane angular momentum excursion (6.5-10.4 × 10-3 vs. 1.9-2.2 × 10-3), higher frontal-plane intersegmental cancellation (46-55% vs. 39-41%) but lower sagittal- and transverse-plane intersegmental cancellation (19-38% vs. 76-82%), and higher sagittal-plane bilateral external-moment cancellation (87-90% vs. 29%). During RM, experienced practitioners had smaller angular momentum excursion in all planes and higher transverse-plane bilateral external-moment cancellation (50.1% vs. 30.5%); a wider step width was also observed in the experienced group (0.109 vs. 0.061 m). SIGNIFICANCE: Relative to NG, Tai Chi stepping showed movement- and plane-specific patterns of angular momentum regulation, with experience-related differences clearest during RM. These findings indicate that whole-body angular momentum regulation can be quantified as a biomechanical feature of Tai Chi stepping tasks.",
+      "doi": "10.1016/j.gaitpost.2026.110688",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994159/",
+      "relevance": 4,
+      "matched": [
+        "knee",
+        "biomechanic",
+        "gait",
+        "anatomical"
       ]
     },
     {
@@ -4049,6 +4277,25 @@
       ]
     },
     {
+      "pmid": "42994046",
+      "title": "Methodological considerations in estimating active muscle stiffness index.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-03",
+      "authors": "Ophélie Larivière, Manon Dauvergne, Florian Etheve et al.",
+      "abstract": "Accurate quantification of muscle stiffness using shear wave elastography is essential for evaluating neuromuscular function. The active muscle stiffness index, derived from the relationship between shear modulus and force, can be estimated using either continuous ramp or discrete step approaches, which are often considered equivalent. This study aimed to directly compare these two approaches. Thirty healthy women performed isometric knee extensions up to 50% of maximal voluntary contraction under both ramp and step contractions, while shear wave elastography measurements were obtained from the vastus lateralis. The active muscle stiffness index was calculated for each protocol. Agreement between methods was evaluated using paired t-tests, Lin's concordance correlation coefficient, and Bland-Altman analysis. Results revealed a significant difference between protocols (p < 0.001). Although a very strong correlation was observed (r ≈ 0.88), concordance was lower (CCC ≈ 0.81). Bland-Altman analysis indicated a systematic bias of -0.20 kPa/Nm (∼20%) without proportional bias. These findings demonstrate that ramp and step approaches yield systematically different estimates and should not be considered interchangeable.",
+      "doi": "10.1016/j.jbiomech.2026.113666",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994046/",
+      "relevance": 6,
+      "matched": [
+        "muscle",
+        "muscular",
+        "hip",
+        "knee"
+      ]
+    },
+    {
       "pmid": "42978415",
       "title": "Mitochondrial content and intrinsic coupling-related differences shape bioenergetic output and redox responses across striated muscles in rats.",
       "journal": "Experimental physiology",
@@ -4378,6 +4625,62 @@
       ]
     },
     {
+      "pmid": "42994158",
+      "title": "Biomechanical effects of a semi-rigid knee orthotic during walking in individuals with medial knee osteoarthritis.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-02",
+      "authors": "Pauline Göbel, Batın Yılmazgün, Stefan Sell et al.",
+      "abstract": "BACKGROUND: Medial knee osteoarthritis is associated with increased medial compartment loading during gait. Valgus unloader knee orthotics are commonly used to reduce medial knee loading, but the biomechanical responses associated with semi-rigid designs remain unclear. RESEARCH QUESTION: After six weeks of use, what effect does the orthotic condition have on first-peak knee adduction moment (KAM), second-peak KAM, and knee adduction angular impulse (KAAI) during constant-speed and self-selected-speed walking compared with baseline in individuals with medial knee osteoarthritis? METHODS: Twenty-four participants with Kellgren-Lawrence grade 2-4 completed a within-participant pretest-posttest study. Gait was assessed without the orthotic at baseline and while wearing it after six weeks of use (mean 5.13 h/day), at a constant speed of 1.39 m/s and self-selected speed. In OpenSim, first-peak KAM, second-peak KAM, and KAAI were calculated. GRF variables were secondary, exploratory outcomes. Conditions were compared using paired t-tests or Wilcoxon signed-rank tests. Holm-Bonferroni adjustment was applied to the three KAM-related outcomes within each walking condition. RESULTS: During constant-speed walking, first-peak KAM, second-peak KAM, and KAAI were lower with the orthotic by 6.9% , (r = 0.44), 6.8% (r = 0.47), and 15.8% (r = 0.51), respectively (Holm-adjusted p = 0.045 for each). Vertical GRF variables did not differ, whereas the braking-peak magnitude and braking and propulsive impulses increased. During self-selected-speed, participants walked 15.5% faster in the orthotic condition (p < 0.001). First- and second-peak KAM did not differ significantly from baseline, whereas KAAI was lower (-0.030 N·m·kg⁻¹·s, 95% CI -0.050 to -0.010; Holm-adjusted p = 0.014). The first vertical, braking, and propulsive GRF peaks increased, while vertical impulse decreased. SIGNIFICANCE: Semi-rigid orthotic use was associated with lower KAM-related loading during constant-speed walking and faster self-selected walking without higher peak KAM. The semi-rigid orthotic may be considered a possible adjunct to individualized, multicomponent care for individuals with medial knee osteoarthritis.",
+      "doi": "10.1016/j.gaitpost.2026.110681",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994158/",
+      "relevance": 7,
+      "matched": [
+        "knee",
+        "biomechanic",
+        "gait"
+      ]
+    },
+    {
+      "pmid": "42994156",
+      "title": "Postural adjustments in standing and gait reflect amnestic mild cognitive impairment.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-02",
+      "authors": "Yi-Chun Kuan, Shiuan-Huei Lu, Cheng-Hao Yu et al.",
+      "abstract": "BACKGROUND: Amnestic mild cognitive impairment (aMCI), a prodromal stage of Alzheimer's disease, may involve subtle motor alterations preceding overt cognitive decline. Because postural alignment integrates multisensory and executive control systems, it may reveal early motor-cognitive disruption. This study aimed to identify posture-related features associated with cognition and to determine whether individuals with aMCI exhibit distinct standing and gait kinematics. METHODS: In this cross-sectional observational study, 14 older adults with aMCI and 14 age-matched cognitively healthy controls underwent three-dimensional motion analysis during quiet standing and level walking. Segmental angles and temporospatial gait parameters were analysed. Cognitive performance was assessed using standardised neuropsychological tests. Group comparisons and exploratory partial correlation analyses adjusted for age and education were performed. RESULTS: The aMCI group exhibited reduced lumbar extension (p = 0.020), pelvic anterior tilt (p = 0.012), and hip flexion (p = 0.016) during standing. While lumbopelvic deviations persisted during gait (p ≤ 0.011), hip flexion and temporospatial parameters were comparable between groups. In controls, verbal episodic memory correlated positively with lumbopelvic alignment (r = 0.67-0.80, p ≤ 0.02). In aMCI, greater hip flexion during gait was associated with poor verbal fluency (r = -0.57, p = 0.05) and visual memory (r = -0.68, p = 0.02). CONCLUSIONS: Lumbopelvic alignment was closely linked to episodic memory in cognitively normal ageing, but this coupling appeared disrupted in aMCI, with motor-cognitive associations shifting toward hip-mediated compensatory or reorganised gait control. These kinematic markers were detectable despite preserved gait speed and may be more sensitive than conventional temporospatial gait measures under steady-state conditions. Longitudinal studies are warranted.",
+      "doi": "10.1016/j.gaitpost.2026.110685",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994156/",
+      "relevance": 9,
+      "matched": [
+        "gait",
+        "hip",
+        "kinematic",
+        "posture",
+        "pelvic",
+        "lumbar"
+      ]
+    },
+    {
+      "pmid": "42994047",
+      "title": "CFD simulations of the gait cycle in running aerodynamics from a quasi-static perspective.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-02",
+      "authors": "Xiaoqi Hu, Fabio Malizia, Costin Ioan Coșoiu et al.",
+      "abstract": "Running is a highly dynamic locomotion process, yet most existing aerodynamic studies approximate the runner using a single static posture. This study presents a validated computational fluid dynamics investigation of posture-dependent running aerodynamics throughout the gait cycle from a quasi-static perspective. Five representative gait-cycle postures are analysed for a male runner. The results reveal substantial aerodynamic variations throughout the gait cycle with maximum drag occurring for the mid-stance and minimum drag for the flight postures. Relative to the minimum-drag posture, the peak drag area increases by approximately 20.6%. Flow-field analysis shows that changes in leg configuration strongly influence wake development. The toe-off and flight postures are characterised by a partially interrupted torso wake and more compact wake structures, whereas the higher-drag postures exhibit broader low-velocity wake regions. Body-part decomposition further indicates that the torso is the dominant drag contributor, accounting for approximately 50-59% of the total drag area, while the upper legs exhibit the strongest posture sensitivity. The findings provide new physical insights into posture-dependent running aerodynamics and establish a foundation for future investigations of fully dynamic running motion.",
+      "doi": "10.1016/j.jbiomech.2026.113665",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994047/",
+      "relevance": 4,
+      "matched": [
+        "gait",
+        "posture"
+      ]
+    },
+    {
       "pmid": "42981779",
       "title": "Generating standing posture finite element models of the spine with radiation-free imaging.",
       "journal": "Journal of biomechanics",
@@ -4639,6 +4942,20 @@
       ]
     },
     {
+      "pmid": "42993923",
+      "title": "Elevated pleural pressure, airway closure, and the physiological difference between positive- and negative-pressure ventilation.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-01",
+      "authors": "Jan van Egmond, Jan Paul Mulier, Tom Schepens",
+      "abstract": "",
+      "doi": "10.1152/japplphysiol.90182.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993923/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
       "pmid": "42980337",
       "title": "Reply to Musch et al.",
       "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
@@ -4651,298 +4968,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42980337/",
       "relevance": 0,
       "matched": []
-    },
-    {
-      "pmid": "42980336",
-      "title": "Targeting pulmonary arterial hypertension with aerobic training: anti-inflammatory and cardioprotective effects enhance survival in experimental models.",
-      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-      "journal_issn": "8750-7587",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Timothy I Musch, Nathan Kenney, Kiana Schulze et al.",
-      "abstract": "",
-      "doi": "10.1152/japplphysiol.90094.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980336/",
-      "relevance": 6,
-      "matched": [
-        "training",
-        "aerobic"
-      ]
-    },
-    {
-      "pmid": "42980331",
-      "title": "Publisher's note for Huang et al., volume 296, 2009, p. E1344-E1353.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "",
-      "abstract": "",
-      "doi": "10.1152/ajpendo.90929.2008_NOT",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980331/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42980330",
-      "title": "Publisher's note for Berg et al., volume 287, 2004, p. E1178-E1188.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "",
-      "abstract": "",
-      "doi": "10.1152/ajpendo.00002.2004_NOT",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980330/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42968398",
-      "title": "Exercise and physiological monitoring in isolated, confined and extreme environments and space analogues: A scoping review.",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Gustavo S O Lima, Kaline V F Dinis, Leonardo P Silva et al.",
-      "abstract": "This scoping review synthesized evidence on physical activity/exercise and physiological monitoring in isolated, confined and extreme (ICE) environments, with emphasis on Antarctic missions and space analogues. ICE exposures combine cold stress, confinement, disrupted light-dark cycles and psychosocial strain, which can challenge musculoskeletal integrity, cardiovascular regulation, sleep/circadian function and cognition. Following Joanna Briggs Institute (JBI) methodology and PRISMA-ScR guidance, we searched Web of Science, Embase, Scopus and PubMed/Medline, complemented by grey literature and AI-assisted citation chasing. Eligible reports included human studies in ICE/analogue settings that implemented or quantified physical activity/exercise and/or physiological monitoring. Seventeen studies published between 2003 and 2025 met inclusion criteria and were mapped across ICE characteristics, exercise protocols, monitoring technologies, outcomes and research gaps. Exercise was reported as a potential countermeasure to attenuate selected aspects of deconditioning and support sleep and psychophysiological adaptation, particularly in bed rest and simulated confinement studies. Antarctic field studies more often characterized spontaneous physical activity, sleep/activity rhythms and field-adapted monitoring. Assessment strategies varied, ranging from self-reported logs and actigraphy in operational field settings to laboratory-grade measures in bed rest and simulated confinement studies. Overall, exercise emerged as a pragmatic, domain-specific countermeasure against deconditioning in ICE settings, with effectiveness varying by modality and physiological target. However, heterogeneity in exposure characterization, exercise dose and monitoring methods, despite feasible wearable-based capture of behavioural and physiological signals, limited comparability and mechanistic inference. Future ICE research should prioritize harmonized reporting, standardized monitoring and longitudinal designs linking exercise exposure to physiological, behavioural and operational outcomes.",
-      "doi": "10.1113/EP093836",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42968398/",
-      "relevance": 9,
-      "matched": [
-        "exercise",
-        "adaptation",
-        "physical activity"
-      ]
-    },
-    {
-      "pmid": "42968357",
-      "title": "Neonatal stress is associated with region-specific changes in mitochondrial respiration and sex-dependent respiratory instability in adulthood.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Antonia Vallejo Puerta, Lida Sanchez, Fernanda Aliaga-Raduan et al.",
-      "abstract": "Early-life stress is increasingly recognized as a critical determinant of brain development, yet its long-term impact on the neural control of breathing remains poorly defined. Here we show that neonatal maternal separation (NMS, P3-P12) induces long-term alterations in respiratory stability and mitochondrial function within respiratory circuits. In adulthood, NMS altered respiratory stability, with significant treatment × sex interactions for total and postsigh apnoeas; post hoc comparisons showed increased frequencies of these apnoeic events in males. Sigh frequency also showed a significant main effect of treatment. Region-specific high-resolution respirometry showed that NMS was associated with reduced mitochondrial respiration in the paraventricular hypothalamus (PVH) and increased mitochondrial respiration in the nucleus tractus solitarius (NTS) and ventral respiratory column (VRC), without significant treatment × sex interactions. Normalization to cytochrome c oxidase (COX) activity largely eliminated these differences, suggesting that changes in absolute respiration are consistent with a contribution of differences in mitochondrial content rather than major alterations in respiratory capacity relative to mitochondrial abundance. In the pre-Bötzinger complex, absolute mitochondrial respiration was preserved, whereas oxygen consumption rate (OCR)/COX ratios revealed treatment-dependent alterations in mitochondrial respiratory flux relative to mitochondrial content. NMS also altered the expression of selected genes involved in mitochondrial biogenesis, mitophagy, fusion and fission in the NTS and VRC, with significant main effects of treatment and sex but no treatment × sex interactions. Oxidative and inflammatory markers were largely preserved, although selective effects of sex and treatment were detected. Together, these findings demonstrate that neonatal stress produces persistent, region-specific remodelling of mitochondrial and molecular pathways within respiratory circuits, accompanied by sex-dependent vulnerability to respiratory instability. KEY POINTS: Early-life stress induces a persistent, sex-dependent disruption of respiratory control, increasing apnoeas in adult males, whereas females remain comparatively resistant. This phenotype is associated with region-specific remodelling of mitochondrial function along the paraventricular hypothalamus (PVH)-brainstem axis, characterized by reduced hypothalamic respiration and increased brainstem mitochondrial respiration after neonatal stress. Neonatal stress alters transcriptional pathways involved in mitochondrial biogenesis, mitophagy and dynamics within respiratory brainstem regions, revealing persistent molecular remodelling associated with early-life adversity.",
-      "doi": "10.1113/JP290807",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42968357/",
-      "relevance": 4,
-      "matched": [
-        "mitochondrial",
-        "oxygen"
-      ]
-    },
-    {
-      "pmid": "42968224",
-      "title": "Whale swimming evolution recorded in vertebral microanatomy from the Eocene to present.",
-      "journal": "Journal of anatomy",
-      "journal_issn": "0021-8782",
-      "discipline": "anatomy",
-      "date": "2026-Nov-01",
-      "authors": "Lene Liebe Delsett, Justin J L Kimball, Vanja Simonsen et al.",
-      "abstract": "Among modern aquatic amniote clades that evolved pelagic locomotion, whales are a prime example, but timing and mode of evolutionary changes in their swimming are poorly understood. Here, we use 3D vertebral microanatomy derived from CT scanning to investigate swimming patterns in extinct whales. All vertebral centra from a single specimen of the extant common dolphin Delphinus delphis were used to provide a baseline for the correlation of microanatomical parameters and spinal movements in our dataset of fossil whales. We find that bone anisotropy, and to some extent bone compactness, mirrors the amount of compression and movement in vertebral regions. We use these parameters to infer regional movements and thus swimming mode for several lineages of stem cetaceans (Natchitochia jonesi, Pachycetus wardi, Zygorhiza kochii) and crown cetaceans (Maiabalaena nesbittae, an undescribed Oligocene odontocete and a modern minke whale). Natchitochia jonesi could walk on land, whereas Pachycetus wardi and Zygorhiza kochii were obligately aquatic, but show more spinal flexibility than modern taxa. The early Oligocene mysticete and odontocete differ in microstructural properties and might have experienced a different trajectory towards their extant bauplans. Overall, microanatomical data confirm increasing pelagic specializations in cetacean evolution that include a stiffer torso, but our data also highlight modular patterns of compactness within vertebral regions. Our approach is promising for future use of three-dimensional vertebral microanatomical data to understand locomotory patterns.",
-      "doi": "10.1111/joa.70258",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42968224/",
-      "relevance": 3,
-      "matched": [
-        "bone",
-        "spinal",
-        "anatomical"
-      ]
-    },
-    {
-      "pmid": "42967670",
-      "title": "Anatomical and histological characterization of the heart of the scarlet ibis (Eudocimus ruber).",
-      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-      "journal_issn": "1932-8486",
-      "discipline": "anatomy",
-      "date": "2026-Nov-01",
-      "authors": "Beatriz Rosa Silva, Maria Gabriela Aparecida Farias Pereira, Max Alex Santos Ferreira et al.",
-      "abstract": "Detailed information on the cardiac morphology of the scarlet ibis (Eudocimus ruber) remains limited. This study aimed to characterize the gross and microscopic anatomy of this species' heart and provide morphometric data. We examined six specimens (three males and three females) using gross anatomical analysis, morphometry, conventional radiography, three-dimensional scanning, light microscopy, and scanning electron microscopy. The mean heart mass was 5.93 ± 1.49 g (n = 6), corresponding to 1.10 ± 0.23% of body mass, and the mean radiographic cardiothoracic ratio was 66.90 ± 5.78% (n = 3). Macroscopic examination identified three venae cavae: the right and left cranial venae cavae and the caudal vena cava. The left atrioventricular valve had two cusps with chordae tendineae and papillary muscles, whereas the right atrioventricular valve had a single muscular fold. Histological examination identified uninucleated and binucleated Purkinje fibers in the subendocardial region, extending into myocardial muscle bundles. The base of the aorta showed hyaline cartilage containing chondrocytes and chondroblasts, with no bone tissue identified in the examined sections. These findings provide anatomical, morphometric, and histological data on the heart of E. ruber and a basis for future comparative studies of avian cardiac morphology.",
-      "doi": "10.1002/ar.70388",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967670/",
-      "relevance": 9,
-      "matched": [
-        "anatomical",
-        "muscle",
-        "muscular",
-        "bone",
-        "cartilage",
-        "thoracic"
-      ]
-    },
-    {
-      "pmid": "42967236",
-      "title": "Does β-hydroxy-β-methylbutyrate-associated improvement in mitochondrial respiration preserve fast-twitch muscle function in Duchenne muscular dystrophy?",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Israel Lopes de Lima",
-      "abstract": "",
-      "doi": "10.1113/JP292720",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967236/",
-      "relevance": 2,
-      "matched": [
-        "mitochondrial"
-      ]
-    },
-    {
-      "pmid": "42961777",
-      "title": "Manuscript Clarification for: \"Li H, Yang Q, Wang B. Effects of different training-intensity distribution models on maximal oxygen uptake and time-trial performance in endurance athletes: a Bayesian network meta-analysis. J Strength Cond Res 40: e755-e764, 2026.\".",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Michael Rosenblat, Gunnar Treff, Stephen Seiler",
-      "abstract": "",
-      "doi": "10.1519/JSC.0000000000005772",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961777/",
-      "relevance": 16,
-      "matched": [
-        "training",
-        "strength",
-        "endurance",
-        "oxygen",
-        "performance",
-        "athlete"
-      ]
-    },
-    {
-      "pmid": "42961776",
-      "title": "Effects of Different Training-Intensity Distribution Models on Maximal Oxygen Uptake and Time-Trial Performance in Endurance Athletes: A Bayesian Network Meta-Analysis.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "",
-      "abstract": "",
-      "doi": "10.1519/JSC.0000000000005765",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961776/",
-      "relevance": 14,
-      "matched": [
-        "training",
-        "endurance",
-        "oxygen",
-        "performance",
-        "athlete"
-      ]
-    },
-    {
-      "pmid": "42961775",
-      "title": "Pacing Strategy and Workload Distribution as Determinants of Success in One-Day Monument Cycling Races.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "",
-      "abstract": "",
-      "doi": "10.1519/JSC.0000000000005750",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42961775/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42932953",
-      "title": "Adipocyte lipolysis is a determinant of skeletal muscle size during fasting and feeding.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Daniel M Marko, Rhea V Vemula, Meghan O Conn et al.",
-      "abstract": "Intermittent fasting (IF) can lower fat mass, but also muscle mass. The mechanisms governing tissue partitioning during fasting remain unclear. During fasting, adipose-derived fatty acids from lipolysis and lipolysis-fueled hepatic ketogenesis maintain blood glucose and systemic energy homeostasis. We hypothesized that impaired lipolysis during fasting would shift substrate provision from adipose to muscle, increasing muscle catabolism during IF. We tested male adipocyte-specific adipose triglyceride lipase knockout (aKO) and littermate floxed-control mice during ad libitum feeding on a 10-wk 5:2 IF protocol consisting of two nonconsecutive 24-h fasts and 5 ad libitum feeding days per week. After 10 wk of IF, aKO mice had lower blood lipids and ketones and lost more lean mass and less fat mass than floxed-control mice when mice were fed a standard control diet and also retained more inguinal white adipose tissue and had lower hindlimb muscle mass when IF was compared with ad libitum feeding. In addition, aKO mice had larger adipocytes, smaller muscle fibers, and increased expression of the atrogene, Atrogin1. We then provided exogenous lipids by feeding an obesogenic high-fat diet (HFD). HFD-fed aKO mice had higher whole body fat oxidation and lower blood lipids and ketones than floxed-controls. Obese HFD-fed aKO mice still had smaller skeletal muscle myofibers and increased muscle atrogene expression despite smaller adipocytes during ad libitum feeding or IF. Therefore, adipocyte ATGL-mediated lipolysis is a determinant of skeletal muscle size, and lower lipolysis influences the balance of fat vs. muscle loss during fasting.NEW & NOTEWORTHY This study demonstrates that adipocyte ATGL is a critical regulator of adipose-muscle metabolic crosstalk. Limiting adipocyte lipolysis through adipose ATGL deletion reduced blood lipid and ketone fuel availability, thereby increasing adipose retention, decreasing skeletal muscle mass and fiber size, and increasing muscle atrogene expression, particularly during intermittent fasting. These findings support a model in which impaired adipocyte lipid mobilization shifts whole body energy demands away from adipose and toward skeletal muscle, promoting muscle catabolism during fasting.",
-      "doi": "10.1152/ajpendo.00262.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932953/",
-      "relevance": 1,
-      "matched": [
-        "metabolic"
-      ]
-    },
-    {
-      "pmid": "42932941",
-      "title": "The relationship between eosinophil and macrophage abundance in human visceral adipose tissue in healthy individuals.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Karel Paukner, Barbora Muffova, Hana Bartuskova et al.",
-      "abstract": "Animal studies have linked adipose tissue eosinophils to metabolic homeostasis through IL-4-dependent mechanisms; however, corresponding data from human visceral adipose tissue (VAT), particularly in healthy individuals, remain limited. We analyzed eosinophil abundance (CD45+CD14-CD16-CD15+) in visceral adipose tissue (VAT) obtained from 47 apparently healthy living kidney donors (31 women and 16 men). The eosinophil association with anti-inflammatory CD14+CD16- and proinflammatory CD14+CD16+ macrophages and eosinophil distribution across perivascular adipose tissue (PVAT) and blood were investigated. Eosinophil percentage in VAT was positively correlated with the proportion of anti-inflammatory CD14+CD16- macrophages (r = 0.40, 95% CI 0.19-0.61, P = 0.005). Eosinophil abundance in VAT was positively correlated with eosinophil levels in both PVAT and blood, with a stronger association observed between visceral and perivascular depots. In a multivariable linear regression model, the previously reported association between non-HDL cholesterol and the proportion of anti-inflammatory macrophages was confirmed, and high-sensitivity C-reactive protein was identified as an additional negative predictor. In the multivariable model, VAT eosinophil percentage was not independently associated with anti-inflammatory macrophage proportion (P = 0.109). Plasma IL-4 concentrations remained within a narrow range across all participants. These findings extend the limited evidence on eosinophils in human VAT and underscore the need to define their specific functions within the adipose tissue immune network, including whether and how they contribute to macrophage polarization and immunometabolic homeostasis.NEW & NOTEWORTHY This study provides quantitative data on eosinophil abundance in human visceral adipose tissue from apparently healthy individuals, a tissue that is rarely available for research. A positive association between eosinophils and anti-inflammatory CD14+CD16- macrophages was identified, representing, to our knowledge, the first quantitative evidence of this relationship in human visceral adipose tissue, which is closely linked to metabolic health.",
-      "doi": "10.1152/ajpendo.00174.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932941/",
-      "relevance": 1,
-      "matched": [
-        "metabolic"
-      ]
-    },
-    {
-      "pmid": "42932894",
-      "title": "Effects of stellate ganglion blockade on pulmonary artery pressure and sympathetic baroreflex function at high altitude: a case study in treated hypertension.",
-      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-      "journal_issn": "8750-7587",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Qudus A Ojikutu, Jenna C McCrone, Christabel Osei-Boateng et al.",
-      "abstract": "In this case study, we explored whether transient inhibition of sympathetic outflow with stellate ganglion blockade (SGB) modifies pulmonary artery pressure and sympathetic arterial baroreflex regulation during high-altitude (HA) exposure in an individual with treated hypertension. A 44-yr-old man with treated hypertension underwent physiological assessments at sea level (220 m) and after 5-8 days of exposure to HA (3,800 m). Pulmonary artery systolic pressure (PASP), muscle sympathetic nerve activity (MSNA), beat-by-beat blood pressure (BP), carotid artery diameter, and spontaneous sympathetic baroreflex function (integrative and mechanical components) were assessed at sea level and during HA exposure. During HA exposure, these measurements were obtained following a right-sided ultrasound-guided SGB and compared with those obtained in subsequent time-control visits. HA exposure increased PASP, MSNA, BP, and BP variability compared with sea level. SGB reduced PASP, whereas no meaningful change occurred during the time-control visit. BP variability was lower following SGB than during the control visit. The integrative sympathetic arterial baroreflex relationship appeared steeper following SGB, and the mechanical component demonstrated a greater slope than during the time-control visit, consistent with altered mechanical baroreceptor transduction. These observations suggest that regional sympathetic inhibition may exert distinct influences on pulmonary artery pressure and sympathetic baroreflex regulation during sustained high-altitude exposure in treated hypertension.NEW & NOTEWORTHY This physiological case study examined the effects of stellate ganglion blockade (SGB) during sustained high-altitude exposure in an individual with treated hypertension. Unilateral SGB reduced pulmonary artery systolic pressure and was associated with changes in sympathetic arterial baroreflex regulation and carotid pressure-diameter behavior. These observations provide preliminary evidence that regional sympathetic activity may influence pulmonary vascular and carotid mechanical responses during sustained hypoxic exposure.",
-      "doi": "10.1152/japplphysiol.00687.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932894/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42932893",
-      "title": "The interaction of surface stiffness and hopping frequency on the metabolic cost and biomechanics of human hopping.",
-      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-      "journal_issn": "8750-7587",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Luis Morata-Moreno, Alena Marie Grabowski",
-      "abstract": "The use of in-series passive-elastic devices, such as surfaces and shoes, can reduce the metabolic cost of bouncing gaits, such as running and hopping. These reductions in metabolic cost may arise from increased leg stiffness and ground contact time with less stiff surfaces or footwear. We examined how changes in surface stiffness influence the metabolic cost and biomechanics of hopping across a range of frequencies. As changes in hopping frequency result in changes in leg stiffness and ground contact time, we hypothesized that the metabolic cost associated with hopping on elastic surfaces would be modulated by hopping frequency. Sixteen participants hopped in place on both feet at 2.4, 2.6, and 2.8 Hz on surfaces with different linear stiffness (rigid ∼35,000 kN/m, and 0.9, 0.7, and 0.5 kN/m/kg) using a custom-built adjustable elastic springy platform while we collected metabolic, ground-reaction force, and kinematic data. Hopping on elastic surfaces reduced net metabolic power (W/kg) by 17.6-44.7% compared with a rigid surface; however, the surface stiffness that minimized net metabolic power was stiffer at faster hopping frequencies. We also found that leg stiffness and ground contact time increased as surface stiffness decreased, and this effect was amplified at faster hopping frequencies. These biomechanical changes were not consistently associated with net metabolic power changes. Our data suggest that surface energy return was most closely timed with leg extension on stiffer surfaces at faster hopping frequencies. Thus, tuning in-series passive-elastic devices to a user's movement frequency may reduce the metabolic cost of bouncing gaits.NEW & NOTEWORTHY Metabolic cost reductions for stationary hopping on elastic compared with rigid surfaces are frequency dependent. We found that the surface stiffness that minimized metabolic cost was stiffer at faster hopping frequencies. Leg stiffness and contact time increased as surface stiffness decreased, and this effect was amplified at faster hopping frequencies. These findings suggest that the stiffness of passive-elastic devices, like elastic surfaces and footwear, should be tuned to movement frequency to minimize metabolic cost.",
-      "doi": "10.1152/japplphysiol.90273.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932893/",
-      "relevance": 4,
-      "matched": [
-        "metabolic",
-        "power"
-      ]
-    },
-    {
-      "pmid": "42932892",
-      "title": "Cold fluid ingestion does not enhance exogenous carbohydrate oxidation during prolonged endurance exercise in the heat.",
-      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-      "journal_issn": "8750-7587",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Loïs Mougin, Ben Will, Coen C W G Bongers et al.",
-      "abstract": "This study investigated the effects of ingesting cold versus warm carbohydrate beverages on exogenous carbohydrate oxidation and time-trial performance during prolonged cycling in the heat. Eleven trained, non heat-acclimated cyclists [21 ± 3 yr; 69.3 ± 8.3 kg; peak oxygen uptake ([Formula: see text]): 64.7 ± 5.0 mL/kg/min] completed two trials comprising 100 min of submaximal cycling at 50% Wpeak followed by a time trial in a hot environment (36.2 ± 0.3°C; 55 ± 3% relative humidity). Participants ingested a 15% dextrose solution enriched with [U-13C] glucose (60 g/h; bolus every 20 min) provided either cold (COLD; 4.0 ± 1.6°C) or at room temperature (WARM; 35.8 ± 0.5°C). Heart rate and rectal temperature were lower in COLD than in WARM during the 100-min exercise (P ≤ 0.006), whereas skin temperature did not differ between conditions. Average (40-100 min) exogenous carbohydrate oxidation (COLD: 0.50 ± 0.10 vs. WARM: 0.51 ± 0.10 g/min; P = 0.80), peak exogenous carbohydrate oxidation, total carbohydrate and fat oxidation, and blood glucose, lactate, and insulin concentrations did not differ between trials (all P ≥ 0.34). Sweat losses and body mass changes were unaffected by condition (P ≥ 0.40). Time-trial performance was not different between COLD and WARM (P = 0.38). Despite attenuating cardiovascular and thermal strain, ingesting a cold carbohydrate beverage during exercise in the heat did not enhance exogenous carbohydrate oxidation, substrate utilization, or performance compared with a warm beverage.NEW & NOTEWORTHY This study showed that, despite reducing cardiovascular and thermal strain, ingesting a cold (4°C) versus warm (36°C) carbohydrate beverage did not enhance exogenous carbohydrate oxidation, substrate utilization, or time-trial performance during prolonged cycling in the heat. These findings suggest that beverage temperature is not a relevant factor for optimizing carbohydrate availability during exercise under heat stress, and that athletes can select beverage temperature based on palatability and preference rather than for metabolic benefit.",
-      "doi": "10.1152/japplphysiol.00617.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932892/",
-      "relevance": 15,
-      "matched": [
-        "exercise",
-        "endurance",
-        "metabolic",
-        "lactate",
-        "heart rate",
-        "oxygen"
-      ]
-    },
-    {
-      "pmid": "42932891",
-      "title": "Skeletal muscle oxidative capacity and tissue composition in heart failure with preserved ejection fraction.",
-      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-      "journal_issn": "8750-7587",
-      "discipline": "physiology",
-      "date": "2026-Nov-01",
-      "authors": "Miles F Bartlett, Jimin Ren, Satyam Sarma et al.",
-      "abstract": "Increasing evidence suggests that exercise intolerance in heart failure with preserved ejection fraction (HFpEF) is related to peripheral abnormalities; however, the roles of muscle oxidative capacity and muscle steatosis remain incompletely understood. To address this knowledge gap, 38 HFpEF patients [mean age 69.8 ± 6.1 yr, body mass index (BMI) 37.6 ± 6.9 kg/m2] and 17 healthy older adults (HOAs; mean age 67.6 ± 5.4 yr, BMI 27.3 ± 4.8 kg/m2) performed a graded exercise test on a cycle ergometer to assess exercise tolerance (peak watts) and whole body aerobic capacity [peak O2 uptake (V̇o2peak)]. In vivo quadriceps oxidative capacity [phosphocreatine recovery time constant (τPCr)] and thigh tissue composition [i.e., lean thigh mass (LTM); intermuscular fat % (IMF%)] were measured separately via 31P-magnetic resonance spectroscopy (31P-MRS) and T2-weighted MRI, respectively. LTM was similar between HFpEF patients and HOAs (P = 0.854), but IMF% was significantly greater in HFpEF (P ≤ 0.001). Peak watts and V̇o2peak normalized to LTM were lower and quadriceps τPCr was slower in HFpEF patients compared to HOAs (all P < 0.03). Although IMF% was associated with peak watts normalized to LTM (R2 = 0.148) and whole body V̇o2peak normalized to body mass (R2 = 0.347), it was not associated with V̇o2peak normalized to LTM (R2 < 0.001) or τPCr (R2 = 0.020). In contrast, V̇o2peak normalized to LTM and quadriceps τPCr were both associated with peak watts (R2 = 0.509 and 0.252, respectively) and with each other (R2 = 0.298). Taken together, these data suggest that exercise intolerance in HFpEF is associated with increased muscle steatosis and impaired whole body and quadriceps muscle oxidative capacity. However, the lack of association between IMF% and measures of oxidative capacity suggest that they affect exercise tolerance via different physiological mechanisms.NEW & NOTEWORTHY We compared peripheral mechanisms of exercise intolerance in heart failure with preserved ejection fraction (HFpEF) patients and healthy older adults. HFpEF patients exhibited significantly greater intermuscular steatosis and impaired whole body and quadriceps oxidative capacity [i.e., peak O2 uptake (V̇o2peak) and phosphocreatine recovery time constant (τPCr), respectively], all of which were associated with impaired exercise tolerance. However, increased intermuscular steatosis was not associated with impaired V̇o2peak and τPCr, suggesting that steatosis and impaired oxidative capacity affect exercise tolerance through different physiological mechanisms.",
-      "doi": "10.1152/japplphysiol.00683.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932891/",
-      "relevance": 4,
-      "matched": [
-        "exercise",
-        "aerobic",
-        "recovery"
-      ]
     }
   ]
 }
