@@ -10,7 +10,7 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 230,
+      "latest_articles": 229,
       "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 16
@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-08",
-    "updated_at": "2026-11-08 06:24",
+    "updated": "2026-11-09",
+    "updated_at": "2026-11-09 06:25",
     "raw_count": 300,
     "articles": [
       {
@@ -1956,27 +1956,6 @@
           "metabolism",
           "power",
           "glycogen"
-        ]
-      },
-      {
-        "pmid": "42969941",
-        "title": "The Respiratory Compensation Point Predicts 19.2-km Cycling Performance in Trained Male Cyclists.",
-        "journal": "Journal of strength and conditioning research",
-        "journal_issn": "1064-8011",
-        "discipline": "physiology",
-        "date": "2026-Nov-02",
-        "authors": "Yuet L I So, Robin Faricier, Nasimi A Guluzade et al.",
-        "abstract": "So, YLI, Faricier, R, Guluzade, NA, Belfry, GR, Murias, JM, and Keir, DA. The respiratory compensation point predicts 19.2-km cycling performance in trained male cyclists. J Strength Cond Res XX(X): 000-000, 2026-This study tested the hypothesis that the step-ramp-step (SRS)-corrected cycling power output (PO) at the respiratory compensation point (RCP) predicts cycling time-trial performance and explored the independent and collective contributions to trial time of 4 physiological variables derived from single or repeated SRS protocols: peak oxygen uptake (V̇o2peak), cycling economy, RCP, and fatigue resistance. Twenty-eight trained male cyclists completed an SRS protocol before and after a 19.2-km virtual time trial (∼30 minutes) on their personal road bikes using a smart trainer. V̇o2peak, cycling economy, and SRS-corrected PO at RCP were derived from the pre-time-trial SRS protocol. Fatigue resistance was quantified as the change in peak ramp PO from pre- to post-time trial. Independent and multilinear regression evaluated the predictive strength of each variable. Relative SRS-corrected RCP (W·kg-1) showed the strongest independent correlation with time-trial completion time (r = -0.61, p < 0.001). Relative V̇o2peak (mL·kg-1·min-1) and cycling economy (%) were also moderately associated with time-trial performance (r = -0.42, p = 0.03; and r = -0.55, p < 0.001, respectively), whereas fatigue resistance was not significantly correlated. In the multilinear regression analysis, SRS-corrected RCP uniquely explained 30.9% of the model's total predictive variance (r = 0.68, p < 0.01) followed by cycling economy (21.3%), ΔPOpeak (2.1%), and absolute V̇o2peak (3.3%). Among trained male cyclists, relative PO at SRS-corrected RCP is a strong and independent predictor of ∼30-minute time-trial performance. The SRS protocol provides a practical, single-session method to assess key physiological determinants of endurance performance, with valuable applications for training prescription and athlete monitoring.",
-        "doi": "10.1519/JSC.0000000000005717",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42969941/",
-        "relevance": 15,
-        "matched": [
-          "performance",
-          "training",
-          "strength",
-          "endurance",
-          "fatigue",
-          "power"
         ]
       },
       {
@@ -2409,6 +2388,27 @@
         ]
       },
       {
+        "pmid": "42998881",
+        "title": "Characterising the plasma metabolome following high intensity interval exercise in continuous and intermittent hypoxia in overweight individuals.",
+        "journal": "Experimental physiology",
+        "journal_issn": "0958-0670",
+        "discipline": "physiology",
+        "date": "2026-Nov-07",
+        "authors": "Jacky Soo, Maartje Cox, Paul Goods et al.",
+        "abstract": "The aim of this work was to examine changes in the plasma metabolome in response to high-intensity interval exercise (HIIE) performed under three distinct hypoxia protocols. On separate days, 18 inactive individuals with overweight completed a HIIE protocol in randomised conditions: normoxia (NEx-NRec), normobaric hypoxia (inspired O2 fraction ∼0.14) during both the work and recovery (HEx-HRec), normobaric hypoxia during recovery only (NEx-HRec) and normobaric hypoxia during work only (HEx-NRec). Venous blood samples were collected before and after each HIIE for metabolite analyses by liquid chromatography-mass spectrometry and 1H-nuclear magnetic resonance spectroscopy. Mean power output, averaged across the six work bouts, was lower in HEx-HRec compared to NEx-NRec, NEx-HRec and HEx-NRec (all P ≤ 0.009), with no differences (all P ≥ 0.11) between the other conditions. Arterial oxygen saturation was lower in HEx-HRec compared to other conditions (all P < 0.001). Concentrations of pyruvate and closely associated metabolites (alanine, citrate, lactate) increased consistently across all conditions (all P < 0.001; Hedge's g: 0.43-1.73), without differences between conditions (all P > 0.37). The lactate to pyruvate ratio increased in all conditions, but did not differ between them. Free-fatty acid (FFA) classes (saturated, monounsaturated and polyunsaturated FFAs) showed consistent increases (all P < 0.001), while monounsaturated and saturated triacylglycerol (TAG) classes significantly decreased following HIIE (both P < 0.04). There were no condition × time interaction effects for any metabolites. HIIE significantly altered the concentration of glycolytic and TCA cycle intermediates, whilst concomitantly increasing FFA and decreasing TAG concentrations. Although hypoxia applied either continuously throughout HIIE or intermittently (work or recovery) during HIIE altered exercise performance and oxygen saturation, it had limited additional effect on metabolite concentrations.",
+        "doi": "10.1113/EP094252",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998881/",
+        "relevance": 12,
+        "matched": [
+          "exercise",
+          "recovery",
+          "power",
+          "lactate",
+          "oxygen",
+          "performance"
+        ]
+      },
+      {
         "pmid": "42980792",
         "title": "Influences of sex and time interval on reliability of neuromuscular and motor performance measurements in isometric plantar flexor exercise.",
         "journal": "European journal of applied physiology",
@@ -2486,47 +2486,6 @@
           "fatigue",
           "recovery",
           "sprint"
-        ]
-      },
-      {
-        "pmid": "42969971",
-        "title": "Physiological Adaptations to Controlled Work Rate Heat Acclimation Do Not Differ Between Highly Trained Male and Female Endurance Runners.",
-        "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-        "journal_issn": "8750-7587",
-        "discipline": "physiology",
-        "date": "2026-Nov-02",
-        "authors": "Marcos S Keefe, Ryan A Dunn, Danielle E Levitt et al.",
-        "abstract": "The purpose of this study was to determine whether the trajectory and magnitude of physiological adaptation to controlled work rate heat acclimation (HEAT) differ between male and female highly trained endurance runners, while comparing adaptations with work rate matched temperate exercise training (TEMP). Eighteen highly trained endurance runners (8 males, 10 females) completed two seven-session interventions consisting of HEAT (40°C, 35% relative humidity [RH]) and TEMP (22°C, 35% RH) in a randomized, counterbalanced crossover design. Each session consisted of 60 min of running at 50% of velocity at maximal oxygen uptake. Physiological adaptation was quantified as the change (Δ) relative to session 1 for core temperature (Tc), skin temperature, heart rate (HR), whole-body sweat rate (WBSR), and plasma volume (PV). No intervention × sex × session interactions were observed for Tc, HR, or WBSR (p > 0.05), indicating that the trajectory of adaptation did not differ between sexes or interventions. Likewise, no sex differences in the overall magnitude of adaptation were observed for any HEAT outcome. Significant main effects of intervention demonstrated greater reductions in mean and peak Tc; baseline, mean, and peak HR; as well as greater increases in WBSR during HEAT compared with TEMP (p < 0.05). PV did not change following either intervention. Male and female highly trained endurance runners exhibited comparable thermoregulatory and cardiovascular adaptation to controlled work rate heat acclimation. Although work rate matched temperate exercise induced partial physiological adaptation, environmental heat stress enhanced the overall adaptation magnitude without altering the adaptation trajectory between sexes.",
-        "doi": "10.1152/japplphysiol.90119.2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42969971/",
-        "relevance": 12,
-        "matched": [
-          "endurance",
-          "adaptation",
-          "exercise",
-          "training",
-          "heart rate",
-          "oxygen"
-        ]
-      },
-      {
-        "pmid": "42969891",
-        "title": "Gotta Go Fast: Intended Concentric Effort Produces Divergent Myoelectric Spectral Profiles During Fatiguing, Load-Equated Resistance Exercise.",
-        "journal": "Journal of strength and conditioning research",
-        "journal_issn": "1064-8011",
-        "discipline": "physiology",
-        "date": "2026-Nov-02",
-        "authors": "Brian Benitez, Minyoung Kwak, Pasquale J Succi et al.",
-        "abstract": "Benitez, B, Kwak, M, Succi, PJ, Mitchinson, CJ, Snell, ER, and Bergstrom, HC. Gotta go fast: Intended concentric effort produces divergent myoelectric spectral profiles during fatiguing, load-equated resistance exercise. J Strength Cond Res XX(X): 000-000, 2026-The aim of this study was to examine how intended concentric velocity, that is, the volitional effort applied to accelerate a load, influences the spectral characteristics of the surface electromyographic (sEMG) signal during fatiguing, load-equated resistance exercise. Twenty recreationally active adults (10 men and 10 women) performed unilateral leg extensions to task failure at 70% 1 repetition maximum under 2 within-participant conditions as follows: maximal intended concentric velocity (Vmax) and 50% of individualized Vmax (50%Vmax). Bipolar sEMG from the vastus lateralis was decomposed into 10 frequency bands using wavelet-based time-frequency analysis. Band-specific spectral intensities were modeled with a lognormal generalized linear mixed-effects model, and Lin's concordance correlation coefficient (ρc) was computed between condition-specific spectral profiles across pairwise time points. The mean propulsive concentric velocity and total repetitions to task failure were secondary outcomes. Significance was set at p ≤ 0.05. The 3-way interaction of condition × frequency × repetition was significant (χ2(3) = 23.98, p < 0.001). Across the set, Vmax redistributed spectral power bidirectionally, increasing the low bands while suppressing the high bands, whereas 50%Vmax increased across the entire spectrum without high-frequency suppression. Despite these divergent profiles, the conditions converged at task failure (ρc = 0.98), and the convergence was asymmetric. The fatigued 50%Vmax profile approximated the fresh Vmax profile (ρc = 0.97) rather than the reverse (ρc = 0.74), indicating that submaximal effort approached the maximal-effort state as fatigue accumulated. The mean propulsive concentric velocity also declined 3.6 times more steeply under Vmax despite similar repetitions. Intended concentric velocity appears to shape the spectral profile of muscle excitation under fixed loading.",
-        "doi": "10.1519/JSC.0000000000005722",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42969891/",
-        "relevance": 12,
-        "matched": [
-          "exercise",
-          "resistance",
-          "strength",
-          "fatigue",
-          "power"
         ]
       },
       {
@@ -2728,27 +2687,6 @@
           "hip",
           "biomechanic",
           "foot"
-        ]
-      },
-      {
-        "pmid": "42968696",
-        "title": "Tissue-Specific Regulation of Glucose and Lipid Metabolism by miR-29a in Insulin Resistance and Type 2 Diabetes.",
-        "journal": "American journal of physiology. Endocrinology and metabolism",
-        "journal_issn": "0193-1849",
-        "discipline": "physiology",
-        "date": "2026-Nov-02",
-        "authors": "Mariazel Rubio-Valles, Brendan Egan, Everardo Gonzalez-Rodriguez et al.",
-        "abstract": "MicroRNA-29a (miR-29a) has emerged as a context-dependent regulator of glucose and lipid metabolism in insulin-sensitive tissues, yet its tissue-specific actions in insulin resistance and type 2 diabetes remain incompletely understood. We synthesized peer-reviewed evidence retrieved from PubMed, Scopus, Web of Science, and EBSCOhost on the role of miR-29a across skeletal muscle, adipose tissue, liver, and pancreatic β-cells. We first define the nomenclature and genomic organization of the miR-29 family, its upstream transcriptional regulators, and the Argonaute-based evidence that separates direct target repression from correlative association. Across these tissues, miR-29a modulates oxidative metabolism, inflammatory signaling, and mitochondrial adaptation, largely through the PPARδ/PGC-1α axis, exerting complex and sometimes opposing effects depending on the tissue environment. We further examine miR-29a as a mediator of interorgan communication through extracellular vesicles, its responsiveness to exercise, and its emerging value as a biomarker and therapeutic target, while highlighting unresolved contradictions and translational hurdles. Because miR-29 family members act as tumor suppressors in most epithelial tissues, we also address the oncogenic risk inherent in nucleic acid strategies that lower miR-29a levels. Collectively, this mini-review positions miR-29a as a physiology-oriented integrator of metabolic remodeling and tissue-specific adaptation in metabolic disease.",
-        "doi": "10.1152/ajpendo.90160.2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42968696/",
-        "relevance": 11,
-        "matched": [
-          "metabolism",
-          "resistance",
-          "exercise",
-          "metabolic",
-          "adaptation",
-          "mitochondrial"
         ]
       },
       {
@@ -3184,27 +3122,6 @@
         ]
       },
       {
-        "pmid": "42970410",
-        "title": "Mediterranean Diet Adherence and Markers of Healthy Aging: A Systematic Review of Biological and Functional Outcomes.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-02",
-        "authors": "Mirko Marino, Cristian Del Bo', Martina Frigerio et al.",
-        "abstract": "CONTEXT: Aging involves molecular, cellular, and functional changes that increase vulnerability to chronic disease, cognitive decline, frailty, and loss of independence. Mediterranean-style dietary patterns are generally rich in plant foods, unsaturated fats, fiber, and bioactive compounds, but their composition varies across studies and may include modified or multicomponent interventions. OBJECTIVE: This Systematic Review evaluated associations between Mediterranean-style dietary adherence and related interventions and markers of healthy aging, including biological aging biomarkers, cognition, frailty, physical performance, and overall health status. DATA SOURCES: PubMed, Embase, and Scopus were searched for studies published during 2013- 2025. Searches were conducted in April 2025 and updated in August 2025. The review was registered in PROSPERO (CRD420251107773). DATA EXTRACTION: Randomized controlled trials (RCTs), prospective cohort studies, and cross-sectional studies in adults were eligible if they assessed Mediterranean-style dietary patterns or interventions and reported aging-related biomarkers or functional outcomes. Two reviewers independently conducted study selection and data extraction. DATA ANALYSIS: Eleven studies were included: 5 RCTs, 4 prospective cohort studies, and 2 cross-sectional studies. Greater adherence was associated with better cognitive performance and slower memory decline in some studies. Favorable findings were also reported for telomere dynamics, epigenetic age, and inflammatory biomarkers. Improvements in frailty and physical performance were mainly observed in interventions combining dietary modification with physical activity. Heterogeneity in dietary definitions, adherence measures, intervention components, and outcomes precluded meta-analysis. CONCLUSIONS: The evidence suggests that favorable associations exist between Mediterranean-style dietary patterns and selected markers of healthy aging but does not establish uniform or causal effects. Interpretation is limited by methodological heterogeneity, self-reported dietary exposure, and the inclusion of modified or multicomponent interventions. Long-term studies using standardized dietary definitions, harmonized outcomes, objective adherence measures, and designs capable of isolating diet-specific effects are needed. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. [https://www.crd.york.ac.uk/PROSPERO/view/CRD420251107773].",
-        "doi": "10.1093/nutrit/nuag160",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42970410/",
-        "relevance": 9,
-        "matched": [
-          "diet",
-          "fat",
-          "dietary",
-          "food",
-          "fiber",
-          "physical activity"
-        ]
-      },
-      {
         "pmid": "42967447",
         "title": "Feedforward neuromuscular control and dynamic postural stability in people with chronic ankle instability during single-leg landing.",
         "journal": "Journal of biomechanics",
@@ -3354,6 +3271,43 @@
           "performance",
           "fat",
           "exercise"
+        ]
+      },
+      {
+        "pmid": "42997992",
+        "title": "Ad libitum eating and reduced exercise resolve impaired bone integrity after prolonged reductions in energy availability in mature female rodents.",
+        "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+        "journal_issn": "8750-7587",
+        "discipline": "physiology",
+        "date": "2026-Nov-07",
+        "authors": "Corinne E Metzger, Sibyl N Swift, Kyunghwa Baek et al.",
+        "abstract": "Reduced energy availability (EA) results in loss of bone mass and disruption of endocrine regulators of bone integrity, even in very active individuals. Our aim was to determine whether 12 weeks of less exercise and ad libitum eating would enable recovery of deficits incurred during 12 weeks of reduced EA, hypothesizing recovery would be improved in exercising rats. Female rats (n=64, 5 months old) were randomized to sedentary (SED) or exercise (EX) conditions and, within each group, to adlib-fed (ADLIB) or severe energy restriction (SEV-ER). Energy intake was restricted in all SEV-ER rats and exercise volume in SEV-ER EX rats calculated to produce equivalent 30% reductions in EA. After 12 weeks, SEV-ER EX rats exhibited no losses in lean/fat mass and total bone mass (DXA), metaphyseal %BV/TV, and distal femur and femoral neck vBMD (by pQCT), and higher values for osteoblast activity than observed in SEV-ER SED animals. EX did not protect against declines in serum leptin and IGF-I. Half of each group recovered for 12 weeks, eating ADLIB and (in EX rats) reducing running volume by 50%. After 4 weeks recovery, body weight and energy availability for all SEV-ER rats matched those of ADLIB rats. By 12 weeks, there were no significant differences among groups for all variables. These results demonstrate that bone mass/microarchitecture and osteoblast activity observed in SED animals can return to normal levels after a period of ad libitum eating, as can IGF-I/leptin in exercising rats with reduced exercise and ADLIB eating of the same duration as the preceding reduced EA.",
+        "doi": "10.1152/japplphysiol.90124.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42997992/",
+        "relevance": 8,
+        "matched": [
+          "exercise",
+          "recovery",
+          "sedentary"
+        ]
+      },
+      {
+        "pmid": "42997988",
+        "title": "Maximum-Effort Jumping Exposes the Achilles Tendon to High Strain and Indicates Potential Overload in Adolescent Athletes.",
+        "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+        "journal_issn": "8750-7587",
+        "discipline": "physiology",
+        "date": "2026-Nov-07",
+        "authors": "Kolja Weidlich, Falk Mersmann, Theresa Domroes et al.",
+        "abstract": "Plyometric exercise is a fundamental component of many sport disciplines and may overload the Achilles tendon (AT) by subjecting it to high strain magnitudes. AT strain profiles were investigated during countermovement, drop, hurdle, and horizontal single-leg jumps - common plyometric exercises - in order to assess exercise-induced AT loading. This was done by measuring AT elongation during the jumps using reflective markers on the skin to reconstruct the AT path, while the myotendinous junction of the gastrocnemius medialis was recorded using ultrasound in 18 adolescent athletes. Electromyographic (EMG) activity of the tibialis anterior, soleus, gastrocnemius medialis and lateralis muscles, kinematics, and ground reaction forces were also measured. Although the maximum resultant ankle joint moment differed significantly between the investigated jumps, maximum AT strain and EMG activity of the triceps surae muscles were invariant between jump types. On average, the maximum AT strains ranged from 9.0% to 10.7%, and the EMG activity ranged from 0.96 to 1.43 times the maximum EMG activity achieved during a maximum voluntary fixed-end plantar flexion contraction, across the jumps. The consistently high AT strain magnitudes across the investigated jumps highlight the substantial mechanical demand placed on the AT during maximum-effort jumping tasks, which exceed the reported effective strain range for tendon adaptation. The frequent application of plyometric exercises involving such high-magnitude strains in training practice may contribute to AT overload in adolescent athletes.",
+        "doi": "10.1152/japplphysiol.90157.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42997988/",
+        "relevance": 8,
+        "matched": [
+          "athlete",
+          "exercise",
+          "training",
+          "adaptation"
         ]
       },
       {
@@ -5317,6 +5271,22 @@
         ]
       },
       {
+        "pmid": "42997989",
+        "title": "Hormone Replacement Therapy and Cerebral Hemodynamics in Postmenopausal Women: A Systematic Review and Meta-Analysis.",
+        "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+        "journal_issn": "8750-7587",
+        "discipline": "physiology",
+        "date": "2026-Nov-07",
+        "authors": "Elyse Vetter, Keerti Vittalam, Sadie Winter et al.",
+        "abstract": "Background: Hormone replacement therapy (HRT) has well-established effects on systemic vascular function in postmenopausal women, but its effects on cerebral hemodynamics remain poorly understood. This systematic review and meta-analysis evaluated the effects of HRT on ultrasound-based measures of cerebral hemodynamics. We hypothesized that HRT would be associated with reduced pulsatility index (PI), with stronger effects for estrogen-only formulations. Methods: Embase, PubMed, Web of Science, and CENTRAL were searched following PRISMA guidelines (January 25, 2026). Studies reporting PI, resistive index (RI), and cerebral blood velocity (CBV) in postmenopausal women using HRT were included. Risk of bias was assessed using validated tools. Multilevel meta-analytic models using restricted maximum likelihood accounted for dependency among effect sizes. Separate models examined between-group and within-individual comparisons. Moderator analyses examined hormone formulation and administration route. Results: Thirty-eight studies (27 meta-analyzed) were included. HRT was associated with lower PI versus controls, with a pooled mean difference of -0.051, 95% CI [-0.089, -0.012], p=0.009, k=31. Within-individual analyses demonstrated a reduction in PI over time, with a pooled mean change of -0.049, 95% CI [-0.081, -0.015], p=0.004, k=55. RI and CBV were not significantly altered (RI: p=0.74, CBV: p=0.54). Estrogen-only regimens were associated with greater reductions in PI than estrogen plus progestin or tibolone, while route of administration demonstrated no consistent effects. Between-study heterogeneity was substantial. Discussion: HRT was associated with reduced cerebrovascular pulsatility, suggesting a physiological effect on cerebral circulation. However, substantial heterogeneity across studies limits conclusions regarding factors that may modify this response.",
+        "doi": "10.1152/japplphysiol.90127.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42997989/",
+        "relevance": 3,
+        "matched": [
+          "hormone"
+        ]
+      },
+      {
         "pmid": "42984477",
         "title": "Studying multiple health behaviours in older adults using a measurement burst design: protocol, feasibility, compliance, behavioural patterns and lessons learned.",
         "journal": "The British journal of nutrition",
@@ -5402,24 +5372,6 @@
         "matched": [
           "exercise",
           "neuromuscular"
-        ]
-      },
-      {
-        "pmid": "42971357",
-        "title": "Eicosapentaenoic acid in adipose tissue is associated with a lower risk of hemorrhagic stroke: A Danish case-cohort study.",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-02",
-        "authors": "Johanne Havskov Thygesen, Villads Bové Hesislev, Phillip Czerwonka et al.",
-        "abstract": "BACKGROUND: Omega-3 polyunsaturated fatty acids (PUFAs) have been linked to a lower risk of atherosclerotic cardiovascular disease, however, their association with hemorrhagic stroke remains uncertain. We investigated associations between adipose tissue content of individual omega-3 PUFAs (α-linolenic acid (ALA), eicosapentaenoic acid (EPA), docosapentaenoic acid (DPA), docosahexaenoic acid (DHA), the sum of EPA+DHA), and the risk of hemorrhagic stroke and its subtypes intracranial and subarachnoid hemorrhage. METHODS: This case-cohort study based on the Danish Diet, Cancer and Health Cohort included 54,546 men and women aged 50 to 65 years at baseline (1993-1997). Adipose tissue composition of omega-3 PUFAs was determined by gas chromatography for all hemorrhagic stroke cases and within a randomly drawn subcohort of 4,615 participants. Cases were identified by linkage to the Danish National Patient Register. Hazard ratios (HR) were obtained by weighted Cox regression. RESULTS: During a median of 21 years follow-up, we identified 729 hemorrhagic stroke cases. In multivariable analyses, a significant inverse association between the content of EPA in adipose tissue and the risk of total hemorrhagic stroke was found. Thus, the HR for hemorrhagic stroke was 0.64 (95% CI: 0.50-0.82) when comparing the highest quintile of EPA content in adipose tissue with the lowest. Associations were similar when stratified according to sex and when investigating subtypes of hemorrhagic stroke, although findings were not statistically significant for subarachnoid hemorrhages. No statistically significant associations were observed between adipose tissue content of DHA, DPA and EPA+DHA and hemorrhagic strokes. A high content of ALA in adipose tissue was associated with a higher risk of hemorrhagic stroke (HR for quintile 5 vs. 1: 1.32, 95% CI: 1.01-1.72). CONCLUSION: A high content of EPA in adipose tissue was associated with a lower risk of hemorrhagic stroke, while a high content of ALA was associated with a higher risk in this cohort.",
-        "doi": "10.1016/j.tjnut.2026.101923",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42971357/",
-        "relevance": 3,
-        "matched": [
-          "fat",
-          "diet",
-          "omega-3"
         ]
       },
       {
@@ -5690,6 +5642,39 @@
         ]
       },
       {
+        "pmid": "42998027",
+        "title": "Differential Postsurgery Outcomes Across Physical Therapy Care Pathways in Lumbar Spinal Stenosis Surgery: Analyses of a National Registry-Based Cohort.",
+        "journal": "Physical therapy",
+        "journal_issn": "0031-9023",
+        "discipline": "fascia",
+        "date": "2026-Nov-07",
+        "authors": "Maria Fors, Birgitta Öberg, Paul Enthoven et al.",
+        "abstract": "IMPORTANCE: Lumbar spinal stenosis (LSS) is the most common indication for spinal surgery. Physical therapist treatment is consistently recommended throughout the care pathway for LSS, including before and after surgical treatment. However, the effectiveness of pre- and postsurgery rehabilitation interventions are unclear. OBJECTIVE: The objective of this study was to explore 1-year postsurgery outcomes associated with different physical therapy care pathways in patients who had undergone surgery for LSS. DESIGN: This was a registry-based multicenter study using data from the Swedish National Spine Surgery Registry. SETTING: Swedish spine clinics participating in the Swedish National Spine Surgery Registry, with an estimated national coverage of 95%. PARTICIPANTS: Participants were patients surgically treated for LSS between 2021 and 2023 and with data on physical therapist treatment prior to a surgical decision, while waiting for surgery, and after surgery (N = 7969). INTERVENTION(S) OR EXPOSURE(S): Patient-reported exposure to physical therapy before and after LSS surgery, categorized into four physical therapy care pathways. MAIN OUTCOMES AND MEASURES: Outcomes were patient-reported pain intensity, disability, health-related quality of life, general health, gait function, analgesic use, repeat surgeries, satisfaction with surgery, and perceived participation in decision-making. Multivariable logistic regression and univariate analysis of variance were used to assess differences in 1-year postsurgery outcomes between 4 physical therapy care pathways. RESULTS: Compared to patients who reported pre- and postsurgery physical therapy, patients with only presurgery physical therapy demonstrated better outcomes across all measures and had higher odds of reaching the thresholds for meaningful and acceptable outcomes at 1 year after surgery (odds ratio [OR] = 1.39 to 1.56). In contrast, patients with only postsurgery physical therapy had higher pain intensity, worse gait function and health-related quality of life, and less improvement in disability and gait function. They also had lower odds of reaching clinically acceptable thresholds in pain intensity (spinal OR = 0.83 [96% CI = 0.74 to 0.93]; leg OR = 0.78 [95% CI = 0.67 to 0.88]) and disability (OR = 0.83 [95% CI = 0.72 to 0.96]). Few differences were observed between patients with both pre- and postsurgery physical therapy and those with no physical therapy. The latter group was small, and comparisons should be interpreted accordingly. CONCLUSIONS: Presurgery physical therapy may be beneficial to consider for patients undergoing surgery for LSS, while additional postsurgery physical therapy may not be warranted for all. RELEVANCE: The results may inform the development of surgical care pathways for LSS.",
+        "doi": "10.1093/ptj/pzag125",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998027/",
+        "relevance": 2,
+        "matched": [
+          "rehabilitation",
+          "pain"
+        ]
+      },
+      {
+        "pmid": "42995632",
+        "title": "Anatomical Society Summer Meeting University of Bristol: 15th-17th July 2026.",
+        "journal": "Journal of anatomy",
+        "journal_issn": "0021-8782",
+        "discipline": "anatomy",
+        "date": "2026-Nov-06",
+        "authors": "",
+        "abstract": "",
+        "doi": "10.1111/joa.70272",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42995632/",
+        "relevance": 2,
+        "matched": [
+          "anatomical"
+        ]
+      },
+      {
         "pmid": "42993290",
         "title": "Medical students' perceptions of smartphone-derived three-dimensional cadaveric models for anatomy education: a cross-sectional study.",
         "journal": "Surgical and radiologic anatomy : SRA",
@@ -5819,23 +5804,6 @@
         "relevance": 2,
         "matched": [
           "exercise"
-        ]
-      },
-      {
-        "pmid": "42970121",
-        "title": "Age-related morphometric and morphological differences in the external aperture of the carotid canal: a retrospective study.",
-        "journal": "Surgical and radiologic anatomy : SRA",
-        "journal_issn": "0930-1038",
-        "discipline": "anatomy",
-        "date": "2026-Nov-02",
-        "authors": "Murat Inci, Hamza Kasar, Mehmet Selcuk et al.",
-        "abstract": "PURPOSE: This study aimed to evaluate age-stratified morphometric estimates for the external aperture of the carotid canal (EACC) in a paediatric population; it also aimed to assess age-related differences in its morphological and morphometric characteristics and the relationship between its dimensions and transverse skull-base width, measured as the distance between the supramastoid crests (SC-to-SC). METHODS: This retrospective study included 700 EACCs obtained from 350 patients aged between 1 and 18 years, evenly distributed across five age groups. Length, width, estimated area of the EACC, and distances to the midline, supramastoid crest, and mandible were measured on computed tomography images. Morphological types were classified as round, oval, and distinctly transversely elongated according to the width-to-length ratio. Generalized Estimating Equations (GEE) were used to account for bilateral shape dependency. RESULTS: The mean EACC length was 4.11 ± 0.88 mm, the width was 5.39 ± 1.19 mm and the estimated area was 18.03 ± 7.13 mm2. Age group had a very strong effect on all parameters (η2p = 0.389-0.822). Polynomial regression revealed an asynchronous trajectory: aperture dimensions peaked at 10-13 years (quadratic trend), whereas landmark distances increased linearly up to 14-18 years. After Bonferroni correction, EACC width, estimated area and SC-to-SC distance were significantly larger in males. Oval type predominated (56%), and the distinctly transversely elongated type was more common in males (GEE, p = 0.002). CONCLUSION: Growth of EACC parameters occurs asynchronously: canal dimensions reach maximum values in the 10-13-year age group, whereas distances to surrounding landmarks expand into late adolescence (14-18 years). These age-stratified estimates may assist anatomical orientation during preoperative radiological evaluation of the paediatric skull base.",
-        "doi": "10.1007/s00276-026-04047-x",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42970121/",
-        "relevance": 2,
-        "matched": [
-          "hip",
-          "anatomical"
         ]
       }
     ]
@@ -7031,5 +6999,5 @@
       }
     ]
   },
-  "built_at": "2026-11-07 22:24"
+  "built_at": "2026-11-08 22:25"
 }
