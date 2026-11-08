@@ -13,7 +13,7 @@
       "latest_articles": 229,
       "raw_articles": 300,
       "fascia_lines": 6,
-      "agent_drafts": 16
+      "agent_drafts": 22
     }
   },
   "disciplines": [
@@ -6771,8 +6771,92 @@
     ]
   },
   "agent_drafts": {
-    "updated": "2026-11-02 07:23",
+    "updated": "2026-11-09 07:24",
     "items": [
+      {
+        "pmid": "42975894",
+        "title": "Athletic Performance Adaptations: Just Training Sprints or Combining Sprints With Three Different Strength Training Methods?",
+        "discipline": "physiology",
+        "principle": "在8周冲刺跑基础上加入高负荷最大力量训练（≥85% 1RM深蹲）比单纯冲刺跑或爆发力训练更能提升腿举最大等长收缩力、0-25米冲刺时间、跑步经济性和Wingate平均功率。",
+        "mechanism": "高负荷深蹲可能通过提高最大力量与动态发力率（RFD），进而改善短距离冲刺加速和骑行功率输出；摘要显示ΔMVIF与表现变化相关。",
+        "evidence_level": "B",
+        "evidence_note": "探索性随机对照研究，58名休闲活动、非力量训练男女，8周3次/周，4组比较；摘要未报告盲法、效应量细节及女性亚组结果。",
+        "application": "可能倾向在冲刺训练中叠加高负荷最大力量训练以提升短距离冲刺和功率表现；肥大训练也可能改善部分冲刺指标。",
+        "counterexample": "对已有力量训练基础或高水平运动员不一定成立；爆发力训练组在多数指标上未优于对照，提示低负荷跳跃不能替代高负荷力量刺激。",
+        "confidence": 0.7,
+        "status": "draft",
+        "generated_at": "2026-11-09 07:24"
+      },
+      {
+        "pmid": "42976123",
+        "title": "Moderate-Intensity Interval Training Is Sufficient to Increase Muscle Mitochondrial Respiratory Capacity and Exercise Tolerance in Young Untrained Men.",
+        "discipline": "physiology",
+        "principle": "7周中等强度间歇训练（4次/周、40分钟/次）可提高未训练年轻男性骨骼肌线粒体最大呼吸速率约50%、乳酸阈功率约43 W和肺V̇O2max约7%，且不损害血糖稳态。",
+        "mechanism": "训练增加线粒体质量和呼吸链复合体富集，从而提高氧化磷酸化能力；乳酸阈功率上升反映耐力表现改善。",
+        "evidence_level": "B",
+        "evidence_note": "单组前后对照研究，11名健康未训练男性，7周MIIT；样本小、无对照组，摘要信息有限。",
+        "application": "可能倾向用中等强度间歇训练作为提升线粒体氧化能力和耐力阈值的低风险方案；对血糖稳态可能无不良影响。",
+        "counterexample": "对已训练人群或更高强度训练需求者，MIIT可能不足以继续提升；摘要未设对照，不能排除自然波动或重复测试效应。",
+        "confidence": 0.6,
+        "status": "draft",
+        "generated_at": "2026-11-09 07:24"
+      },
+      {
+        "pmid": "42975550",
+        "title": "Performance and Physiological Responses to Strength Training Programs in Elite Judo Athletes.",
+        "discipline": "physiology",
+        "principle": "4周板块计划（BP）比波动计划（UP）更能提高精英柔道运动员下肢峰值功率，但伴随更高的自主神经扰动（HRVcv升高）。",
+        "mechanism": "板块计划集中训练刺激可能增强下肢功率适应，同时增加内部负荷和自主神经压力；两组CK和TNF-α随时间升高提示肌肉损伤和炎症反应。",
+        "evidence_level": "B",
+        "evidence_note": "随机分组研究，18名精英柔道运动员（14男4女），4周、每周6次力量课；样本小、短期，摘要未报告具体效应量以外的混杂控制。",
+        "application": "可能倾向在短期备赛期采用板块力量计划提升下肢功率，但需监测HRV和主观状态以管理生理压力。",
+        "counterexample": "对上肢功率和CMJ无显著改变，说明板块计划并非全面优于波动计划；自主神经扰动较高可能不适合恢复不足者。",
+        "confidence": 0.6,
+        "status": "draft",
+        "generated_at": "2026-11-09 07:24"
+      },
+      {
+        "pmid": "42967448",
+        "title": "Biomechanical link between knee osteoarthritis and lumbar spine loading: An experimental and simulation-based analysis.",
+        "discipline": "anatomy",
+        "principle": "轻度至中度内侧膝骨关节炎患者步行时，模型预测的多裂肌、最长肌和髂肋肌力及L1-S1各水平腰椎压缩力高于健康对照，尽管组间近端运动学差异有限。",
+        "mechanism": "膝骨关节炎步态可能通过改变躯干肌肉激活模式，增加椎旁肌力和腰椎关节反作用力，从而增加腰椎负荷。",
+        "evidence_level": "C",
+        "evidence_note": "探索性实验与模拟研究，8例膝骨关节炎患者和10名健康对照；样本很小，组间近端运动学差异有限，作者提示个体异质性可能被平均化掩盖。",
+        "application": "可能倾向在膝骨关节炎康复中评估躯干肌力和步态策略，以减少腰椎负荷；但不应据此直接推断因果关系。",
+        "counterexample": "若个体步态适应异质性强，组平均结果可能不适用于单个患者；摘要未证明膝骨关节炎导致腰椎负荷增加，仅为关联。",
+        "confidence": 0.4,
+        "status": "draft",
+        "generated_at": "2026-11-09 07:24"
+      },
+      {
+        "pmid": "42980048",
+        "title": "Ergocycling-Based Repeated-Sprint Training in Hypoxia Performed at Either 3,000 m or 2,000 m Similarly Impacts Overground Performance in Under-18 Field Hockey Players.",
+        "discipline": "physiology",
+        "principle": "3周功率车重复冲刺训练在中等缺氧（3000 m）或低氧（2000 m）下均能降低U18曲棍球运动员陆上重复冲刺总时间，但两种缺氧程度间无显著差异。",
+        "mechanism": "缺氧重复冲刺可能通过增加无氧糖酵解和肌肉氧合应激，改善重复冲刺能力；但摘要未提供具体分子机制。",
+        "evidence_level": "B",
+        "evidence_note": "非随机分组比较，15名高水平U18男子曲棍球运动员，3周6次功率车RSH；样本小，缺氧程度非随机分配，摘要信息有限。",
+        "application": "可能倾向用功率车重复冲刺训练改善陆上重复冲刺总时间；3000 m与2000 m缺氧暴露的额外收益可能相似。",
+        "counterexample": "陆上理论最大力和理论最大功率未改善，理论最大速度反而下降，提示功率车训练不能全面转化为陆上冲刺力-速特征。",
+        "confidence": 0.55,
+        "status": "draft",
+        "generated_at": "2026-11-09 07:24"
+      },
+      {
+        "pmid": "42994407",
+        "title": "Adaptive Responses to \"Top-up\" Repeated-Sprint Training in Hypoxia or Normoxia in Male University Basketball Players.",
+        "discipline": "physiology",
+        "principle": "12次重复冲刺训练（先6次常氧，再6次缺氧或常氧补充）可提高男子大学篮球运动员6秒峰值功率、6秒平均功率、最大有氧功率和V̇O2peak，但第二阶段缺氧暴露未带来额外收益。",
+        "mechanism": "重复冲刺训练总量可能通过改善无氧功率和有氧能力产生适应；缺氧未额外增强适应，可能因训练量增加掩盖环境因素。",
+        "evidence_level": "B",
+        "evidence_note": "非随机分组研究，15名男子大学篮球运动员，12次重复冲刺训练；样本小，第二阶段分组非随机，摘要信息有限。",
+        "application": "可能倾向用重复冲刺训练提升篮球运动员无氧功率和有氧能力；在已进行常氧冲刺训练后，追加缺氧暴露的额外价值可能有限。",
+        "counterexample": "重复冲刺能力（PPRSA）未改善，说明该训练方案对专项重复冲刺表现的迁移可能不足；缺氧“补充”未必优于常氧。",
+        "confidence": 0.55,
+        "status": "draft",
+        "generated_at": "2026-11-09 07:24"
+      },
       {
         "pmid": "42932892",
         "title": "Cold fluid ingestion does not enhance exogenous carbohydrate oxidation during prolonged endurance exercise in the heat.",
@@ -6999,5 +7083,5 @@
       }
     ]
   },
-  "built_at": "2026-11-08 22:25"
+  "built_at": "2026-11-08 23:24"
 }
