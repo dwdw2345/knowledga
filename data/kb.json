@@ -10,7 +10,7 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 229,
+      "latest_articles": 230,
       "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 22
@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-09",
-    "updated_at": "2026-11-09 06:25",
+    "updated": "2026-11-10",
+    "updated_at": "2026-11-10 06:35",
     "raw_count": 300,
     "articles": [
       {
@@ -3274,6 +3274,24 @@
         ]
       },
       {
+        "pmid": "43000881",
+        "title": "Dietary potassium intake from different food sources and mortality in maintenance haemodialysis patients: a multicentre prospective cohort study.",
+        "journal": "The British journal of nutrition",
+        "journal_issn": "0007-1145",
+        "discipline": "nutrition",
+        "date": "2026-Nov-09",
+        "authors": "Chaoying Xia, Ziyang You, Zhen Wen et al.",
+        "abstract": "The association between dietary potassium intake and mortality in maintenance haemodialysis (MHD) patients remains controversial, particularly regarding potassium from different dietary sources. In this multicentre prospective cohort study, dietary potassium intake was assessed using 24-hour dietary recalls. Cox proportional hazards models were used to evaluate associations with all-cause and cardiovascular mortality. Restricted cubic splines assessed dose-response relationships, and sensitivity analyses included adjustment for dietary quality indicators, exclusion of serum potassium, exclusion of deaths within the first year, and competing-risk models. The lowest tertile of total dietary potassium intake was associated with higher all-cause mortality (adjusted hazard ratio [aHR]: 1·36, 95 % CI: 1·02-1·81). The lowest tertile of plant-based potassium intake was associated with increased all-cause mortality (aHR: 1·54, 95% CI: 1·19-1·99) and cardiovascular mortality (aHR: 1·50, 95% CI: 1·05-2·14). Restricted cubic spline analyses demonstrated inverse dose-response relationships between total dietary potassium intake and both mortality outcomes and between plant-based potassium intake and all-cause mortality. Dietary potassium intake was not associated with serum potassium levels or hyperkalaemia risk, whereas severe hyperkalaemia (serum potassium ≥6·0 mmol/L) independently predicted cardiovascular mortality (aHR: 1·59, 95% CI: 1·06-2·38). Lower dietary potassium intake, particularly from plant sources, was associated with increased mortality risk among MHD patients. These findings support a more individualised approach to dietary potassium management in MHD patients.",
+        "doi": "10.1017/S0007114526108460",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000881/",
+        "relevance": 8,
+        "matched": [
+          "diet",
+          "dietary",
+          "food"
+        ]
+      },
+      {
         "pmid": "42997992",
         "title": "Ad libitum eating and reduced exercise resolve impaired bone integrity after prolonged reductions in energy availability in mature female rodents.",
         "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
@@ -3716,26 +3734,6 @@
           "knee",
           "biomechanic",
           "gait"
-        ]
-      },
-      {
-        "pmid": "42971358",
-        "title": "Saturated and Trans Fatty Acids Were Not Associated with All-Cause or Cause-Specific Mortality in a Japanese Population with Relatively Low Intakes: The Japan Public Health Center-Based Prospective Study.",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-02",
-        "authors": "Kumiko Kito, Junko Ishihara, Ayaka Kotemori et al.",
-        "abstract": "BACKGROUND: World Health Organization (WHO) guidelines recommend that saturated fatty acids (SFAs) and trans fatty acids (TFAs) should comprise ≤10% and ≤1% of total energy intake, respectively. However, evidence of the mortality risk associated with increased TFA and SFA intake in populations with a relatively low fat intake is limited. OBJECTIVE: To examine the association between total fat, SFA, TFA, monounsaturated fatty acid (MUFA), and polyunsaturated fatty acid (PUFA) intake and all-cause and cause-specific mortality in a Japanese population. METHODS: We included 90,807 participants aged 45-74 years with no history of cancer or cardiovascular disease (CVD). Dietary assessment was performed using a validated food frequency questionnaire. Hazard ratios (HRs) and 95% confidence intervals (CIs) were assessed using Cox proportional hazards models for each quintile of dietary fat intake: total fat, SFA, MUFA, PUFA, TFA, industrially-derived TFA (i-TFAs), and ruminant-derived TFA (r-TFA). RESULTS: During a mean follow-up of 18.9 years, 22,618 deaths occurred. None of the analyses of fat intakes in quintiles showed a positive association with all-cause mortality for higher intakes of all fats, even for i-TF. In females, a nominally significant association was observed for all-cause mortality with PUFA (HR, Q5 vs. Q1 = 0.92 [0.84-0.997]) and cancer mortality with MUFA (HR, Q5 vs. Q1 = 0.84 [0.73-0.97]).In females, higher intakes of total fat and MUFA were nominally associated with higher respiratory disease mortality, whereas a higher SFA intake showed a suggestive association (P for trend <0.05). CONCLUSIONS: In this study, neither SFA nor TFA intake was positively associated with all-cause mortality, and higher PUFA intake was inversely associated with all-cause mortality in females.",
-        "doi": "10.1016/j.tjnut.2026.101922",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42971358/",
-        "relevance": 7,
-        "matched": [
-          "fat",
-          "diet",
-          "dietary",
-          "energy intake",
-          "food"
         ]
       },
       {
@@ -4227,25 +4225,6 @@
         "matched": [
           "diet",
           "dietary"
-        ]
-      },
-      {
-        "pmid": "42976750",
-        "title": "Effects of footwear bending stiffness on direction-specific functional base of support in healthy older adults.",
-        "journal": "Journal of biomechanics",
-        "journal_issn": "0021-9290",
-        "discipline": "anatomy",
-        "date": "2026-Nov-02",
-        "authors": "Paula S Kramer, Kota Z Takahashi, Jason R Franz et al.",
-        "abstract": "Less than 30 % of the anatomical footprint is typically available for balance control, and this available area, known as the functional base of support (fBoS), can decrease with age. In older adults, smaller fBoS values are associated with a higher risk of falls. Because the strength of intrinsic foot muscles can influence the fBoS, we hypothesized that increasing footwear bending stiffness may similarly increase the fBoS. Twenty-one healthy older adults (70 ± 6 years, 10F/11 M) provided informed consent. Participants \"leaned as far as you can with both feet together in one of four directions (forward, backward, right, left) without stepping\". Heels, toes, and feet could lift freely to allow full ankle motion. Footwear stiffness was manipulated using standardized shoes (S00), S00 with a 1.6 mm carbon-fiber insole (S16), and S00 with a 3.2 mm carbon-fiber insole (S32). The directional fBoS was defined using the minimum distance between the maximum excursion of the center of pressure and direction-specific foot boundary landmarks. There were no differences in fBoS between S00 and S16 (all p-values > 0.05) or between S00 and S32 (all p-values > 0.145). Contrary to our hypotheses, no detectable immediate group-level effect of footwear bending stiffness was observed, suggesting that increasing footwear bending stiffness alone does not fully explain a mechanism underlying decreased fBoS with aging.",
-        "doi": "10.1016/j.jbiomech.2026.113664",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42976750/",
-        "relevance": 6,
-        "matched": [
-          "foot",
-          "muscle",
-          "ankle",
-          "anatomical"
         ]
       },
       {
@@ -4942,6 +4921,57 @@
         "matched": [
           "morphology",
           "spinal"
+        ]
+      },
+      {
+        "pmid": "43001624",
+        "title": "Laryngeal branches of the recurrent laryngeal nerve: A narrative review of human anatomical studies.",
+        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+        "journal_issn": "1932-8486",
+        "discipline": "anatomy",
+        "date": "2026-Nov-09",
+        "authors": "Daniel Goodman, Jordan Higgs, Robert T Sataloff",
+        "abstract": "The recurrent laryngeal nerve (RLN) provides motor innervation to all intrinsic laryngeal muscles except the cricothyroid. Detailed knowledge of its terminal branching is essential for thyroid, laryngeal, and voice surgeons. This review synthesizes existing human cadaveric and surgical descriptions of the extralaryngeal and motor branching of the RLN, with attention to functional and clinical implications. Prior to laryngeal entry, the RLN most commonly bifurcates into an anterior (motor) and posterior (sensory) branch, with extralaryngeal branching identified in approximately 60% of nerves across large pooled series; bifurcation accounts for roughly half of all cases and typically occurs 1-2 cm inferior to the cricothyroid articulation. The motor division of the RLN is organized into vertical, genu, and oblique segments. The posterior cricoarytenoid muscle, the sole abductor of the true vocal fold, is innervated first and exhibits at least three distinct branching configurations, with further complexity arising from compartmental innervation patterns. The adductor muscles-arytenoid, lateral cricoarytenoid, and thyroarytenoid-are innervated sequentially, with the branches to the latter two representing the true terminal branches of the RLN. These branches form a complex anastomotic network with the superior laryngeal nerve, including Galen's anastomosis and the arytenoid plexus. Current anatomical knowledge derives predominantly from small cadaveric series; further studies are needed for characterization of these structures with greater resolution and clinical applicability.",
+        "doi": "10.1002/ar.70390",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43001624/",
+        "relevance": 4,
+        "matched": [
+          "anatomical",
+          "muscle"
+        ]
+      },
+      {
+        "pmid": "43001605",
+        "title": "Topography of motor endplates in the human posterior cricoarytenoid muscle: Implications for selective reinnervation.",
+        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+        "journal_issn": "1932-8486",
+        "discipline": "anatomy",
+        "date": "2026-Nov-09",
+        "authors": "Aude Lagier, Valérie Defaweux, Joëlle Piret et al.",
+        "abstract": "The posterior cricoarytenoid muscle (PCA) is the only intrinsic laryngeal muscle that abducts the vocal fold and is therefore a key target for selective reinnervation in bilateral vocal fold paralysis. Because its distal nerve supply is anatomically variable, direct implantation strategies may benefit from precise knowledge of motor endplate topography. We characterized the spatial distribution of motor endplates in bilateral posterior cricoarytenoid muscles obtained from five human body donors (n = 5; four men and one woman; median age 80 years, range 79-98), yielding a total of 10 muscles for descriptive anatomical analysis. One left PCA was affected by documented unilateral vocal fold paralysis and was analyzed separately. Motor endplates were labeled with tetramethylrhodamine-conjugated α-bungarotoxin, imaged by whole-slide fluorescence scanning, and detected using a standardized QuPath workflow. In the nine muscles without known laryngeal pathology, motor endplates were heterogeneously distributed, with higher-density regions frequently forming an arcuate band. The vertical compartment contained a median of 71.5% of all detected endplates (range 52.8-87.3%) and showed a median areal density of 3.57 endplates/mm2, compared with 2.43 endplates/mm2 in the horizontal compartment. Muscle fibers bearing multiple motor endplates were also observed. The paralyzed PCA showed high motor endplate density across a broader portion of the muscle, with less clearly defined spatial zonation. These findings support the existence of preferential motor endplate zones in the human PCA, while highlighting substantial anatomical variability, particularly in the pathological specimen. This variability may have implications for the positioning of donor nerve implants during selective laryngeal reinnervation.",
+        "doi": "10.1002/ar.70396",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43001605/",
+        "relevance": 4,
+        "matched": [
+          "muscle",
+          "anatomical"
+        ]
+      },
+      {
+        "pmid": "43001436",
+        "title": "RETRACTION: 3D Transparent Technology Displays the Developmental Patterns of Ductus Arteriosus Morphology in Chicken Embryos Before and After Birth.",
+        "journal": "Journal of anatomy",
+        "journal_issn": "0021-8782",
+        "discipline": "anatomy",
+        "date": "2026-Nov-09",
+        "authors": "",
+        "abstract": "C. Xu, L. Li, X. Wu, Y. Zhang, C. Wu, J. Chen, H. Gao, and Z. Ma, \"3D Transparent Technology Displays the Developmental Patterns of Ductus Arteriosus Morphology in Chicken Embryos Before and After Birth,\" Journal of Anatomy (Early View): https://doi.org/10.1111/joa.70126. The above article, published online on 06 March 2026 in Wiley Online Library (wileyonlinelibrary.com), has been retracted by agreement between the journal Editors-in-Chief, Phil Cox, James Sleigh, and Neil Vargesson; the Anatomical Society and John Wiley & Sons Ltd. Following publication, concerns were raised by a third party regarding Figures 1B and 1D-F. During a subsequent investigation, it was established that these images were published elsewhere in a different scientific context. Although the authors provided some original images, they were unable to provide a satisfactory explanation regarding the origin of the images or the discrepancies in the reported experimental conditions between this and the previous publication. The retraction has been agreed because the editors can no longer be confident in the reliability of the data and therefore consider the conclusions of this article to be invalid. The authors were informed of the retraction decision.",
+        "doi": "10.1111/joa.70277",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43001436/",
+        "relevance": 4,
+        "matched": [
+          "morphology",
+          "anatomical"
         ]
       },
       {
@@ -5788,22 +5818,6 @@
         "relevance": 2,
         "matched": [
           "oxygen"
-        ]
-      },
-      {
-        "pmid": "42973080",
-        "title": "Functional sympatholysis: Do females do it better?",
-        "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-        "journal_issn": "8750-7587",
-        "discipline": "physiology",
-        "date": "2026-Nov-02",
-        "authors": "Gabriele Marinari, Breanne S Collison, Darren S DeLorey",
-        "abstract": "Our laboratory has recently shown that contraction-mediated inhibition of sympathetic vasoconstriction (sympatholysis) was enhanced in female compared with male rats. The purpose of this study was to investigate the hypothesis that sympatholysis would be enhanced in young females compared to young males during moderate (MOD)- and heavy (HVY)-intensity alternate-leg knee-extension (KE) exercise. Young (age 22±3), healthy adults (8 males, 8 females) performed a cold pressor test (CPT) at rest and during MOD- (30% of peak work rate) and HVY- (60% of peak work rate) intensity KE exercise. Blood pressure was measured via Finometer and mean arterial pressure (MAP) was calculated. Femoral blood flow (FBF) was measured using Doppler ultrasound, and femoral vascular conductance (FVC) was calculated as FVC=FBF·MAP-1. Sympathetic vasoconstrictor responsiveness was defined as the percent decrease in FVC (%ΔFVC) in response to the CPT. Sympatholysis was defined as the difference between the %ΔFVC response to the CPT at rest and during exercise. Sympathetic vasoconstrictor responsiveness was not different (p>0.05) between males (-40.5±8.8%) and females (-46.0±10.4%) at rest. During exercise, sympathetic vasoconstrictor responsiveness was blunted in an exercise intensity-dependent manner in both males and females (p<0.001). However, sympatholysis was greater in females than in males during both MOD- (male: 13.2±6.2%; female: 26.7±9.0%; p<0.01) and HVY- (male: 25.3±7.3%; female: 36.1±8.0%; p<0.01) intensity exercise. Consistent with our previous findings in rats, sympatholysis was enhanced in human young females compared with males. These data provide further evidence that biological sex modulates sympathetic vascular control in the skeletal muscle vascular bed during exercise.",
-        "doi": "10.1152/japplphysiol.90283.2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42973080/",
-        "relevance": 2,
-        "matched": [
-          "exercise"
         ]
       }
     ]
@@ -7083,5 +7097,5 @@
       }
     ]
   },
-  "built_at": "2026-11-08 23:24"
+  "built_at": "2026-11-09 22:36"
 }
