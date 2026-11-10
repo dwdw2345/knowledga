@@ -10,7 +10,7 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 230,
+      "latest_articles": 228,
       "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 22
@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-10",
-    "updated_at": "2026-11-10 06:35",
+    "updated": "2026-11-11",
+    "updated_at": "2026-11-11 06:29",
     "raw_count": 300,
     "articles": [
       {
@@ -2247,6 +2247,27 @@
         ]
       },
       {
+        "pmid": "43003264",
+        "title": "The Contribution of WWEIA, NHANES Nutrient Data to the Nutrition Evidence Base: Analytic Applications and Health Outcomes, 2013-2023.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-09",
+        "authors": "Kelly M Kogan, Sara B Crawford, Rita Rawal et al.",
+        "abstract": "BACKGROUND: A 2025 scoping review by Kogan, et al. quantified the use of What We Eat in America (WWEIA), National Health and Examination Survey (NHANES) nutrient data in the scientific literature. However, it did not explore study characteristics, such as health outcomes or types of analyses. OBJECTIVE: To characterize health outcomes and study types found in the publications reporting WWEIA, NHANES nutrients identified in the 2025 scoping review, and to identify nutrients most frequently reported by health outcome and study type. METHODS: Employed a human-supervised artificial intelligence (AI)-assisted workflow to extract additional data from publications identified in the 2025 scoping review. The workflow consisted of five phases: (1) prompt development, (2) data extraction and standardization, (3) data validation, (4) data cleaning and analysis, and (5) narrative description of the results. RESULTS: Of the 2,200 peer-reviewed publications reporting WWEIA, NHANES nutrients between 2013-2023, association analyses were most common (79%), followed by surveillance (30%), dietary index (27%), and adequacy (11%) studies. Among the 1,753 studies classified as association or mortality analyses, approximately 85% (n=1,496) reported at least one health outcome. Within diet-related health outcome categories, cardiovascular disease was the most frequently reported (18% of publications), followed by obesity/weight loss (10%), diabetes/insulin resistance (9%), bone health (4%), and cancer (4%). Nutrients most frequently reported across health outcomes and study types included energy, protein, carbohydrate, total fat, dietary fiber, total saturated fatty acids, total monounsaturated fatty acids, total polyunsaturated fatty acids, and sodium. CONCLUSIONS: WWEIA, NHANES nutrient data are used across a range of analytic applications and health outcomes, with distinct nutrient-reporting patterns observed within these contexts. Consideration of these empirical patterns, together with Dietary Reference Intakes, Dietary Guidelines for Americans, and nutrition labeling requirements, may help inform priorities for maintaining high-quality nutrient profile data in national dietary surveillance and research.",
+        "doi": "10.1016/j.tjnut.2026.101937",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43003264/",
+        "relevance": 13,
+        "matched": [
+          "nutrition",
+          "nutrient",
+          "protein",
+          "carbohydrate",
+          "fat",
+          "diet"
+        ]
+      },
+      {
         "pmid": "42994406",
         "title": "Case Study Insights Into Female World-Class and Elite Athletes' Training and Physiology.",
         "journal": "International journal of sports physiology and performance",
@@ -2847,27 +2868,6 @@
         ]
       },
       {
-        "pmid": "42981779",
-        "title": "Generating standing posture finite element models of the spine with radiation-free imaging.",
-        "journal": "Journal of biomechanics",
-        "journal_issn": "0021-9290",
-        "discipline": "anatomy",
-        "date": "2026-Nov-02",
-        "authors": "Federica Incatasciato, Peter P G Lafranca, Timothy Tin-Yan Lee et al.",
-        "abstract": "Finite element (FE) modelling is a powerful tool for investigating spinal biomechanics. Subject-specific finite element models of the spine are commonly built from supine data obtained from CT images, with harmful radiation and without soft-tissue structures. However, a more accurate evaluation of vertebrae and intervertebral disc loading requires the analysis of the subject in upright posture. In this study we propose a radiation-free alternative to create subject-specific standing FE models by combining supine MRI with ultrasound-based 3D spinal curvature assessment in standing posture. Subject-specific supine FE models of T3-L5 were created from synthetic CT (AI-generated from MRI) of 8 children. Dedicated spinal ultrasound was used to detect the positions of the vertebral laminae, which were used as input to convert the FE model from supine to standing. RMSE was found within 1 mm for the fitted vertebral levels. Validation against conventional radiographic measurements showed no statistical difference in sagittal alignment between the two imaging modalities in the lumbar and mid-to-lower thoracic parameters. In addition, the distance between the vertebral centroids measured from radiographs and from the upright FE model in sagittal and coronal plane was found to be less than 6 mm for the fitted levels. In conclusion, we demonstrate the feasibility of using completely radiation-free imaging as an alternative to CT and bi-planar X-ray to build subject-specific, upright, detailed FE models.",
-        "doi": "10.1016/j.jbiomech.2026.113661",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42981779/",
-        "relevance": 10,
-        "matched": [
-          "spine",
-          "posture",
-          "spinal",
-          "biomechanic",
-          "thoracic",
-          "lumbar"
-        ]
-      },
-      {
         "pmid": "42966566",
         "title": "Dietary threonine requirement of healthy older adults >60y stratified by age and sex in a repeated measures design1.",
         "journal": "The American journal of clinical nutrition",
@@ -3078,47 +3078,6 @@
           "diet",
           "dietary",
           "food"
-        ]
-      },
-      {
-        "pmid": "42972855",
-        "title": "Dietary fibre intake and suicide in Japanese adults: the Japan Public Health Center-based Prospective Study.",
-        "journal": "The British journal of nutrition",
-        "journal_issn": "0007-1145",
-        "discipline": "nutrition",
-        "date": "2026-Nov-03",
-        "authors": "Akiko Nanri, Tetsuya Mizoue, Atsushi Goto et al.",
-        "abstract": "Dietary fibre intake has been reported to be inversely associated with depression in a meta-analysis. However, most studies were cross-sectional, and none examined the association with suicide, a severe outcome of depression. We investigated the association of dietary fibre intake with suicide risk among Japanese adults. Participants were 40 630 men and 48 178 women aged 44-76 years who responded to the second survey (baseline of the present study) of the Japan Public Health Center-based Prospective Study (1995-1998). Dietary fibre intake was assessed using a validated FFQ. Hazard ratios of suicide through December 2018 were estimated using Cox proportional hazard regression analysis. During a mean follow-up of 18·7 years, we identified 459 deaths from suicide. Dietary fibre intake was associated with lower suicide risk after adjustment for covariates, including intakes of vitamin B12, vitamin D, Ca, Zn and n-3 PUFA. The multivariable-adjusted hazard ratio for suicide of the highest v. lowest quartile of total dietary fibre intake was 0·65 (95 % CI 0·46-0·93). Similar inverse associations were observed for vegetable and fruit fibre intake but not cereal or bean fibre. However, these associations were substantially attenuated and no longer statistically significant after adjustment for nutrients highly correlated with dietary fibre intake, including folate, vitamin B6, Mg and Fe; the corresponding value for total dietary fibre intake was 0·85 (95 % CI 0·55-1·31). Our findings suggest that greater consumption of foods rich in dietary fibre and related nutrients, rather than dietary fibre per se, may play a protective role against suicide.",
-        "doi": "10.1017/S0007114526109374",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42972855/",
-        "relevance": 9,
-        "matched": [
-          "diet",
-          "dietary",
-          "nutrient",
-          "vitamin",
-          "food"
-        ]
-      },
-      {
-        "pmid": "42994156",
-        "title": "Postural adjustments in standing and gait reflect amnestic mild cognitive impairment.",
-        "journal": "Gait & posture",
-        "journal_issn": "0966-6362",
-        "discipline": "anatomy",
-        "date": "2026-Nov-02",
-        "authors": "Yi-Chun Kuan, Shiuan-Huei Lu, Cheng-Hao Yu et al.",
-        "abstract": "BACKGROUND: Amnestic mild cognitive impairment (aMCI), a prodromal stage of Alzheimer's disease, may involve subtle motor alterations preceding overt cognitive decline. Because postural alignment integrates multisensory and executive control systems, it may reveal early motor-cognitive disruption. This study aimed to identify posture-related features associated with cognition and to determine whether individuals with aMCI exhibit distinct standing and gait kinematics. METHODS: In this cross-sectional observational study, 14 older adults with aMCI and 14 age-matched cognitively healthy controls underwent three-dimensional motion analysis during quiet standing and level walking. Segmental angles and temporospatial gait parameters were analysed. Cognitive performance was assessed using standardised neuropsychological tests. Group comparisons and exploratory partial correlation analyses adjusted for age and education were performed. RESULTS: The aMCI group exhibited reduced lumbar extension (p = 0.020), pelvic anterior tilt (p = 0.012), and hip flexion (p = 0.016) during standing. While lumbopelvic deviations persisted during gait (p ≤ 0.011), hip flexion and temporospatial parameters were comparable between groups. In controls, verbal episodic memory correlated positively with lumbopelvic alignment (r = 0.67-0.80, p ≤ 0.02). In aMCI, greater hip flexion during gait was associated with poor verbal fluency (r = -0.57, p = 0.05) and visual memory (r = -0.68, p = 0.02). CONCLUSIONS: Lumbopelvic alignment was closely linked to episodic memory in cognitively normal ageing, but this coupling appeared disrupted in aMCI, with motor-cognitive associations shifting toward hip-mediated compensatory or reorganised gait control. These kinematic markers were detectable despite preserved gait speed and may be more sensitive than conventional temporospatial gait measures under steady-state conditions. Longitudinal studies are warranted.",
-        "doi": "10.1016/j.gaitpost.2026.110685",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42994156/",
-        "relevance": 9,
-        "matched": [
-          "gait",
-          "hip",
-          "kinematic",
-          "posture",
-          "pelvic",
-          "lumbar"
         ]
       },
       {
@@ -3716,24 +3675,6 @@
           "diet",
           "food",
           "nutrition"
-        ]
-      },
-      {
-        "pmid": "42994158",
-        "title": "Biomechanical effects of a semi-rigid knee orthotic during walking in individuals with medial knee osteoarthritis.",
-        "journal": "Gait & posture",
-        "journal_issn": "0966-6362",
-        "discipline": "anatomy",
-        "date": "2026-Nov-02",
-        "authors": "Pauline Göbel, Batın Yılmazgün, Stefan Sell et al.",
-        "abstract": "BACKGROUND: Medial knee osteoarthritis is associated with increased medial compartment loading during gait. Valgus unloader knee orthotics are commonly used to reduce medial knee loading, but the biomechanical responses associated with semi-rigid designs remain unclear. RESEARCH QUESTION: After six weeks of use, what effect does the orthotic condition have on first-peak knee adduction moment (KAM), second-peak KAM, and knee adduction angular impulse (KAAI) during constant-speed and self-selected-speed walking compared with baseline in individuals with medial knee osteoarthritis? METHODS: Twenty-four participants with Kellgren-Lawrence grade 2-4 completed a within-participant pretest-posttest study. Gait was assessed without the orthotic at baseline and while wearing it after six weeks of use (mean 5.13 h/day), at a constant speed of 1.39 m/s and self-selected speed. In OpenSim, first-peak KAM, second-peak KAM, and KAAI were calculated. GRF variables were secondary, exploratory outcomes. Conditions were compared using paired t-tests or Wilcoxon signed-rank tests. Holm-Bonferroni adjustment was applied to the three KAM-related outcomes within each walking condition. RESULTS: During constant-speed walking, first-peak KAM, second-peak KAM, and KAAI were lower with the orthotic by 6.9% , (r = 0.44), 6.8% (r = 0.47), and 15.8% (r = 0.51), respectively (Holm-adjusted p = 0.045 for each). Vertical GRF variables did not differ, whereas the braking-peak magnitude and braking and propulsive impulses increased. During self-selected-speed, participants walked 15.5% faster in the orthotic condition (p < 0.001). First- and second-peak KAM did not differ significantly from baseline, whereas KAAI was lower (-0.030 N·m·kg⁻¹·s, 95% CI -0.050 to -0.010; Holm-adjusted p = 0.014). The first vertical, braking, and propulsive GRF peaks increased, while vertical impulse decreased. SIGNIFICANCE: Semi-rigid orthotic use was associated with lower KAM-related loading during constant-speed walking and faster self-selected walking without higher peak KAM. The semi-rigid orthotic may be considered a possible adjunct to individualized, multicomponent care for individuals with medial knee osteoarthritis.",
-        "doi": "10.1016/j.gaitpost.2026.110681",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42994158/",
-        "relevance": 7,
-        "matched": [
-          "knee",
-          "biomechanic",
-          "gait"
         ]
       },
       {
@@ -4924,6 +4865,40 @@
         ]
       },
       {
+        "pmid": "43004813",
+        "title": "Metabolic Vulnerability Despite Normal BMI: From Adverse Body Composition to Ectopic Fat and Organ Dysfunction.",
+        "journal": "American journal of physiology. Endocrinology and metabolism",
+        "journal_issn": "0193-1849",
+        "discipline": "physiology",
+        "date": "2026-Nov-09",
+        "authors": "Sami Bahçebaşı",
+        "abstract": "BMI remains the most widely used measure for defining overweight and obesity; however, it does not adequately capture body fat distribution, skeletal muscle mass and quality, adipose tissue function, or ectopic fat accumulation. Consequently, individuals with a normal BMI may exhibit substantial metabolic abnormalities, whereas some individuals with obesity remain relatively metabolically healthy. These observations challenge the assumption that BMI reliably reflects metabolic health and highlight the concept of metabolic vulnerability despite normal body weight. This narrative review examines the biological basis of this metabolic vulnerability and evaluates the evidence supporting a shift from BMI-centered assessment toward body composition-based phenotyping. We discuss the interrelated roles of impaired adipose tissue expandability and function, visceral adiposity, chronic low-grade inflammation, adipose tissue fibrosis, skeletal muscle dysfunction, and ectopic lipid deposition in the development of insulin resistance and organ-specific metabolic dysfunction. Particular emphasis is placed on adipose tissue dysfunction as a potential unifying mechanism underlying metabolic heterogeneity among individuals with similar BMI. The review further examines adverse body composition across normal-weight metabolic phenotypes, including normal-weight obesity (NWO), metabolically unhealthy normal weight (MUNW), lean prediabetes, lean T2DM, lean MASLD, hypertension, cardiovascular disease, and chronic kidney disease. Excess visceral adiposity, unfavorable fat-to-lean mass distribution, impaired skeletal muscle quality, and ectopic fat accumulation in the liver, pancreas, heart, skeletal muscle, and other organs may contribute to metabolic risk independently of BMI. We also summarize advances in body composition and ectopic fat assessment, including dual-energy X-ray absorptiometry (DXA), magnetic resonance imaging (MRI), computed tomography (CT), bioelectrical impedance analysis (BIA), and artificial intelligence-assisted imaging, together with emerging therapeutic strategies focused on reducing visceral and ectopic fat, preserving skeletal muscle, and restoring metabolic tissue function rather than pursuing weight loss alone. Moving beyond BMI toward integrated assessment of body composition, adipose tissue biology, and ectopic fat distribution may improve recognition of metabolic vulnerability, facilitate earlier identification of individuals at increased cardiometabolic risk, and support more precise prevention and treatment strategies.",
+        "doi": "10.1152/ajpendo.90097.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004813/",
+        "relevance": 4,
+        "matched": [
+          "metabolic",
+          "resistance"
+        ]
+      },
+      {
+        "pmid": "43004582",
+        "title": "Response to letter to the editor: On methodological approaches for non-invasive characterization of muscle oxygen uptake recovery kinetics.",
+        "journal": "Experimental physiology",
+        "journal_issn": "0958-0670",
+        "discipline": "physiology",
+        "date": "2026-Nov-09",
+        "authors": "Edward Z Pelka, B Ryan Davis, John McDaniel",
+        "abstract": "",
+        "doi": "10.1113/EP094538",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004582/",
+        "relevance": 4,
+        "matched": [
+          "recovery",
+          "oxygen"
+        ]
+      },
+      {
         "pmid": "43001624",
         "title": "Laryngeal branches of the recurrent laryngeal nerve: A narrative review of human anatomical studies.",
         "journal": "Anatomical record (Hoboken, N.J. : 2007)",
@@ -5096,23 +5071,6 @@
           "dietary",
           "hydration",
           "physical activity"
-        ]
-      },
-      {
-        "pmid": "42994047",
-        "title": "CFD simulations of the gait cycle in running aerodynamics from a quasi-static perspective.",
-        "journal": "Journal of biomechanics",
-        "journal_issn": "0021-9290",
-        "discipline": "anatomy",
-        "date": "2026-Nov-02",
-        "authors": "Xiaoqi Hu, Fabio Malizia, Costin Ioan Coșoiu et al.",
-        "abstract": "Running is a highly dynamic locomotion process, yet most existing aerodynamic studies approximate the runner using a single static posture. This study presents a validated computational fluid dynamics investigation of posture-dependent running aerodynamics throughout the gait cycle from a quasi-static perspective. Five representative gait-cycle postures are analysed for a male runner. The results reveal substantial aerodynamic variations throughout the gait cycle with maximum drag occurring for the mid-stance and minimum drag for the flight postures. Relative to the minimum-drag posture, the peak drag area increases by approximately 20.6%. Flow-field analysis shows that changes in leg configuration strongly influence wake development. The toe-off and flight postures are characterised by a partially interrupted torso wake and more compact wake structures, whereas the higher-drag postures exhibit broader low-velocity wake regions. Body-part decomposition further indicates that the torso is the dominant drag contributor, accounting for approximately 50-59% of the total drag area, while the upper legs exhibit the strongest posture sensitivity. The findings provide new physical insights into posture-dependent running aerodynamics and establish a foundation for future investigations of fully dynamic running motion.",
-        "doi": "10.1016/j.jbiomech.2026.113665",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42994047/",
-        "relevance": 4,
-        "matched": [
-          "gait",
-          "posture"
         ]
       },
       {
@@ -5298,6 +5256,22 @@
         "matched": [
           "exercise",
           "cardiorespiratory"
+        ]
+      },
+      {
+        "pmid": "43004778",
+        "title": "Twenty-five years of research on ceramides, lipotoxicity and insulin resistance: from lipid accumulation to a compartmentalized view of lipid signaling.",
+        "journal": "American journal of physiology. Endocrinology and metabolism",
+        "journal_issn": "0193-1849",
+        "discipline": "physiology",
+        "date": "2026-Nov-09",
+        "authors": "Eric Hajduch, Hervé Le Stunff",
+        "abstract": "This perspective suggests that ceramide-induced insulin resistance in skeletal muscle should no longer be considered merely a consequence of the total accumulation of intracellular ceramides. On the contrary, recent studies show that the role of ceramides in lipotoxicity depends not only on the molecular species involved, but also on their subcellular localization, their intracellular transport, and their ability to locally disrupt insulin signaling within specialized submembrane domains. This compartmentalized approach could help reconcile conflicting observations in this field and guide the development of more selective therapeutic strategies targeting harmful ceramide pools.",
+        "doi": "10.1152/ajpendo.90046.2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004778/",
+        "relevance": 3,
+        "matched": [
+          "resistance"
         ]
       },
       {
@@ -5802,22 +5776,6 @@
         "matched": [
           "strength",
           "athlete"
-        ]
-      },
-      {
-        "pmid": "42973184",
-        "title": "Beyond oxygen sensing: A framework for understanding carotid body integration.",
-        "journal": "The Journal of physiology",
-        "journal_issn": "0022-3751",
-        "discipline": "physiology",
-        "date": "2026-Nov-03",
-        "authors": "Kajal Kamra",
-        "abstract": "",
-        "doi": "10.1113/JP292672",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42973184/",
-        "relevance": 2,
-        "matched": [
-          "oxygen"
         ]
       }
     ]
@@ -7097,5 +7055,5 @@
       }
     ]
   },
-  "built_at": "2026-11-09 22:36"
+  "built_at": "2026-11-10 22:30"
 }

@@ -1,0 +1,152 @@
+{
+  "updated": "2026-11-11",
+  "articles": [
+    {
+      "pmid": "43002951",
+      "title": "Quantification of vortex characteristics and rupture risk assessment in abdominal aortic aneurysms using the liutex method.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-07",
+      "authors": "Feng-Ning Zhang, Hao-Yao Cao, Yi-Qian Wang et al.",
+      "abstract": "The blood flow of abdominal aortic aneurysms (AAAs) is characterized by complex vortex interactions. Previous studies have found three flow types in AAAs (Type I: multiple vortices; Type II: non-helical single vortex; Type III: helical main flow channel), and Type III has strong correlation with rupture risk. However, flow pattern classification is subjective and qualitative, hindering further improvements in risk prediction. To enhance the predictive value of vortex-based metrics, three-dimensional models of 40 infrarenal AAAs (22 ruptured and 18 unruptured) were reconstructed from preoperative CTA images for computational fluid dynamics analysis. Flow pattern types and two novel quantitative vortex parameters based on Liutex method (volume vortex fraction (vVF) and directional entropy (H)) were compared between the two groups. A multiparametric rupture risk prediction model was constructed. Receiver operating characteristic curves and the area under the curve (AUC) were employed to evaluate predictive performance. Results demonstrated that vVF in the ruptured group was significantly higher (p = 0.02). Type III AAAs exhibited a median vVF of 15.29 %, significantly surpassing those of Types I and II, and a 12.5 % threshold achieved 80 % accuracy in identifying these high-risk patterns. Ruptured cases exhibited higher entropy, facilitating more granular risk stratification. Ultimately, the integrated model combining maximum diameter, flow pattern, and directional entropy achieved an AUC of 0.86 (p < 0.001). By objectively quantifying vortex structures and establishing a multiparametric prediction model, this study significantly enhances the predictive accuracy for AAA rupture, providing a reference for risk evaluation.",
+      "doi": "10.1016/j.jbiomech.2026.113669",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002951/",
+      "relevance": 1,
+      "matched": [
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43007284",
+      "title": "Cerebrovascular mechanisms of stroke severity in offspring from pre-eclamptic pregnancy.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Ryan D Savage-Hunt, Sarah M Tremble, Julia C Brigl et al.",
+      "abstract": "Offspring from pre-eclamptic pregnancies face elevated ischaemic stroke risk throughout life, yet the mechanisms linking adverse intrauterine exposure to adult cerebrovascular vulnerability remain unknown. Distal leptomeningeal anastomoses (LMAs), which develop during late gestation are key determinants of stroke severity and represent a plausible target of prenatal programming. Here, we show that experimental preeclampsia (ePE) in rats establishes a persistent cerebrovascular structural and transcriptional phenotype in adult offspring. Following transient middle cerebral artery occlusion, ePE-exposed males exhibited increased infarct volume, oedema, enhanced perfusion deficit and smaller LMA diameters relative to normal pregnant offspring, and 83% had microvascular stasis after stroke. Female offspring were protected from stroke-induced brain injury despite sharing a similar transcriptional landscape. RNA sequencing and DNA methylation profiling revealed differentially expressed genes and discrete differentially methylated regions enriched for vascular development and VEGF-Notch signalling in ePE offspring. These findings support the possibility of a developmental origin of cerebrovascular stroke risk, implicating gestational programming of cerebrovascular gene expression as a sex modulated determinant of adult stroke outcome and a potential target for early intervention. KEY POINTS: Offspring born from pre-eclamptic pregnancies have a greater lifetime risk and death from ischaemic stroke, but why this occurs is unknown. Pial collaterals form during the late gestational period and are a key determinant of stroke severity. Using a rat model, we showed that compared to normal pregnancy, male offspring from pre-eclamptic pregnancies had smaller diameter pial collaterals which was associated with decreased collateral recruitment during ischaemic stroke and worsened stroke outcome. RNA analysis revealed altered expression of genes related to blood vessel development and function in adult offspring. These findings suggest that preeclampsia leads to lasting changes in cerebrovascular structure and gene expression which is associated with increased stroke severity in male offspring suggesting a potential window for early intervention.",
+      "doi": "10.1113/JP291600",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007284/",
+      "relevance": 1,
+      "matched": [
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43004928",
+      "title": "Physiological tremor: A bug or a feature of the neural control of movements?",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Mark L Latash",
+      "abstract": "",
+      "doi": "10.1113/JP292615",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004928/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43004813",
+      "title": "Metabolic Vulnerability Despite Normal BMI: From Adverse Body Composition to Ectopic Fat and Organ Dysfunction.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-09",
+      "authors": "Sami Bahçebaşı",
+      "abstract": "BMI remains the most widely used measure for defining overweight and obesity; however, it does not adequately capture body fat distribution, skeletal muscle mass and quality, adipose tissue function, or ectopic fat accumulation. Consequently, individuals with a normal BMI may exhibit substantial metabolic abnormalities, whereas some individuals with obesity remain relatively metabolically healthy. These observations challenge the assumption that BMI reliably reflects metabolic health and highlight the concept of metabolic vulnerability despite normal body weight. This narrative review examines the biological basis of this metabolic vulnerability and evaluates the evidence supporting a shift from BMI-centered assessment toward body composition-based phenotyping. We discuss the interrelated roles of impaired adipose tissue expandability and function, visceral adiposity, chronic low-grade inflammation, adipose tissue fibrosis, skeletal muscle dysfunction, and ectopic lipid deposition in the development of insulin resistance and organ-specific metabolic dysfunction. Particular emphasis is placed on adipose tissue dysfunction as a potential unifying mechanism underlying metabolic heterogeneity among individuals with similar BMI. The review further examines adverse body composition across normal-weight metabolic phenotypes, including normal-weight obesity (NWO), metabolically unhealthy normal weight (MUNW), lean prediabetes, lean T2DM, lean MASLD, hypertension, cardiovascular disease, and chronic kidney disease. Excess visceral adiposity, unfavorable fat-to-lean mass distribution, impaired skeletal muscle quality, and ectopic fat accumulation in the liver, pancreas, heart, skeletal muscle, and other organs may contribute to metabolic risk independently of BMI. We also summarize advances in body composition and ectopic fat assessment, including dual-energy X-ray absorptiometry (DXA), magnetic resonance imaging (MRI), computed tomography (CT), bioelectrical impedance analysis (BIA), and artificial intelligence-assisted imaging, together with emerging therapeutic strategies focused on reducing visceral and ectopic fat, preserving skeletal muscle, and restoring metabolic tissue function rather than pursuing weight loss alone. Moving beyond BMI toward integrated assessment of body composition, adipose tissue biology, and ectopic fat distribution may improve recognition of metabolic vulnerability, facilitate earlier identification of individuals at increased cardiometabolic risk, and support more precise prevention and treatment strategies.",
+      "doi": "10.1152/ajpendo.90097.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004813/",
+      "relevance": 4,
+      "matched": [
+        "metabolic",
+        "resistance"
+      ]
+    },
+    {
+      "pmid": "43004778",
+      "title": "Twenty-five years of research on ceramides, lipotoxicity and insulin resistance: from lipid accumulation to a compartmentalized view of lipid signaling.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-09",
+      "authors": "Eric Hajduch, Hervé Le Stunff",
+      "abstract": "This perspective suggests that ceramide-induced insulin resistance in skeletal muscle should no longer be considered merely a consequence of the total accumulation of intracellular ceramides. On the contrary, recent studies show that the role of ceramides in lipotoxicity depends not only on the molecular species involved, but also on their subcellular localization, their intracellular transport, and their ability to locally disrupt insulin signaling within specialized submembrane domains. This compartmentalized approach could help reconcile conflicting observations in this field and guide the development of more selective therapeutic strategies targeting harmful ceramide pools.",
+      "doi": "10.1152/ajpendo.90046.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004778/",
+      "relevance": 3,
+      "matched": [
+        "resistance"
+      ]
+    },
+    {
+      "pmid": "43004582",
+      "title": "Response to letter to the editor: On methodological approaches for non-invasive characterization of muscle oxygen uptake recovery kinetics.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-09",
+      "authors": "Edward Z Pelka, B Ryan Davis, John McDaniel",
+      "abstract": "",
+      "doi": "10.1113/EP094538",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004582/",
+      "relevance": 4,
+      "matched": [
+        "recovery",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43003265",
+      "title": "Pregnancy gut microbiota follows three distinct trajectories linked to maternal physiology and lifestyle.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Xinyu Zhang, Yujie Xu, Qidan Deng et al.",
+      "abstract": "BACKGROUND: The gut microbiota undergoes dynamic changes during pregnancy, yet capturing its longitudinal patterns and linking them to maternal physiology remains methodologically challenging. OBJECTIVE: We aimed to characterize gut microbiota dynamics across pregnancy using a novel trajectory-based framework and to investigate its associations with maternal host physiology and lifestyle factors. METHODS: In this prospective cohort, 239 pregnant women provided fecal, blood samples, and completed questionnaires during each trimester. Gut microbiota trajectory patterns were identified through a two-step analytical framework: principal coordinate analysis (PCoA) of Bray-Curtis distances was first performed on all longitudinal samples, followed by k-means clustering applied to the resulting per-trimester PCo coordinates (PCo1 and PCo2). Associations of the derived patterns with maternal blood parameters (non-parametric tests and mixed-effects models), and risk factors (multinomial logistic regression) were assessed. RESULTS: We identified three distinct gut microbiota trajectory patterns: Pattern 1 (n=108, 45.2%), an optimal adaptive trajectory with increasing microbial favorable gradient and high abundance of beneficial taxa; Pattern 2 (n=88, 36.8%), a progressive dysbiotic trajectory with a declining microbial favorable gradient; and Pattern 3 (n=43, 18.0%), a persistently dysbiotic trajectory with the highest pathogen load despite quantitative improvement. These patterns were strongly and differentially associated with longitudinal profiles of maternal metabolic, hepatic, renal, and immune function (all Pinteraction < 0.05). Among these, several modifiable factors were associated with a lower likelihood of the dysbiotic trajectories, including mid-pregnancy exercise (OR=0.401, 95% CI: 0.196-0.819 for Pattern 2), higher intake of nuts in early pregnancy (OR=0.957 per g/day, 95% CI: 0.924-0.991 for Pattern 3), and higher intake of whole grains in late pregnancy (OR=0.995 per g/day, 95% CI: 0.992-0.999 for Pattern 2; equivalent to OR=0.778 per 50 g/day, 95% CI: 0.669-0.951). CONCLUSIONS: Applying a trajectory-based framework yields interpretable gut microbiota patterns that are associated with maternal physiological adaptation and modifiable lifestyle factors.",
+      "doi": "10.1016/j.tjnut.2026.101934",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003265/",
+      "relevance": 1,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43003264",
+      "title": "The Contribution of WWEIA, NHANES Nutrient Data to the Nutrition Evidence Base: Analytic Applications and Health Outcomes, 2013-2023.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Kelly M Kogan, Sara B Crawford, Rita Rawal et al.",
+      "abstract": "BACKGROUND: A 2025 scoping review by Kogan, et al. quantified the use of What We Eat in America (WWEIA), National Health and Examination Survey (NHANES) nutrient data in the scientific literature. However, it did not explore study characteristics, such as health outcomes or types of analyses. OBJECTIVE: To characterize health outcomes and study types found in the publications reporting WWEIA, NHANES nutrients identified in the 2025 scoping review, and to identify nutrients most frequently reported by health outcome and study type. METHODS: Employed a human-supervised artificial intelligence (AI)-assisted workflow to extract additional data from publications identified in the 2025 scoping review. The workflow consisted of five phases: (1) prompt development, (2) data extraction and standardization, (3) data validation, (4) data cleaning and analysis, and (5) narrative description of the results. RESULTS: Of the 2,200 peer-reviewed publications reporting WWEIA, NHANES nutrients between 2013-2023, association analyses were most common (79%), followed by surveillance (30%), dietary index (27%), and adequacy (11%) studies. Among the 1,753 studies classified as association or mortality analyses, approximately 85% (n=1,496) reported at least one health outcome. Within diet-related health outcome categories, cardiovascular disease was the most frequently reported (18% of publications), followed by obesity/weight loss (10%), diabetes/insulin resistance (9%), bone health (4%), and cancer (4%). Nutrients most frequently reported across health outcomes and study types included energy, protein, carbohydrate, total fat, dietary fiber, total saturated fatty acids, total monounsaturated fatty acids, total polyunsaturated fatty acids, and sodium. CONCLUSIONS: WWEIA, NHANES nutrient data are used across a range of analytic applications and health outcomes, with distinct nutrient-reporting patterns observed within these contexts. Consideration of these empirical patterns, together with Dietary Reference Intakes, Dietary Guidelines for Americans, and nutrition labeling requirements, may help inform priorities for maintaining high-quality nutrient profile data in national dietary surveillance and research.",
+      "doi": "10.1016/j.tjnut.2026.101937",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003264/",
+      "relevance": 13,
+      "matched": [
+        "nutrition",
+        "nutrient",
+        "protein",
+        "carbohydrate",
+        "fat",
+        "diet"
+      ]
+    },
+    {
+      "pmid": "43003926",
+      "title": "Agreement of wearable and standing bioimpedance devices with bioimpedance spectroscopy estimates of total body water in adults with Down syndrome.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Michael R Esco, Justo Perez, Elroy J Aguiar et al.",
+      "abstract": "BACKGROUND: Wearable bioimpedance technology offers a potentially accessible method for assessing total body water (TBW), yet its agreement with laboratory-based approaches in adults with Down syndrome remains unclear. The purpose of this study was to evaluate whether a wearable bioimpedance device demonstrates agreement with laboratory-based bioelectrical impedance spectroscopy (BIS) estimates of TBW comparable to standing bioimpedance devices in adults with Down syndrome. METHODS: Sixteen adults with Down syndrome (age: 28.3 ± 9.2 yr; height: 150.9 ± 7.8 cm; body mass: 77.4 ± 20.3 kg) completed TBW assessment using BIS (reference), a wearable bioimpedance device (BIAW), and two standing multi-frequency bioimpedance analyzers (BIAST1, BIAST2). RESULTS: Repeated measures ANOVA revealed significant differences among devices (F (3,42) = 17.52, p < 0.001). Both standing devices produced lower TBW values compared with BIS (p < 0.001), whereas BIAW did not differ from BIS (p = 0.106). Lin's concordance correlation coefficients demonstrated strong agreement between BIS and all field-based devices (CCC = 0.82-0.92), with the highest concordance observed for the wearable device. Bland-Altman analyses showed systematic underestimation for standing devices (-3.12 ± 4.65 L and -2.36 ± 4.64 L), while the wearable exhibited the smallest bias (-1.07 ± 4.64 L). Mean absolute percentage error ranged from 5.5% to 8.7%, with the wearable device demonstrating the lowest relative error. CONCLUSION: These findings indicate that wearable bioimpedance technology demonstrated closer agreement with TBW estimates from BIS than standing BIA devices.",
+      "doi": "10.1038/s41430-026-01848-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003926/",
+      "relevance": 0,
+      "matched": []
+    }
+  ]
+}

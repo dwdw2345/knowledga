@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10",
-  "updated_at": "2026-11-10 06:35",
+  "updated": "2026-11-11",
+  "updated_at": "2026-11-11 06:29",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,137 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "43007284",
+      "title": "Cerebrovascular mechanisms of stroke severity in offspring from pre-eclamptic pregnancy.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Ryan D Savage-Hunt, Sarah M Tremble, Julia C Brigl et al.",
+      "abstract": "Offspring from pre-eclamptic pregnancies face elevated ischaemic stroke risk throughout life, yet the mechanisms linking adverse intrauterine exposure to adult cerebrovascular vulnerability remain unknown. Distal leptomeningeal anastomoses (LMAs), which develop during late gestation are key determinants of stroke severity and represent a plausible target of prenatal programming. Here, we show that experimental preeclampsia (ePE) in rats establishes a persistent cerebrovascular structural and transcriptional phenotype in adult offspring. Following transient middle cerebral artery occlusion, ePE-exposed males exhibited increased infarct volume, oedema, enhanced perfusion deficit and smaller LMA diameters relative to normal pregnant offspring, and 83% had microvascular stasis after stroke. Female offspring were protected from stroke-induced brain injury despite sharing a similar transcriptional landscape. RNA sequencing and DNA methylation profiling revealed differentially expressed genes and discrete differentially methylated regions enriched for vascular development and VEGF-Notch signalling in ePE offspring. These findings support the possibility of a developmental origin of cerebrovascular stroke risk, implicating gestational programming of cerebrovascular gene expression as a sex modulated determinant of adult stroke outcome and a potential target for early intervention. KEY POINTS: Offspring born from pre-eclamptic pregnancies have a greater lifetime risk and death from ischaemic stroke, but why this occurs is unknown. Pial collaterals form during the late gestational period and are a key determinant of stroke severity. Using a rat model, we showed that compared to normal pregnancy, male offspring from pre-eclamptic pregnancies had smaller diameter pial collaterals which was associated with decreased collateral recruitment during ischaemic stroke and worsened stroke outcome. RNA analysis revealed altered expression of genes related to blood vessel development and function in adult offspring. These findings suggest that preeclampsia leads to lasting changes in cerebrovascular structure and gene expression which is associated with increased stroke severity in male offspring suggesting a potential window for early intervention.",
+      "doi": "10.1113/JP291600",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007284/",
+      "relevance": 1,
+      "matched": [
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43004928",
+      "title": "Physiological tremor: A bug or a feature of the neural control of movements?",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Mark L Latash",
+      "abstract": "",
+      "doi": "10.1113/JP292615",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004928/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43004813",
+      "title": "Metabolic Vulnerability Despite Normal BMI: From Adverse Body Composition to Ectopic Fat and Organ Dysfunction.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-09",
+      "authors": "Sami Bahçebaşı",
+      "abstract": "BMI remains the most widely used measure for defining overweight and obesity; however, it does not adequately capture body fat distribution, skeletal muscle mass and quality, adipose tissue function, or ectopic fat accumulation. Consequently, individuals with a normal BMI may exhibit substantial metabolic abnormalities, whereas some individuals with obesity remain relatively metabolically healthy. These observations challenge the assumption that BMI reliably reflects metabolic health and highlight the concept of metabolic vulnerability despite normal body weight. This narrative review examines the biological basis of this metabolic vulnerability and evaluates the evidence supporting a shift from BMI-centered assessment toward body composition-based phenotyping. We discuss the interrelated roles of impaired adipose tissue expandability and function, visceral adiposity, chronic low-grade inflammation, adipose tissue fibrosis, skeletal muscle dysfunction, and ectopic lipid deposition in the development of insulin resistance and organ-specific metabolic dysfunction. Particular emphasis is placed on adipose tissue dysfunction as a potential unifying mechanism underlying metabolic heterogeneity among individuals with similar BMI. The review further examines adverse body composition across normal-weight metabolic phenotypes, including normal-weight obesity (NWO), metabolically unhealthy normal weight (MUNW), lean prediabetes, lean T2DM, lean MASLD, hypertension, cardiovascular disease, and chronic kidney disease. Excess visceral adiposity, unfavorable fat-to-lean mass distribution, impaired skeletal muscle quality, and ectopic fat accumulation in the liver, pancreas, heart, skeletal muscle, and other organs may contribute to metabolic risk independently of BMI. We also summarize advances in body composition and ectopic fat assessment, including dual-energy X-ray absorptiometry (DXA), magnetic resonance imaging (MRI), computed tomography (CT), bioelectrical impedance analysis (BIA), and artificial intelligence-assisted imaging, together with emerging therapeutic strategies focused on reducing visceral and ectopic fat, preserving skeletal muscle, and restoring metabolic tissue function rather than pursuing weight loss alone. Moving beyond BMI toward integrated assessment of body composition, adipose tissue biology, and ectopic fat distribution may improve recognition of metabolic vulnerability, facilitate earlier identification of individuals at increased cardiometabolic risk, and support more precise prevention and treatment strategies.",
+      "doi": "10.1152/ajpendo.90097.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004813/",
+      "relevance": 4,
+      "matched": [
+        "metabolic",
+        "resistance"
+      ]
+    },
+    {
+      "pmid": "43004778",
+      "title": "Twenty-five years of research on ceramides, lipotoxicity and insulin resistance: from lipid accumulation to a compartmentalized view of lipid signaling.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-09",
+      "authors": "Eric Hajduch, Hervé Le Stunff",
+      "abstract": "This perspective suggests that ceramide-induced insulin resistance in skeletal muscle should no longer be considered merely a consequence of the total accumulation of intracellular ceramides. On the contrary, recent studies show that the role of ceramides in lipotoxicity depends not only on the molecular species involved, but also on their subcellular localization, their intracellular transport, and their ability to locally disrupt insulin signaling within specialized submembrane domains. This compartmentalized approach could help reconcile conflicting observations in this field and guide the development of more selective therapeutic strategies targeting harmful ceramide pools.",
+      "doi": "10.1152/ajpendo.90046.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004778/",
+      "relevance": 3,
+      "matched": [
+        "resistance"
+      ]
+    },
+    {
+      "pmid": "43004582",
+      "title": "Response to letter to the editor: On methodological approaches for non-invasive characterization of muscle oxygen uptake recovery kinetics.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-09",
+      "authors": "Edward Z Pelka, B Ryan Davis, John McDaniel",
+      "abstract": "",
+      "doi": "10.1113/EP094538",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004582/",
+      "relevance": 4,
+      "matched": [
+        "recovery",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43003926",
+      "title": "Agreement of wearable and standing bioimpedance devices with bioimpedance spectroscopy estimates of total body water in adults with Down syndrome.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Michael R Esco, Justo Perez, Elroy J Aguiar et al.",
+      "abstract": "BACKGROUND: Wearable bioimpedance technology offers a potentially accessible method for assessing total body water (TBW), yet its agreement with laboratory-based approaches in adults with Down syndrome remains unclear. The purpose of this study was to evaluate whether a wearable bioimpedance device demonstrates agreement with laboratory-based bioelectrical impedance spectroscopy (BIS) estimates of TBW comparable to standing bioimpedance devices in adults with Down syndrome. METHODS: Sixteen adults with Down syndrome (age: 28.3 ± 9.2 yr; height: 150.9 ± 7.8 cm; body mass: 77.4 ± 20.3 kg) completed TBW assessment using BIS (reference), a wearable bioimpedance device (BIAW), and two standing multi-frequency bioimpedance analyzers (BIAST1, BIAST2). RESULTS: Repeated measures ANOVA revealed significant differences among devices (F (3,42) = 17.52, p < 0.001). Both standing devices produced lower TBW values compared with BIS (p < 0.001), whereas BIAW did not differ from BIS (p = 0.106). Lin's concordance correlation coefficients demonstrated strong agreement between BIS and all field-based devices (CCC = 0.82-0.92), with the highest concordance observed for the wearable device. Bland-Altman analyses showed systematic underestimation for standing devices (-3.12 ± 4.65 L and -2.36 ± 4.64 L), while the wearable exhibited the smallest bias (-1.07 ± 4.64 L). Mean absolute percentage error ranged from 5.5% to 8.7%, with the wearable device demonstrating the lowest relative error. CONCLUSION: These findings indicate that wearable bioimpedance technology demonstrated closer agreement with TBW estimates from BIS than standing BIA devices.",
+      "doi": "10.1038/s41430-026-01848-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003926/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43003265",
+      "title": "Pregnancy gut microbiota follows three distinct trajectories linked to maternal physiology and lifestyle.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Xinyu Zhang, Yujie Xu, Qidan Deng et al.",
+      "abstract": "BACKGROUND: The gut microbiota undergoes dynamic changes during pregnancy, yet capturing its longitudinal patterns and linking them to maternal physiology remains methodologically challenging. OBJECTIVE: We aimed to characterize gut microbiota dynamics across pregnancy using a novel trajectory-based framework and to investigate its associations with maternal host physiology and lifestyle factors. METHODS: In this prospective cohort, 239 pregnant women provided fecal, blood samples, and completed questionnaires during each trimester. Gut microbiota trajectory patterns were identified through a two-step analytical framework: principal coordinate analysis (PCoA) of Bray-Curtis distances was first performed on all longitudinal samples, followed by k-means clustering applied to the resulting per-trimester PCo coordinates (PCo1 and PCo2). Associations of the derived patterns with maternal blood parameters (non-parametric tests and mixed-effects models), and risk factors (multinomial logistic regression) were assessed. RESULTS: We identified three distinct gut microbiota trajectory patterns: Pattern 1 (n=108, 45.2%), an optimal adaptive trajectory with increasing microbial favorable gradient and high abundance of beneficial taxa; Pattern 2 (n=88, 36.8%), a progressive dysbiotic trajectory with a declining microbial favorable gradient; and Pattern 3 (n=43, 18.0%), a persistently dysbiotic trajectory with the highest pathogen load despite quantitative improvement. These patterns were strongly and differentially associated with longitudinal profiles of maternal metabolic, hepatic, renal, and immune function (all Pinteraction < 0.05). Among these, several modifiable factors were associated with a lower likelihood of the dysbiotic trajectories, including mid-pregnancy exercise (OR=0.401, 95% CI: 0.196-0.819 for Pattern 2), higher intake of nuts in early pregnancy (OR=0.957 per g/day, 95% CI: 0.924-0.991 for Pattern 3), and higher intake of whole grains in late pregnancy (OR=0.995 per g/day, 95% CI: 0.992-0.999 for Pattern 2; equivalent to OR=0.778 per 50 g/day, 95% CI: 0.669-0.951). CONCLUSIONS: Applying a trajectory-based framework yields interpretable gut microbiota patterns that are associated with maternal physiological adaptation and modifiable lifestyle factors.",
+      "doi": "10.1016/j.tjnut.2026.101934",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003265/",
+      "relevance": 1,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43003264",
+      "title": "The Contribution of WWEIA, NHANES Nutrient Data to the Nutrition Evidence Base: Analytic Applications and Health Outcomes, 2013-2023.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Kelly M Kogan, Sara B Crawford, Rita Rawal et al.",
+      "abstract": "BACKGROUND: A 2025 scoping review by Kogan, et al. quantified the use of What We Eat in America (WWEIA), National Health and Examination Survey (NHANES) nutrient data in the scientific literature. However, it did not explore study characteristics, such as health outcomes or types of analyses. OBJECTIVE: To characterize health outcomes and study types found in the publications reporting WWEIA, NHANES nutrients identified in the 2025 scoping review, and to identify nutrients most frequently reported by health outcome and study type. METHODS: Employed a human-supervised artificial intelligence (AI)-assisted workflow to extract additional data from publications identified in the 2025 scoping review. The workflow consisted of five phases: (1) prompt development, (2) data extraction and standardization, (3) data validation, (4) data cleaning and analysis, and (5) narrative description of the results. RESULTS: Of the 2,200 peer-reviewed publications reporting WWEIA, NHANES nutrients between 2013-2023, association analyses were most common (79%), followed by surveillance (30%), dietary index (27%), and adequacy (11%) studies. Among the 1,753 studies classified as association or mortality analyses, approximately 85% (n=1,496) reported at least one health outcome. Within diet-related health outcome categories, cardiovascular disease was the most frequently reported (18% of publications), followed by obesity/weight loss (10%), diabetes/insulin resistance (9%), bone health (4%), and cancer (4%). Nutrients most frequently reported across health outcomes and study types included energy, protein, carbohydrate, total fat, dietary fiber, total saturated fatty acids, total monounsaturated fatty acids, total polyunsaturated fatty acids, and sodium. CONCLUSIONS: WWEIA, NHANES nutrient data are used across a range of analytic applications and health outcomes, with distinct nutrient-reporting patterns observed within these contexts. Consideration of these empirical patterns, together with Dietary Reference Intakes, Dietary Guidelines for Americans, and nutrition labeling requirements, may help inform priorities for maintaining high-quality nutrient profile data in national dietary surveillance and research.",
+      "doi": "10.1016/j.tjnut.2026.101937",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003264/",
+      "relevance": 13,
+      "matched": [
+        "nutrition",
+        "nutrient",
+        "protein",
+        "carbohydrate",
+        "fat",
+        "diet"
+      ]
+    },
+    {
       "pmid": "43001624",
       "title": "Laryngeal branches of the recurrent laryngeal nerve: A narrative review of human anatomical studies.",
       "journal": "Anatomical record (Hoboken, N.J. : 2007)",
@@ -3241,6 +3372,22 @@
         "diet",
         "dietary",
         "food"
+      ]
+    },
+    {
+      "pmid": "43002951",
+      "title": "Quantification of vortex characteristics and rupture risk assessment in abdominal aortic aneurysms using the liutex method.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-07",
+      "authors": "Feng-Ning Zhang, Hao-Yao Cao, Yi-Qian Wang et al.",
+      "abstract": "The blood flow of abdominal aortic aneurysms (AAAs) is characterized by complex vortex interactions. Previous studies have found three flow types in AAAs (Type I: multiple vortices; Type II: non-helical single vortex; Type III: helical main flow channel), and Type III has strong correlation with rupture risk. However, flow pattern classification is subjective and qualitative, hindering further improvements in risk prediction. To enhance the predictive value of vortex-based metrics, three-dimensional models of 40 infrarenal AAAs (22 ruptured and 18 unruptured) were reconstructed from preoperative CTA images for computational fluid dynamics analysis. Flow pattern types and two novel quantitative vortex parameters based on Liutex method (volume vortex fraction (vVF) and directional entropy (H)) were compared between the two groups. A multiparametric rupture risk prediction model was constructed. Receiver operating characteristic curves and the area under the curve (AUC) were employed to evaluate predictive performance. Results demonstrated that vVF in the ruptured group was significantly higher (p = 0.02). Type III AAAs exhibited a median vVF of 15.29 %, significantly surpassing those of Types I and II, and a 12.5 % threshold achieved 80 % accuracy in identifying these high-risk patterns. Ruptured cases exhibited higher entropy, facilitating more granular risk stratification. Ultimately, the integrated model combining maximum diameter, flow pattern, and directional entropy achieved an AUC of 0.86 (p < 0.001). By objectively quantifying vortex structures and establishing a multiparametric prediction model, this study significantly enhances the predictive accuracy for AAA rupture, providing a reference for risk evaluation.",
+      "doi": "10.1016/j.jbiomech.2026.113669",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002951/",
+      "relevance": 1,
+      "matched": [
+        "performance"
       ]
     },
     {
@@ -4794,163 +4941,6 @@
         "fatigue",
         "recovery",
         "sprint"
-      ]
-    },
-    {
-      "pmid": "42975118",
-      "title": "Distinct neural input strategies to motor units in the soleus and medial gastrocnemius during quiet standing.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-03",
-      "authors": "Hiroki Arakawa, Naotsugu Kaneko, Nadaka Hakariya et al.",
-      "abstract": "Standing posture control depends on the soleus (SOL) and medial gastrocnemius (MG), which serve distinct functional roles. Identifying neural mechanisms remains challenging because invasive techniques sample few motor units (MUs). High-density surface electromyography (HDsEMG) enables MU analysis and estimation of common inputs to motoneurons. Leveraging this approach, and by comparing standing with an isometric voluntary contraction performed at an EMG level matched to standing, we aimed to elucidate standing-specific common synaptic inputs underlying the distinct MU behaviors of the SOL and MG. We recorded HDsEMG and electroencephalographic signals from 20 males during standing and isometric contractions. EMG signals were decomposed into MU activity, with common inputs estimated through intramuscular and corticomuscular coherence (IMC and CMC). IMC was used as an index of common inputs to motoneurons, whereas CMC was used as an index of corticomuscular connectivity. During standing, the MG exhibited higher alpha- and beta-band IMC than the SOL. Compared with isometric contraction, CMC decreased during standing in the delta-, alpha- nd beta-bands in both muscles, whereas beta-band IMC remained unchanged only in the MG. These findings suggest that MG motoneurons receive more common synaptic input during standing than SOL motoneurons. Although CMC decreased similarly in both muscles, MG maintained higher IMC, suggesting a relatively greater role of non-cortical common input in the MG. This pattern could reflect differences in the functional roles of the MG and SOL in postural control, with MG contributing to force adjustments that counteract body sway and SOL contributing to stable tonic force production. KEY POINTS: Using high-density surface electromyography, we examined motor unit activity and neural inputs to medial gastrocnemius and soleus during standing. The medial gastrocnemius shows greater common synaptic input than the soleus, potentially associated with its role in phasic ankle plantarflexion torque generation to correct postural sway. The soleus exhibits lower motor unit synchrony, potentially associated with its role in generating stable and continuous ankle plantarflexion torque for body weight support. Corticomuscular coherence was lower during standing than during isometric voluntary contraction in both muscles, suggesting that functional corticomuscular coupling was similarly reduced in the medial gastrocnemius and soleus during standing. This study suggests differences in common synaptic input to soleus and medial gastrocnemius motoneurons, potentially associated with their distinct functional roles during standing.",
-      "doi": "10.1113/JP290915",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975118/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42975079",
-      "title": "Adenosine-driven P38 mitogen-activated protein kinase and protein kinase A signalling constrains 5HT2a receptor-induced phrenic motor facilitation.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-03",
-      "authors": "Kayla A Burrowes, Gordon S Mitchell",
-      "abstract": "Episodic activation of spinal serotonin receptors elicits phrenic motor facilitation (pMF), a form of respiratory motor plasticity. Although 5-HT2 and 5-HT7 receptors elicit pMF, they do so via distinct cellular mechanisms known as the Q (5-HT2A/B) and S (5-HT7) pathways. These pathways interact via mutual crosstalk inhibition; thus, concurrent activation of both serotonin receptor subtypes diminishes/abolishes pMF. Although episodic spinal adenosine 2A (A2a) receptor activation also elicits pMF via the S pathway, it remains unclear whether 5-HT2 and A2a receptors interact via similar mechanisms. Although some molecules mediating crosstalk inhibition between 5-HT2 and 5-HT7 receptors have been identified, little is known concerning 5-HT2 and A2a receptor interactions. Thus, we tested the hypotheses that: (1) concurrent 5-HT2 and A2a receptor activation diminishes pMF via mutual crosstalk inhibition, and (2) A2a receptors inhibit 5-HT2a-induced pMF via mechanisms that require p38 mitogen-activated protein kinase (MAPK) and/or protein kinase A (PKA) enzymatic activity. Selective 5-HT2a and A2a receptor agonists were delivered intrathecally at C4 (3, 6 µL injections, 5 min intervals) in urethane-anaesthetized, ventilated, vagotomized and paralysed Sprague Dawley rats. Spinal 5-HT2a (73 ± 12%) or A2a (90 ± 17%) receptor activation increased integrated phrenic burst amplitude (i.e. pMF). Concurrent receptor activation abolished pMF (15 ± 7.7%), demonstrating crosstalk inhibition. Spinal p38 MAP kinase or protein kinase A inhibition restored pMF, implicating both kinases as key mediators of crosstalk inhibition. Although the functional significance of these complex interactions is not yet fully understood, greater mechanistic understanding will accelerate progress towards optimizing the therapeutic efficacy of acute intermittent hypoxia-induced respiratory motor plasticity. KEY POINTS: Concurrent 5-HT2a (Q pathway) and A2a (S pathway) receptor activation cancels phrenic motor facilitation via mutual crosstalk inhibition. Spinal p38 MAPK or protein kinase A inhibition restores phrenic motor facilitation with concurrent Q and S pathway activation, demonstrating a key role for these kinases in crosstalk inhibition.",
-      "doi": "10.1113/JP292143",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975079/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42973184",
-      "title": "Beyond oxygen sensing: A framework for understanding carotid body integration.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-03",
-      "authors": "Kajal Kamra",
-      "abstract": "",
-      "doi": "10.1113/JP292672",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42973184/",
-      "relevance": 2,
-      "matched": [
-        "oxygen"
-      ]
-    },
-    {
-      "pmid": "42972855",
-      "title": "Dietary fibre intake and suicide in Japanese adults: the Japan Public Health Center-based Prospective Study.",
-      "journal": "The British journal of nutrition",
-      "journal_issn": "0007-1145",
-      "discipline": "nutrition",
-      "date": "2026-Nov-03",
-      "authors": "Akiko Nanri, Tetsuya Mizoue, Atsushi Goto et al.",
-      "abstract": "Dietary fibre intake has been reported to be inversely associated with depression in a meta-analysis. However, most studies were cross-sectional, and none examined the association with suicide, a severe outcome of depression. We investigated the association of dietary fibre intake with suicide risk among Japanese adults. Participants were 40 630 men and 48 178 women aged 44-76 years who responded to the second survey (baseline of the present study) of the Japan Public Health Center-based Prospective Study (1995-1998). Dietary fibre intake was assessed using a validated FFQ. Hazard ratios of suicide through December 2018 were estimated using Cox proportional hazard regression analysis. During a mean follow-up of 18·7 years, we identified 459 deaths from suicide. Dietary fibre intake was associated with lower suicide risk after adjustment for covariates, including intakes of vitamin B12, vitamin D, Ca, Zn and n-3 PUFA. The multivariable-adjusted hazard ratio for suicide of the highest v. lowest quartile of total dietary fibre intake was 0·65 (95 % CI 0·46-0·93). Similar inverse associations were observed for vegetable and fruit fibre intake but not cereal or bean fibre. However, these associations were substantially attenuated and no longer statistically significant after adjustment for nutrients highly correlated with dietary fibre intake, including folate, vitamin B6, Mg and Fe; the corresponding value for total dietary fibre intake was 0·85 (95 % CI 0·55-1·31). Our findings suggest that greater consumption of foods rich in dietary fibre and related nutrients, rather than dietary fibre per se, may play a protective role against suicide.",
-      "doi": "10.1017/S0007114526109374",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972855/",
-      "relevance": 9,
-      "matched": [
-        "diet",
-        "dietary",
-        "nutrient",
-        "vitamin",
-        "food"
-      ]
-    },
-    {
-      "pmid": "42994158",
-      "title": "Biomechanical effects of a semi-rigid knee orthotic during walking in individuals with medial knee osteoarthritis.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-02",
-      "authors": "Pauline Göbel, Batın Yılmazgün, Stefan Sell et al.",
-      "abstract": "BACKGROUND: Medial knee osteoarthritis is associated with increased medial compartment loading during gait. Valgus unloader knee orthotics are commonly used to reduce medial knee loading, but the biomechanical responses associated with semi-rigid designs remain unclear. RESEARCH QUESTION: After six weeks of use, what effect does the orthotic condition have on first-peak knee adduction moment (KAM), second-peak KAM, and knee adduction angular impulse (KAAI) during constant-speed and self-selected-speed walking compared with baseline in individuals with medial knee osteoarthritis? METHODS: Twenty-four participants with Kellgren-Lawrence grade 2-4 completed a within-participant pretest-posttest study. Gait was assessed without the orthotic at baseline and while wearing it after six weeks of use (mean 5.13 h/day), at a constant speed of 1.39 m/s and self-selected speed. In OpenSim, first-peak KAM, second-peak KAM, and KAAI were calculated. GRF variables were secondary, exploratory outcomes. Conditions were compared using paired t-tests or Wilcoxon signed-rank tests. Holm-Bonferroni adjustment was applied to the three KAM-related outcomes within each walking condition. RESULTS: During constant-speed walking, first-peak KAM, second-peak KAM, and KAAI were lower with the orthotic by 6.9% , (r = 0.44), 6.8% (r = 0.47), and 15.8% (r = 0.51), respectively (Holm-adjusted p = 0.045 for each). Vertical GRF variables did not differ, whereas the braking-peak magnitude and braking and propulsive impulses increased. During self-selected-speed, participants walked 15.5% faster in the orthotic condition (p < 0.001). First- and second-peak KAM did not differ significantly from baseline, whereas KAAI was lower (-0.030 N·m·kg⁻¹·s, 95% CI -0.050 to -0.010; Holm-adjusted p = 0.014). The first vertical, braking, and propulsive GRF peaks increased, while vertical impulse decreased. SIGNIFICANCE: Semi-rigid orthotic use was associated with lower KAM-related loading during constant-speed walking and faster self-selected walking without higher peak KAM. The semi-rigid orthotic may be considered a possible adjunct to individualized, multicomponent care for individuals with medial knee osteoarthritis.",
-      "doi": "10.1016/j.gaitpost.2026.110681",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994158/",
-      "relevance": 7,
-      "matched": [
-        "knee",
-        "biomechanic",
-        "gait"
-      ]
-    },
-    {
-      "pmid": "42994156",
-      "title": "Postural adjustments in standing and gait reflect amnestic mild cognitive impairment.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-02",
-      "authors": "Yi-Chun Kuan, Shiuan-Huei Lu, Cheng-Hao Yu et al.",
-      "abstract": "BACKGROUND: Amnestic mild cognitive impairment (aMCI), a prodromal stage of Alzheimer's disease, may involve subtle motor alterations preceding overt cognitive decline. Because postural alignment integrates multisensory and executive control systems, it may reveal early motor-cognitive disruption. This study aimed to identify posture-related features associated with cognition and to determine whether individuals with aMCI exhibit distinct standing and gait kinematics. METHODS: In this cross-sectional observational study, 14 older adults with aMCI and 14 age-matched cognitively healthy controls underwent three-dimensional motion analysis during quiet standing and level walking. Segmental angles and temporospatial gait parameters were analysed. Cognitive performance was assessed using standardised neuropsychological tests. Group comparisons and exploratory partial correlation analyses adjusted for age and education were performed. RESULTS: The aMCI group exhibited reduced lumbar extension (p = 0.020), pelvic anterior tilt (p = 0.012), and hip flexion (p = 0.016) during standing. While lumbopelvic deviations persisted during gait (p ≤ 0.011), hip flexion and temporospatial parameters were comparable between groups. In controls, verbal episodic memory correlated positively with lumbopelvic alignment (r = 0.67-0.80, p ≤ 0.02). In aMCI, greater hip flexion during gait was associated with poor verbal fluency (r = -0.57, p = 0.05) and visual memory (r = -0.68, p = 0.02). CONCLUSIONS: Lumbopelvic alignment was closely linked to episodic memory in cognitively normal ageing, but this coupling appeared disrupted in aMCI, with motor-cognitive associations shifting toward hip-mediated compensatory or reorganised gait control. These kinematic markers were detectable despite preserved gait speed and may be more sensitive than conventional temporospatial gait measures under steady-state conditions. Longitudinal studies are warranted.",
-      "doi": "10.1016/j.gaitpost.2026.110685",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994156/",
-      "relevance": 9,
-      "matched": [
-        "gait",
-        "hip",
-        "kinematic",
-        "posture",
-        "pelvic",
-        "lumbar"
-      ]
-    },
-    {
-      "pmid": "42994047",
-      "title": "CFD simulations of the gait cycle in running aerodynamics from a quasi-static perspective.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-02",
-      "authors": "Xiaoqi Hu, Fabio Malizia, Costin Ioan Coșoiu et al.",
-      "abstract": "Running is a highly dynamic locomotion process, yet most existing aerodynamic studies approximate the runner using a single static posture. This study presents a validated computational fluid dynamics investigation of posture-dependent running aerodynamics throughout the gait cycle from a quasi-static perspective. Five representative gait-cycle postures are analysed for a male runner. The results reveal substantial aerodynamic variations throughout the gait cycle with maximum drag occurring for the mid-stance and minimum drag for the flight postures. Relative to the minimum-drag posture, the peak drag area increases by approximately 20.6%. Flow-field analysis shows that changes in leg configuration strongly influence wake development. The toe-off and flight postures are characterised by a partially interrupted torso wake and more compact wake structures, whereas the higher-drag postures exhibit broader low-velocity wake regions. Body-part decomposition further indicates that the torso is the dominant drag contributor, accounting for approximately 50-59% of the total drag area, while the upper legs exhibit the strongest posture sensitivity. The findings provide new physical insights into posture-dependent running aerodynamics and establish a foundation for future investigations of fully dynamic running motion.",
-      "doi": "10.1016/j.jbiomech.2026.113665",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994047/",
-      "relevance": 4,
-      "matched": [
-        "gait",
-        "posture"
-      ]
-    },
-    {
-      "pmid": "42981779",
-      "title": "Generating standing posture finite element models of the spine with radiation-free imaging.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-02",
-      "authors": "Federica Incatasciato, Peter P G Lafranca, Timothy Tin-Yan Lee et al.",
-      "abstract": "Finite element (FE) modelling is a powerful tool for investigating spinal biomechanics. Subject-specific finite element models of the spine are commonly built from supine data obtained from CT images, with harmful radiation and without soft-tissue structures. However, a more accurate evaluation of vertebrae and intervertebral disc loading requires the analysis of the subject in upright posture. In this study we propose a radiation-free alternative to create subject-specific standing FE models by combining supine MRI with ultrasound-based 3D spinal curvature assessment in standing posture. Subject-specific supine FE models of T3-L5 were created from synthetic CT (AI-generated from MRI) of 8 children. Dedicated spinal ultrasound was used to detect the positions of the vertebral laminae, which were used as input to convert the FE model from supine to standing. RMSE was found within 1 mm for the fitted vertebral levels. Validation against conventional radiographic measurements showed no statistical difference in sagittal alignment between the two imaging modalities in the lumbar and mid-to-lower thoracic parameters. In addition, the distance between the vertebral centroids measured from radiographs and from the upright FE model in sagittal and coronal plane was found to be less than 6 mm for the fitted levels. In conclusion, we demonstrate the feasibility of using completely radiation-free imaging as an alternative to CT and bi-planar X-ray to build subject-specific, upright, detailed FE models.",
-      "doi": "10.1016/j.jbiomech.2026.113661",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981779/",
-      "relevance": 10,
-      "matched": [
-        "spine",
-        "posture",
-        "spinal",
-        "biomechanic",
-        "thoracic",
-        "lumbar"
-      ]
-    },
-    {
-      "pmid": "42981777",
-      "title": "Effects of speed, load, and surface on tibial bending moment and stress.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-02",
-      "authors": "Thomas A Wenzel, Eric B Francis, Tyler N Brown",
-      "abstract": "This study assessed locomotor speed, body-borne load, and surface on tibial stress and bending. Fourteen recreational runners had tibial bending moments quantified during a jog (3.0 m/s) and run (4.5 m/s) over a flat and uneven surface with and without 15 kg body-borne load. Peak and mean values of AP, ML and resultant tibial stress and bending moments were quantified and submitted to 3-way repeated-measures ANOVA, while stress and bending waveforms were submitted to statistical parametric mapping 3-way ANOVA. During the run, mean and peak AP and resultant tibial bending moments and stress increased (all: p ≤ 0.009), while all stress and bending waveforms were larger from 0 to 11% and 70 to 100% of stance (all: p ≤ 0.031). With the 15 kg load, mean and peak AP and resultant tibial bending moments and stresses increased (all: p ≤ 0.008) and greater waveform from 13 to 36% and 95 to 100% of stance was exhibited for all bending moment and stresses (all: p ≤ 0.043). On the uneven surface, participants decreased mean and peak AP and resultant tibial bending moments and stresses (all: p ≤ 0.010) and used smaller tibial stress and bending waveforms between 0 to 13%, 18 to 20%, and 69 to 86% of stance for all moments and stresses (all: p ≤ 0.033). Faster run speed and heavier load may elevate risk of tibial stress fracture, while traversing an irregular, uneven surface led to significant reduction in tibial stress and may not similarly elevate injury risk.",
-      "doi": "10.1016/j.jbiomech.2026.113663",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981777/",
-      "relevance": 1,
-      "matched": [
-        "injury"
       ]
     }
   ]
