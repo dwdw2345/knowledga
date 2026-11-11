@@ -1,0 +1,474 @@
+{
+  "updated": "2026-11-12",
+  "articles": [
+    {
+      "pmid": "43010662",
+      "title": "Expression of the neurodevelopmental disease susceptibility genes CADM1 and CADM2 in the early human fetal forebrain.",
+      "journal": "Journal of anatomy",
+      "journal_issn": "0021-8782",
+      "discipline": "anatomy",
+      "date": "2026-Nov-10",
+      "authors": "Natalie Wucherer, Maznah Alhesain, Amn Ashhad et al.",
+      "abstract": "CADM1 and CADM2 are cell-adhesion molecules with likely roles in cell migration, axon guidance and synapse formation. Both are considered potential susceptibility genes for various neurodevelopmental disorders. However, their expression patterns in early human brain development have not been explored. Here we employed transcriptomics, RNAScope in situ hybridisation (ISH) and immunofluorescence (IF) to determine the time course and location of expression in the human cerebral cortex and thalamus between 7.5-17 postconceptional weeks (PCW). In the cerebral cortex, tissue RNAseq revealed both to be highly expressed throughout this period. CADM1 exhibited very high expression which declined slightly with age. CADM2 exhibited high expression which increased over time. Single-cell RNA-seq and ISH revealed that both genes were co-expressed in most cells; however, IF revealed different patterns of cellular localisation. At 8 PCW, expression for both CADMs was similar throughout the cortex and predominantly located in the cytoplasm/cell surface in the cortical plate (CP) but with stronger expression of CADM1 in the subventricular zone. However, from 10 PCW onwards, the strongest immunoreactivity for CADM1 was in the cell nucleus with weak cytoplasmic localisation, whereas CADM2 was expressed on the cell surface and increasingly in axons with age. By 17 PCW, CADM2 exhibited strong immunoreactivity in the thalamocortical and callosal corticocortical axons but was weakly expressed in corticofugal pathways. In the thalamus, CADM2 expression in posterior and lateral projection neurons contributing to thalamocortical pathways was confirmed. CADM1 and CADM2 show differential expression in the thalamus and associated nuclei, suggesting a role in their segregation; CADM1 favouring anterior and medial thalamic nuclei and the ventromedial subthalamus, CADM2 the lateral habenula, lateral and posterior thalamus and dorsolateral subthalamus. CADM1 and CADM2 may play important and varied roles in early fetal human forebrain development, guiding cell migration and aggregation, and axon guidance and fasciculation.",
+      "doi": "10.1111/joa.70248",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010662/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43012130",
+      "title": "Paranasal recesses and rostral airspace volume covary with echolocation call frequency in emballonurid bats.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-11",
+      "authors": "Abigail A Curtis, Nancy B Simmons, Timothy D Smith et al.",
+      "abstract": "The mammalian rostrum has multiple functions including serving as the upper jaw, supporting olfactory sensory structures, conditioning inspired air, and-for some mammals-transmitting sound. Several groups of bats independently evolved bony inflations on the dorsolateral surfaces of their rostra. In rhinolophoid bats, rostral inflations are associated with nasal emission of echolocation calls, but their function in oral emitting bats (family Emballonuridae) is not well understood. Here, we combine μCT, diceCT, and histological methods to describe and quantify nasal fossa morphology of emballonurid bats in a comparative sample of 24 species overall, including 23 in the quantitative CT sample. Our goals are to (1) describe and quantify paranasal recess morphology, (2) explore scaling of paranasal recess size with body, skull, main nasal chamber, and turbinal size, (3) elucidate potential functions of rostral inflations in emballonurids, and (4) understand how nasal fossa morphology is related to presence of socially important glands and odor storing sacs in Emballonuridae. We report surprising diversity, clade-specific traits, and several novelties in paranasal recess size and location among emballonurids. The combined volume of the paranasal recesses and main nasal chamber was more strongly correlated with peak echolocation call frequency used during foraging than with skull size. Some emballonurid species possess a well-developed lateral nasal gland in the lateral recess. Other emballonurids have inflated, air-filled paranasal recesses lined with thin, avascular mucosa, similar to those of nasal emitters with rostral inflations. We also observed turbinal traits reminiscent of those in nasal emitting Rhinolophidae. Proportionally large paranasal recesses are associated with reduced size and turbinal elements in emballonurid bats, except possibly in species that exhibit complex mating displays using perfume storing sacs in their wing membranes. Together, our results suggest that paranasal recesses could play a role in modifying echolocation calls in Emballonuridae, as they are hypothesized to do in nasophonating bats. However, the potential acoustic function of paranasal recesses remains to be experimentally elucidated in bats.",
+      "doi": "10.1002/ar.70398",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012130/",
+      "relevance": 1,
+      "matched": [
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43013108",
+      "title": "Comment on \"MRI morphometry of the popliteus tendon and lateral meniscus in an Iraqi adult cohort\".",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-11",
+      "authors": "Sudhakar Sengan, V Vivekanandhan",
+      "abstract": "",
+      "doi": "10.1007/s00276-026-04061-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013108/",
+      "relevance": 4,
+      "matched": [
+        "tendon",
+        "meniscus"
+      ]
+    },
+    {
+      "pmid": "43013104",
+      "title": "Reconsidering the embryological interpretation of a double vertebral artery-connected proatlantal artery and a presumed carotid duct.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-11",
+      "authors": "Masashi Nakadate",
+      "abstract": "",
+      "doi": "10.1007/s00276-026-04049-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013104/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43013080",
+      "title": "Multi-planar reconstruction and 3D volume rendering as tools of anatomical dissection and morphometry on the example of cadaveric study of inferior medial genicular artery : Comparison of visualisation of branches of the inferior medial genicular artery using 3D volume reconstruction, MPR, and a fresh-frozen cadaver.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-11",
+      "authors": "Julia Szopa, Laura Fortuna, Paweł Gębski et al.",
+      "abstract": "Cadaveric dissection is a traditional method used to reveal deep-seated anatomical structures; however, it is inherently time-consuming and irreversible, preventing the correction of procedural errors. To address these limitations, this feasibility study proposes a novel computer-assisted, \"digital dissection\" framework designed to accelerate workflow, allow error mitigation, and enable repeatable analysis of a single specimen. Four independent observers performed \"digital dissections\" of the inferior medial genicular artery across two DICOM viewing platforms: RadiANT DICOM Viewer 2025.2 (64-bit) and Horos v4.0.0 RC5. Morphometric measurements were recorded at predefined reference points corresponding to arterial branching sites. Inter-observer variability was evaluated, and the resulting dataset was validated against multiplanar reconstruction (MPR) metrics-the standard radiological benchmark for vascular assessment. Statistical analysis revealed no significant difference between three-dimensional volume rendering (3D VR) and MPR in assessing vessel dimensions for structures with a diameter exceeding (dMPR=0.950 mm). For vessels > 0.95 mm, 3D-VR and MPR yielded no statistically significant difference (p = 0.086), a strong Pearson correlation (r = 0.971), and a Bland‑Altman mean bias of -0.03 mm (95% LoA: - 0.14 to +0.07 mm). Furthermore, morphological consistency was maintained regardless of vessel caliber. The integration of 3D VR and MPR modalities would offer a cost-effective, highly reproducible, non-invasive tool for both educational and research applications in vascular analysis. Moreover, these measurements exhibit strong stability across different software platforms and operators, showing an absence of systematic bias with only minor variations attributable to human error or minor misalignment.",
+      "doi": "10.1007/s00276-026-04046-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013080/",
+      "relevance": 3,
+      "matched": [
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "43012911",
+      "title": "\"Answer on 'Comment on \"Sex estimation from sacral anatomy in Turkish adults: a machine learning-based analysis\"'.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-11",
+      "authors": "Busra Gul Ayturk, Ali Keles, Usame Omer Osmanoglu",
+      "abstract": "This response addresses the comments and methodological points recently raised regarding our study entitled \"Sex estimation from sacral anatomy in Turkish adults: a machine learning-based analysis.\" In this reply, we provide further clarification on our dataset, machine learning classification performance, and the anatomical parameters utilized in the evaluation of sexual dimorphism. By addressing the queries regarding sample characteristics and methodological approaches, we aim to reinforce the validity of our findings and contribute to the ongoing discourse on forensic anthropology and sex.",
+      "doi": "10.1007/s00276-026-04058-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012911/",
+      "relevance": 2,
+      "matched": [
+        "anatomical",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43008670",
+      "title": "Intra-individual relationships between jump height and lower-limb joint kinetics in single-leg countermovement jumps in male athletes.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-04",
+      "authors": "Shota Yamamoto, Hirotomo Kubota, Koki Imai et al.",
+      "abstract": "Athletes show trial-to-trial intra-individual variability in performance outcomes during repeated maximal-effort motor tasks within a single competition. Although inter-individual relationships between performance outcomes and joint kinetics have been demonstrated, the trial-to-trial intra-individual relationships remain unclear. Therefore, this study aimed to clarify the intra-individual relationships between jump height and lower-limb joint kinetics during single-leg countermovement jumps (CMJs) in male athletes. Fifty-two male athletes performed 12 maximal-effort single-leg CMJs within a single session. Ground reaction forces and marker coordinates were recorded, from which jump height and lower-limb joint kinetics were calculated. Hierarchical linear modeling was used to examine the intra-individual relationships between jump height and each joint kinetic variable. Significant positive fixed effects on jump height were observed for hip (extension torque [γ10 = 0.013], flexion-extension power [γ10 = 0.005], and positive work [γ10 = 0.018]) and ankle joint kinetics (plantarflexion torque [γ10 = 0.035] and positive work [γ10 = 0.045]), whereas no significant fixed effects were observed for knee joint kinetics (γ10 ≤ 0.007). The inter-individual correlation analysis showed that greater values of hip and knee joint kinetics and ankle plantar-dorsiflexion power were associated with greater jump height. These results indicate that the intra- and inter-individual analyses showed different patterns of associations between jump height and lower-limb joint kinetics. Moreover, significant random effects were observed for all lower-limb joint kinetics, indicating that these intra-individual relationships differed among participants. Understanding joint kinetics associated with trial-to-trial intra-individual variability in jump height may contribute to identifying participant-specific biomechanical factors underlying jump height.",
+      "doi": "10.1016/j.jbiomech.2026.113668",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008670/",
+      "relevance": 16,
+      "matched": [
+        "joint",
+        "hip",
+        "kinetic",
+        "athlete",
+        "knee",
+        "biomechanic"
+      ]
+    },
+    {
+      "pmid": "43008499",
+      "title": "Inertial measurement unit-based gait analysis for objective assessment of vestibular rehabilitation.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-06",
+      "authors": "Ivan Huuva, Erik Faergemann, Fredrik Öhberg et al.",
+      "abstract": "Acute vestibular syndrome (AVS), defined by sudden onset of dizziness, nausea, impaired balance and gait instability, severely affects normal daily activities. Vestibular rehabilitation alleviates the condition and facilitates the return to normal activities. This study assessed the rehabilitation process of 30 participants with AVS using Inertial Measurement Unit (IMU)-based gait analysis during timed 25-ft walk tests (T25FW) conducted at onset, after a 6-week rehabilitation program, and at a 12-week follow-up. 54 healthy controls also performed the T25FW on one occasion. Gait variables based on either five lower body sensors or only the pelvis sensor were investigated. Clinical variables: walking speed and Vertigo Symptom Scale-Short Form (VSS-SF) vertigo-balance subscale (VSS-V) were also recorded. Significant successive improvements in VSS-V were observed between all timepoints. Furthermore, walking speed, Gait Profile Score (GPS), pelvis GPS, and cadence decreased from onset to the end of the rehabilitation period, after which changes were not significant. Walking speed was slower for the AVS group at baseline (0.65 m/s, p < 0.0001) and at 12 weeks (1.13 m/s, p < 0.05) compared to controls (1.26 m/s). GPS, pelvis GPS, GPS asymmetry, and cadence were significantly greater compared to controls at baseline (6.8° vs. 4.4°, 3.6° vs. 2.6°, and 87 steps/min vs. 118 steps/min, respectively, p < 0.0001). GPS asymmetry was also higher at baseline compared to controls (1.40 steps/min vs. 0.80 steps/min, p < 0.05). In conclusion, gait improvement was captured via IMU-based gait analysis, even when using a single sensor, supporting the clinical feasibility of using both single- and multi-sensor wearable systems for rehabilitation assessment.",
+      "doi": "10.1016/j.gaitpost.2026.110699",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008499/",
+      "relevance": 6,
+      "matched": [
+        "gait",
+        "rehabilitation"
+      ]
+    },
+    {
+      "pmid": "43008497",
+      "title": "Associations of gait speed and step length with severity of long-term care needs in older adults.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-07",
+      "authors": "Daiki Yamagiwa, Osamu Katayama, Ryo Yamaguchi et al.",
+      "abstract": "BACKGROUND: Gait variables are associated with disability, but whether gait speed and step length show different associations across severity levels of future long-term care needs is unclear. RESEARCH QUESTION: Are gait speed and step length independently associated with incident long-term care needs at different severity levels? METHODS: This prospective cohort study included 12,989 community-dwelling older adults from 3 Japanese municipalities (mean age, 74.8 ± 5.5 years; 45.2% men) followed for 60 months. Incident long-term care needs were categorized as support needs, mild-care needs, or severe-care needs. Fine-Gray subdistribution hazards models and restricted cubic splines accounted for death and other care-need categories as competing events. RESULTS: During follow-up, 2186 participants developed long-term care needs. In mutually adjusted models, shorter step length was associated with support needs (subdistribution hazard ratio [SHR], 0.95; 95% confidence interval [CI], 0.91-0.99), whereas slower gait speed was associated with mild-care needs (SHR, 0.37; 95% CI, 0.17-0.82) and severe-care needs (SHR, 0.24; 95% CI, 0.06-0.94). SIGNIFICANCE: Step length was associated with subsequent support needs, whereas gait speed was associated with subsequent mild- and severe-care needs. These severity-specific associations do not establish a temporal sequence of gait decline but suggest that the two gait measures may provide complementary information about future long-term care needs.",
+      "doi": "10.1016/j.gaitpost.2026.110682",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008497/",
+      "relevance": 3,
+      "matched": [
+        "gait"
+      ]
+    },
+    {
+      "pmid": "43010670",
+      "title": "Augmented Beverage Hydration Index Methodology for Comparing Beverage Efficacy.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Ayu Yamaguchi, Isobel A Martin, Kat Fisher et al.",
+      "abstract": "The Beverage Hydration Index (BHI) is a standardized, reproducible measure of short-term beverage hydration efficacy under euhydrated, resting conditions. Since its introduction by Maughan et al. in 2016, the BHI has been validated across populations and extended by our laboratory to include older adults and multiple beverage types. Specifically, the collection of serial venous samples allows for the addition of simple, but useful, physiological calculations. Here we describe methodological enhancements to the BHI protocol: the addition of change in plasma volume (ΔPV), free water clearance (CH2O), renal osmolar clearance (Cosmol), and renal sodium clearance (CNa⁺). These measures extend the traditional BHI methodology by elucidating vascular, renal, and sodium-handling mechanisms underlying fluid retention differences among beverages. We also describe an extended 4-hour collection period protocol adapted for older adults. A case study in healthy young adults using three commercially available beverages is provided to illustrate the utility of the augmented BHI protocol. Collectively, this refined protocol provides a practical, mechanistically informative framework for assessing beverage hydration efficacy under free-living conditions across diverse populations.",
+      "doi": "10.1152/japplphysiol.90175.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010670/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43010651",
+      "title": "Quantifying contractile muscle fatigue during exercise in COPD using surface electromyography: from physiological rationale to clinical application.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Titouan Paul Perrin, Mathieu Marillier",
+      "abstract": "",
+      "doi": "10.1152/japplphysiol.90173.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010651/",
+      "relevance": 6,
+      "matched": [
+        "exercise",
+        "fatigue"
+      ]
+    },
+    {
+      "pmid": "43010642",
+      "title": "Cardiac instability during sympathetic or parasympathetic activation following spinal cord injury: evidence for autonomic conflict?",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Kimberly Hareland, Daniel D Veith, Victoria Elizabeth Claydon et al.",
+      "abstract": "Cardiovascular disease is a leading cause of death following spinal cord injury (SCI), with increased cardiac instability being linked to increased mortality. One theory behind this development after SCI is autonomic conflict, the coactivation of the parasympathetic and sympathetic nervous systems on the heart. To test this, individuals with chronic SCI and uninjured controls underwent the same autonomic testing, aimed at activating pure sympathetic and/or parasympathetic signals to the heart. Throughout testing, heart rate and blood pressure were continuously recorded. Poincaré, blood pressure, and linear mixed model analyses were performed. Cardiac instability was found to significantly increase (ΔSD1) in individuals with SCI compared to uninjured controls for below level of injury, sympathetic stimuli (foot CPT and bladder pressor) but not in systemic parasympathetic (Oxford) or above level of injury, sympathetic stimuli (hand CPT). This increase in cardiac instability with below level of injury stimuli for individuals with SCI is indicative of autonomic conflict. The linear mixed model also suggested injuries at or above T1 and individuals who experienced autonomic dysreflexia during testing are at a greater risk of increased cardiac instability, regardless of the stimulus type. Identification of the causes and consequences of cardiac instability after SCI is imperative for understanding cardiovascular complications and developing treatment methods for this common post-SCI complication.",
+      "doi": "10.1152/japplphysiol.90073.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010642/",
+      "relevance": 4,
+      "matched": [
+        "injury",
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43010635",
+      "title": "Intensity-dependent modulation of sympathetic neurocirculatory control during incremental rhythmic handgrip exercise in humans.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Andrew W D'Souza, Takuro Washio, Sarah L Hissen et al.",
+      "abstract": "The exercise intensity at which muscle sympathetic nerve activity (MSNA) recorded in the inactive limb begins to rise during rhythmic handgrip (RHG) exercise remains unknown. Forearm blood flow during RHG exhibits an attenuated rate of increase at ∼50% maximal voluntary contraction force (MVC), although whether this occurs in parallel with sympathetic activation remains unknown. Therefore, we tested the hypotheses that MSNA increases at intensities <50% MVC and coincides with an attenuation in forearm vascular conductance (FVC) during incremental RHG. Twenty-nine young adults (11 males; 26 [4] yrs; mean [SD]) underwent assessments of blood pressure (photoplethysmography), cardiac output and total peripheral resistance (TPR; Modelflow), brachial artery blood flow of the exercising arm (doppler ultrasound), and MSNA (microneurography) during incremental RHG exercise to fatigue. An operational onset threshold (deviation beyond baseline variability) for MSNA burst frequency, amplitude, and total activity occurred between 36-41% MVC. Cardiac output began to rise at 37% MVC, whereas mean arterial pressure began to rise at 45% MVC. TPR demonstrated a linear decline. FVC and brachial artery diameter increased rapidly at low intensities, with attenuation in the rate of rise at ∼20% MVC, whereas forearm blood flow and shear rate increased linearly. Collectively, these data challenge the prior view that during RHG, MSNA increases only at intensities above 50% MVC, and indicate that sympathetic recruitment occurs during light-to-moderate stages of incremental exercise. Moreover, the dissociation between MSNA and FVC indicates that resting limb MSNA does not predict direct efferent sympathetic vasoconstrictor signalling within contracting skeletal muscle.",
+      "doi": "10.1152/japplphysiol.00495.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010635/",
+      "relevance": 8,
+      "matched": [
+        "exercise",
+        "fatigue",
+        "resistance"
+      ]
+    },
+    {
+      "pmid": "43008129",
+      "title": "Low Muscle Mechanical Power, Worse Clinical Outcomes? A Cohort of Patients on Hemodialysis.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Henrique S Disessa, Marvery P Duarte, Jéssica G Roure et al.",
+      "abstract": "BACKGROUND AND HYPOTHESIS: In older adults, low muscle mechanical power is an independent predictor of adverse clinical outcomes. In patients with chronic kidney disease, this has not yet been explored. In this study, we hypothesized that low muscle mechanical power is independently associated with increased risks of all-cause mortality and hospitalization in patients on hemodialysis. METHODS: This study is a secondary analysis of the SARC-HD cohort, which enrolled patients from 19 dialysis centers across Brazil. Adults undergoing hemodialysis were assessed at baseline for relative muscle mechanical power using the five times sit-to-stand test (5-STSrel). Low relative muscle mechanical power was defined based on sex- and age-specific lowest tertiles (p33) of STSrel values (W⋅kg -1) whithin our cohort. All-cause mortality and hospitalizations were collected through a 24-month follow-up period. Cox proportional hazards regression was modeled, with adjustment for clinically relevant confounders. RESULTS: A total of 922 adults on hemodialysis were included (48.6% ≥60 years and 61.5% males), with 12.8% mortality and 35.4% hospitalization rates. Low muscle mechanical power was associated with an increased risk of all-cause mortality, with an adjusted hazard ratio (aHR) of 1.67 (95% CI: 1.15 - 2.41), but it was not associated with hospitalization (aHR=1.08, 95% CI: 0.87-1.36). In a subgroup analysis of age, the all-cause mortality outcome was significant in patients ≥ 60 years, with an aHR of 2.19 (95% CI: 1.41-3.40), but not in young (aHR=1.02, 95% CI: 0.50-2.10). CONCLUSIONS: In patients on hemodialysis, low muscle mechanical power was strongly associated with a greater mortality risk, particularly among older patients. These findings position low muscle mechanical power as a clinically and potentially relevant aging-related condition.",
+      "doi": "10.1249/MSS.0000000000004208",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008129/",
+      "relevance": 3,
+      "matched": [
+        "power"
+      ]
+    },
+    {
+      "pmid": "43009638",
+      "title": "Interval Between Injury and Surgery Influences Knee Biomechanics During Walking in Anterior Cruciate Ligament Reconstructed Patients: A Systematic Review with Meta-analysis.",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "journal_issn": "0112-1642",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Ali Esmaeili, Heidar Sajedi, Serkan Tevabil Aka et al.",
+      "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) is commonly performed to restore anatomical and functional knee stability. Although altered walking biomechanics have been observed post-ACLR, previous studies have not consistently accounted for the interval between injury and surgery. OBJECTIVE: This systematic review and meta-analysis aimed to determine whether walking-related knee biomechanical alterations following ACLR are transient or persist over time, and whether the timing of surgery influences these alterations. METHODS: Five electronic databases (Scopus, PubMed, Web of Science, Physiotherapy Evidence Database [PEDro], and Cochrane Central Register of Controlled Trials [CENTRAL]) were systematically searched from inception through August 2026. Studies comparing walking biomechanics between patients who underwent ACLR and healthy controls and reporting the interval between anterior cruciate ligament injury and reconstructive surgery were included. Biomechanical outcomes during the stance phase of walking were extracted and stratified according to the interval between injury and surgery: short term (0 to < 6 months), mid-term (6 to < 12 months), and long term (≥ 12 months). Standardized mean differences (SMDs) with 95% confidence intervals were calculated using a random-effects model. Study quality was assessed using a modified Downs and Black checklist. RESULTS: Of the 3522 identified records, 16 studies involving male and female participants aged 18-55 years met the inclusion criteria. The mean methodological quality score was 65%, indicating an overall moderate level of methodological quality. Compared with healthy controls, ACLR participants demonstrated lower peak knee flexion angle (SMD = - 0.33, 95% confidence interval [CI] - 0.64 to - 0.02, p = 0.03, I2 = 57%), peak knee adduction angle (SMD = - 0.47, 95% CI - 0.92 to - 0.01, p = 0.04, I2 = 66%), and peak knee flexion moment (SMD = - 0.64, 95% CI - 1.05 to - 0.23, p = 0.002, I2 = 76%). In subgroup analyses, the long-term group (≥ 12 months between injury and surgery) demonstrated lower peak knee flexion angle (SMD = - 0.27, 95% CI - 0.54 to - 0.00, p = 0.05, I2 = 8%) and peak knee flexion moment (SMD = - 1.97, 95% CI - 3.77 to - 0.17, p = 0.03, I2 = 88%). The short-term group (0 to < 6 months) demonstrated lower peak knee adduction angle (SMD = - 0.79, 95% CI - 1.18 to - 0.40, p < 0.0001, I2 = 19%) and peak knee extension moment (SMD = - 0.55, 95% CI - 0.93 to - 0.18, p = 0.004, I2 = 50%). CONCLUSIONS: The interval between anterior cruciate ligament injury and ACLR was associated with differences in postoperative walking biomechanics. Delayed reconstruction (≥ 12 months) is associated with persistent sagittal plane deficits, which may reflect chronic neuromuscular adaptations or preoperative joint degeneration. In contrast, early surgery (within 6 months after anterior cruciate ligament injury) was associated with fewer long-term sagittal-plane deficits, although temporary frontal-plane asymmetries and extension deficits may persist during the early postoperative period and may improve with rehabilitation. These findings underscore the importance of considering the timing of ACLR when planning surgery and postoperative rehabilitation to support walking recovery.",
+      "doi": "10.1007/s40279-026-02575-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009638/",
+      "relevance": 7,
+      "matched": [
+        "injury",
+        "recovery",
+        "adaptation",
+        "neuromuscular",
+        "rehabilitation"
+      ]
+    },
+    {
+      "pmid": "43007647",
+      "title": "The Influence of Protein on Beverage Hydration Efficacy: A Systematic Review and Meta-analysis.",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "journal_issn": "0112-1642",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Freya R Gibbons, Loïs Mougin, Hannah Nuttall et al.",
+      "abstract": "BACKGROUND: Beverage composition can dictate effectiveness of hydration and rehydration by influencing several physiological processes, including gastric emptying rate, intestinal absorption and oncotic pressure. While the benefits of solutes such as carbohydrates and electrolytes are well established in hydration beverages, research into the efficacy of protein inclusion remains sparse. OBJECTIVE: The aim was to evaluate the effects of protein-containing beverages on hydration and rehydration, in terms of fluid retention, cumulative urine, net fluid balance (NFB) and plasma volume (PV) change, when compared with a control beverage. METHODS: The systematic review was pre-registered (Open Science Framework) and conducted in accordance with PRISMA guidelines. PubMed, Embase, the Cochrane Library and Web of Science were searched from inception to February 2026 for human trials (≥ 18 years) researching hydration or rehydration following hypohydration or euhydration. To be eligible, beverages contained ≥ 2 g/L protein and reported at least one hydration outcome. Random-effects meta-analyses was performed using standardised mean differences (SMD). RESULTS: Overall, 16 studies were included in this review (205 participants; 17.1% female, euhydrated: n = 2, hypohydrated: n = 14). Mean protein content in the studies was 23.7 ± 9.9 g/L. Meta-analysis performed on the rehydration studies revealed greater fluid retention (SMD 0.66, 95% CI 0.39-0.93, P < 0.00001, Z = 4.85, medium effect), reduced cumulative urine output (SMD - 0.71, 95% CI - 0.99 to - 0.43, P < 0.00001, Z = 4.93, medium effect), as well as increased NFB (SMD 0.58, 95% CI 0.30-0.85, P < 0.0001, Z = 4.10, medium effect) and augmented PV change (SMD 0.29, 95% CI 0.03-0.55, P = 0.03, Z = 2.19, small effect) following ingestion of protein. CONCLUSIONS: Protein-containing beverages confer an advantage over a control beverage on hydration metrics. These findings support protein as a potentially beneficial addition to rehydration strategies, however, there was a lack of female participants (17.1%), as well as plant-based beverages, limiting the generalisability of findings to female athletes, as well as those with diets devoid of lactose products.",
+      "doi": "10.1007/s40279-026-02577-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007647/",
+      "relevance": 1,
+      "matched": [
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "43013078",
+      "title": "Correction: Short-term administration of L-citrulline augments cardiac vagal control and reduces blood pressure in response to high-intensity exercise in untreated hypertensive males.",
+      "journal": "European journal of applied physiology",
+      "journal_issn": "1439-6319",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Zhara Hosseini Moghadam Boroujeny, Mohammad Soltani, Minoo Bassami et al.",
+      "abstract": "",
+      "doi": "10.1007/s00421-026-06372-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013078/",
+      "relevance": 4,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43012448",
+      "title": "Intracellular α1A-adrenergic receptor regulation of cAMP production by an inside-out mitogen-activated protein kinase signalling pathway in cardiac myocytes.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Chase M Fiore, Michael W Rudokas, Riko Masuda et al.",
+      "abstract": "Sympathetic stimulation produces beneficial changes in cardiac function through β-adrenergic receptor (βAR) production of cAMP and subsequent alteration of electrical and mechanical activity. Long-term activation of cAMP production also contributes to cardiac remodelling and detrimental changes associated with heart failure. However, sympathetic responses are mediated by the endogenous neurotransmitter norepinephrine (NE), which is also a potent α1-adrenergic receptor (α1AR) agonist, and α1AR activation can produce significant effects on the heart as well. What is less clear is how α1- and β-adrenergic responses interact with one another. Previous studies have demonstrated that α1AR activation can inhibit β-adrenergic regulation of the electrical and mechanical activity of cardiac myocytes, although the signalling mechanisms involved were not previously known. In the present study, we used fluorescence resonance energy transfer (FRET)-based biosensors in adult rat ventricular myocytes to demonstrate that this cross-talk effect involves the inhibition of cAMP production by intracellular α1A-adrenergic receptors (α1AARs) acting on βARs found on the plasma membrane. Furthermore, we established that this inside-out signalling mechanism involves a mitogen-activated protein kinase (MAPK) pathway that uncouples βARs from downstream signalling in a G protein-coupled receptor kinase (GRK)/arrestin-dependent manner. These results reveal a novel, non-canonical signalling mechanism contributing to α1AR responses in the heart, and that this effect limits βAR production of cAMP by NE. This mechanism may contribute to the cardioprotective effect previously ascribed to α1AAR activation. These findings also clearly demonstrate the importance of considering the contributions of α1 and βARs together when studying the influence of the sympathetic nervous system on the heart. KEY POINTS: Acute sympathetic stimulation produces beneficial changes in cardiac function through the release of norepinephrine (NE), activation of β-adrenergic receptors (βARs) and subsequent production of cAMP. However, long-term sympathetic stimulation of the same signalling pathway contributes to the development of heart failure and cardiac arrhythmias. NE also activates α1-adrenergic receptors (α1ARs), which have been linked to a cardioprotective effect involving a mechanism not well defined. The present study demonstrates that the activation of intracellular α1A-adrenergic receptors (α1AARs) reduces cAMP production by βARs found on the cell surface. This 'inside-out' signalling mechanism acts through a mitogen-activated protein kinase (MAPK) pathway to enhance β-arrestin-mediated uncoupling of βARs from downstream signalling. By limiting excessive cAMP production, α1AAR signalling may help protect the heart during prolonged sympathetic stimulation, highlighting the importance of considering the effects of α1- and βAR signalling together when studying sympathetic responses in the heart.",
+      "doi": "10.1113/JP290997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012448/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43012411",
+      "title": "Acute intermittent carotid body stimulations induce long-term facilitation of respiratory-cardiovascular coupling in rats.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Ambre A Linossier, Christian Gestreau, Clément Menuet",
+      "abstract": "Hypertension, the leading modifiable risk factor for global mortality, is driven in >50% of cases by neurogenic mechanisms linked to heightened sympathetic nerve activity (SNA). A hallmark of neurogenic hypertension is the exacerbation of respiratory-modulated SNA (RespSNA) and resulting blood pressure Traube-Hering (TH) waves, which emerges during the prehypertensive period and contributes to disease development. Carotid bodies (CBs), the peripheral chemoreceptors involved in the hypoxic response, are hyperactive in hypertensive patients and animal models. Their chronic intermittent stimulation, as seen in obstructive sleep apnoea, promotes hypertension characterised by exacerbated RespSNA and TH waves. Yet, their causal role in initiating these changes remains unclear. Here, we investigated whether acute intermittent CB stimulations could directly enhance RespSNA, TH waves and blood pressure from a physiological baseline, using the in situ working heart-brainstem preparation in rats. Four brief CB stimulations with sodium cyanide, mimicking acute intermittent hypoxia, were sufficient to induce a prolonged (>20 min) increase in both inspiratory and late expiratory RespSNA bursts, TH waves and perfusion pressure, with these effects being prevented by carotid sinus denervation. These changes were accompanied by a reconfiguration of central respiratory and cardiovascular control, including elevated respiratory heart rate variability and enhanced respiratory drive targeting upper airway and abdominal muscles. Our findings demonstrate that acute intermittent CB activation triggers sustained RespSNA and elevation of TH waves, supporting its potential role in development of hypertension. Our data also suggest that CBs play a key role in initiating this respiratory-cardiovascular plasticity and that central mechanisms might contribute to its long-term maintenance. KEY POINTS: Carotid body (CB) overactivity is implicated in sympathetic excitation and development of hypertension, but its direct role in initiating respiratory-cardiovascular dysfunction remains unresolved. We tested whether brief, repeated CB stimulations could trigger lasting changes in breathing and blood pressure control from a physiological baseline. In rats, only four stimulations induced a persistent increase in respiratory-modulated sympathetic activity, elevating blood pressure fluctuations (Traube-Hering waves) and mean blood pressure. These effects, prevented by carotid sinus denervation, were linked to enhanced respiratory-cardiovascular coupling and altered upper airway and abdominal motor control. Our findings reveal that short-term CB activation can induce long-term facilitation of respiratory-cardiovascular coupling, relevant to both physiological adaptations and hypertension pathogenesis.",
+      "doi": "10.1113/JP289999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012411/",
+      "relevance": 2,
+      "matched": [
+        "adaptation",
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43012303",
+      "title": "Increased inspiratory work exacerbates skin hypoperfusion and attenuates the pressor response during high-intensity exercise in the heat.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Jun Koike, Naoto Fujii",
+      "abstract": "During exercise in the heat, skin vasodilatation occurs as heat loss response. Increased respiratory muscle work by inspiratory loading during high-intensity exercise causes vasoconstriction in active skeletal muscles without altering arterial blood pressure. We hypothesized that, during high-intensity exercise in the heat, inspiratory loading would induce skin vasoconstriction and thus reduce skin blood flow to maintain the pressor response associated with high-intensity exercise. Fifteen healthy young men cycled in the heat (35°C, 50% relative humidity), consisting of 14 min at 50% peak oxygen uptake ( V . O 2 peak ) followed by 3 min at 90% V . O 2 peak . A 1 min inspiratory loading was applied 10 min into exercise at 50% V . O 2 peak and 1 min into exercise at 90% V . O 2 peak . The protocol without inspiratory loading was performed on a separate day as the control. Upper back skin blood flow was measured using a laser-Doppler flowmeter. Arterial blood pressure was measured using finger photoplethysmography, and skin vascular conductance was calculated as skin blood flow/mean arterial pressure. Skin blood flow decreased, whereas mean arterial pressure increased gradually during exercise at 90% V . O 2 peak , and these responses were greater and smaller, in the inspiratory load than control (P < 0.003). Skin vascular conductance did not differ between conditions at 90% V . O 2 peak . At 50% V . O 2 peak , the inspiratory loading slightly reduced mean arterial pressure but did not modulate skin blood flow or skin vascular conductance. We show that increased respiratory muscle work augments the reduction in skin blood flow, whereas it attenuates the pressor response during high-intensity exercise in the heat, without modulating skin vasoconstriction. KEY POINTS: Skin vasodilatation plays a pivotal role in heat loss during exercise in the heat. Breathing, and thus respiratory muscle work, can be augmented by hyperthermia, ageing and lung or cardiovascular disease. However, whether increased respiratory muscle work influences skin vasodilatation during exercise in the heat remains unknown. Inspiratory loading, which increased the work of breathing, was applied during exercise at 50% V . O 2 peak and at 90% V . O 2 peak in the heat. We showed that an inspiratory load reduced skin blood flow and attenuated the increase in mean arterial pressure during exercise at 90% V . O 2 peak without influencing skin vascular conductance. However, these effects associated with inspiratory loading were not clearly observed during exercise at 50% V . O 2 peak . Our findings suggest that increased inspiratory muscle work may reduce heat loss associated with increases in skin blood flow and blunted pressor response during high-intensity exercise in the heat.",
+      "doi": "10.1113/JP291867",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012303/",
+      "relevance": 7,
+      "matched": [
+        "exercise",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43007685",
+      "title": "German wine and respiration: Remarks on the discovery, properties and significance of the Bötzinger complex.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Janusz Lipski",
+      "abstract": "The Bötzinger complex (BötC) comprises a distinct bilateral group of interneurons that are active during the expiratory phase of the respiratory cycle, located in the rostral medulla ventral to the compact formation of the nucleus ambiguus. It was named after the bottles of wine served at the conference dinner of an international meeting held in Germany in 1980, where the first electrophysiological data describing these neurons were presented. In cats, BötC neurons predominantly exhibit an augmenting (E-Aug) firing pattern, whereas in rats E-Aug and E-Dec (decrementing expiratory) patterns are observed. Both subtypes issue axons that often extensively arborise on both sides of the medulla, forming inhibitory glycinergic and/or GABAergic synapses with inspiratory neurons of the dorsal and ventral respiratory groups. Additionally, E-Aug neurons project to the spinal cord and inhibit phrenic motoneurons. These properties contrast with those of another group of bulbospinal expiratory neurons in the caudal medulla, which do not issue medullary axon collaterals and are excitatory. BötC neurons regulate the interval during which inspiratory neurons remain silent and contribute to synchronisation of respiratory activity across both sides of the lower brainstem. Recent in vivo, reduced-preparation and in silico studies indicate that they also contribute to respiratory rhythmogenesis through mutual inhibitory synaptic interactions with the pre-Bötzinger complex. This review provides the history of the discovery and naming of the BötC and a detailed discussion of the properties of BötC neurons, including their location, morphology, afferent and efferent axonal projections, synaptic connectivity and functional role.",
+      "doi": "10.1113/JP291704",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007685/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43013327",
+      "title": "Melatonin may be associated with changes in HUWE1, AIM2 and PANoptosis-related proteins following myocardial ischaemia-reperfusion in male rats.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Engin Sahna, Gulnur Aslan, Muge Demir Boler et al.",
+      "abstract": "Melatonin secreted by the pineal gland is a neuroendocrine hormone that directly scavenges free radicals and activates receptor-mediated signalling pathways in the cardiovascular system. This antioxidant molecule plays critical roles in processes such as limiting ischaemia-reperfusion (IR) damage, preventing apoptosis, correcting endothelial dysfunction and preventing myocardial remodelling. However, its role in multiple programmed cell death processes induced by IR remains uncertain. Understanding the role of PANoptosis, one of these processes, in myocardial IR damage and the effect of melatonin could lead to innovative treatment strategies. In this study, the aim was to investigate the effects of melatonin on myocardial IR damage, focusing on the levels of the mitophagy mediator HECT, UBA, and WWE domain-containing E3 ubiquitin ligase 1 (HUWE1), PANoptosis proteins absent in melanoma 2 (AIM2), receptor-interacting protein kinase 3 (RIPK3), and gasdermin D, as well as apoptotic protease-activating factor 1 (APAF1) levels, and the levels of microRNA (miR)-136 and -325 that may be associated with these proteins. Thirty minutes of ischaemia and 120 min of reperfusion were applied to the left coronary artery of the rats. Melatonin was administered at the beginning of reperfusion (10 mg/kg). Serum AIM2 and tissue HUWE1, RIPK3, gasdermin D and APAF1 levels were significantly increased whereas miR-136 and miR-325 levels were decreased; melatonin reversed these effects. The increase in serum AIM2 levels following IR damage and the decrease in these levels after melatonin administration suggest that serum AIM2 should be more thoroughly investigated as a potential biomarker for damage and treatment response.",
+      "doi": "10.1113/EP094192",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013327/",
+      "relevance": 1,
+      "matched": [
+        "hormone"
+      ]
+    },
+    {
+      "pmid": "43012633",
+      "title": "Sympathetic hyperactivity in hypertension via additional intraganglionic cholinergic collateral connections.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Minghua Li, Khia Min Sabrina Koh, Susan L Ingram et al.",
+      "abstract": "Sympathetic hyperactivity in hypertension is classically attributed to altered central drive, yet peripheral synaptic mechanisms within autonomic ganglia remain poorly defined. We previously demonstrated excitatory cholinergic collateral synaptic connections between sympathetic ganglion neurons and showed that angiotensin II (AngII)-induced hypertension increases sympathetic activity in postganglionic neurons independent of the CNS by activating collateral connections. Here, we tested whether AngII-induced hypertension induces intraganglionic synaptic remodelling in stellate ganglia by quantifying excitatory postsynaptic current (EPSC) latency dynamics, including latency, jitter, response multiplicity and probability of failure. AngII-induced hypertension increased latency variability of evoked EPSCs, response multiplicity and synaptic failure rates, indicating reduced temporal precision and heterogeneous synaptic transmission. These changes are inconsistent with increased presynaptic release or postsynaptic receptor function and instead suggest altered synaptic circuit organization within stellate ganglia. Collectively, these data provide functional evidence that hypertension is associated with intraganglionic synaptic reorganization consistent with increased circuit complexity. Such peripheral remodelling represents a previously underappreciated mechanism that might contribute to sympathetic overactivity in cardiovascular disease.",
+      "doi": "10.1113/EP094150",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012633/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43013354",
+      "title": "Physiological and Psychophysical Dynamics in the Perceptual Acuity Ability of Male Endurance Runners.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Maressa P Krause, Dayanne S Antonio, Marcelo Bigliassi et al.",
+      "abstract": "",
+      "doi": "10.1519/JSC.0000000000005703",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013354/",
+      "relevance": 2,
+      "matched": [
+        "endurance"
+      ]
+    },
+    {
+      "pmid": "43009103",
+      "title": "Nutrition Care Strategies at the Intersection of Menopause and Obesity Pharmacotherapy.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-10",
+      "authors": "Sandra Christensen, Maria D Hurtado Andrade, Kimberley Sampson-Paine et al.",
+      "abstract": "The premenopause to menopause transition, known as perimenopause, is a critical period of metabolic vulnerability, characterized by hormonal changes, shifts in body composition, and increased cardiometabolic risk. Concurrently, incretin mimetic pharmacotherapies have emerged as highly effective treatments for obesity, achieving weight reductions that are approximating those previously observed only after bariatric surgery. While these agents confer substantial benefits, their mechanisms-appetite suppression, delayed gastric emptying, and enhanced satiety-introduce nutritional risks that intersect with pre-existing vulnerabilities of women experiencing this transition. Reduced energy intake and inadequate micronutrient intake, combined with estrogen deficiency, heighten the risk for osteoporosis and sarcopenic obesity. Likewise, gastrointestinal adverse events further compromise dietary quality and hydration, while aging physiology amplifies susceptibility to malnutrition. This narrative review synthesizes current evidence on nutritional risks during perimenopause in the context of incretin mimetic pharmacotherapy, highlighting overlapping pathways that influence musculoskeletal health, metabolic resilience, and quality of life. Clinical strategies to mitigate these risks, including protein optimization, micronutrient monitoring, menopausal hormone therapy (osteoporosis/musculoskeletal health), and multidisciplinary care, are discussed alongside research priorities to inform targeted nutrition frameworks. Addressing these gaps is essential to ensure safe, effective, and sustainable obesity management for women in midlife and beyond.",
+      "doi": "10.1016/j.tjnut.2026.101936",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009103/",
+      "relevance": 10,
+      "matched": [
+        "nutrition",
+        "nutrient",
+        "protein",
+        "diet",
+        "dietary",
+        "energy intake"
+      ]
+    },
+    {
+      "pmid": "43009102",
+      "title": "Cross-Sectional Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-10",
+      "authors": "Yasmine Y Bouzid, Andrew Oliver, Sarah E Blecksmith et al.",
+      "abstract": "BACKGROUND: Gut microbes consume mucins in the absence of dietary fermentable fiber. People with non-secretor alpha-1-2-L-fucosyltransferase 2 (FUT2) genotypes produce gastrointestinal (GI) mucins that lack terminal fucose and have increased risk for inflammatory bowel disease. OBJECTIVES: This study aimed to determine whether associations between fiber intake and subclinical GI inflammation and/or microbiome function are modified by FUT2 genotype in healthy adults. METHODS: We assessed interactions between fiber intake, FUT2 genotype, and GI inflammation markers in a cross-sectional observational study of healthy adults. Participants with 24-h dietary recalls and food frequency questionnaires to characterize recent and habitual diet, respectively, and fecal samples, plasma samples and/or shotgun metagenomes (n=297) were included in this analysis. Differences in microbiome composition between secretors and non-secretors were analyzed using PERMANOVA and machine learning. A custom-designed TaqManTM probe was used to genotype a single nucleotide polymorphism (rs601338) to determine secretor status. ELISA was used to measure fecal calprotectin, myeloperoxidase, and neopterin, as well as plasma lipopolysaccharide binding protein. Short-chain fatty acids (SCFAs) were measured in fecal samples. Relationships between fiber intake, FUT2 genotype and outcomes were analyzed using linear mixed effect models. RESULTS: Higher energy-adjusted total recent fiber, total habitual fiber, and soluble fiber intake was associated with lower calprotectin levels in secretors, but not in non-secretors. Overall microbiome composition did not differ by secretor status. However, the ratio of mucin-degrading to plant-degrading enzymes, Muc2Plant, in the gut microbiome was positively associated with increased fecal calprotectin in secretors, but not in non-secretors. There was no interaction between dietary fiber intake, the FUT2 genotype, and fecal SCFAs. CONCLUSION: The association of higher dietary fiber intake with lower subclinical GI inflammation and lower mucin-degrading enzymes was observed in secretors, but not in non-secretors. Clinical trials in nutrition are needed to determine if non-secretors are less responsive to dietary fiber.",
+      "doi": "10.1016/j.tjnut.2026.101938",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009102/",
+      "relevance": 9,
+      "matched": [
+        "fiber",
+        "nutrition",
+        "protein",
+        "fat",
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "43007655",
+      "title": "Body recomposition in adults: mechanisms, modulators, and practical algorithms for simultaneous skeletal muscle mass gain and fat mass loss.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "journal_issn": "1550-2783",
+      "discipline": "nutrition",
+      "date": "2026-Dec-30",
+      "authors": "Siavash Naddafha, Brad J Schoenfeld, Jose Antonio et al.",
+      "abstract": "BACKGROUND: Body recomposition is the concurrent increase in fat-free mass (FFM) or skeletal muscle mass and decrease in fat mass (FM) within the same intervention period. Although hypertrophy is commonly pursued in energy surplus and FM loss in energy deficit, controlled trials indicate that recomposition can occur when progressive resistance training (PRT), adequate protein intake, and an appropriate energy prescription are combined. METHODS: We conducted a structured narrative review of randomised trials, meta-analyses, and selected mechanistic studies in adults, with emphasis on FFM, FM, strength, and performance outcomes. Device heterogeneity was considered when interpreting evidence, with greatest weight placed on four-compartment and dual-energy X-ray absorptiometry (DXA) outcomes. RESULTS: PRT combined with higher protein intake, typically ~1.6-2.4 g/kg/day and higher relative intakes during energy restriction or leanness, is the most consistent strategy for recomposition. Effects are largest in untrained individuals and those with higher adiposity, smaller in trained or lean athletes, and still feasible in older adults when anabolic resistance is addressed with supervised PRT and sufficient protein. Moderate deficits, carbohydrate allocation around key sessions, sleep, and recovery support FFM retention or accretion while facilitating FM loss. Practical applications: Programmes should pair progressive overload with protein-centred diets, modest energy deficits, and periodic monitoring of body composition and performance. CONCLUSIONS: Body recomposition is feasible but context-dependent; expected changes are generally modest in trained or lean populations and require individualised adjustment.",
+      "doi": "10.1080/15502783.2026.2743880",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007655/",
+      "relevance": 13,
+      "matched": [
+        "fat",
+        "fat mass",
+        "protein",
+        "carbohydrate",
+        "diet",
+        "body composition"
+      ]
+    },
+    {
+      "pmid": "43009511",
+      "title": "Body composition beyond the binary: bioimpedance as a case study for considering transgender patients in body composition technology development.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-10",
+      "authors": "Maggie Delano",
+      "abstract": "",
+      "doi": "10.1038/s41430-026-01849-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009511/",
+      "relevance": 2,
+      "matched": [
+        "body composition"
+      ]
+    }
+  ]
+}
