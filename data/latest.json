@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12",
-  "updated_at": "2026-11-12 06:40",
+  "updated": "2026-11-13",
+  "updated_at": "2026-11-13 06:35",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,218 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "43018484",
+      "title": "Reply to Marciano and Rossiter: Balancing muscle oxygen consumption sampling and slope quality in NIRS-derived assessment of muscle oxidative capacity.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-12",
+      "authors": "Guillaume Costalat, Benoît Sautillet, Grégoire P Millet et al.",
+      "abstract": "",
+      "doi": "10.1113/EP094495",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018484/",
+      "relevance": 2,
+      "matched": [
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43016107",
+      "title": "VRCycle: A Feasibility Randomized Controlled Trial Evaluating a Virtual Reality Cycling Intervention in People With Knee Osteoarthritis.",
+      "journal": "Physical therapy",
+      "journal_issn": "0031-9023",
+      "discipline": "fascia",
+      "date": "2026-Nov-12",
+      "authors": "Erin MacIntyre, Jaime Jordán-López, Daiki Kasai et al.",
+      "abstract": "IMPORTANCE: Exercise is recommended as a core treatment for knee osteoarthritis; yet uptake is suboptimal, with identified barriers including pain, difficulty (overly effortful), and boredom. Virtual reality (VR) shows promise in overcoming these barriers, although whether VR-enhanced exercise is acceptable to people with osteoarthritis and feasible in physical therapy settings is unknown. OBJECTIVE: The objective was to assess the feasibility of conducting a clinical trial to evaluate VR-enhanced cycling and explore preliminary efficacy of this intervention. DESIGN: A prospectively registered (ACTRN12624000122550), two-arm feasibility randomized controlled trial was conducted. SETTING: The trial was conducted at a clinical trials facility. PARTICIPANTS: Forty-one participants with painful knee osteoarthritis were enrolled. INTERVENTIONS: Participants were randomized (1:1 ratio) to receive VR-enhanced cycling or traditional (no-VR) cycling, both involving twelve, 30-minute cycling sessions over 6-weeks, supervised by a physical therapist. MAIN OUTCOMES AND MEASURES: A priori feasibility criteria surrounding recruitment and enrolment rate, intervention adherence, technical difficulty, retention, and participant experience (acceptability, credibility, adverse events) were evaluated. Clinical outcomes (pain, function) and exercise capacity (perceptually regulated exercise test) were assessed at baseline, post-intervention, 1-month follow-up (clinical outcomes only). Within-session exercise engagement (work, time) and experience (perceived exertion, affect) were evaluated as process variables. RESULTS: All feasibility criteria were met. An average of 6.8 participants per week were eligible with a 73% enrollment rate. Participants attended 91% of intervention sessions, and 90% of participants completed follow-up assessments. VR technical issues were rare (3% of sessions) as were adverse events (2 unrelated to VR). Treatment acceptability and credibility was high and clinical outcomes improved in both groups. CONCLUSIONS: Progression to a full trial is supported due to high feasibility, acceptability, and improvement in clinical outcomes. RELEVANCE: Although not powered to evaluate efficacy, the within-group changes observed demonstrate that both cycling modalities can improve knee pain, function, and exercise capacity.",
+      "doi": "10.1093/ptj/pzag117",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016107/",
+      "relevance": 2,
+      "matched": [
+        "exercise",
+        "pain"
+      ]
+    },
+    {
+      "pmid": "42868342",
+      "title": "Beyond the Hangover: Associations Between Binge Drinking, Health, and Performance in Young Adult Resistance-Trained Females.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-12",
+      "authors": "Chester M Sokolowski, Hannah K Eberhardt, Hunter J Mitchell et al.",
+      "abstract": "PURPOSE: The present study aimed to evaluate associations between resistance training and binge drinking in relation to musculoskeletal composition, physical fitness, cognitive function, and psychological wellness in young adult females. METHODS: Participants were categorized into four groups: sedentary low alcohol consumers (SL; n=12), sedentary binge drinkers (SB; n=12), resistance-trained low alcohol consumers (RTL; n=12), and resistance-trained binge drinkers (RTB; n=12). Measurements included body composition via DEXA scan, muscle quality via ultrasonography, and insulin sensitivity via oral glucose tolerance test. Physical performance was assessed using maximum chair stand power, vertical jump, broad jump, knee extensor torque, grip strength, and push-ups to failure. Tests and questionnaires were used to assess cognitive function and psychological wellness. RESULTS: Resistance-trained females had lower body fat than sedentary females (RTL = 29.28±4.27%; RTB = 29.03±3.67%; SL = 37.18±5.32%; SB = 34.83±3.54%; p<0.05), and RTL had more fat-free mass than SL and SB (RTL = 48.31±5.81 kg; SL = 38.08±6.59 kg; SB = 40.37±6.05 kg; both p<0.05). There were no differences between RTL and RTB in bone mineral density, muscle quality, or physical performance. RTL outperformed SL and SB on vertical jump (both p<0.05) while RTB outperformed SL and SB on broad jump. RTL had lower fasting blood glucose than RTB (88.92±12.09 mg/dL and 103.17 ± 10.21 mg/dL, respectively; p=0.008), and lower postprandial blood glucose than all groups (RTL = 103.83±19.82 mg/dL; RTB = 137.58±21.54 mg/dL; SL = 148.50±44.60 mg/dL; SB = 139.25±14.49 mg/dL; all p<0.05). CONCLUSIONS: The results suggest that ≥1 year of binge drinking is associated with poorer metabolic health without differences in performance in young females. Further, frequent RT may mitigate the effects of binge drinking on body composition.",
+      "doi": "10.1249/MSS.0000000000004185",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42868342/",
+      "relevance": 15,
+      "matched": [
+        "resistance",
+        "performance",
+        "training",
+        "strength",
+        "metabolic",
+        "power"
+      ]
+    },
+    {
+      "pmid": "43016168",
+      "title": "Beyond the smoke: Cannabis and nicotine as potential environmental secondary hits in cardiomyopathies.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Alexs A Matias",
+      "abstract": "",
+      "doi": "10.1113/JP292651",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016168/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43016133",
+      "title": "Thermal opposites: Does cooling really mirror heating in cerebral oxygen metabolism?",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Mounir Ait Ali Braham, Thomas Derouck, Mahmoudreza Taghizadeh et al.",
+      "abstract": "",
+      "doi": "10.1113/JP292825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016133/",
+      "relevance": 4,
+      "matched": [
+        "metabolism",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43016045",
+      "title": "Morphological analysis of the eye of Eudocimus ruber (Linnaeus, 1758).",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-11",
+      "authors": "Iara Fernanda Lima do Espírito Santo, Érika Branco, Elane Guerreiro Giese et al.",
+      "abstract": "Eudocimus ruber (Linnaeus, 1758), commonly known as the scarlet ibis, is a wading bird widely distributed throughout northern South America and along the Brazilian coast. However, detailed information on the ocular morphology of this species remains limited. Therefore, this study aimed to perform a multimodal morphological characterization of the eye and its associated structures in E. ruber. Eight specimens were used, and the heads were subjected to radiographic and computed tomographic examinations, followed by gross anatomical dissection, three-dimensional reconstruction, histological processing, and scanning electron microscopy. Gross anatomy revealed laterally positioned, flat-shaped eyes, eight extraocular muscles, a well-developed Harderian gland, and a pleated pecten oculi. Radiographic, tomographic, and three-dimensional analyses enabled visualization of the scleral ring and its anatomical position within the orbit. Histological examination identified the fibrous, vascular, and retinal tunics, including the scleral ossicles, scleral cartilage, ciliary body, iris, 10-layered retina, annular pad, pleated pecten oculi, Harderian gland, eyelids, and third eyelid. The scleral ossicles followed the type A overlap pattern according to the Lemmrich convention. The ocular morphology of E. ruber was generally consistent with that described in other avian species, with interspecific variation observed in several anatomical features. These findings expand the available anatomical knowledge of Threskiornithidae and provide a basis for future comparative studies of avian ocular morphology.",
+      "doi": "10.1002/ar.70394",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016045/",
+      "relevance": 4,
+      "matched": [
+        "muscle",
+        "cartilage",
+        "anatomical",
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43015453",
+      "title": "Examination of Performance Anxiety Theories in Sport Psychology Textbooks and a Proposed Framework for Organizing These Theories.",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "journal_issn": "0112-1642",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Steven R Wininger, Lindsey Wheeler, Antony D Norman",
+      "abstract": "What are the major theories of performance anxiety, and what key variable sets do they share? Although many sport psychologists utilize specific performance anxiety theories to guide client treatments, we doubt many are familiar with the full spectrum of available theories and their associated variables. This knowledge gap may lead to the selection of suboptimal treatment plans. We examined sport psychology textbooks to assess which theories are commonly presented, evaluated the accuracy of their presentation, and developed a categorization system based on common key variables. We analyzed 16 unique sport psychology textbooks, with independent coders reviewing each textbook. Twenty-five unique theories were identified, 10 of which appeared in five or more textbooks. We were surprised by the frequency of incomplete or inaccurate presentations of the theories and by the absence of a coherent framework for organizing these theories. We discuss applied implications for educators, practitioners, and textbook authors, introduce a proposed categorization system for organizing theories by key variables, and offer recommendations for future research.",
+      "doi": "10.1007/s40279-026-02580-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015453/",
+      "relevance": 6,
+      "matched": [
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43015355",
+      "title": "Regression to the mean in before-after studies of digestive enzyme replacement in very preterm infants.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-11",
+      "authors": "Nezihe Köker Özer, Ercan Yılmaz, Didem Tatar",
+      "abstract": "",
+      "doi": "10.1038/s41430-026-01850-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015355/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43014519",
+      "title": "Cross-sectional Associations of Ultra-processed Food Intake with Cardiometabolic Risk Differ by Nutritional Quality.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov-11",
+      "authors": "Tonja R Nansel, Amara Channell Doig, Neil Perkins et al.",
+      "abstract": "BACKGROUND: Ambiguity regarding whether the health effects of ultra-processed food intake are attributable to nutritional quality and/or industrial processing hinders effective food policies and dietary guidelines. OBJECTIVE: This study examined how cross-sectional associations of ultra-processed food intake with cardiometabolic risk factors differ by nutritional quality. METHODS: This cross-sectional study used data from adults age 20+ years with two 24-hour dietary recalls in the 2017-2020 U.S. National Health and Nutrition Examination Survey (n=6525). Reported foods were classified as moderation or non-moderation using validated criteria for added sugar, sodium, refined grains, carbohydrate-to-fiber ratio, saturated and total fat, and alcohol. Percent of energy intake from moderation and non-moderation foods was calculated for each Nova food processing classification. Linear regression models estimated associations of moderation and non-moderation Nova subtype intakes with body mass index (BMI), waist circumference, percent body fat, blood lipids (total cholesterol, high-density lipoprotein cholesterol, low-density lipoprotein cholesterol, triglycerides), glycohemoglobin, fasting glucose and insulin, C-reactive protein (CRP), and blood pressure. RESULTS: Moderation and non-moderation ultra-processed food comprised (mean±SE) 48±0.7% and 6±0.2% of energy intake, respectively. Coefficient estimates (representing the difference associated with replacing 1% of energy intake from Nova 1-3 foods) for positive associations of moderation ultra-processed food intake with BMI (β; 95% CI 0.03; 0.02, 0.05), waist circumference (cm) (0.08; 0.05, 0.1), percent body fat (0.05; 0.02, 0.09), insulin (μU/mL) (0.07; 0.04, 0.1), and CRP (mg/L) (0.01; 0.007, 0.02) were different from the null associations of non-moderation ultra-processed food intake (p=0.006, p=0.01, p=0.01, p<0.001, p=0.003, respectively). In models including all Nova subtypes, moderation minimally processed food intake was associated with higher adiposity indicators and glucose, relative to non-moderation minimally processed food intake. CONCLUSIONS: Associations of ultra-processed and minimally processed food intakes with multiple cardiometabolic risk factors differ based on nutritional quality classification, supporting policies and guidelines targeting nutritional quality.",
+      "doi": "10.1016/j.ajcnut.2026.101626",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014519/",
+      "relevance": 13,
+      "matched": [
+        "nutrition",
+        "food",
+        "protein",
+        "carbohydrate",
+        "fat",
+        "diet"
+      ]
+    },
+    {
+      "pmid": "43014518",
+      "title": "Folate and folic acid intake in relation to molecular subtypes of colorectal cancer: pooled analyses of up to 8970 cases and 8098 control participants.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov-11",
+      "authors": "Bethany Van Guelpen, Björn Gylling, Sophia Harlid et al.",
+      "abstract": "BACKGROUND: Higher intakes of the B-vitamin folate are associated with modest reductions in colorectal cancer risk. Intertumoral heterogeneity has been suggested to affect the relationship, but studies to date have been limited in number and size. OBJECTIVE: This study aimed to determine whether associations between intake of the B-vitamin folate (from diet and folic acid supplements) and the risk of colorectal cancer vary by tumor molecular marker status for BRAF and KRAS mutations, microsatellite instability (MSI), and/or the CpG island methylator phenotype (CIMP). METHODS: The full study population included 8970 colorectal cancer cases and 8098 control participants from observational case-control and cohort studies within the Genetics and Epidemiology of Colorectal Cancer Consortium (GECCO) and the Colon Cancer Family Registry (CCFR). Folate intake was assessed by food frequency questionnaire or diet history. Multivariable odds ratios (OR) and 95% confidence intervals (CIs) were estimated using multinomial logistic regression. Differences in associations between tumor subtypes were assessed using case-only logistic regression. RESULTS: Total folate intake and folate supplement use were inversely associated with the risk of colorectal cancer, whereas the relationship for dietary folate was weaker. These associations did not vary substantially among CRC subtypes defined by individual tumor markers. Possible heterogeneity was observed only for CIMP, with a stronger inverse association between total folate intake and CIMP-low/negative compared to CIMP-high colorectal cancer (pdifference=0.07). Associations were also inverse for total folate and subtypes defined by marker combinations, except for a null association for the less common Jass Type 2 subtype of MSS/MSI-low, CIMP-high, BRAF-mutated, KRAS-wildtype (pdifference=0.06 compared to the traditional adenoma-carcinoma pathway). CONCLUSIONS: Overall, the putative protective effect of folate intake in colorectal cancer development appears to be broad, not limited to specific subtypes defined by BRAF, KRAS, MSI, and CIMP status, or combinations of these markers, in the tumor.",
+      "doi": "10.1016/j.ajcnut.2026.101627",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014518/",
+      "relevance": 5,
+      "matched": [
+        "diet",
+        "dietary",
+        "supplement",
+        "vitamin",
+        "food"
+      ]
+    },
+    {
+      "pmid": "43014417",
+      "title": "Body composition and blood pressure: Haemodynamic links in young men and women.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Domonkos Cseh, Jessica E Middlemiss, Shikai Yu et al.",
+      "abstract": "The aim of this study was to explore the sex-specific haemodynamic links between body composition parameters and systolic and diastolic blood pressure (SBP and DBP, respectively) in adults free of cardiovascular disease and not receiving cardiovascular medications. Body mass index (BMI), fat mass (FM), fat-free mass (FFM), SBP and DBP, cardiac output (CO), peripheral vascular resistance (PVR) and aortic pulse wave velocity (PWV) were determined in 235 men and 192 women aged 18-40 years. Multivariable linear regression and single- as well as multiple-mediator models were used to assess haemodynamic mechanisms underlying the associations between body composition and blood pressure. BMI showed positive associations with SBP and DBP in both sexes (P < 0.001 for all). In men, FFM was the main body composition correlate of SBP (P < 0.001), with the positive association driven in part by CO and partially offset by opposing effects through PVR. FM was the dominant body composition correlate of DBP in men and both SBP and DBP in women (P < 0.001 for all), with the positive associations mediated by PVR and PWV in both sexes, and additionally by heart rate in the FM-DBP association in men. Changes in FFM may affect SBP predominantly through CO in young men. Changes in FM may affect DBP in young men and both SBP and DBP in young women, predominantly through vascular mechanisms. These findings provide important insights into sex differences in the physiology of adiposity-related BP changes in young adults and may help inform sex-specific strategies for the management of adiposity-related hypertension.",
+      "doi": "10.1113/EP093982",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014417/",
+      "relevance": 2,
+      "matched": [
+        "resistance",
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43014416",
+      "title": "Heat acclimation does not alleviate the reduction in exogenous glucose oxidation that occurs when exercising in hot conditions.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-11",
+      "authors": "Tim Podlogar, Rachel E Gifford, Joel Thomas et al.",
+      "abstract": "Exogenous glucose oxidation (CHOexo) is suppressed during endurance exercise performed in hot conditions, although the underlying mechanisms and effects of heat acclimation are unknown. The present study investigated whether heat acclimation alleviates the heat-induced suppression of CHOexo and the underlying physiological mechanisms. Seventeen endurance-trained adults (10 males and seven females) completed 90 min cycling trials at 45% Wmax with glucose ingestion (90 g·h-1) under temperate [20°C; 20% relative humidity (RH); COOL] and hot (40°C; 20% RH; HOT) conditions, and again in the heat (40°C; 20% RH; POST) following a heat acclimation protocol (9 days of isothermic exercise-heat acclimation across a 10 day period). Dual stable isotope tracers ([U13C6] glucose ingestion, [6,6-2H2]glucose-infusion), indirect calorimetry and muscle biopsies were used to assess CHOexo, glucose kinetics and muscle glycogen utilisation during exercise. CHOexo (mean [95% confidence limits]) was reduced by ∼27% in HOT compared to COOL (0.37 [0.31, 0.43] g·min-1 vs. 0.51 [0.45, 0.57] g·min-1; P < 0.001) and, despite clear thermoregulatory adaptation following heat acclimation, remained suppressed in POST (0.38 [0.31, 0.44] g·min-1; P < 0.01 vs. COOL). Rates of plasma glucose appearance, disappearance and exogenous glucose appearance were unaffected by environmental condition or heat acclimation. Glucose metabolic clearance rates and plasma glucose oxidation were reduced in HOT and POST compared to COOL (P < 0.05). A decreased capacity for plasma glucose disposal and utilisation rather than limitations in splanchnic glucose appearance underpin the reduced exogenous glucose oxidation observed during exercise in the heat, and this is not alleviated by heat acclimation. KEY POINTS: Exogenous glucose oxidation is suppressed during endurance-exercise performed in hot conditions, although the underlying mechanisms and effects of heat acclimation are unknown. A decreased capacity for plasma glucose disposal and utilisation rather than limitations in splanchnic glucose appearance appear to underpin the reduced exogenous glucose oxidation observed during exercise in the heat. Heat acclimation does not alleviate the reduction in exogenous glucose oxidation that occurs when exercising in hot conditions.",
+      "doi": "10.1113/JP289304",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014416/",
+      "relevance": 6,
+      "matched": [
+        "exercise",
+        "endurance",
+        "metabolic",
+        "adaptation",
+        "glycogen"
+      ]
+    },
+    {
       "pmid": "43013354",
       "title": "Physiological and Psychophysical Dynamics in the Perceptual Acuity Ability of Male Endurance Runners.",
       "journal": "Journal of strength and conditioning research",
@@ -3363,6 +3575,38 @@
       "matched": [
         "morphology"
       ]
+    },
+    {
+      "pmid": "43014301",
+      "title": "Global Positioning System-Derived Match Demands and Their Association With On-Field Technical Performance in Elite Australian Football League Women's (AFLW) Athletes.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Brooke Jenner, Hunter Bennett, Steven Milanese et al.",
+      "abstract": "PURPOSE: This study sought to determine the associations between global positioning system-derived match demands and technical performance in elite Australian Football League Women's athletes. METHODS: Global positioning system match demands (total distance, speed, acceleration, high-intensity running [>19 km·h-1], very high-intensity running [>21 km·h-1], sprint distances [>24 km·h-1]) were measured with Catapult Vector S7 global positioning system units during the 2023 and 2024 seasons. Champion Data ranking points and best and fairest votes for each game were considered technical performance outcomes. Linear mixed effects regression models examined associations between match demands and technical performance, adjusting for season, ground location, and playing position. RESULTS: Five hundred sixty-six player match profiles from 32 athletes across the 2 seasons were analyzed. Ranking points were significantly (P < .001) associated with total distance (R2 = .29 [95% CI .22-.40]), speed (R2 = .01 [.00-.15]), and acceleration (R2 = .09 [.00-.23]). Best and fairest votes were significantly (P < .001) associated with total distance (R2 = .23 [.17-.34]), speed (R2 = .01 [.00-.11]), acceleration (R2 = .05 [.00-.17]), and very high-intensity running distance per minute (R2 = .00 [.00-.13]). CONCLUSIONS: Total distance, speed, acceleration, and very high-intensity running distance per minute were associated with Champion Data ranking points and best and fairest votes across Australian Football League Women's seasons 2023 and 2024. This suggests that athletes who cover greater total distances and achieve higher average acceleration get more opportunities to be involved in match-play and demonstrate higher levels of technical performance.",
+      "doi": "10.1123/ijspp.2025-0602",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014301/",
+      "relevance": 10,
+      "matched": [
+        "performance",
+        "athlete",
+        "sprint"
+      ]
+    },
+    {
+      "pmid": "43014124",
+      "title": "Cortical hemodynamic correlates of postural sway frequency redistribution during sensory-challenged quiet standing.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-10",
+      "authors": "Di Yang, Baiyang Qiu, Yinuo Shuai et al.",
+      "abstract": "BACKGROUND: Standing balance requires continual adjustment to the available sensory information. How changes in sway frequency composition relate to cortical hemodynamic responses during quiet standing remains unclear. RESEARCH QUESTION: Do eye closure and foam support alter anterior-posterior (AP) center-of-pressure (CoP) frequency composition, and are these changes associated with regional hemoglobin fluctuations and interregional coupling. METHODS: Forty-five healthy young adults completed eyes-open and eyes-closed standing on firm and foam surfaces. AP CoP relative energy was examined in four intervals: < 0.10, 0.10-0.50, 0.50-1.0, and 1.0-2.0 Hz. Functional near-infrared spectroscopy (fNIRS) measured oxygenated hemoglobin (HbO) fluctuations and interregional coupling. Repeated-measures analyses of variance were supplemented by baseline-adjusted correlations and influence-sensitivity analyses. RESULTS: Eye closure and foam support increased relative energy in the 0.50-1.0 Hz interval. Prefrontal-sensorimotor and premotor-parietal HbO coupling decreased on foam. The left-parietal interaction did not survive correction across eight bilateral regions. Changes in CoP relative energy were positively associated with parietal HbO fluctuations and negatively associated with interregional coupling. Association directions were unchanged in rank-based, leave-one-participant-out, and demographic-adjusted analyses. SIGNIFICANCE: Sensory-challenged standing was accompanied by covariation between AP sway frequency composition and task-epoch HbO measures. The findings link postural output to hemodynamic responses without identifying the sensory weights underlying that output.",
+      "doi": "10.1016/j.gaitpost.2026.110702",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014124/",
+      "relevance": 0,
+      "matched": []
     },
     {
       "pmid": "43010670",
@@ -3766,6 +4010,23 @@
         "diet",
         "dietary",
         "food"
+      ]
+    },
+    {
+      "pmid": "43014125",
+      "title": "Bench-stepping training improves stair-walking dynamics in older women: Evidence from an exploratory nonlinear kinematic analysis.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-08",
+      "authors": "Remco J Baggen, Kimberley S van Schooten, Evelien Van Roie et al.",
+      "abstract": "INTRODUCTION: Stair walking challenges balance and coordination in older people. Bench-stepping training improves stair climbing speed in healthy older women. This study assessed whether bench-stepping also improves dynamic balance and movement complexity during stair walking. METHODS: Secondary analyses of stair walking data from a previous study involving 45 healthy older women (69 y ± 4) that assessed the effects of a 12-week bench-stepping intervention. Centre-of-mass acceleration was measured during stair ascent and descent. Linear dynamics included time, acceleration magnitude, and harmonic ratios (HR; indicating symmetry). Movement complexity was quantified using nonlinear dynamics including sample entropy (SampEn), recurrence quantification analysis (RQA), and fractal dimension (FD). RESULTS: For stair ascent, increased speed (p = 0.018, R²partial =0.093,) was accompanied by proportional increases in acceleration magnitudes (p ≤ 0.039, R²partial = 0.078-0.101). SampEn decreased more in the intervention group (p ≤ 0.012, R²partial = 0.049-0.101), indicating more predictable dynamics. In contrast, for stair descent, no changes in speed or acceleration magnitudes were observed. However, SampEn (p = 0.001, R²partial =0.082) and maximum RQA line length (p = 0.008, R²partial =0.057) of vertical acceleration increased significantly compared to controls, indicating lower predictability and more persistent recurring patterns. No significant changes were found for other outcomes. Exploratory factor analysis revealed distinct differences in motor behaviour between stair ascent and descent. CONCLUSION: Bench-stepping training induced measurable changes in stair walking dynamics. Specifically, sample entropy shows potential as a sensitive marker of altered motor complexity, particularly of vertical accelerations. Interestingly, the direction of changes in unpredictability differed between stair ascent and descent, suggesting different underlying control strategies.",
+      "doi": "10.1016/j.gaitpost.2026.110701",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014125/",
+      "relevance": 5,
+      "matched": [
+        "kinematic",
+        "training"
       ]
     },
     {
@@ -4633,275 +4894,6 @@
       "matched": [
         "exercise",
         "mitochondrial"
-      ]
-    },
-    {
-      "pmid": "42799666",
-      "title": "Generative artificial intelligence use in United States Doctor of Physical Therapy programs.",
-      "journal": "Physical therapy",
-      "journal_issn": "0031-9023",
-      "discipline": "fascia",
-      "date": "2026-Nov-05",
-      "authors": "Craig P Hensley, Christa M Nelson, Benjamin Price et al.",
-      "abstract": "IMPORTANCE: Generative artificial intelligence (AI) in education is poised to significantly impact the field of physical therapy. Research on generative AI use in physical therapist education remains limited. OBJECTIVE: The objective was to examine generative AI use in physical therapist education among students and faculty. DESIGN: This was a cross-sectional, online survey. SETTING: The survey was conducted among accredited Doctor of Physical Therapy (DPT) programs in the United States (US). PARTICIPANTS: Students and faculty were recruited from US DPT programs as of January 2025. INTERVENTION(S) OR EXPOSURE(S): Generative AI use within DPT programs was measured by participant self-report. MAIN OUTCOMES AND MEASURES: A novel 32-item survey comprising closed- and open-ended questions assessed generative AI use, patterns and purposes of use, platforms, training and comfort levels, views on generative AI's role in physical therapist practice, student preparedness and academic integrity, adoption facilitators/barriers, and demographics. Factors associated with generative AI use were examined using multivariable logistic regression. RESULTS: Among 1067 respondents (873 students, 194 faculty), 853 (79.9%) reported using generative AI, including 687 students (78.7%) and 166 faculty (85.6%). ChatGPT was the most common used platform (662 students, 96.4%; 153 faculty, 92.2%). Common reasons for use included creating study guide/sample questions (482 students, 70.2%; 74 faculty, 44.6%) and creating patient cases (370 students, 53.9%; 102 faculty, 61.5%). Barriers to use included concerns about reliability and scientific rigor (student users: 411, 59.8%; non-users: 133, 71.5%; faculty users: 90, 54.2%; non-users: 14, 50.0%) and lack of trust in the technology and/or companies behind it (student users: 287, 41.8%; non-users: 112, 60.2%; faculty users: 63, 38.0%; non-users: 13, 46.4%). Generative AI use was associated with higher self-reported comfort with the technology (students: OR = 11.6, 95% CI = 7.9-17.1; faculty: OR = 14.3, 95% CI = 5.1-40.0). CONCLUSION: Generative AI is widely used among DPT students and faculty, yet substantial variability exists in its use and formal instruction within DPT programs. RELEVANCE: As its integration into health care accelerates, incorporating education on generative AI within DPT programs is crucial to ensure students are prepared to use these tools competently and responsibly.",
-      "doi": "10.1093/ptj/pzag102",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799666/",
-      "relevance": 1,
-      "matched": [
-        "training"
-      ]
-    },
-    {
-      "pmid": "43008670",
-      "title": "Intra-individual relationships between jump height and lower-limb joint kinetics in single-leg countermovement jumps in male athletes.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-04",
-      "authors": "Shota Yamamoto, Hirotomo Kubota, Koki Imai et al.",
-      "abstract": "Athletes show trial-to-trial intra-individual variability in performance outcomes during repeated maximal-effort motor tasks within a single competition. Although inter-individual relationships between performance outcomes and joint kinetics have been demonstrated, the trial-to-trial intra-individual relationships remain unclear. Therefore, this study aimed to clarify the intra-individual relationships between jump height and lower-limb joint kinetics during single-leg countermovement jumps (CMJs) in male athletes. Fifty-two male athletes performed 12 maximal-effort single-leg CMJs within a single session. Ground reaction forces and marker coordinates were recorded, from which jump height and lower-limb joint kinetics were calculated. Hierarchical linear modeling was used to examine the intra-individual relationships between jump height and each joint kinetic variable. Significant positive fixed effects on jump height were observed for hip (extension torque [γ10 = 0.013], flexion-extension power [γ10 = 0.005], and positive work [γ10 = 0.018]) and ankle joint kinetics (plantarflexion torque [γ10 = 0.035] and positive work [γ10 = 0.045]), whereas no significant fixed effects were observed for knee joint kinetics (γ10 ≤ 0.007). The inter-individual correlation analysis showed that greater values of hip and knee joint kinetics and ankle plantar-dorsiflexion power were associated with greater jump height. These results indicate that the intra- and inter-individual analyses showed different patterns of associations between jump height and lower-limb joint kinetics. Moreover, significant random effects were observed for all lower-limb joint kinetics, indicating that these intra-individual relationships differed among participants. Understanding joint kinetics associated with trial-to-trial intra-individual variability in jump height may contribute to identifying participant-specific biomechanical factors underlying jump height.",
-      "doi": "10.1016/j.jbiomech.2026.113668",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008670/",
-      "relevance": 16,
-      "matched": [
-        "joint",
-        "hip",
-        "kinetic",
-        "athlete",
-        "knee",
-        "biomechanic"
-      ]
-    },
-    {
-      "pmid": "42994159",
-      "title": "Whole-body angular momentum regulation during Tai Chi stepping: Task- and experience-related differences.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-04",
-      "authors": "Leichao Liang, Yuzhao Xie, He Li et al.",
-      "abstract": "BACKGROUND: Tai Chi stepping involves slow progression, prolonged weight transfer, and coordinated trunk-limb rotation, but its whole-body angular momentum regulation remains poorly understood. RESEARCH QUESTION: How do whole-body angular momentum regulation patterns differ across the tested movement conditions of normal gait (NG), Brush Knee Twist Step (BKT), and Repulse Monkey (RM) at self-selected speeds, and between experienced and novice-level practitioners? METHODS: Seventeen experienced and 14 novice-level Tai Chi practitioners performed NG, BKT, and RM. In each anatomical plane, whole-body angular momentum excursion and intersegmental cancellation were quantified over the movement cycle, and bilateral external-moment cancellation during the double-support phases. Outcomes were analyzed using linear mixed-effects models. RESULTS: BKT and RM were slower than NG (0.14-0.23 vs. 1.28-1.29 m/s) and had longer total double-support duration (approximately 69% vs. 23% of the cycle). Relative to NG, both showed greater transverse-plane angular momentum excursion (6.5-10.4 × 10-3 vs. 1.9-2.2 × 10-3), higher frontal-plane intersegmental cancellation (46-55% vs. 39-41%) but lower sagittal- and transverse-plane intersegmental cancellation (19-38% vs. 76-82%), and higher sagittal-plane bilateral external-moment cancellation (87-90% vs. 29%). During RM, experienced practitioners had smaller angular momentum excursion in all planes and higher transverse-plane bilateral external-moment cancellation (50.1% vs. 30.5%); a wider step width was also observed in the experienced group (0.109 vs. 0.061 m). SIGNIFICANCE: Relative to NG, Tai Chi stepping showed movement- and plane-specific patterns of angular momentum regulation, with experience-related differences clearest during RM. These findings indicate that whole-body angular momentum regulation can be quantified as a biomechanical feature of Tai Chi stepping tasks.",
-      "doi": "10.1016/j.gaitpost.2026.110688",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994159/",
-      "relevance": 4,
-      "matched": [
-        "knee",
-        "biomechanic",
-        "gait",
-        "anatomical"
-      ]
-    },
-    {
-      "pmid": "42987818",
-      "title": "Initial Acceleration Deficit as a Timing-Derived Performance Metric of Early-Phase Sprint Acceleration in Elite Youth Soccer Players.",
-      "journal": "International journal of sports physiology and performance",
-      "journal_issn": "1555-0265",
-      "discipline": "physiology",
-      "date": "2026-Nov-04",
-      "authors": "Nikolaos Androulakis, Evaggelos Sideropoulos, Nikolaos Koundourakis",
-      "abstract": "PURPOSE: To examine the applied relevance of initial acceleration deficit (IAD) as a timing-derived performance metric of early-phase sprint acceleration in elite youth soccer players. METHODS: A cross-sectional study was conducted in 112 elite male youth soccer players (aged 15-18 y). Sprint performance was assessed over 25 m using dual-beam timing gates (splits at 0, 5, 10, 15, 20, and 25 m). IAD was calculated as the difference between the 0- to 10- and 5- to 15-m intervals derived from the same trial. Vertical jump performance and anthropometric characteristics were also assessed. IAD was additionally expressed in normalized form, and percentile-based reference values (25th, 50th, and 75th) were established. RESULTS: A strong association was observed between IAD and 0- to 10-m sprint time (r = .805, P < .001). No significant associations were observed between IAD and vertical jump performance or anthropometric variables (all P > .10), whereas 20-m sprint time demonstrated moderate associations with jump performance. No significant positional differences were identified for IAD; however, goalkeepers exhibited a nonsignificant tendency for faster 0- to 10-m times without corresponding differences in IAD. CONCLUSION: IAD represents a timing-derived performance metric of early acceleration structure. While derived from shared temporal components with sprint time, it provides additional insight into how acceleration is distributed during the initial phase of sprinting. Expression in normalized form may support athlete profiling and monitoring in applied environments where advanced biomechanical assessment is not feasible.",
-      "doi": "10.1123/ijspp.2026-0212",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42987818/",
-      "relevance": 10,
-      "matched": [
-        "sprint",
-        "performance",
-        "athlete"
-      ]
-    },
-    {
-      "pmid": "42983968",
-      "title": "Development of a pro-angiogenic stem cell-derived vascular cell extracellular matrix-decorated hyaluronic acid hydrogel.",
-      "journal": "Journal of anatomy",
-      "journal_issn": "0021-8782",
-      "discipline": "anatomy",
-      "date": "2026-Nov-04",
-      "authors": "Louise Hosty, Yu-Yin Joanne Chang, Martina Konečná et al.",
-      "abstract": "Diabetic foot ulcers (DFU) are debilitating chronic wounds which affect up to a third of diabetic patients. Due to the underlying diabetic pathophysiology, normal wound healing is perturbed. In particular, there is insufficient re-vascularisation of the wound bed, ultimately leading to the development of chronic wounds. Current treatment protocols are insufficient to stimulate re-vascularisation and wound closure, ultimately leading to ~20% of patients with a DFU requiring lower limb amputation. Extracellular matrix (ECM)-derived biomaterials have demonstrated great promise to promote tissue vascularisation and wound repair. In the present study, the overarching goal was to develop a decellularised ECM from human induced pluripotent stem cell (hiPSC)-derived vascular cells, and incorporate it into a hyaluronic acid-based hydrogel for wound healing. Vascular differentiation of hiPSCs yielded a heterogenous population containing both CD31 expressing endothelial cells (iEC), and CD31-negative stromal cells (iSC). ECM deposition by iSCs was stimulated by treatment with ascorbic acid and macromolecular crowder carrageenan. Post-decellularisation, the ECM composition was analysed by immunofluorescent and histological staining, indicating the presence of ECM components such as fibronectin, fibrillar collagens, perlecan and glycosaminoglycans, all having implications in angiogenic processes. Decellularised ECM accelerated the capacity of iECs to form tube-like structures when added to cell culture media in 2D. Decoration of hyaluronic acid (HyA)-based hydrogels with this decellularised ECM enhanced metabolic activity and attachment of both HUVECs and human dermal fibroblasts seeded on these hydrogels. Taken together, this ECM-decorated HyA-based hydrogel has the potential to enhance angiogenesis and revascularisation in chronic wound applications such as DFU.",
-      "doi": "10.1111/joa.70273",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983968/",
-      "relevance": 2,
-      "matched": [
-        "hip",
-        "foot"
-      ]
-    },
-    {
-      "pmid": "42983961",
-      "title": "Anatomical and molecular characterization of a regionally heterogeneous intramuscular tendon in the mouse masseter muscle.",
-      "journal": "Journal of anatomy",
-      "journal_issn": "0021-8782",
-      "discipline": "anatomy",
-      "date": "2026-Nov-04",
-      "authors": "Sayo Sekiya, Kei Kitamura, Hidetomo Hirouchi et al.",
-      "abstract": "The mouse masseter muscle comprises distinct superficial and deep layers, but the tendinous tissue located between these layers remains poorly characterized. In this study, we investigated the anatomical, molecular, and ultrastructural characteristics of this tissue. Serial anatomical and histological analyses demonstrated that the intramuscular tendon (IMT), located between the superficial and deep masseter layers, was anatomically distinct from the superficial aponeurosis-external tendon complex. These structures also exhibited different skeletal attachments: the aponeurosis-external tendon complex attached to the maxilla, whereas the IMT attached to the mandible. Spatial transcriptomic analysis revealed different gene-expression patterns between the aponeurosis and IMT, with several extracellular matrix-related transcripts, including Col16a1, Col13a1, Col5a2, Tnn, Postn, and Col22a1, showing relatively higher expression in the IMT. Within the IMT, several transcripts showed preferential distribution toward the bone-side region, where immunofluorescence analysis demonstrated significantly higher POSTN immunoreactivity than in the middle- and lateral-side regions. BGLAP exhibited a similar but statistically nonsignificant pattern, whereas COL22 was predominantly localized along the myotendinous junction. Transmission electron microscopy revealed distinct cellular characteristics between the middle- and lateral-side regions. In the lateral-side region, spindle-shaped cells were observed, some of which were oriented toward the tendon interior. In contrast, the middle-side region contained cells with elongated cytoplasmic processes extending toward neighboring cells, forming apparent intercellular contacts. IMT-like tendinous structures were also observed in the jaw muscles of spiny dogfish, Cynops pyrrhogaster, and Xenopus laevis. Together, these findings demonstrate that the mouse masseter IMT is anatomically distinct from the superficial aponeurosis and exhibits regional molecular and ultrastructural heterogeneity. This characterization of the normal IMT may provide an anatomical and molecular reference for future investigations into masticatory muscle-tendon-aponeurosis hyperplasia (MMTAH).",
-      "doi": "10.1111/joa.70275",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983961/",
-      "relevance": 14,
-      "matched": [
-        "muscle",
-        "muscular",
-        "tendon",
-        "anatomical",
-        "bone",
-        "skeletal"
-      ]
-    },
-    {
-      "pmid": "42982999",
-      "title": "From compartments to dynamic physiology: toward actionable body composition.",
-      "journal": "European journal of clinical nutrition",
-      "journal_issn": "0954-3007",
-      "discipline": "nutrition",
-      "date": "2026-Nov-04",
-      "authors": "Karl E Friedl, Adam W Potter, Jennifer L Miles-Chan et al.",
-      "abstract": "The 12th International Symposium on In Vivo Body Composition Studies (ISBCR 2025) highlighted a fundamental transition from estimating static tissue compartments to dynamic physiological phenotyping, actionable interpretation, and demonstrable value for clinical decision-making, health prediction, and human performance assessment. This represents an evolution in technological capability and conceptual framing, as an extension of the Functional Body Composition concept. Classical multicompartment models and established methods such as dual-energy X-ray absorptiometry, isotope dilution, bioimpedance, computed tomography, and magnetic resonance imaging remain foundational; however, emerging approaches increasingly integrate advanced imaging, artificial intelligence, bioimpedance spectroscopy, stable isotope methods, wearable sensing, and multidimensional phenotyping. Several themes were prominent at ISBCR 2025, including expansion of imaging beyond traditional DXA paradigms, increasing emphasis on muscle quality and fluid compartments, greater attention to visceral and ectopic adipose tissue, clinical applications in oncology and critical illness, the evaluation of obesity pharmacotherapy, the importance of generalizability to individuals across sex and ethnicity, and data governance. This perspective proposes a framework for future research in which body composition measurements become integral components of predictive models of health, performance, and physiological resilience. Future body composition assessment practices must include demonstrated added value over previous methods, and the greatest advances will come from technologies that bring physiologically meaningful assessment to large populations. The success of future technologies should be judged less by how precisely they estimate tissue compartments than by how effectively they improve physiological understanding, prediction, and decision-making.",
-      "doi": "10.1038/s41430-026-01839-7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42982999/",
-      "relevance": 5,
-      "matched": [
-        "body composition",
-        "fluid",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "42982277",
-      "title": "Protein restriction amplifies nucleus accumbens dopamine responses to protein-rich food during operant feeding in male mice.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-04",
-      "authors": "Hamid Taghipourbibalan, Stefan W Huijgens, K Linnea Volcko et al.",
-      "abstract": "BACKGROUND: Animals strongly defend protein intake, but how protein status shapes moment-to-moment reward signalling in mesolimbic circuits remains unclear, particularly when the effort required to obtain food varies. OBJECTIVE: We tested whether dietary protein restriction altered nucleus accumbens (NAc) core dopamine signalling when mice worked for food of differing nutritional value in the home cage. METHODS: Under surgical anaesthesia, male C57BL/6 mice (n=12; ∼12 weeks old at diet initiation) were injected in the NAc core with a virus expressing the fluorescent dopamine sensor GRABDA and implanted with fibre-optic cannulas. In food-access tasks, nose pokes delivered either chow (protein-containing) or sucrose pellets. Across sessions, pellets required either one nose poke (FixedRatio1) or an increasing number (ProgRatio). Fibre photometry measured dopamine release for both pellet types and schedules during three dietary phases: non-restricted diet (NR1; 18% protein), protein-restricted diet (PR; 4%), and restored non-restricted diet (NR2), with 1 week of adaptation between phases. Behavioural and photometry data were analysed using repeated-measures ANOVA. RESULTS: Home-cage food intake remained stable, but bodyweight gain fell markedly during PR and partially recovered in NR2 (+10.1% NR1 vs. +1.2% PR vs. +6.0% NR2, p<.001). Nose poking increased during PR under both schedules, most robustly for chow pellets (188% and 261% increases under FixedRatio1 and ProgRatio, respectively; ps<.01). Neural effects were more selective. During FixedRatio1, pellet delivery evoked a larger NAc dopamine response to chow than sucrose specifically during PR (p=.001); no pellet-type difference occurred during NR1 or NR2 (ps>.05). During ProgRatio, dopamine responses at pellet delivery and retrieval did not differ between pellet types in any phase (all ps>.05). CONCLUSIONS: Protein restriction did not globally amplify reward-related behaviour or dopamine signalling. Instead, it selectively biased NAc dopamine according to the animal's nutritional status, nutrient context, and task demands.",
-      "doi": "10.1016/j.tjnut.2026.101910",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42982277/",
-      "relevance": 10,
-      "matched": [
-        "protein",
-        "food",
-        "nutrition",
-        "nutrient",
-        "diet",
-        "dietary"
-      ]
-    },
-    {
-      "pmid": "42981589",
-      "title": "Intermittent Normobaric Hypoxia and Cardiac Autonomic Modulation in Adults: A Systematic Review.",
-      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
-      "journal_issn": "1715-5312",
-      "discipline": "physiology",
-      "date": "2026-Nov-04",
-      "authors": "Pedro Navarro-Gómez, Josep Vidal-Conti",
-      "abstract": "Intermittent normobaric hypoxia is used as a hypoxic-conditioning strategy in sport, exercise, and health settings, but its effects on cardiac autonomic modulation remain unclear. This review synthesised passive and exercise-combined protocols in adults. We searched 4 databases through March 2026 and reported the review according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 statement. Risk of bias was assessed using RoB 2 and ROBINS-I; findings were synthesised narratively, and certainty was graded for coherent evidence. Of 4,866 records, 18 studies were included, 12 arising from controlled parent designs. Controlled resting evidence for the root mean square of successive differences (RMSSD) comprised 3 comparisons involving 47 analysed participants. Of these, 2 multiweek comparisons (n = 34) showed numerically concordant between-group differences in RMSSD change, whereas 1 single-session crossover comparison (n = 13) did not establish a clear between-condition effect; certainty was very low in both strata. Frequency-domain heart rate variability evidence was sparse and methodologically unstable, baroreflex sensitivity findings were non-convergent, and exercise-combined evidence was insufficient for directional inference. Heterogeneous dosing, limited sham control, and limited respiratory monitoring restricted interpretation. Evidence remains insufficient to establish reproducible cardiac autonomic changes after intermittent normobaric hypoxia. Registration: PROSPERO CRD420261338890.",
-      "doi": "10.1139/apnm-2026-0248",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981589/",
-      "relevance": 3,
-      "matched": [
-        "exercise",
-        "heart rate"
-      ]
-    },
-    {
-      "pmid": "42981587",
-      "title": "LACTATION AND FOOD SUPPORT DELIVERY THROUGH THE CANADA PRENATAL NUTRITION PROGRAM IN ONTARIO: A QUALITATIVE STUDY.",
-      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
-      "journal_issn": "1715-5312",
-      "discipline": "physiology",
-      "date": "2026-Nov-04",
-      "authors": "Alison Mildon, Jo-Anna B Baxter, Bronwyn Underhill et al.",
-      "abstract": "The Canada Prenatal Nutrition Program (CPNP), funded federally since 1995, aims to improve birth outcomes and breastfeeding among families facing health inequities through tailored, community-based delivery of perinatal health and nutrition services. To explore Ontario CPNP coordinators' perspectives and experiences delivering lactation and food supports, including changes over time, this qualitative study engaged coordinators working at multiple Ontario CPNP sites. A total of 28 individuals participated from 26 CPNP sites, 15 hosted by community agencies, 6 by Indigenous-led agencies and 5 by public health units. Focus group discussions were conducted at five locations across Ontario, audio-recorded, transcribed verbatim, and analyzed using reflexive thematic analysis. Three interpretive themes were generated. The first, overarching theme is that the CPNP delivery model is highly precarious due to limited, static funding, resulting in heavy reliance on external and in-kind resources; this affects all aspects of program delivery, including lactation and food supports. Second, accessible, tailored lactation support includes much more than education, and the CPNP is well-positioned to deliver this with adequate human and financial resourcing. Third, food supports are essential to the CPNP, contributing to both nutrition and social aspects of programming. Overall, lactation and food support delivery within the CPNP is responsive to client needs and the broader context of social determinants of health, but constrained by available resources. This study centres perspectives of community-based implementers of the CPNP, offering insights to inform planning, resourcing and programmatic guidance for community programs seeking to reduce health inequities during the critical perinatal period.",
-      "doi": "10.1139/apnm-2026-0093",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981587/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42981463",
-      "title": "Perceptions and Attitudes Toward Plant-Based Meat Alternatives: A Systematic Meta-Ethnography Review.",
-      "journal": "Nutrition reviews",
-      "journal_issn": "0029-6643",
-      "discipline": "nutrition",
-      "date": "2026-Nov-04",
-      "authors": "Lucrezia Caselli, Clara Gómez-Donoso, Carmen Vargas et al.",
-      "abstract": "CONTEXT: Plant-based meat alternatives (PBMAs) can support the transition toward healthier and more sustainable dietary patterns. However, PBMA adoption remains limited despite availability and awareness of health and environmental benefits, highlighting a gap between potential and practice. OBJECTIVE: This review sought to synthesize evidence on perceptions and attitudes toward PBMAs across populations and to examine how sociodemographic factors shape consumer perspectives. DATA SOURCES: A comprehensive search was conducted across MEDLINE, CINAHL, Web of Science, Greenfile, and Cochrane from inception to August 2025. DATA EXTRACTION: This systematic review was informed by meta-ethnographic principles (4 to 6), while qualitative data were synthesized using thematic synthesis. Qualitative data from eligible studies were analyzed using a thematic synthesis assisted by ATLAS.ti software and an inductive and iterative approach for coding. Quality assessment employed the Critical Appraisal Skills Programme (CASP) checklist, and confidence in findings was evaluated using the GRADE-CERQual (Confidence in Evidence from Reviews of Qualitative Research) approach. DATA ANALYSIS: This review included 31 studies with a total of 2425 participants (aged 9 to > 65 years) from the Asia-Pacific (n = 14), Europe (n = 14), the United States (n = 1), and the United Kingdom (n = 4). Analysis of 914 quotations identified 6 themes (12 subthemes): with moderate GRADE-CERQual confidence, including dietary options, food ethics, dietary perceptions, food openness, food preferences, and dietary drivers; high confidence for dietary alternatives and substitutes; and low confidence for animal ethics. Younger participants (aged <18 years) linked PBMAs with identity and experimentation, while middle-aged adults showed both critical evaluation and resistance. Women demonstrated greater awareness and culinary engagement; men expressed stronger reluctance tied to masculinity. High-income countries exhibited culinary narratives linked to sociocultural values, whereas low- and middle-income countries emphasized affordability and access barriers. CONCLUSIONS: Acceptance of PBMAs is shaped by intersecting sociodemographic factors that reflect broader social identities, moral values, and structural inequities. Future research should adopt intersectional and gender-informed approaches while prioritizing underrepresented low- and middle-income country contexts. PROSPERO REGISTRATION: CRD420251114306.",
-      "doi": "10.1093/nutrit/nuag164",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981463/",
-      "relevance": 3,
-      "matched": [
-        "diet",
-        "dietary",
-        "food"
-      ]
-    },
-    {
-      "pmid": "42980861",
-      "title": "Development of a novel sigmoid notch index and its association with dental status in adult human mandibles.",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "journal_issn": "0930-1038",
-      "discipline": "anatomy",
-      "date": "2026-Nov-04",
-      "authors": "Thayumanasamy Venkateswaran Guru, Sridharan Neelamegan",
-      "abstract": "PURPOSE: The mandible is constantly altered based on function and age, especially in cases of tooth loss. Although the measurements of Ramus have been extensively studied, the quantitative analysis of sigmoid notch morphology and its proportional relationships has not yet been well documented. In this paper, we propose a new measurement called the Sigmoid Notch In​dex (SNI) to evaluate these relationships. METHODS: A comparative cross-sectional study was conducted on 121 adult dry human mandibles of South Indian origin, categorized based on dental status as completely dentulous (CD), partially edentulous (PE), and completely edentulous (CE). Bilateral measurements including sigmoid notch depth, condyle-coronoid interdistance, condyle height, coronoid height, gonial angle, ramus height, and ramus width were measured using digital calipers and a goniometer. Linear mixed effects models were used to assess the influence of dental status and side. RESULTS: Significant variations were noted in multiple mandibular parameters with regard to their dental status, specifically the gonial angle, ramus height, and condylar measurements. However, there was no significant variability in SNI despite variations in individual parameters. CONCLUSIONS: The SNI appears to be an innovative and reproducible morphometric index that demonstrates stability in relation to proportionality of the mandibular ramus.",
-      "doi": "10.1007/s00276-026-04053-z",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980861/",
-      "relevance": 2,
-      "matched": [
-        "hip",
-        "morphology"
-      ]
-    },
-    {
-      "pmid": "42980834",
-      "title": "Foramen rotundum: foramen or canal? Standardization of the anatomical axis and imaging planes.",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "journal_issn": "0930-1038",
-      "discipline": "anatomy",
-      "date": "2026-Nov-04",
-      "authors": "Sefa Sonmez",
-      "abstract": "",
-      "doi": "10.1007/s00276-026-04052-0",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980834/",
-      "relevance": 2,
-      "matched": [
-        "anatomical"
-      ]
-    },
-    {
-      "pmid": "42980793",
-      "title": "Ethical, methodological, and translational framework for animal studies in physical exercise research.",
-      "journal": "European journal of applied physiology",
-      "journal_issn": "1439-6319",
-      "discipline": "physiology",
-      "date": "2026-Nov-04",
-      "authors": "Ricardo A Pinho, Larissa C Marques, Lei Zhou et al.",
-      "abstract": "Experimental research involving physical exercise (PE) in animal models has contributed significantly to advancing knowledge in several areas, including physiology, biochemistry, and translational medicine. Despite the widespread use of these models, important concerns remain regarding methodological heterogeneity, limited experimental standardization, reproducibility of findings, and the translational validity of preclinical outcomes. In this context, the present article proposes an integrated decision-making framework for animal-based PE research. The framework complements existing guidelines linking ethical justification, animal welfare, experimental design, exercise prescription, and translational interpretation throughout the different stages of study development. The manuscript is based on international guidelines for animal experimentation, including ARRIVE 2.0, PREPARE, the Guide for the Care and Use of Laboratory Animals, AVMA recommendations, the APS Resource Book for the Design of Animal Exercise Protocols, and recent methodological recommendations for preclinical exercise research in metabolic and cardiovascular diseases. The topics address aspects related to ethical decision-making in the use of animal models, the principles of the 3Rs, selection of species, strain, sex, and age, sample size calculation, inclusion and exclusion criteria, translational validity, and the definition of exercise protocols, including intensity, frequency, duration, equipment, and experimental monitoring. This framework is intended to support more consistent experimental decisions, including selection, justification, and implementation, according to the research question, animal model, and intended translational inference.",
-      "doi": "10.1007/s00421-026-06490-5",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980793/",
-      "relevance": 7,
-      "matched": [
-        "exercise",
-        "metabolic"
-      ]
-    },
-    {
-      "pmid": "42980792",
-      "title": "Influences of sex and time interval on reliability of neuromuscular and motor performance measurements in isometric plantar flexor exercise.",
-      "journal": "European journal of applied physiology",
-      "journal_issn": "1439-6319",
-      "discipline": "physiology",
-      "date": "2026-Nov-04",
-      "authors": "Cayque Brietzke, Júlio Cesar Cesario, Giovanna Marcucci et al.",
-      "abstract": "PURPOSE: Reliable assessment of neuromuscular function is fundamental for interpreting physiological adaptations, yet sex-related influences in the reliability of these assessments remain poorly characterized across different temporal designs. We determined the within-session and between-days reliability of neuromuscular measurements in physically active men and women across multiple time intervals. METHODS: Thirty healthy participants (15♀ and 15 ♂) completed six sessions to assess the reliability of motor output such as maximal voluntary contraction and time-to-task failure during isometric plantar flexion, as well as electrically evoked responses such as H-reflex, M-wave and V-wave. Relative and absolute reliability were calculated in pooled and sex-separated data. RESULTS: Maximal voluntary contraction showed excellent within-session reliability in all groups. This outcome was consistently good in pooled data and in men for between-days sessions, yet only moderate in women. Although acceptable, within-session and between-days reliability of time-to-task failure were more variable in pooled and sex-separated data. Reliability of H-reflex, M-wave and V-wave ranged from good to excellent in within-session data for both sexes. However, between-days reliability was more variable, as men showed a higher reliability in H-reflex whereas women showed a higher reliability in M-wave and V-wave. Apparently, reliability of electrically evoked reflexes was influenced by the interval between measurements in women. CONCLUSION: Maximal voluntary contraction is a reliable outcome to reflect adaptations in plantar flexion-derived motor output regardless of sex and temporal designs. Results suggested that sex-related influences affect the reliability of electrically evoked reflexes, challenging their ability to reflect biological adaptation of neuromuscular function.",
-      "doi": "10.1007/s00421-026-06485-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42980792/",
-      "relevance": 12,
-      "matched": [
-        "exercise",
-        "performance",
-        "neuromuscular",
-        "adaptation"
       ]
     }
   ]
