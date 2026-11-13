@@ -10,7 +10,7 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 225,
+      "latest_articles": 228,
       "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 22
@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-13",
-    "updated_at": "2026-11-13 06:35",
+    "updated": "2026-11-14",
+    "updated_at": "2026-11-14 06:34",
     "raw_count": 300,
     "articles": [
       {
@@ -1833,6 +1833,27 @@
         ]
       },
       {
+        "pmid": "43018927",
+        "title": "Heat Training Practices in Elite and World-Class Athletes: A Review of Preparation Strategies for Competition in Hot Outdoor Environments.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-12",
+        "authors": "Joshua D Elliott, Jamie Stanley, Peta Maloney et al.",
+        "abstract": "Heat acclimation (artificial exposure) and acclimatization (natural exposure) are key strategies for elite and world-class athletes preparing to compete in hot outdoor environments, aiming to reduce performance impairments and risk of heat illness. Evidence-based guidelines, primarily derived from laboratory studies in non-elite cohorts, recommend 10-14 consecutive days of heat exposure (60-90 min per day), initiated at least 2 weeks before competition in the heat, or earlier if re-acclimation is possible closer to the event. Sessions should elicit sustained elevations in core and skin temperature, skin blood flow, and sweating. However, logistical constraints, training demands, and tapering often limit protocol implementation in elite and world-class athletes, prompting the adoption of alternative approaches. This review synthesises observational studies documenting heat training practices in these athletes and evaluates their alignment with current guidelines. Eleven of the 12 studies included sport-specific heat exposure within preparation for competition in hot environments, often in similar or more severe environmental conditions than competition, with five studies incorporating post-exercise passive heating. However, heat intervention design, session structure, and monitoring of thermal and cardiovascular strain varied widely, with many reports lacking sufficient detail to determine their effectiveness at inducing and retaining adaptations outside laboratory-controlled settings. Nonetheless, initial reports indicate that classical markers of heat adaptation such as reduced exercise heart rate and core temperature, and increased plasma volume, are commonly observed. Standardized documentation of heat training characteristics is needed to assess their effectiveness in high-performance sport and refine evidence-based guidelines.",
+        "doi": "10.1007/s40279-026-02562-w",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018927/",
+        "relevance": 15,
+        "matched": [
+          "training",
+          "athlete",
+          "exercise",
+          "adaptation",
+          "heart rate",
+          "performance"
+        ]
+      },
+      {
         "pmid": "42868342",
         "title": "Beyond the Hangover: Associations Between Binge Drinking, Health, and Performance in Young Adult Resistance-Trained Females.",
         "journal": "Medicine and science in sports and exercise",
@@ -1851,27 +1872,6 @@
           "strength",
           "metabolic",
           "power"
-        ]
-      },
-      {
-        "pmid": "42984347",
-        "title": "Leg glucose uptake and substrate utilisation during time trial exercise: Effects of acute hypobaric hypoxia and biological sex.",
-        "journal": "The Journal of physiology",
-        "journal_issn": "0022-3751",
-        "discipline": "physiology",
-        "date": "2026-Nov-05",
-        "authors": "Anders Aagaard Hansen, Marcos Martin-Rincon, Bjarne Rud et al.",
-        "abstract": "Hypoxia reduces exercise performance, yet it remains unclear how biological sex and altitude influence substrate utilisation during prolonged maximal exercise. Twenty-two trained cyclists and triathletes (10 females) completed 30 min time trials (TTs) at low altitude (normoxia; ∼400 m) and moderate altitude (hypoxia; ∼2800 m in a hypobaric chamber) in counterbalanced order. Whole-body metabolism was estimated from indirect calorimetry, whereas leg glucose uptake and substrate utilisation were derived from arterial and femoral venous blood samples and leg blood flow (thermodilution). Muscle biopsies were obtained from vastus lateralis to measure glycogen utilisation. Across altitudes, females displayed a higher fractional utilisation of V ̇ O 2 max during the TTs. TT performance was decreased in hypoxia, and the proportional decrease was smaller in females (-14%) than in males (-18%). Whole-body substrate utilisation was similar between sexes in normoxia. However, males showed a large decrease in carbohydrate oxidation in hypoxia, whereas females displayed only a modest decrease. Males and females had similar leg metabolic responses to hypoxia: estimated glycogen oxidation decreased, with no change in absolute fat or blood glucose oxidation. However, across altitudes, females showed greater carbohydrate contributions, originating primarily from blood glucose rather than muscle glycogen. Estimates of fat contribution were uncertain but suggested a lower contribution in females than in males. In conclusion, females exercised at a higher relative intensity and derived relatively more energy from blood glucose. Males and females had similar leg metabolic responses to hypoxia, with the lower power output and metabolic rate in hypoxic TTs primarily regulated by reduced estimated glycogen oxidation. KEY POINTS: Substrate utilisation during exercise is affected by altitude, sex, training status, food intake and relative intensity. Whether sex- and altitude-related differences in substrate utilisation persist during an ecologically valid maximal time trial in the fed state in trained males and females is unknown. Acute hypobaric hypoxia (∼2800 m) decreased 30 min time trial performance compared to normoxia (∼400 m) in both sexes, with a larger decrement in males. Females completed the time trials at a higher relative intensity than males in normoxia and hypoxia. Hypoxia reduced total metabolic rate primarily by decreasing estimated muscle glycogen oxidation, with no change in fat or blood glucose oxidation. The resulting changes in substrate partitioning were similar between sexes. Across altitudes, females derived relatively more energy from blood glucose despite similar muscle glycogen utilisation between sexes, whereas uncertain estimates suggested a lower contribution of fat in females than in males.",
-        "doi": "10.1113/JP291982",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42984347/",
-        "relevance": 15,
-        "matched": [
-          "exercise",
-          "training",
-          "metabolic",
-          "metabolism",
-          "power",
-          "glycogen"
         ]
       },
       {
@@ -1997,6 +1997,48 @@
           "hip",
           "spine",
           "neck"
+        ]
+      },
+      {
+        "pmid": "43018928",
+        "title": "Maximal Aerobic Capacity and Aging in Female Masters Athletes: A Systematic Review and Meta-analysis.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-12",
+        "authors": "Shalaya Kipp, Kathryn F Larson, Diana B Collantes Hoyos et al.",
+        "abstract": "BACKGROUND: Maximal aerobic capacity ( V ˙ O2max) represents the highest rate at which the body can use oxygen during intense exercise and is a key determinant of endurance performance. Although age-related declines in V ˙ O2max have been well documented in male individuals, less is known about this trajectory in female Masters athletes, defined as individuals aged 40 years or older who often engage in lifelong endurance training. OBJECTIVE: We performed a systematic review and meta-analysis to quantify cross-sectional age-related differences in directly measured V ˙ O2max among female Masters endurance athletes. METHODS: PubMed and Web of Science were searched from database inception to 14 May, 2025 for studies reporting directly measured V ˙ O2max in female Masters endurance athletes aged 40 years or older. Eligible exercise modalities included running, cycling, swimming, and large muscle-mass ergometry, with testing conducted under standard environmental conditions. Two reviewers independently screened studies, extracted data, and assessed risk of bias using a modified Joanna Briggs Institute checklist. Pooled mean V ˙ O2max values were calculated for predefined age groups (40-49, 50-59, 60-69, and 70 years or older) using a random-effects meta-analysis. Meta-regression was used to estimate the relationship between age and V ˙ O2max. RESULTS: Sixty-nine studies, including 1903 female Masters athletes, met the inclusion criteria. Pooled mean relative V ˙ O2max was 45 mL·kg-1·min-1 (95% confidence interval [CI] 43.0-46.8) in athletes aged 40-49 years, 40 mL·kg-1·min-1 (95% CI 38.5-41.7) in those aged 50-59 years, 35 mL·kg-1·min-1 (95% CI 33.2-37.1) in those aged 60-69 years, and 30 mL·kg-1·min-1 (95% CI 27.2-31.8) in athletes aged 70 years or older. Meta-regression demonstrated that each additional year of age was associated with a 0.57 mL·kg-1·min-1 lower V ˙ O2max (95% CI - 0.70 to - 0.44; P < 0.0001), equivalent to about 11.7% per decade. The association was consistent across testing modalities. CONCLUSIONS: This systematic review and meta-analysis demonstrates a progressive age-related decrease in directly measured V ˙ O2max among female Masters endurance athletes. Maximal aerobic capacity declines at an average rate of 0.57 mL·kg-1·min-1 per year after age 40 years, corresponding to approximately 11.7% per decade. This decline is evident across endurance sport disciplines and appears consistent with physiological changes associated with aging despite sustained endurance training. These findings provide female-specific reference values and a quantitative framework for future studies on aerobic capacity trajectories in female athletes. CLINICAL TRIAL REGISTRATION: The protocol was registered on the Open Science Framework (OSF; https://doi.org/10.17605/OSF.IO/S2RXZ ).",
+        "doi": "10.1007/s40279-026-02565-7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018928/",
+        "relevance": 14,
+        "matched": [
+          "aerobic",
+          "athlete",
+          "exercise",
+          "training",
+          "endurance",
+          "oxygen"
+        ]
+      },
+      {
+        "pmid": "43020041",
+        "title": "Body Mass, Strength, Power, and Endurance Variations Across an Entire Season in Male Basketball Players.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-11",
+        "authors": "Santiago Zabaloy, Irineu Loturco, Martín Barat et al.",
+        "abstract": "PURPOSE: This study aimed to analyze changes in body mass, upper- and lower-boy strength, vertical jump performance, and endurance capacity in senior semiprofessional basketball players across 4 different time points (TPs) during the season. METHODS: Fifteen male basketball players (n = 15; age: 23.4 [3.4] y; height: 1.9 [0.1] m) volunteered to participate in this study. Participants were tested for body mass, 1-repetition maximum in the squat and bench press exercises, countermovement jump (CMJ) and loaded CMJ, and 30-15 intermittent fitness test. RESULTS: Significant increases were observed in absolute and relative 1-repetition maximum in the squat (P < .03; effect size [ES]: moderate to large) from TP1 to TP2, TP3, and TP4. Regarding CMJ, greater jump heights were observed at TP2 and TP4 when compared with TP3 (P < .015; ES: small). In the loaded CMJ (ES: moderate), loads were significantly greater at TP2, TP3, and TP4 compared with TP1 (P < .009; ES: moderate). Conversely, 30-15 intermittent fitness test measures showed small but nonsignificant increments (P < .086; ES: small). CONCLUSIONS: Lower-body strength and power measures improved during the preseason in male basketball players, with these athletes being able to retain strength levels across the in-season period, despite the congested competitive schedule. In contrast, CMJ performance did not change during the preseason but appeared to be negatively affected during the most competition-dense phase of the season (ie, TP3). Finally, endurance capacity and body mass remained relatively stable from the beginning of the preseason until the end of the season.",
+        "doi": "10.1123/ijspp.2026-0126",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020041/",
+        "relevance": 14,
+        "matched": [
+          "strength",
+          "endurance",
+          "power",
+          "exercise",
+          "performance",
+          "athlete"
         ]
       },
       {
@@ -2182,27 +2224,6 @@
           "endurance",
           "performance",
           "sports"
-        ]
-      },
-      {
-        "pmid": "42984485",
-        "title": "Overcoming geographical and cultural bias in dietary assessment: a local food database and photograph-assisted 24-h recalls improve accuracy in Colombian adults.",
-        "journal": "The British journal of nutrition",
-        "journal_issn": "0007-1145",
-        "discipline": "nutrition",
-        "date": "2026-Nov-05",
-        "authors": "Vanessa Corrales-Agudelo, Olga Lucía Ortega-Sierra, Mariana Hernández et al.",
-        "abstract": "Accurate dietary assessment in non-Western populations is hindered not only by recall bias but also by the limited representation of local foods in international reference databases. When standardised tools fail to capture regional dietary practices, the quality of dietary assessments is potentially compromised. This cross-sectional study evaluated the accuracy of photograph-assisted 24-h recalls (24hr) analysed using the United States Department of Agriculture (USDA) Automated Self-Administered 24-Hour Dietary Assessment Tool (ASA24) system (based on Food and Nutrient Database for Dietary Studies (FNDDS) 2017-2018) or a customised database enriched with local foods and international measurement units (DbF). Twenty Colombian adults photographed and weighed foods consumed over two non-consecutive days. A dietitian conducted 24hr interviews using the multiple-pass method based on the photographs. Intake estimated with ASA24 and DbF was compared against weighed food records as reference. Blood and urine samples were collected to assess nutrient biomarkers. Accuracy was evaluated using correlation analyses and Bland-Altman plots, while usual intake was estimated using PC-SIDE. Misreporting was similar between ASA24 and DbF (15 %). However, DbF improved accuracy, showing stronger correlations with weighed foods for calories and macronutrients (ρ > 0·90) and narrower limits of agreement for energy intake compared with ASA24 (-364 to 256 v. -771 to 909 calories, respectively). DbF allowed estimation of twenty-eight nutrients compared with twenty using ASA24 and showed stronger correlations for micronutrient intake estimates (r 0·86-0·96 v. 0·69-0·96; all P < 0·05) and urinary biomarkers (r > 0·6, P < 0·0001). These findings demonstrate that integrating locally contextualised food databases with technology-assisted recalls improves the quality of dietary assessment in underrepresented populations and provides a scalable model to enhance nutritional epidemiology and health monitoring worldwide.",
-        "doi": "10.1017/S0007114526108769",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42984485/",
-        "relevance": 13,
-        "matched": [
-          "diet",
-          "dietary",
-          "food",
-          "nutrition",
-          "nutrient",
-          "energy intake"
         ]
       },
       {
@@ -2646,6 +2667,27 @@
         ]
       },
       {
+        "pmid": "43018926",
+        "title": "Heart Rate Variability in Fighter Pilots: From Tactical Readiness to G-Tolerance Prediction.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-12",
+        "authors": "João Bruno, Raynier Montoro-Bombú, Rohit Kumar Thapa et al.",
+        "abstract": "Fighter pilots are exposed to extreme physiological and psychological stressors including sustained positive head-to-foot acceleration (+Gz), high cognitive workload, and rapid decision-making demands. In such conditions, the ability to maintain autonomic balance is central to performance and safety. Heart rate variability (HRV) has emerged as a sensitive and noninvasive biomarker of autonomic regulation, reflecting the dynamic interplay between sympathetic and parasympathetic activity. This Current Opinion article explores the relevance of HRV in aviation medicine, emphasizing its predictive value for tactical readiness, resilience, and tolerance to gravitational stress. Evidence from centrifuge experiments and operational studies demonstrates that higher baseline HRV is associated with superior stress tolerance, reduced risk of loss of consciousness, and enhanced cognitive performance. Beyond acute stress assessment, HRV provides insights into recovery dynamics, fatigue status, and long-term resilience, supporting its use in readiness management and training optimization. Practical applications include daily monitoring to guide mission planning, individualized training prescriptions informed by autonomic profiles, and biofeedback interventions aimed at enhancing stress regulation. Emerging technologies such as wearable sensors, multimodal physiological monitoring, and machine learning further strengthen the translational potential of HRV for real-time telemetry and group-level readiness tracking. However, methodological challenges including individual variability, external influences, and the lack of standardized protocols must be addressed to enable operational integration. Overall, HRV represents a promising frontier for bridging physiology, performance optimization, and safety in high-stress environments.",
+        "doi": "10.1007/s40279-026-02572-8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018926/",
+        "relevance": 10,
+        "matched": [
+          "heart rate",
+          "training",
+          "strength",
+          "fatigue",
+          "recovery",
+          "performance"
+        ]
+      },
+      {
         "pmid": "43014301",
         "title": "Global Positioning System-Derived Match Demands and Their Association With On-Field Technical Performance in Elite Australian Football League Women's (AFLW) Athletes.",
         "journal": "International journal of sports physiology and performance",
@@ -2836,6 +2878,26 @@
           "diet",
           "dietary",
           "food"
+        ]
+      },
+      {
+        "pmid": "43018929",
+        "title": "Creating Consensus: Establishing a Definition of Sports Pharmacy and Its Emerging Role in Sports Medicine.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-12",
+        "authors": "Claire May, Jessica Beal-Stahl, Athena Cannon et al.",
+        "abstract": "Sports pharmacy has become an increasingly recognized specialty within the broader pharmacy profession and serves as a complementary discipline to sport medicine. Yet, the field has lacked a formally established, internationally accepted definition. The absence of standardized terminology has hindered academic integration, interprofessional collaboration, and policy development. This work aimed to establish the first consensus-derived definition of sports pharmacy, accompanied by a responsibility statement to guide future education, certification, and research. In 2024, the US Sports Pharmacy Group (USSPG), comprising pharmacists, academics, anti-doping professionals, student pharmacists, and competitive athletes from diverse US states and international settings, convened a discrete subgroup, the Define Sports Pharmacy Taskforce, to lead the development of a formal definition of sports pharmacy. The taskforce conducted a thematic analysis of existing literature and reviewed 123 open-ended member responses collected between 2022 and 2024. Eight recurring practice themes emerged and informed iterative drafting cycles. Draft definitions were subsequently reviewed by interprofessional stakeholders, including physicians, elite athletes, and anti-doping practitioners. The resulting definition emphasizes medication management, anti-doping advocacy, interprofessional collaboration, athlete-centered ethical care, and the use of therapeutic and pharmacological strategies to optimize performance, support recovery, and protect sports integrity across all levels of physical activity. This consensus-derived framework provides standardized terminology to support the development of educational pathways, establish certification standards, and promote the integration of pharmacists into athlete support teams.",
+        "doi": "10.1007/s40279-026-02574-6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018929/",
+        "relevance": 9,
+        "matched": [
+          "sports",
+          "recovery",
+          "performance",
+          "physical activity",
+          "athlete"
         ]
       },
       {
@@ -3068,6 +3130,24 @@
           "performance",
           "fat",
           "exercise"
+        ]
+      },
+      {
+        "pmid": "43019555",
+        "title": "Rock Climbing and Nutrition: How Diet and Anthropometric Factors Influence Performance.",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-12",
+        "authors": "Laurel M Wentz, Sarah Radman, Alisha Farris et al.",
+        "abstract": "Wentz, LM, Radman, S, Farris, A, Farris, ZJ, and Kurtz, JA. Rock climbing and nutrition: How diet and anthropometric factors influence performance. J Strength Cond Res XX(X): 000-000, 2026-This study investigated the effects of diet and anthropometric characteristics on climbing performance. Rock climbers (N = 44: 52% women) completed a 3-day food record and International Society for Advancement of Kinanthropometry (ISAK) level 2 profile. Self-reported highest outdoor redpoint bouldering grade was used to categorize climber ability as intermediate or elite. Independent t-tests and Pearson's correlations were used for statistical analyses. Elite climbers (N = 11 men; 6 women) had similar body mass index (22.1 ± 1.8 vs. 22.1 ± 1.7 kg·m-2) and ape index (arm span/height; 1.02 ± 0.02 vs. 1.01 ± 0.03) compared with intermediate climbers (N = 10 men; 17 women). Dietary analysis showed energy intake was similar (42 ± 12 vs. 40 ± 10 kcal·kg-1 lean body mass, respectively), but protein intake was higher in elite climbers (1.6 ± 0.5 vs. 1.2 ± 0.4 g·kg-1 body mass; p < 0.01). Muscle mass was positively correlated with total energy intake (r = 0.56; p < 0.01) and protein intake (r = 0.65, p < 0.01). Elite climbers had greater muscle mass (31.4 ± 6.4 vs. 27.3 ± 5.4 kg; p = 0.03) and lower adipose mass (15.0 ± 2.0 vs. 18.5 ± 3.3 kg; p < 0.01) compared with intermediate climbers. Somatotype favored mesomorphy for all climbers (4.8 ± 0.9). Contrary to published reports showing energy restriction in rock climbers, our subjects consumed sufficient energy and met protein recommendations. Muscle mass was more important for climbing ability than total body mass or arm/leg length. Practical applications for climbing performance include improving modifiable characteristics, such as meeting protein and energy needs and improving muscle mass rather than restricting dietary intake, which may enhance strength-to-mass ratio, endurance, and overall climbing efficiency.",
+        "doi": "10.1519/JSC.0000000000005709",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43019555/",
+        "relevance": 8,
+        "matched": [
+          "performance",
+          "strength",
+          "endurance"
         ]
       },
       {
@@ -3400,6 +3480,23 @@
           "bone",
           "spine",
           "skeletal"
+        ]
+      },
+      {
+        "pmid": "43020037",
+        "title": "When Proxies Overshadow Actual Performance: Reaffirming First Principles in Applied Sport Science.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-11",
+        "authors": "Irineu Loturco, Daniel Boullosa, Fábio Y Nakamura et al.",
+        "abstract": "PURPOSE: In recent years, sport science has witnessed a growing emphasis on derived mechanical metrics and complex analytical approaches, often accompanied by claims that direct performance measures, such as jump height or sprint time are misleading or less informative than the proxies intended to explain them. This trend has contributed to a progressive shift away from the primary outcomes of athletic testing and toward secondary descriptors, frequently interpreted as superior indicators of performance. Using the vertical jump as a representative example, this commentary revisits fundamental foundations of classical mechanics and applied sport science to clarify the distinction between performance outcomes and mechanistic descriptors. The purpose of this commentary is to reinforce a fundamental principle of performance assessment: when the intended construct is task performance, direct outcomes, such as vertical jump height, horizontal jump distance, and sprint time should remain the primary reference. Mechanistic measures should be selected when they provide reliable and actionable information about how that outcome was achieved or why it changed. CONCLUSIONS AND PRACTICAL APPLICATIONS: Actual performance outcomes, such as jump height, jump distance, and sprint time are the most meaningful, interpretable, and relevant indicators of athletic performance. Mechanistic variables and detailed analytical approaches may provide valuable insights into underlying movement strategies and efficiency, but they should complement, rather than replace, direct performance measures. Following Occam's razor, applied sport science should continue to embrace scientific advances while avoiding the unnecessary promotion of complex, time-consuming, and expensive technologies as indispensable tools for coaches and practitioners, thereby preserving confidence in simple, valid, and accessible measures of athletic performance.",
+        "doi": "10.1123/ijspp.2026-0380",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020037/",
+        "relevance": 7,
+        "matched": [
+          "performance",
+          "sprint"
         ]
       },
       {
@@ -3862,6 +3959,24 @@
         ]
       },
       {
+        "pmid": "43020047",
+        "title": "Individualized Lactate Steady State Resolves the Discrepancy Between Maximal Lactate Steady State and Critical Speed in Running.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-11",
+        "authors": "Ozgur Ozkaya, Hakan As, Arda Peker et al.",
+        "abstract": "PURPOSE: We tested the hypothesis that maximal lactate steady state determined using a novel individualized blood lactate steady-state approach (MLSSInd) in running provides an accurate assessment of critical speed (CS). METHODS: Following a step incremental treadmill test, 8 endurance runners completed 5 constant-speed runs of up to 30 minutes for assessment of traditional MLSS (MLSSTrad) and at least 4 runs performed to the limit of tolerance for assessment of CS. MLSSTrad was defined as the highest running speed that resulted in changes in blood lactate concentration ([lactate]) of <1 mM between 10 and 30 minutes, whereas MLSSInd was determined by a breakpoint in the relationship between the rates of change of blood [lactate] between 10 and 30 minutes (or the end of exercise) plotted against the corresponding running speeds using a 2-segment linear regression. CS was calculated using the hyperbolic, linear, and 1/time models, and accepted using the model which yielded the lowest error. RESULTS: MLSSInd was significantly higher than MLSSTrad (14.0 [2.1] vs 13.2 [2.1] km·h-1, P < .001) but was not significantly different from CS (14.0 [2.1] km·h-1, P = 1.00). MLSSInd and CS were identical (r = 1.00, bias = -0.02 km·h-1, standard error of the estimate = 0.07 km·h-1, limits of agreement = -0.15 to 0.10 km·h-1). The rate of change in blood [lactate] at MLSSInd was greater than for MLSSTrad (0.07 [0.02] vs 0.04 [0.01] mM·min-1; P = .022). CONCLUSIONS: An individualized breakpoint in the relationship between the rates of change of blood [lactate] and running speed resolves the apparent mismatch between MLSS and CS in running and may better represent the heavy-to-severe intensity exercise domain boundary.",
+        "doi": "10.1123/ijspp.2026-0276",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020047/",
+        "relevance": 6,
+        "matched": [
+          "lactate",
+          "exercise",
+          "endurance"
+        ]
+      },
+      {
         "pmid": "43015453",
         "title": "Examination of Performance Anxiety Theories in Sport Psychology Textbooks and a Proposed Framework for Organizing These Theories.",
         "journal": "Sports medicine (Auckland, N.Z.)",
@@ -3946,79 +4061,6 @@
         "matched": [
           "diet",
           "dietary"
-        ]
-      },
-      {
-        "pmid": "42987425",
-        "title": "Effects of Weight-Loss Diets on Circulating MicroRNA Profiles in Overweight and Obese Adults: Systematic Review of Randomized Clinical Trials.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-05",
-        "authors": "Natália Ellen Delmicon, Helen Cristina Vidal, Paula Nascimento Brandão-Lima et al.",
-        "abstract": "CONTEXT: Obesity, particularly visceral adiposity, is associated with metabolic inflammation and increased cardiometabolic risk. Dietary interventions are essential for weight loss and improved metabolic health; however, individual responses vary widely. Circulating microRNAs are key epigenetic mediators of metabolic adaptation, although their variable expression patterns often preclude a unified biological interpretation. OBJECTIVE: This systematic review aims to synthesize evidence on how weight-loss diets affect the circulating microRNA profile in adults with overweight or obesity. DATA SOURCES: PubMed Central, LILACS, Scopus, Embase, Web of Science, ClinicalTrials.gov, and Google Scholar were searched without language or publication date restrictions through May 2026. DATA EXTRACTION: Of 4383 records identified, 12 articles representing 9 independent randomized clinical trials met the eligibility criteria. Data on study characteristics, dietary interventions, and circulating microRNA expression profiles were extracted. Risk of bias was assessed using the Cochrane Risk of Bias 2.0 tool. DATA ANALYSIS: The included studies were conducted in 6 countries and evaluated dietary interventions lasting 2-18 months. A total of 32 distinct circulating microRNAs were differentially expressed, with miR-221-3p, miR-223, miR-99b, miR-122, and miR-128 reported in more than one study. Considerable heterogeneity was observed among the dietary protocols, particularly regarding macronutrient composition. Alterations in microRNA expression were associated with weight loss, adiposity, glycemic parameters, lipid profile, inflammation, and cardiovascular risk. Bioinformatic analyses indicated enrichment of pathways related to inflammation, insulin signaling, and lipid metabolism, including the PI3K-Akt and MAPK pathways, suggesting an integrated role for these microRNAs in metabolic regulation. CONCLUSION: Weight-loss diets modulate the circulating miRNA profile, potentially influencing glycolipid metabolism and inflammation, supporting their role as candidate biomarkers. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. CRD42024580048.",
-        "doi": "10.1093/nutrit/nuag154",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42987425/",
-        "relevance": 6,
-        "matched": [
-          "diet",
-          "nutrient",
-          "dietary",
-          "weight loss"
-        ]
-      },
-      {
-        "pmid": "42986715",
-        "title": "How Plants Feed Our Microbes: Plant-Based Diets and Gut Microbiota Modulation-A Systematic Review.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-05",
-        "authors": "Paulina Kozłowska, Alicja Borowiecka, Martyna Strzemkowska et al.",
-        "abstract": "CONTEXT: Diet is a key factor shaping gut microbiota composition and function, with important implications for human health. The growing popularity of plant-based dietary patterns has increased interest in their effects on the gut microbiota. OBJECTIVE: This systematic review examines specific changes in gut microbiota among individuals following a plant-based diet (PBD), as well as shifts occurring after transitioning from an omnivorous diet. DATA SOURCES: PubMed and Google Scholar were searched for articles reporting original English-language human and animal studies investigating the effects of PBDs on gut microbiota composition or function. Studies published from 2015 onward were primarily considered, with most included articles published during 2020-2024. DATA EXTRACTION: Four reviewers independently screened records according to eligibility criteria and extracted data on study characteristics, populations, dietary patterns, and outcomes related to gut microbiota composition and function. DATA ANALYSIS: A total of 37 studies met the inclusion criteria. A PBD appeared to promote the growth of short-chain fatty acid-producing and probiotic bacteria, which help maintain intestinal integrity and support carbohydrate metabolism and may offer protection against certain diseases. A PBD was also reported to encourage the growth of beneficial taxa such as Roseburia spp., Akkermansia muciniphila, Clostridium symbiosum, and Faecalibacterium prausnitzii, which are considered indicators of a healthy microbiome. An increased Bacteroidetes/Firmicutes ratio, which was found to be a common occurrence in study participants following a PBD, correlated with a lower body mass index (BMI) and a more favorable metabolic profile, supporting healthy weight maintenance. In addition, PBDs were also associated with improvements in alpha- and beta-diversity compared with omnivorous diets. CONCLUSIONS: This review indicates that PBDs appear to beneficially influence the gut microbiota and may have positive effects on human health. Nonetheless, not all studies agree on the extent or direction of microbiota changes associated with dietary patterns. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. [CRD420251229407]; link: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251229407.",
-        "doi": "10.1093/nutrit/nuag157",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42986715/",
-        "relevance": 6,
-        "matched": [
-          "diet",
-          "carbohydrate",
-          "fat",
-          "dietary"
-        ]
-      },
-      {
-        "pmid": "42986605",
-        "title": "Understanding the Complexity of Athlete Sleep: A Systems Approach to Modelling the Athlete Sleep Environment.",
-        "journal": "Sports medicine (Auckland, N.Z.)",
-        "journal_issn": "0112-1642",
-        "discipline": "physiology",
-        "date": "2026-Nov-05",
-        "authors": "Matthew Morrison, Shona L Halson, Carissa L Gardiner et al.",
-        "abstract": "BACKGROUND: Athlete sleep can be disrupted by sport- and non-sport-related factors. However, the interactions of these sleep-related factors are not well understood. Systems science approaches, such as causal loop diagramming (CLD), provide an opportunity to map these interactions. This project aimed to (1) develop a CLD of the athlete sleep system describing the interacting variables, (2) identify feedback loops and potential leverage points to optimise athlete sleep, and (3) demonstrate the applicability of a CLD to guide the development of a sleep monitoring framework. METHODS: A systems-based model of athlete sleep was developed using CLD, informed by existing literature and refined through a consensus process involving ten subject matter experts (nine from Australia, one from the USA). The model was then interrogated using network analysis to identify key variables based on their position and connectivity within the system. These findings informed the development of a generic sleep monitoring framework. RESULTS: The CLD comprised 48 variables and 120 relationships across four domains: travel demands, behavioural and lifestyle factors, athlete condition and readiness, and resourcing and scheduling constraints. Overall, 12 key variables were identified, with hours of travel, number of time zones crossed, dose of caffeine, and amount of resources or expenditure available being the most connected upstream variables. Level of pre-sleep arousal, sleep opportunity, travel fatigue, and level of performance received the greatest number of incoming relationships, representing points at which multiple pathways converge. Physical condition, level of performance, quality of diet, and importance of competition most frequently linked different quadrants of the system. These variables informed a three-tier monitoring framework capturing upstream determinants and downstream consequences of sleep. CONCLUSIONS: According to the CLD, sleep health in athletes extends beyond an individual behaviour issue and is influenced by the structure and functioning of sport systems. Interactions among travel demands, physical readiness, behavioural and lifestyle factors, and organisational constraints sustain athlete sleep health over time. Consequently, meaningful improvements in sleep health are likely to arise from both system-level interventions and individual behaviour change strategies.",
-        "doi": "10.1007/s40279-026-02568-4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42986605/",
-        "relevance": 6,
-        "matched": [
-          "athlete",
-          "fatigue",
-          "performance"
-        ]
-      },
-      {
-        "pmid": "42984300",
-        "title": "Exercise-induced mitochondrial remodelling: Breaking apart to rebuild.",
-        "journal": "The Journal of physiology",
-        "journal_issn": "0022-3751",
-        "discipline": "physiology",
-        "date": "2026-Nov-05",
-        "authors": "Lucas Esposito Dos Santos, Andressa Crystine da Silva Sobrinho, Guilherme da Silva Rodrigues et al.",
-        "abstract": "",
-        "doi": "10.1113/JP292575",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42984300/",
-        "relevance": 6,
-        "matched": [
-          "exercise",
-          "mitochondrial"
         ]
       },
       {
@@ -4245,6 +4287,23 @@
         ]
       },
       {
+        "pmid": "43020045",
+        "title": "Once Successful Junior Biathletes, but What Happened Next?",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-11",
+        "authors": "Malin Jonsson Kårström, Glenn Björklund, Andreas Kårström",
+        "abstract": "PURPOSE: To investigate how successful junior biathletes performed as senior athletes and whether the transition rate (ie, achieving comparable performance rank as junior and senior) differed between nations with the highest numbers of athletes. METHODS: Juniors placed top 10 in individual competitions at Youth and Junior World Championships between 2006 and 2015 were chosen for further analysis. The biathletes were categorized into 5 different performance groups based on their senior performance (1: top 10 ranking in senior World Championships or Olympic Games [Top10-WCH], 2: top 40 ranking in World Cup (WC) total [Top40-WCtot], 3: competing in >20 individual WC competitions [>20 WCstarts] or 4: >20 International Biathlon Union Cup competitions [>20 IBUCstarts], and 5: competing in <20 individual International Biathlon Union Cup competitions [<20 IBUCstarts]). The distribution across the senior performance groups for the 4 nations with the highest number of athletes (France, Germany, Norway, and Russia) was compared with the overall sample. RESULTS: Out of 454 junior biathletes from 28 nations, 21.8% achieved a comparable performance rank as seniors (Top10-WCH), while 55.7% did <20 starts in the WC. For the 4 nations with the highest number of successful juniors, Russia demonstrated a greater percentage of athletes in the lowest performance category (<20 IBUCstarts) compared with the total sample (P < .05). CONCLUSION: The data showed a low transition rate from successful junior-to-senior level, and more than half of the biathletes did not compete regularly in the WC as seniors. The underlying reasons behind the different transition paths and possible differences between nations are of interest for future studies.",
+        "doi": "10.1123/ijspp.2026-0193",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020045/",
+        "relevance": 5,
+        "matched": [
+          "athlete",
+          "performance"
+        ]
+      },
+      {
         "pmid": "43014518",
         "title": "Folate and folic acid intake in relation to molecular subtypes of colorectal cancer: pooled analyses of up to 8970 cases and 8098 control participants.",
         "journal": "The American journal of clinical nutrition",
@@ -4297,26 +4356,6 @@
           "vitamin",
           "nutrient",
           "diet"
-        ]
-      },
-      {
-        "pmid": "42988167",
-        "title": "The NHANES WIC Impact Index is a Valid Measure of WIC's Impact on Children.",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-05",
-        "authors": "Meghan Zimmer, Cindy W Leung, Cristina M Gago et al.",
-        "abstract": "BACKGROUND: The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides food benefits, nutrition education, breastfeeding support, and referrals to social and medical services. However, WIC's impact on children is often evaluated using isolated dietary or health outcomes, and no validated tool exists to measure WIC's multidimensional impact across all program services. OBJECTIVES: We developed and validated the NHANES WIC Impact Index using cross-sectional data from the 2007-2010 National Health and Nutrition Examination Survey (NHANES). The index captures the four domains targeted by WIC: dietary intake, nutrition literacy, breastfeeding practices, and social/medical service access. METHODS: Reliability was assessed using item-item correlations and Cronbach's alpha. Validity assessments included content validity via expert consultation and policy mapping; criterion validity of the dietary domain compared with the Healthy Eating Index-2020 (HEI-2020); discriminant validity using known-groups analyses by WIC participation status; and divergent validity by Supplemental Nutrition Assistance Program (SNAP) participation. RESULTS: Reliability was demonstrated through item-item correlations that supported the internal structure of the index domains, and low internal consistency (α = 0.32 to 0.33) as expected for a multidimensional index. The dietary domain was moderately correlated with HEI-2020 scores (r = 0.58), demonstrating criterion validity. Among WIC-eligible children, prior participants scored 2.2 points lower on the index [-2.2 (95% CI: -3.9, -0.5), P<0.05] than current participants, but current participants and nonparticipants (i.e., never enrolled) scored similarly (P>0.05). Scores were not predicted by SNAP participation status (P>0.05), supporting divergent validity. CONCLUSION: The NHANES WIC Impact Index is a reliable and valid measure for evaluating WIC's impact on four domains of child health targeted by WIC. This index enables assessment of WIC's holistic impact and may support future surveillance and policy evaluation research.",
-        "doi": "10.1016/j.tjnut.2026.101907",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42988167/",
-        "relevance": 5,
-        "matched": [
-          "nutrition",
-          "diet",
-          "dietary",
-          "supplement",
-          "food"
         ]
       },
       {
@@ -4698,6 +4737,24 @@
         "matched": [
           "morphology",
           "spinal"
+        ]
+      },
+      {
+        "pmid": "43019554",
+        "title": "Should They Start or Not? A Comparative Analysis of Starter and Nonstarter Preseason Fitness Characteristics in NCAA Division III Baseball.",
+        "journal": "Journal of strength and conditioning research",
+        "journal_issn": "1064-8011",
+        "discipline": "physiology",
+        "date": "2026-Nov-12",
+        "authors": "David T Schilling, Timothy R Abraham, Ashraf Elazzazi",
+        "abstract": "Schilling, DT, Abraham, TR, and Elazzazi, A. Should they start or not? A comparative analysis of starter and nonstarter preseason fitness characteristics in NCAA Division III baseball. J Strength Cond Res XX(X): 000-000, 2026-Preseason fitness testing in baseball is a widely adopted practice to assess the physical preparedness of players. However, the relationship between these preseason fitness assessments, their ability to differentiate starters from nonstarters in the subsequent season, and their relationship to preseason coaching evaluations is not well-established. This exploratory study aimed to provide a preseason profile of men's NCAA Division III baseball players, compare the differences between starting and nonstarting players, and explore the relationship of these preseason measures to the offensive performance of the starting players at the completion of the season. Starters were considered any hitter who averaged at least 2 plate appearances per team game played or participated in at least 75% of the team's games. Twenty-six players performed 8 preseason fitness tests; and the head coach, blinded to all preseason fitness testing results, subjectively rated the players' batting (power, ball contact, and form) and running performance (speed, agility, and form), resulting in a total offensive performance score (TOPS). In-season offensive performance was measured by each player's on-base plus slugging percentage (OPS). Starters demonstrated significantly greater batted ball velocity, countermovement vertical jump height, unilateral lateral to medial jump distance, medicine ball throw velocity, and faster 60-yard dash and agility T-test times relative to nonstarters. Notably, no significant correlations were observed between any physical performance variable and OPS or TOPS, suggesting that preseason fitness testing may reflect athletic readiness but does not directly relate to offensive performance or coaching evaluation outcomes in this sample.",
+        "doi": "10.1519/JSC.0000000000005689",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43019554/",
+        "relevance": 4,
+        "matched": [
+          "strength",
+          "power",
+          "performance"
         ]
       },
       {
@@ -5143,6 +5200,24 @@
         ]
       },
       {
+        "pmid": "43020038",
+        "title": "The Relationship Between High-Intensity External Loads During Matches and Physical Fitness Characteristics in Male Collegiate Basketball Players.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-11",
+        "authors": "Jun Koizumi, Takaki Yamagishi, Shunsuke Shiraki et al.",
+        "abstract": "PURPOSE: Basketball involves repeated high-intensity actions, including rapid accelerations, decelerations, and jumps. However, the association between match-derived external load metrics and physical fitness, particularly across match quarters, remains unclear. This study examined the relationships between quarter-specific high-intensity external loads during basketball matches and components of physical fitness. METHODS: Fifty male collegiate basketball players completed a simulated 32-minute match (four 8-min quarters) without substitutions; each player participated in 1 match. During the match play, 2 manufacturer-defined metrics, accumulated acceleration load (arbitrary units) and jump load, were quantified using inertial measurement units (KINEXON IMU). Accumulated acceleration load was calculated from changes in triaxial acceleration, and high-intensity acceleration load was defined using a predetermined acceleration threshold. Jump load represents the cumulative vertical mechanical load derived from jumping actions. On a separate day, peak oxygen uptake (V˙O2peak), mean power output during a repeated sprint ability test (eight 6-second cycle sprints), and countermovement jump height were assessed. The correlation between external load and physical fitness was analyzed using Spearman rank or Pearson product-moment correlation coefficient. RESULTS: High-intensity acceleration load across all quarters was significantly correlated only with V˙O2peak (rs = .285-.522, P < .05), with stronger associations observed in the later quarters. In contrast, jump load across all quarters was consistently correlated only with repeated sprint ability test mean power (rs = .340-.385, P < .05). CONCLUSIONS: V˙O2peak and repeated sprint ability were separately associated with different external load variables, which may provide useful insights for improving player-specific areas of weakness during a match.",
+        "doi": "10.1123/ijspp.2026-0136",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020038/",
+        "relevance": 3,
+        "matched": [
+          "sprint",
+          "power",
+          "oxygen"
+        ]
+      },
+      {
         "pmid": "43013080",
         "title": "Multi-planar reconstruction and 3D volume rendering as tools of anatomical dissection and morphometry on the example of cadaveric study of inferior medial genicular artery : Comparison of visualisation of branches of the inferior medial genicular artery using 3D volume reconstruction, MPR, and a fresh-frozen cadaver.",
         "journal": "Surgical and radiologic anatomy : SRA",
@@ -5220,24 +5295,6 @@
         "relevance": 3,
         "matched": [
           "hormone"
-        ]
-      },
-      {
-        "pmid": "42984477",
-        "title": "Studying multiple health behaviours in older adults using a measurement burst design: protocol, feasibility, compliance, behavioural patterns and lessons learned.",
-        "journal": "The British journal of nutrition",
-        "journal_issn": "0007-1145",
-        "discipline": "nutrition",
-        "date": "2026-Nov-05",
-        "authors": "Kim Cnudde, Laura Maenhout, Femke De Backere et al.",
-        "abstract": "Overweight and obesity are major public health challenges, requiring preventive efforts targeting diet, physical activity (PA), sedentary behaviour (SB) and sleep. Current research often treats these behaviours in isolation, ignores daily fluctuations and focuses on between-person differences. Studies examining the temporal covariance of these behaviours, assessing within-day and day-to-day variations in determinants and exploring how these time-varying determinants predict within-person variability in behaviours are needed. This paper aims to evaluate the feasibility of a measurement burst design with repeated intensive longitudinal assessments and to present patterns of behaviours and determinants. A 12-month observational study with a measurement burst design was conducted (January-December 2025). In total, 130 participants aged 55-75 years enrolled in the study, which consisted of four 7-day measurement bursts. Data collection included monitoring of diet, PA, SB, sleep and time-based ecological momentary assessment (EMA). Compliance rates, descriptive statistics per burst and across bursts were computed. 116 participants completed all bursts (retention rate = 89·2 %). Compliance rates ranged from 83·5 % for time-based EMA to 91·8 % for SB, supporting feasibility of the protocol. Mean values of 1692 kcal/day (sd = 565) for energy intake, 9·4 h/day (sd = 2·4) for sedentary time and 10 610 steps/day (sd = 6302) were observed. Mean daily light, moderate and vigorous PA-levels were 102·9 (sd = 37·4), 65·5 (sd = 43·4) and 11·5 (sd = 17·0) minutes, respectively. Mean sleep duration was 6·4 h/night (sd = 1·3), with a mean sleep efficiency of 79·2 % (sd = 10·2). This paper demonstrated the feasibility of integrating multiple assessment methods within a measurement burst design for studying health behaviours in adults aged 55-75 years and highlighted the value of analyses at more fine-grained temporal and individual levels.",
-        "doi": "10.1017/S0007114526108526",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42984477/",
-        "relevance": 3,
-        "matched": [
-          "diet",
-          "energy intake",
-          "physical activity"
         ]
       },
       {
@@ -6966,5 +7023,5 @@
       }
     ]
   },
-  "built_at": "2026-11-12 22:35"
+  "built_at": "2026-11-13 22:35"
 }
