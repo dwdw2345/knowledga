@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14",
-  "updated_at": "2026-11-14 06:34",
+  "updated": "2026-11-15",
+  "updated_at": "2026-11-15 06:25",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,207 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "43031499",
+      "title": "Thoracic limb myology of Smutsia temminckii (Temminck's pangolin).",
+      "journal": "Journal of anatomy",
+      "journal_issn": "0021-8782",
+      "discipline": "anatomy",
+      "date": "2026-Nov-14",
+      "authors": "Christine Steyn, John Thomson Soley, Martina Rachel Crole",
+      "abstract": "The myrmecophagous Smutsia temminckii (Temminck's pangolin) is one of eight pangolin species, of threatened status worldwide and the only species present in southern Africa. S. temminckii utilises a bipedal gait for locomotion and will roll into a ball when vulnerable. The thoracic limbs are predominantly used to assist in exposing prey by employing scratch-digging in superficial substrates and breaking open ant nests. This study describes the thoracic limb musculature and muscle maps in S. temminckii, as well as discusses the peculiar adaptations of the thoracic limb to its unique lifestyle. The thoracic limbs of five S. temminckii were donated after they succumbed to either natural causes, electrocution or confiscation from the illegal wildlife trade. All ethical clearances were received. The muscles of the thoracic limbs were dissected and described, after which the bones were cleaned and the areas of muscle attachment identified and described. The muscles were generally well-developed with fleshy bodies and short tendons. The extrinsic muscles of the thoracic limb, and in particular M. cutaneous trunci, were prominent. M. triceps brachii, M. pronator teres and M. flexor digitorum profundus displayed additional bellies and extensive attachments. Individual metacarpophalangeal and digital muscles were noted. Two muscles were specifically named: the fleshy M. anconeus medialis and the long M. omoradialis. The musculature of S. temminckii shows clear adaptations to protraction and retraction of the forelimb, extension of the elbow joint, pronation and supination of the antebrachium, and flexion of the carpus and digits, which is consistent with scratch-digging, instead of weight-bearing. Both protractors of the forelimb and the prominent cutaneous musculature are involved when S. temminckii rolls up into a sphere during its defence posture. The muscle maps generated during this study aid in understanding the various muscle functions, as well as providing valuable information for postulating muscles in extinct pangolin species. The study may also aid workers in the veterinary field when treating musculoskeletal conditions in injured pangolins.",
+      "doi": "10.1111/joa.70268",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031499/",
+      "relevance": 11,
+      "matched": [
+        "thoracic",
+        "muscle",
+        "tendon",
+        "bone",
+        "joint",
+        "gait"
+      ]
+    },
+    {
+      "pmid": "43031485",
+      "title": "Human foetal cortical slice cultures: A translational platform for studying early neurodevelopment.",
+      "journal": "Journal of anatomy",
+      "journal_issn": "0021-8782",
+      "discipline": "anatomy",
+      "date": "2026-Nov-14",
+      "authors": "Faye McLeod, Anna Dimtsi, Michael A Savage et al.",
+      "abstract": "The developing human neocortex is characterised by complex and dynamic changes in cellular architecture, neuronal organisation and activity. We previously described how human foetal cortical organotypic slice cultures, prepared from ethically sourced tissue could be used to investigate these processes. Cultures can be maintained for weeks, exhibiting features of the normal developing brain that are not replicated in current organoid models. Such cultures allow the possibility for experimental manipulation, for instance testing the effects of genetic mutations. Here we extend the characterisation of our model. We report that these organotypic cultures preserve the laminar organisation of the developing cortical wall and show considerable diversity of neuronal morphology. Employing bulk mRNA hybridisation for 794 genes (a \"human neuropathology\" gene panel), we identified consistent patterns of evolving gene expression between 0 and 14 days in vitro (DIV) across different tissue samples taken at 16-18 post-conceptional weeks (pcw). To put this in the context of the normal developmental pattern, we compared our data set with previously acquired tissue RNAseq data collected between 7-17 pcw (https://www.hdbr.org/expression). This indicated that many gene expression changes in vitro followed prior developmental trajectories, but others diverged strongly, including upregulated genes associated with responses to stress, and downregulated genes associated with the vascular function. This latter effect may reflect the redundancy of vascular development in culture. Notably, various genes associated with pre- and post- synaptic function, including both glutamate and GABA receptors, continued to be expressed strongly. Consistent with this, we observed spontaneous neuronal network activity in the subplate (SP) using targeted expression of the genetically encoded Ca2+ indicator, GCaMPf6, to post-mitotic neurons. The frequency of neuronal Ca2+ transients increased when blockers of either GABAA receptors or gap junctions were applied. Conversely, activity was significantly reduced by glutamatergic receptor antagonists and abolished by voltage gated sodium channel blockade. Neuronal Ca2+ transients were triggered directly by focal application of glutamate in the SP and subventricular zone, whereas cortical plate neurons exhibited weaker responses. This was consistent with levels of immunoreactivity for glutamate receptor sub-units in these compartments. In conclusion, the organotypic cultures show functional synaptic networks, supported by continued expression of the relevant synaptic protein machinery. These data provide further validation of organotypic cultures as a model for investigating and manipulating the early prenatal development of human neocortex, a period that is otherwise difficult to study.",
+      "doi": "10.1111/joa.70276",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031485/",
+      "relevance": 1,
+      "matched": [
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43026169",
+      "title": "Polyendocrine metabolic ovarian syndrome combined with obesity induces lipopolysaccharide cross-tolerance: A multi-cohort translational study.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-13",
+      "authors": "Frank González, Robert V Considine, Ola A Abdelhadi et al.",
+      "abstract": "Women with polyendocrine metabolic ovarian syndrome (PMOS) and obesity have significant chronic proinflammatory stress impacting metabolic health. We determined the effect of in vitro lipid exposure with and without lipopolysaccharide (LPS) on mononuclear cell (MNC)-derived inflammation in PMOS. Nineteen reproductive-age women with PMOS (10 lean, 9 with obesity) and 18 ovulatory controls (9 lean, 9 with obesity) participated in the study. Nuclear factor-κB (NFκB) activation and p50 subunit-precursor mRNA, toll-like receptor-4 (TLR-4) mRNA and protein, and tumor necrosis factor-alpha (TNFα) mRNA and secretion were quantified in cultured MNC exposed to lipid with and without LPS. Insulin sensitivity was determined during an oral glucose tolerance test (ISOGTT). Androgen secretion was assessed from blood collected before and 24, 48 and 72 hours after human chorionic gonadotropin (HCG) administration. When LPS was absent, lipid-induced increases occurred in inflammation markers from MNC of both PMOS groups. When LPS was present, inflammation markers persistently increased from MNC of lean women with PMOS but decreased in those of women with PMOS and obesity concomitant with increases in p50-precursor mRNA and intranuclear anti-p50-bound NFκB indicating greater NFκB homodimer nuclear translocation. Both PMOS groups demonstrated decreased ISOGTT and higher HCG-stimulated androgen secretion compared with controls. When LPS was present, lipid-exposed inflammation responses negatively correlated with measures of adiposity and positively correlated with ISOGTT in PMOS. Women with PMOS and obesity demonstrate hallmark evidence of suppressed inflammation due to LPS cross-tolerance potentially providing a safeguard against worsening metabolic health instigated by the combined inflammatory load of PMOS and obesity.",
+      "doi": "10.1152/ajpendo.90166.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026169/",
+      "relevance": 3,
+      "matched": [
+        "metabolic"
+      ]
+    },
+    {
+      "pmid": "43026163",
+      "title": "Targeting in vitro human white adipocyte metabolism with exercise mimicry - current insights and future directions.",
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "journal_issn": "0193-1849",
+      "discipline": "physiology",
+      "date": "2026-Nov-13",
+      "authors": "Juulia H Lautaoja-Kivipelto, David Walzik, Philipp Zimmer et al.",
+      "abstract": "During the past decade, in vitro exercise mimicry has become a popular approach to examine intercellular communication and the effects of exercise-like stimulation and exerkines on various cell types, including white adipocytes. Despite the growing body of literature, a comprehensive overview of how human white adipocytes in vitro adapt to these approaches is lacking. In this review, we discuss the metabolic and functional effects of exercise mimicry on in vitro human white adipocytes. We compare the in vitro observations to in vivo findings to provide the reader with an up-to-date overview of the extent to which the responses of in vitro human white adipocytes to afore-mentioned treatments resemble human white adipose tissue (WAT) adaptations to exercise and exerkines. Finally, we discuss the limitations of the existing in vitro models and obtained results before providing suggestions for improved study designs in future experiments.",
+      "doi": "10.1152/ajpendo.90142.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026163/",
+      "relevance": 10,
+      "matched": [
+        "exercise",
+        "metabolism",
+        "metabolic",
+        "adaptation"
+      ]
+    },
+    {
+      "pmid": "43025868",
+      "title": "A Bibliometric Analysis of Body Donation Research (2006-2025): Perspectives From Medical Education, Ethics, and Policy.",
+      "journal": "Clinical anatomy (New York, N.Y.)",
+      "journal_issn": "0897-3806",
+      "discipline": "anatomy",
+      "date": "2026-Nov-13",
+      "authors": "Antong Zhao, Wang Liao, Yehui Lv",
+      "abstract": "Body donation is fundamental to anatomical education and biomedical research. The field has expanded from technical dissection to include ethical, regulatory, and educational dimensions, yet a systematic bibliometric analysis of its evolution is lacking. This study maps the knowledge structure, collaboration patterns, and research frontiers of the English-language body donation literature (2006-2025), focusing on the interplay among anatomical education, cultural ethics, and institutional governance. Publications were retrieved from the Web of Science Core Collection on August 5, 2026; 419 English-language articles met the eligibility criteria. CiteSpace (v6.2.R3) and VOSviewer (v1.6.18) were used to analyze collaboration networks, cocitation structures, citation bursts, and keyword co-occurence. Annual output increased steadily across three phases. The retrieved literature is concentrated in a small number of countries and institutions, a pattern inseparable from the language and database boundaries of the corpus, and collaboration is denser within regions than between them. Keyword co-occurence produced five clusters, mapped onto three analytical domains: anatomical education, cultural ethics, and institutional governance, the last with no cluster of its own. Organ donation concepts are still frequently conflated with body donation, and research frontiers have shifted from gross anatomy pedagogy toward legal regulation and public willingness. Body donation research has evolved from a technique-driven paradigm into a multidisciplinary field integrating humanistic care, legal frameworks, and educational innovation. Remaining gaps include the uneven representation of world regions in the indexed literature and the conflation of body and organ donation; both constrain culturally adaptable governance and anatomical education.",
+      "doi": "10.1002/ca.70255",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025868/",
+      "relevance": 1,
+      "matched": [
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "43025813",
+      "title": "Longitudinal associations of anemia and iron status on early learning and memory: Evidence from eye-tracking assessments.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov-13",
+      "authors": "Davrina Rianda, Lisa M Oakes, Charles D Arnold et al.",
+      "abstract": "BACKGROUND: Anemia and iron deficiency (ID) remain prevalent among young children and may influence cognitive domains. OBJECTIVE: We examined associations of anemia and iron status at 6-9 months with attention, memory, and social visual engagement six months later using eye-tracking. METHODS: We analyzed cohort data from a randomized egg provision trial in rural Mangochi District, Malawi (n=660). In a subgroup (n=406), baseline biomarkers were measured, including hemoglobin, plasma ferritin, soluble transferrin receptor (sTfR), and body iron index (BII). Children were categorized as anemic (hemoglobin <10.5 g/dL), ID (ferritin <12 μg/L, sTfR >8.3 mg/L, or BII <0 mg/kg), and iron deficient anemic (IDA). At 12-15 months, attention was assessed using eye-tracking-based Infant Orienting with Attention task; recognition memory and social visual engagement were assessed using Visual Paired Comparison. Associations were evaluated using mixed-effect models adjusted for child, parental, and household characteristics. RESULTS: Among 406 children, 185 (45.6%) had anemia at baseline. Of 366 with iron data, 308 (84.2%) had ID, including 150 with IDA. Hemoglobin was associated with social visual engagement, and iron-specific biomarkers with memory. Per interquartile range (IQR) increase in hemoglobin, eyes dwell time decreased by 4% (95%CI -6%, -1%), mouth dwell time increased by 2% (95%CI 0%, 6%), and eye-mouth index decreased by 0.04 (95%CI -0.08, 0.00). IQR increases in ferritin, sTfR, and BII were associated with higher novelty preference (0.02; 95%CI 0.00, 0.02), lower peak look duration (-9.5%; 95%CI -14.8%, -2.9%), and lower shift rate (-0.02 shifts/s; 95%CI -0.04, 0.00), respectively. In multiplicity-corrected sensitivity analyses, only the sTfR-peak look duration association remained significant. Categorical anemia, ID, and IDA were not associated with outcomes. CONCLUSIONS: Exploratory findings suggest that hemoglobin at 6-9 months was associated with social visual engagement, and iron-specific biomarkers with memory. Small effect sizes indicate modest longitudinal associations in this high-burden setting. CLINICAL TRIAL REGISTRY NUMBER: NCT03385252 (https://clinicaltrials.gov/study/NCT03385252).",
+      "doi": "10.1016/j.ajcnut.2026.101630",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025813/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43025703",
+      "title": "Extracellular matrix inhibits amino acid absorption mediated by Lactobacillus reuteri LR1 in ETEC-infected piglets.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-13",
+      "authors": "Qingsong Tang, Yiyi He, Zhangjian Feng et al.",
+      "abstract": "BACKGROUND: Small-intestinal mucosal architecture may affect amino acid (AA) absorption in weaned piglets. OBJECTIVE: This study aimed to investigate whether Lactobacillus reuteri (L. reuteri) LR1 improves small-intestinal AA absorption in enterotoxigenic Escherichia coli (ETEC) K88-challenged piglets and whether intestinal mucosal extracellular matrix (ECM) changes contribute. METHODS: Seventy-two 21-d-old weaned piglets were randomly assigned to 3 treatments (6 pens/treatment; 4 pigs/pen; 2 males/2 females). Control (CON) and ETEC K88 (K88) groups received a basal diet; the KLR group received basal diet plus 5 × 1010 CFU/kg L. reuteri LR1 for 14 days. K88 and KLR pigs received 5×1010 CFU of ETEC K88 by oral gavage on days 5, 7, and 9. Decellularized ECM (dECM) was isolated from piglet small intestine and tested for AA transport by Transwell assay. One pig per replicate (six/group) was sampled for analyses; three pigs/group were used for Transwell assays. Portal vein metabolites, liver free AAs, small-intestinal AA transporter and ECM-related gene expression, ECM protein, and dECM structure/transport were evaluated. Data were analyzed by unpaired two-tailed Student's t-test. RESULTS: K88 decreased the AA levels (L-glutamate, L-alanine, L-leucine, etc ) (36.3% to 51.2%), whereas KLR increased the AA levels (L-glutamate, L-aspartate, L-isoleucine, etc) in the portal vein of weaned piglets (134.6% to 179.3%, p < 0.05). K88 increased ECM-related genes (COL1A2, COL3A1, COL5A1, etc) (160.3% to 228.6%) expression and ECM deposition (136.4%) in the intestinal mucosa, whereas KLR reduced ECM-related genes (COL3A1, COL4A2, COL5A1, etc) (36.8% to 66.1%) expression and deposition (83.0%) in the intestinal mucosa (p < 0.05). Intestinal dECM showed a three-dimensional matrix network. Reducing the dECM content increased AA passage (148.3% to 226.5%, p < 0.05). dECM in the KLR reversed K88-induced reduction in AA absorption (K88 vs CON: 48.1% to 89.7%; KLR vs K88: 135.0% to 185.7%, p < 0.05). CONCLUSIONS: Dietary L. reuteri LR1 attenuated ETEC K88-induced impairment of small-intestinal AA absorption in weaned piglets, associated with reduced intestinal mucosal ECM deposition.",
+      "doi": "10.1016/j.tjnut.2026.101935",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025703/",
+      "relevance": 7,
+      "matched": [
+        "amino acid",
+        "protein",
+        "diet",
+        "dietary",
+        "leucine"
+      ]
+    },
+    {
+      "pmid": "43025702",
+      "title": "Beyond glycemic index: Mixed meal postprandial glycemic response as a promising approach for Personalized Nutrition in Diabetes.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-13",
+      "authors": "Shikha Nayar, S V Madhu",
+      "abstract": "Devising an effective tool for management of diet for patients with diabetes for a proper glycemic control has always been challenging due to the variability in available macronutrient content and composition of the meals along with the different factors affecting it. Traditionally, the concepts like glycemic index (GI) of food items, carbohydrate counting using the carbohydrate exchange lists have been largely guiding their food choices. These instruments, though useful, face certain paramount limitations that is, they are not mixed meal- based, intake responsive and sensitive to variations in the meal-composition, all of which is typical of different diets. The present perspective critically evaluates these and other associated issues considering supportive evidence available in this regard focusing on why mixed meal based glycemic responses are more pertinent for advising patients with diabetes. We also propose the need for developing a mixed meal- macronutrient exchange lists based on available macronutrients for patients with diabetes precisely characterizing the PPGR (post-prandial glycemic response) to different combination mixed meals in traditional diets. Furthermore, we suggest that the traditionally consumed mixed meals should be tested in different populations using continuous glucose monitors (CGMs) as an advance tool addressing the variability and possible combinations in traditional diets to obtain PPGR data sets. These then can be used for advising medical nutrition therapy for patients with diabetes recommending them with different traditional mixed meal combinations of their choice that keep their blood glucose in control.",
+      "doi": "10.1016/j.tjnut.2026.101940",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025702/",
+      "relevance": 10,
+      "matched": [
+        "nutrition",
+        "meal",
+        "nutrient",
+        "carbohydrate",
+        "diet",
+        "food"
+      ]
+    },
+    {
+      "pmid": "43025407",
+      "title": "Erratum. Multidimensional Comparison of Specific Strength Qualities Between Professional and Academy Rugby Union Players.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-13",
+      "authors": "International Journal of Sports Physiology and Performance",
+      "abstract": "",
+      "doi": "10.1123/ijspp.2026-0637",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025407/",
+      "relevance": 2,
+      "matched": [
+        "strength"
+      ]
+    },
+    {
+      "pmid": "43024823",
+      "title": "Predicting Military Training Outcome: A Prospective Cohort Study of Supervised Statistical Learning Classification Methods in British Army Recruits.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-13",
+      "authors": "Thomas J O'Leary, Alexander T Carswell, Sarah Jackson et al.",
+      "abstract": "PURPOSE: Investigate predictors of failure and injury during British Army basic training and test the performance of statistical learning models to predict these outcomes. METHODS: 968 male and 450 female recruits had demographics, lifestyle habits, mood, physical performance, body composition, micronutrient status, and bone metabolism measured at week 1 of training. Associations between predictors and training outcome (failure; lower limb overuse musculoskeletal injury) were assessed by logistic regression. Training outcome was predicted by logistic regression, elastic net, random forests, and gradient boosting. RESULTS: 66% of men and 76% of women passed with 20% and 34% developing an injury. For men, slower 2.4 km run time (odds ratio [OR]=1.004, p=0.011) and higher symptoms of depression (OR=1.173, p=0.001) were associated with higher risk of failing, and lower areal bone mineral density (OR=0.008, p=0.002), slower 2.4 km run time (OR=1.006, p=0.011), previous stress fracture (OR=3.267, p=0.002), lower parathyroid hormone (OR=0.783, p=0.009), and lower c-telopeptide cross-links of type I collagen (βCTX) (OR=0.255, p=0.041) were associated with higher risk of injury. For women, slower 2.4 km run time (OR=1.009, p=0.009) and higher total 25-hydroxyvitamin-D (OR=1.013, p=0.001) were associated with higher risk of failing, and slower 2.4 km run time (OR=1.007, p=0.009), higher alcohol intake (OR=1.006, p=0.017), and lower βCTX (OR=0.057, p=0.026) were associated with higher risk of injury. Training outcome was poorly predicted in men and women (area under the receiver operating characteristic curve≤0.68). All models had low sensitivity and high specificity, but application of an outcome-specific threshold determined using the Youden Index improved sensitivity. CONCLUSIONS: Interventions to improve military training outcome should address aerobic fitness prior to starting training. Prediction models may be useful in identifying some 'at-risk' recruits.",
+      "doi": "10.1249/MSS.0000000000004212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024823/",
+      "relevance": 12,
+      "matched": [
+        "training",
+        "aerobic",
+        "metabolism",
+        "performance",
+        "hormone",
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43024402",
+      "title": "Mushrooms and Human Nutrition: Is It Time for a New Food Group?",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-13",
+      "authors": "Lora Iannotti, Gifty Aboagye-Mensah, Laura Brugger et al.",
+      "abstract": "In this narrative review, evidence is analyzed to help determine whether mushrooms should be recommended as a separate food group, based on 3 lines of inquiry: biochemistry, epidemiology, and sustainability. Mushrooms are classified taxonomically in the kingdom Fungi, distinct from Plantae or Animalia where most other foods are found. Yet around the world, food-based dietary guidelines group mushrooms with vegetables. We reviewed evidence from multiple databases and applied varying keyword strings for each area of inquiry, including (1) biochemistry, (2) epidemiology, and (3) sustainability. Studies published in English from 1990 to the present were included. Evidence from biochemistry showed mushrooms contain constituents-including ergothioneine, lectin, β-glucan, conjugated linoleic acid, micronutrients (vitamin D, niacin, choline, selenium, zinc), and other bioactive factors (phenolic compounds, terpenes)-linked to positive health outcomes with the potential to fill gaps left by other food groups. Experimental trials on human health effects are lacking, though observational studies of moderate quality showed mushroom consumption was associated with positive metabolic and neurocognitive outcomes. Regarding environmental sustainability, mushroom production on lignocellulose substrates requires minimal inputs, and spent substrate may be recycled into animal feed and biofuel, among other uses. Recommending mushrooms as a distinct group could relieve environmental pressure from other food groups. Social sustainability varies by region, with higher acceptability in Asia, cultural barriers evident in Europe and North America, and increasing consumption in South America. Economically, mushrooms show promise for revenue generation and affordability, despite sparse data and production limited to 5 mushroom types. Convincing rationale was found on the biochemistry and sustainability aspects of mushrooms to justify recommending them as a separate food group, but more empirical evidence linking mushrooms to health outcomes is needed.",
+      "doi": "10.1093/nutrit/nuag163",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024402/",
+      "relevance": 9,
+      "matched": [
+        "nutrition",
+        "food",
+        "nutrient",
+        "diet",
+        "dietary",
+        "vitamin"
+      ]
+    },
+    {
       "pmid": "43023608",
       "title": "Enamel thickness in the stem hylobatid Kapi ramnagarensis (Primates, Hylobatidae).",
       "journal": "Anatomical record (Hoboken, N.J. : 2007)",
@@ -3201,6 +3402,48 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43023574/",
       "relevance": 0,
       "matched": []
+    },
+    {
+      "pmid": "43025404",
+      "title": "Exogenous Lactate Supplementation: A Promising Fueling Strategy to Enhance Endurance Performance.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-12",
+      "authors": "Aitor Viribay, Adrián Castillo-García, Borja Martinez-Tellez",
+      "abstract": "PURPOSE: Lactate has historically been mischaracterized as a metabolic byproduct associated with fatigue. The lactate shuttle paradigm describes its role in substrate exchange between glycolytic and oxidative tissues. Recent evidence has highlighted lactate as a key regulator of systemic energy metabolism and cellular signaling. While endogenous lactate production and clearance mechanisms during exercise are well established, the potential of exogenous lactate as an ergogenic fuel remains largely unexplored. Here, we aim to (1) synthesize current knowledge and discuss the mechanistic pathways through which exogenous lactate supplementation may enhance endurance performance in humans and (2) critically appraise the current limitations of high-dose exogenous lactate administration and outline novel formulation strategies, adapted from established sports nutrition practices, that warrant future investigation. CONCLUSION: Exogenous lactate supplementation holds promise as a novel fueling strategy to enhance endurance performance. However, human trials to date have failed to demonstrate performance benefits, potentially due to the low doses and bolus administration strategies employed. Future research should therefore focus on developing formulations capable of safely delivering physiologically relevant doses and evaluating their efficacy in well-controlled human studies.",
+      "doi": "10.1123/ijspp.2026-0332",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025404/",
+      "relevance": 18,
+      "matched": [
+        "endurance",
+        "lactate",
+        "performance",
+        "exercise",
+        "fatigue",
+        "metabolic"
+      ]
+    },
+    {
+      "pmid": "43025303",
+      "title": "Lower extremity joint biomechanics from a single crossover drop task demonstrate superior predictive potential for secondary ACL injuries than drop vertical jump or single leg landing tasks.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-12",
+      "authors": "Nathan D Schilaty, Kim D Barber Foss, April L McPherson et al.",
+      "abstract": "BACKGROUND: Secondary anterior cruciate ligament (ACL) injuries remain a significant concern after return-to-sport (RTS) following ACL reconstruction (ACLR), with rates as high as 24%. Identifying biomechanical predictors of re-injury is critical for improving RTS protocols. PURPOSE: To compare the predictive potential of three common landing tasks [drop vertical jump (DVJ), single-leg landing (SLL), and single-leg crossover drop (SCD)] for secondary ACL injury risk in post-ACLR athletes. METHODS: A multicenter cohort of 150 athletes (age 13-30 years) that were cleared for RTS post-ACLR completed DVJ, SLL, and SCD tasks during 3D motion analysis; 144 athletes data met criteria for analysis. Peak kinematic and kinetic variables (n = 126) were analyzed using a penalized logistic regression with an elastic net penalty. Predictive models were evaluated via ROC curves, sensitivity, specificity, and predictive values. RESULTS: The SCD task demonstrated the strongest predictive performance for secondary ACL injury, with a validated positive predictive value (PPV) of 0.57, negative predictive value (NPV) of 0.96, sensitivity of 80.0%, specificity of 88.9%, and an area under the curve (AUC) of 0.933. The DVJ demonstrated moderate predictive performance (PPV=0.43, NPV=0.92, sensitivity=60.0%, specificity=85.7%, AUC=0.843), while the SLL demonstrated the lowest performance (PPV=0.33, NPV=0.92, sensitivity=60.0%, specificity=78.6%, AUC=0.736). CONCLUSION: Lower extremity biomechanics during SCD provide greater predictive performance for secondary ACL injury compared with the DVJ or SLL. The findings suggest that SCD captures biomechanical characteristics relevant to secondary ACL injury risk and may improve identification of athletes at elevated risk following ACL reconstruction. However, further validation and model simplification are needed before clinical implementation as a stand-alone screening tool.",
+      "doi": "10.1016/j.gaitpost.2026.110700",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025303/",
+      "relevance": 14,
+      "matched": [
+        "joint",
+        "biomechanic",
+        "acl",
+        "ligament",
+        "kinematic",
+        "kinetic"
+      ]
     },
     {
       "pmid": "43019555",
@@ -3815,6 +4058,25 @@
       ]
     },
     {
+      "pmid": "43025406",
+      "title": "Mental Fatigue Impairs Training Performance in Resistance-Trained Males and Females: A Velocity-Based Approach.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-10",
+      "authors": "Emanuele Dello Stritto, Antonio Gramazio, Ruggero Romagnoli et al.",
+      "abstract": "PURPOSE: The aim of this study was to investigate the effect of mental fatigue (MF) on training volume and velocity of the first repetition during back squat in males and females. METHODS: Nineteen resistance-trained participants (10 males, 9 females) completed 6 training sessions. Four sessions served as familiarization with maximal intent velocity during the concentric phase and with different velocity loss (VL) thresholds. In the final 2 sessions, conducted in a randomized order, participants performed 8 back squat sets. The first 4 sets were completed under rested conditions, while the subsequent 4 sets were performed following either a 45-minute AX Continuous Performance Test test (MF condition) or a 45-minute documentary (control condition). The squat protocol involved 2 VL conditions (20% VL and 40% VL) and 2 loading intensities (60% and 80% 1-repetition maximum). Training volume was defined as the sum of repetitions across the 4 back squat sets. RESULTS: For training volume, a time × condition interaction emerged, indicating significant reductions in training volume in the MF condition in both sexes (P < .05, η2 = .39, -4.5 [4.6] repetitions in males and 9.11 [7.5] in females), whereas no significant changes were observed in the control condition (P > .05). Regarding velocity of the first repetition, a significant time × condition (P < .05, η2 = .26) and time × sex × condition interaction was found (P < .05, η2 = .06), showing a significant reduction in velocity of the first repetition only in the MF condition only, in both males (-0.06 [0.07] m/s) and females (-0.03 [0.05] m/s), with males exhibiting a greater decrease in velocity compared with females. CONCLUSION: These findings suggest that resistance training performance may be negatively affected in the presence of MF, with this effect potentially differing between sexes.",
+      "doi": "10.1123/ijspp.2025-0638",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025406/",
+      "relevance": 18,
+      "matched": [
+        "training",
+        "fatigue",
+        "resistance",
+        "performance"
+      ]
+    },
+    {
       "pmid": "43014301",
       "title": "Global Positioning System-Derived Match Demands and Their Association With On-Field Technical Performance in Elite Australian Football League Women's (AFLW) Athletes.",
       "journal": "International journal of sports physiology and performance",
@@ -4081,6 +4343,157 @@
       "matched": []
     },
     {
+      "pmid": "43030345",
+      "title": "Low-Fat by Formulation, Not by Benefit: A Purified Low-Fat Diet Is Associated with Gut-Liver-Kidney Alterations in Rats.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Pedro Vieira, Gonçalo Ferreira, Filipa Carvalho et al.",
+      "abstract": "Background/Objectives: \"Low-fat\" claims are defined by a fat threshold, with no requirements regarding the nutrients replacing fat. Reformulation often relies on refined starches and free sugars at the expense of dietary fiber. Thus, a low-fat (LF) product is not necessarily of good carbohydrate quality, a dimension that macronutrient-based classification fails to capture. Whether LF-derived poor carbohydrate quality is associated with organ-specific alterations across the gut-liver-kidney axis remains unknown. Methods: Male Wistar rats were fed for 24 weeks a purified LF diet, its ingredient-matched purified high-fat, high-sucrose counterpart (HF), or a whole-grain Chow reference of similar energy density. Carbohydrate quality was assessed using the carbohydrate-to-dietary fiber-to-free sugars ratio. Body weight and adiposity, glucose homeostasis, gut fermentation, and hepatic and renal functional and structural parameters were evaluated. Results: Only Chow met the 10:1:1 carbohydrate quality criterion. At a caloric intake that did not exceed that of Chow, LF feeding was associated with increased body weight, adipocyte hypertrophy, impaired glucose tolerance and postprandial hyperinsulinemia. Fecal short-chain fatty acids (SCFAs) and branched SCFAs declined, consistent with a reduction in colonic fermentative output. Chronic LF exposure was additionally associated with hepatic and renal lipid accumulation, normoglycemic glycosuria, and podocyte structural alterations. Conclusions: A purified low-fat diet was associated with the same spectrum of gut, liver and kidney alterations as its high-fat counterpart, without excess caloric intake. These findings support an important role for nutrient sources and carbohydrate quality in shaping metabolic health beyond dietary fat content or caloric load alone.",
+      "doi": "10.3390/nu18213718",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030345/",
+      "relevance": 10,
+      "matched": [
+        "fat",
+        "diet",
+        "nutrient",
+        "carbohydrate",
+        "dietary",
+        "fiber"
+      ]
+    },
+    {
+      "pmid": "43030344",
+      "title": "Effects of Omega-3 Supplementation on Inflammatory Biomarkers and Ambulatory and Central Blood Pressure in Patients Treated for Hypertension and Dyslipidemia: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Carol Kotliar, Rocío Martínez Vivot, Cristian Beltramo et al.",
+      "abstract": "BACKGROUND: Omega-3 fatty acids exert anti-inflammatory and hemodynamic effects; however, their concurrent effects in patients receiving treatment for hypertension and dyslipidemia remain incompletely characterized. OBJECTIVE: To evaluate the effects of 12 weeks of supplementation with pharmaceutical-grade omega-3 fatty acids on inflammatory biomarkers, central and brachial blood pressure including office and 24 h ambulatory measurements, and vascular function in this population. METHODS: In this exploratory, randomized, double-blind, placebo-controlled pilot trial, 100 adults received omega-3 ethyl esters at a capsule dose of 2 g/day or a matching placebo for 12 weeks, in addition to stable usual pharmacological treatment. Treatment effects were estimated using linear mixed-effects models. p-values were nominal, and 95% confidence intervals were not adjusted for multiplicity. RESULTS: Compared with placebo, omega-3 supplementation was associated with greater reductions in the neutrophil-to-lymphocyte ratio (NLR; -0.43; 95% CI, -0.73 to -0.13; p = 0.005), ferritin (-47.32 ng/mL; 95% CI, -77.55 to -17.08; p = 0.003), daytime systolic blood pressure (-6.52 mmHg; 95% CI, -10.66 to -2.39; p = 0.002), nighttime diastolic blood pressure (-5.55 mmHg; 95% CI, -9.87 to -1.22; p = 0.013), central systolic blood pressure (-6.71 mmHg; 95% CI, -12.22 to -1.20; p = 0.019), and estimated pulse wave velocity (-0.77 m/s; 95% CI, -1.19 to -0.36; p < 0.001). CONCLUSIONS: The trial identified exploratory signals involving NLR, ferritin, selected ambulatory blood-pressure measures, central systolic blood pressure, and algorithm-derived ePWV. Multiplicity, limited sample size, and incomplete outcome availability preclude confirmatory interpretation. Independent replication in larger, prospectively registered trials with clearly specified endpoints and reproducible sample-size calculations is required.",
+      "doi": "10.3390/nu18213717",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030344/",
+      "relevance": 7,
+      "matched": [
+        "supplement",
+        "omega-3",
+        "fat"
+      ]
+    },
+    {
+      "pmid": "43030343",
+      "title": "Macronutrient Intake and Clinical Manifestations in Adults with Long COVID-19: A Cross-Sectional Analysis of the BioICOPER Study.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "David Rodríguez-García, Marta Gómez-Sánchez, Elena Navarro-Matías et al.",
+      "abstract": "Background/Objectives: The relationship between macronutrient intake and the clinical manifestations of long COVID-19 remains poorly understood. This study examined these associations in adults from the BioICOPER cohort. Methods: This cross-sectional study included 290 adults with long COVID-19 from the BioICOPER cohort who had complete seven-day dietary records collected using the EVIDENT application. Twelve clinical outcomes were assessed using linear regression with robust standard errors, ordinal logistic regression for frailty, and multinomial logistic regression for dyspnea. Model 1 examined eight exposures (total energy and seven nutrient intake variables), adjusting for age and sex. Model 2 examined seven exposures expressed as energy percentages or fiber density, additionally adjusting for total energy intake. Benjamini-Hochberg correction was applied separately to the 96 and 84 tests, respectively. Results: In Model 1, higher intakes of total fat (odds ratio [OR]: 0.983; 95% confidence interval [CI]: 0.974-0.992), saturated fatty acids (OR: 0.956; 95% CI: 0.932-0.981), and monounsaturated fatty acids (OR: 0.967; 95% CI: 0.948-0.987), per additional g/day, were associated with lower odds of being in a higher frailty category (q: 0.034, 0.034, and 0.038, respectively). No primary association in Model 2 remained significant after correction for multiple testing. Exploratory analyses identified quadratic relationships between the energy percentages from protein and polyunsaturated fatty acids and Montreal Cognitive Assessment (MoCA) scores (q = 0.0163 and 0.0111, respectively). Conclusions: Absolute intakes of certain fats were inversely associated with frailty, whereas the primary analyses of energy-adjusted dietary composition showed no significant associations after correction for multiple testing. These findings do not support recommending a specific macronutrient distribution. The exploratory cognitive findings require replication in longitudinal studies.",
+      "doi": "10.3390/nu18213716",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030343/",
+      "relevance": 9,
+      "matched": [
+        "nutrient",
+        "protein",
+        "fat",
+        "diet",
+        "dietary",
+        "energy intake"
+      ]
+    },
+    {
+      "pmid": "43030342",
+      "title": "Chemical Characterization and Effects of Aqueous Uncaria tomentosa Stem-Bark Extract on Keratinocyte Scratch Closure and Inflammatory and Redox Responses.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Euler Ribeiro-Filho, Verônica Farina Azzolin, Vitória Farina Azzolin et al.",
+      "abstract": "BACKGROUND: Plant-derived bioactive compounds are increasingly investigated as modulators of cellular processes associated with healthy aging. Uncaria tomentosa is traditionally consumed as a botanical preparation, but the effects of its aqueous stem-bark extract on keratinocyte repair-related responses remain insufficiently characterized. METHODS: The extract was examined using colorimetric assays, DPPH radical scavenging, and untargeted LC-HRMS/MS with molecular networking and in silico class prediction. Cell viability, membrane integrity, extracellular NDUFS7, superoxide, nitric oxide-related products, and cell-cycle distribution were assessed at 1-100 µg/mL. Scratch closure, cytomorphology, IL-1β, and TNF-α were evaluated at 1, 3, and 10 µg/mL. RESULTS: The aqueous extract contained phenolic compounds, flavonoids, tannins, and alkaloids and exhibited DPPH-scavenging activity. LC-HRMS/MS supported a diverse profile including flavonoid glycosides, caffeoylquinic acids, procyanidins, iridoids, and putative triterpenoid glycosides. The extract preserved viability and membrane integrity and did not produce marked basal redox imbalance or increased extracellular NDUFS7. It moderately redistributed cell-cycle phases without a classical arrest pattern. Scratch closure increased at 6 and 24 h. IL-1β decreased at 1 and 3 µg/mL, whereas TNF-α remained broadly stable. CONCLUSIONS: The aqueous extract enhanced keratinocyte monolayer closure and selectively modulated inflammatory and redox-metabolic responses relevant to inflammaging. Cellular senescence and the senescence-associated secretory phenotype were not directly demonstrated.",
+      "doi": "10.3390/nu18213715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030342/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43030341",
+      "title": "The Bioactive Potential of Algae and Their Health-Promoting Properties in the Context of the Impact on Human Health and Potential Applications in Food Technology: A Comprehensive Review.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Aleksandra Purkiewicz, Renata Pietrzak-Fiećko",
+      "abstract": "Algae are a promising source of biologically active compounds with potential significance for human health and modern food technology. Their diverse chemical composition includes, among other things, proteins and peptides, polyunsaturated fatty acids, polysaccharides, carotenoids, chlorophylls, polyphenols, vitamins, and minerals. The aim of this review is to provide a comprehensive characterization of the bioactive potential of algae and to analyze their health-promoting properties and potential applications in the production of functional foods. Particular attention was paid to compounds that have been shown in studies to exhibit antioxidant, anti-inflammatory, and antihypertensive effects, as well as those that potentially support normal glucose metabolism and have anticancer properties. The importance of selected algal components in protecting cells from oxidative stress and modulating metabolic processes was also discussed. From a food technology perspective, the possibilities for using algal biomass and components isolated from it as functional additives, natural colorants, texturizers, and sources of nutrients were presented. The potential of algae as an alternative source of protein and lipids in response to the growing demand for sustainable food raw materials was also considered. At the same time, limitations related to the bioavailability of bioactive compounds, variability in chemical composition, the presence of potential contaminants, and the need to standardize methods were highlighted. An analysis of the available data indicates that algae may be a valuable raw material for the development of functional foods; however, fully realizing their potential requires further in vivo studies and clinical trials to confirm their efficacy and safety.",
+      "doi": "10.3390/nu18213714",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030341/",
+      "relevance": 8,
+      "matched": [
+        "food",
+        "nutrient",
+        "protein",
+        "fat",
+        "vitamin",
+        "mineral"
+      ]
+    },
+    {
+      "pmid": "43030340",
+      "title": "The Association of Type 2 Diabetes and Hypothyroidism with the Composition and Antioxidant Properties of Human Milk: A Cross-Sectional Study.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Agnieszka Dombrowska-Pali, Agnieszka Chrustek, Dorota Olszewska-Słonina et al.",
+      "abstract": "BACKGROUND: Thyroid disorders and diabetes are among the most common endocrine and metabolic conditions affecting pregnant women. It is important to note that adequate serum thyroid hormone levels are essential for proper lactation. Diabetes, in turn, is associated with delayed lactogenesis, especially in cases of poor glycemic control. It should be emphasized that breastfeeding is globally recognized as the safest and most effective method of feeding infants. Human milk has a variable nutritional composition in distinct phases: colostrum, transitional milk, and mature milk. METHODS: The present observational cross-sectional study included 208 breastfeeding women between 3 and 12 months postpartum: 79 women with hypothyroidism, 53 women with type 2 diabetes, and 76 healthy controls. An analysis was conducted on a sample of human milk to determine its basic nutritional composition, cortisol concentration, and antioxidant status. This analysis utilized DPPH and FRAP assays, which are methods employed to assess the antioxidant capacity of a sample. The basic composition of human milk was analyzed using the MIRIS HMATM analyzer (Uppsala, Sweden). Cortisol levels were determined using an immunoenzymatic method. RESULTS: In unadjusted analyses, milk fat content was higher in women with hypothyroidism and lower in women with type 2 diabetes compared with the control group. However, these differences were no longer statistically significant after adjustment for maternal and clinical covariates in multiple regression analyses. A lower reduction in the DPPH radical was shown in the milk of women with type 2 diabetes (13.8%) and in the milk of women with hypothyroidism (29%) compared to the control group. In the group of women with type 2 diabetes, cortisol levels positively correlated with the protein content and caloric content of milk. It was also noted that BMI in this group was significantly associated with the caloric content of human milk. CONCLUSIONS: These findings demonstrate differences in selected characteristics of human milk among the studied groups; however, their clinical relevance for infant health cannot be determined from the present study, as infant growth, body composition, and developmental outcomes were not assessed. Further prospective studies incorporating infant outcomes are needed to determine the clinical significance of these observations.",
+      "doi": "10.3390/nu18213713",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030340/",
+      "relevance": 4,
+      "matched": [
+        "nutrition",
+        "protein",
+        "fat",
+        "body composition"
+      ]
+    },
+    {
+      "pmid": "43030339",
+      "title": "Dietary Restriction Status for Hen's Egg, Cow's Milk, and Wheat in Relation to Plasma Amino Acid Profiles, Growth, and Insulin-like Growth Factor I in Children with Food Allergy.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Seiya Masukane, Suguru Fujita, Ayano Ueda et al.",
+      "abstract": "Background/Objectives: Food avoidance may compromise nutrient intake and growth in children with food allergy; however, its association with plasma amino acid profiles remains poorly understood. We aimed to examine dietary restriction status for hen's egg, cow's milk, and wheat in relation to plasma amino acids, growth, and insulin-like growth factor I. Methods: This single-center cross-sectional study included 80 children aged < 10 years. Dietary restriction status, defined based on the amount of each food medically permitted for routine daily consumption, was dichotomized as complete avoidance/minimal intake or partial/unrestricted intake. Plasma amino acids were available for 79 participants. Multivariable models included all three foods, with Benjamini-Hochberg correction. Results: No broad reduction in plasma amino acid concentrations was evident across dietary restriction categories, although several food-specific associations were observed. Less restrictive cow's milk status was nominally associated with higher height standard deviation score (SDS) and lower aspartic acid concentration. Less restrictive wheat status was associated with lower weight SDS after multiple-testing correction (q = 0.046), although the complete avoidance/minimal intake group comprised only three participants. Among children with a cow's milk allergy, threonine concentration was 34.2% lower in the partial/unrestricted group than in the complete avoidance/minimal intake group (q = 0.002). The minimum essential amino acid z-score was inversely associated with weight SDS and body mass index SDS (q = 0.023 for both). No association with the overall 20-amino-acid profile remained significant after multiple-testing correction. Conclusions: Dietary restriction status was not accompanied by a broad or uniform reduction in circulating amino acids. Instead, the observed pattern suggested selective rather than generalized differences, warranting confirmation in longitudinal studies with quantitative dietary assessments.",
+      "doi": "10.3390/nu18213712",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030339/",
+      "relevance": 13,
+      "matched": [
+        "diet",
+        "dietary",
+        "amino acid",
+        "food",
+        "nutrient"
+      ]
+    },
+    {
+      "pmid": "43030338",
+      "title": "Associations of Anthropometry and Handgrip Strength with Bioelectrical Impedance Parameters in Irritable Bowel Syndrome: A Cross-Sectional Study.",
+      "journal": "Nutrients",
+      "journal_issn": "2072-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-09",
+      "authors": "Jiří Vejmelka, Martina Kollerová, Ivana Pražanová et al.",
+      "abstract": "BACKGROUND/OBJECTIVES: Simple anthropometry may complement nutritional assessment in irritable bowel syndrome (IBS). We examined the associations of arm anthropometry and handgrip strength (HGS) with bioelectrical impedance analysis (BIA) parameters. METHODS: This cross-sectional baseline analysis included 55 adults with IBS-D or IBS-M for valid non-adiposity measurements; 54 contributed valid paired body-fat estimates, and 54 had valid dominant-hand HGS. RESULTS: MUAMC correlated with BIA-derived skeletal muscle mass within men (Spearman's ρ = 0.748) and women (ρ = 0.673). After adjustment for sex, age, height and body weight, the MUAMC association was attenuated (β = 0.0337 kg/mm, 95% CI 0.0059-0.0616; p = 0.0187). MUAMC was correlated with phase angle in the pooled sample (ρ = 0.806), but sex-related differences were exploratory. In a sensitivity model using the impedance index, the association was not significant after further adjustment for body weight (β = 0.0670, 95% CI -0.0087 to 0.1427; p = 0.0816). HGS correlated with BIA-derived skeletal muscle mass before adjustment (ρ = 0.769; n = 54), whereas an adjusted association was not established. BIA- and skinfold-derived body-fat estimates were correlated but showed proportional bias, limiting interchangeability. CONCLUSIONS: MUAMC is associated with BIA-derived muscle-related parameters, but mathematical coupling, body size and the absence of a criterion method limit causal and validation claims. Findings from this exploratory single-centre analysis require independent confirmation.",
+      "doi": "10.3390/nu18213711",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030338/",
+      "relevance": 2,
+      "matched": [
+        "nutrition",
+        "fat"
+      ]
+    },
+    {
       "pmid": "43004813",
       "title": "Metabolic Vulnerability Despite Normal BMI: From Adverse Body Composition to Ectopic Fat and Organ Dysfunction.",
       "journal": "American journal of physiology. Endocrinology and metabolism",
@@ -4265,6 +4678,41 @@
       "matched": [
         "kinematic",
         "training"
+      ]
+    },
+    {
+      "pmid": "43025302",
+      "title": "Temporal evolution of EEG band power at freezing of gait onset in Parkinson's disease.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-07",
+      "authors": "Brenda Luciano de Sousa Silva, Núbia Ribeiro Conceição, Caroline Ribeiro de Souza et al.",
+      "abstract": "INTRODUCTION: Although EEG studies have implicated theta-, alpha-, and beta-band activity in freezing of gait (FoG) in Parkinson's disease (PD), most have relied on resting-state comparisons, task contrasts, or connectivity analyses rather than modeling band-power changes around FoG onset. This study investigated the temporal evolution of EEG spectral power around FoG onset during ecological walking. METHODS: We analyzed a multimodal dataset comprising 10 individuals with PD and FoG during ecological walking. Two hundred and four FoG episodes were analyzed. EEG was recorded from 25 scalp electrodes and time-locked to FoG onset. Relative spectral power was computed for theta, alpha, and beta bands. Channel-wise piecewise linear mixed-effects models evaluated pre-FoG trends, onset-related shifts, and post-onset slope changes. Multiple comparisons were controlled using the Benjamini-Hochberg false discovery rate (FDR, q < 0.05). RESULTS: Theta power showed no significant pre-FoG trend but increased abruptly at FoG onset at F3 and Fz. Alpha power exhibited a progressive pre-FoG increase at FP1, F3, F8, Fz, and Cz, whereas no onset-related or post-onset alpha effects survived FDR correction. Beta power showed no significant temporal modulation after correction. These findings indicate temporal profiles, with alpha changes preceding FoG and theta changes emerging at onset. CONCLUSION: FoG onset during ecological walking is associated with dissociable low-frequency EEG dynamics. Frontal and midline alpha increases may characterize a pre-freezing state, whereas abrupt frontal theta increases are associated with the transition into FoG. These patterns represent candidate electrophysiological features that require prospective validation before predictive or biomarker applications can be established.",
+      "doi": "10.1016/j.gaitpost.2026.110698",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025302/",
+      "relevance": 3,
+      "matched": [
+        "gait"
+      ]
+    },
+    {
+      "pmid": "43025175",
+      "title": "Cervical biomechanical responses to parachute opening shock: effects of shock magnitude and initial body orientation.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-07",
+      "authors": "Shuanghui Cao, Siqi Deng, Qingbo Dou et al.",
+      "abstract": "Injuries associated with parachute opening shock (POS) are a major form of trauma related to parachuting and remain an important concern in aerospace medicine. A full human body finite element model of POS incorporating a three-point harness system was developed, and its global dynamic response was evaluated using data from a physical POS test conducted with a Hybrid Ⅲ dummy. The first head acceleration peaks of the simulated and experimental responses were similar in magnitude and time to peak. The effects of POS magnitude and initial body orientation on cervical kinematics, regional loading, and local tissue biomechanical responses were subsequently investigated. The results indicated that POS induced nonuniform segmental cervical flexion and distinct loading patterns across different cervical regions. Increasing the POS magnitude generally increased cervical loads, intervertebral differential flexion, and tensile strains in the posterior cervical ligaments, whereas peak stress in individual vertebrae showed segmental variations. Changes in initial body orientation substantially altered the loading patterns of the middle and lower cervical spine by modifying harness load distribution and trunk motion. This study establishes a human body finite element framework that incorporates harness load transfer to reveal how POS magnitude and initial body orientation redistribute cervical loading from global trunk motion to segmental deformation and local tissue responses.",
+      "doi": "10.1016/j.jbiomech.2026.113672",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025175/",
+      "relevance": 6,
+      "matched": [
+        "biomechanic",
+        "spine",
+        "ligament",
+        "kinematic"
       ]
     },
     {
@@ -4481,434 +4929,6 @@
       "relevance": 1,
       "matched": [
         "morphology"
-      ]
-    },
-    {
-      "pmid": "42994694",
-      "title": "Lumping vs. Splitting Nutrients, Foods and Diet Patterns in Nutrition Research: Science Dialogue Mapping of Origins, Uses and Knowledge Gaps.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-06",
-      "authors": "Sabrina Ayoub-Charette, Laura Chiavaroli, Alexandra E Cowan-Pyle et al.",
-      "abstract": "BACKGROUND: The practices of lumping together and splitting apart foods, nutrients, and diet patterns shape the interpretation of nutritional evidence and guidance. OBJECTIVE & METHODS: To discuss the inherent complexity of 'lumping' and 'splitting' foods, nutrients, and diet patterns, we held an in-person colloquium in December 2024, where we utilized dialogue mapping to summarize the discussion in real-time. Knowledgeable early-career nutrition researchers explored the contexts for lumping and splitting with the goal of beginning a conversation in the scientific community on the topic. RESULTS: Six themes emerged about lumping or splitting: definitions and history, population heterogeneity, consumer behavior, policy and public health messaging, frameworks for categorization, and measurement and methods. Participants identified lumping that persists on historical rather than scientific grounds, with circularity in policy in which guidelines are used to build adherence indices that are then used to evaluate those guidelines. The shifting protein categories across successive Dietary Guidelines for Americans Scientific Reports showed the same foods being lumped or split for different purposes. Measurement error and incomplete food composition data limit splitting, whereas life stage, physiology, and culture favored finer categories. CONCLUSIONS: Participants emphasized that lumping and splitting are not inherently right or wrong, nor are they inherently a binary approach; rather, the appropriateness to lump or split depends on the purpose of the analysis, public health messaging, or evidence-informed policy decisions. Future work is needed to operationalize lumping and splitting decisions in the field of nutrition science, and to enhance transparency in the rationale of lumping and splitting decisions.",
-      "doi": "10.1016/j.tjnut.2026.101932",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994694/",
-      "relevance": 14,
-      "matched": [
-        "nutrition",
-        "nutrient",
-        "diet",
-        "food",
-        "protein",
-        "dietary"
-      ]
-    },
-    {
-      "pmid": "42994693",
-      "title": "A vegetarian meal reduces protein digestibility without altering postprandial protein utilization in old rats.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-06",
-      "authors": "M Muziot, M Andriamihaja, M Dufay et al.",
-      "abstract": "BACKGROUND: The composition of the meal, particularly its plants-based components, may reduce protein digestibility and amino acid (AA) availability. This issue is particularly relevant given the increasing adoption of plant-based diets, especially in populations with higher protein requirements, including older adults. OBJECTIVE: To assess the acute effects of meal context on pea protein and AA digestibility and metabolism across lifespan, comparing vegetarian and omnivorous meals. METHODS: 48 male Wistar rats aged 1, 10, and 18 months (n=16/age) consumed 15N-labeled peas within an omnivorous or vegetarian meal and were euthanized 6 h later. Digestive contents were collected for protein and AA digestibility. Plasma and urinary 15N enrichment was measured to evaluate deamination. Liver and muscle protein synthesis was determined using 13C-valine flooding dose method. Gene expression related to digestion and protein metabolism was quantified in liver, muscle, and intestinal mucosa. RESULTS: Fecal pea protein and caecal AA digestibility were slightly reduced with the vegetarian meal (93.5% vs. 94.7%, P = 0.01 and 90.5% vs. 93.7%, P = 0.0009, respectively), particularly in old rats (92.5% vs. 94.2%, P = 0.03 and 89.7% vs. 93.6%, P = 0.02, respectively). However, this reduction did not affect nitrogen utilization or protein synthesis. Young rats showed greater peripheral nitrogen utilization, with higher muscle protein synthesis (+70%, P < 0.0001) and lower deamination (-70%, P < 0.0001), consistent with growth demands. Adult and old rats exhibited higher liver protein synthesis (+40%, P = 0.0004) and higher deamination (+70%, P < 0.0001), indicating a shift toward maintenance metabolism, independent of meal type. CONCLUSIONS: The vegetarian meal slightly reduced protein and AA digestibility, likely due to its higher antinutritional factor content, with greater sensitivity in older rats, but did not impair postprandial protein metabolism. Long-term studies should determine whether these reductions have cumulative effects on muscle maintenance during aging. STATEMENT OF SIGNIFICANCE: This study provides novel evidence that the negative impact of complex vegetarian meals on protein digestibility may be amplified with aging, while postprandial protein utilization remains preserved despite reduced digestibility. It further demonstrates that age-related shifts toward increased splanchnic retention and amino acid oxidation predominate over meal composition effects, highlighting aging as a key determinant of plant protein utilization.",
-      "doi": "10.1016/j.tjnut.2026.101926",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994693/",
-      "relevance": 9,
-      "matched": [
-        "protein",
-        "meal",
-        "nutrition",
-        "diet",
-        "amino acid"
-      ]
-    },
-    {
-      "pmid": "42994692",
-      "title": "Lifestyle counseling including the DASH diet improves multiple metabolomic profiles.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-06",
-      "authors": "Mahya Mehri Hajmir, Xichen Wang, Rob M van Dam",
-      "abstract": "BACKGROUND: Lifestyle interventions improve cardiometabolic risk factors, but data from randomized trials on their impact on detailed metabolomic profiles remain limited. OBJECTIVES: Our aim was to evaluate the effects of lifestyle counseling with and without the Dietary Approaches to Stop Hypertension (DASH) diet on changes in metabolomic patterns. METHODS: We analyzed data from 690 adult participants of the randomized PREMIER trial. The trial compared three lifestyle interventions: 'Advice-only', 'Established', and 'Established plus DASH'. Fasting plasma metabolites were quantified by NMR spectroscopy at baseline and 6 months, and principal component (PC) analysis was used to identify metabolomic patterns. Multiple linear regression examined the interventions and changes in BMI and heart rate in relation to changes in PC scores and individual metabolites. RESULTS: Thirteen PCs representing lipoprotein, triglyceride-rich, amino acid, fatty acid, inflammatory, and ketone-related patterns were identified. Compared with Advice-only, the Established intervention reduced PC4 (β = -0.50, P = 0.04), VLDL cholesterol, and saturated fatty acids. Established plus DASH had broader effects, reducing PC9 (β = -0.33, P = 0.01), PC11 (β = -0.28 P = 0.004), and PC12 (β = -0.23, P = 0.02), increasing omega-3 fatty acids, and lowering branched-chain and aromatic amino acids, lactate, citrate, and GlycA. BMI change was associated with multiple PCs, whereas heart rate change showed fewer independent associations. CONCLUSIONS: Lifestyle interventions induce coordinated metabolomic changes across lipid, amino acid, and inflammatory pathways. Weight loss appears to be the primary driver, while adding DASH provides broader metabolomic benefits than standard lifestyle counseling. CLINICAL TRIAL REGISTRATION NUMBER: ClinicalTrials.gov NCT00000616 (PREMIER: Lifestyle Interventions for Blood Pressure Control - Full Text View - ClinicalTrials.gov).",
-      "doi": "10.1016/j.tjnut.2026.101931",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994692/",
-      "relevance": 9,
-      "matched": [
-        "diet",
-        "protein",
-        "fat",
-        "dietary",
-        "amino acid",
-        "weight loss"
-      ]
-    },
-    {
-      "pmid": "42994691",
-      "title": "Children at risk of vitamin A deficiency exhibit taxonomic dysbiosis and functional remodeling of the gut microbiome: a matched case-control study.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-06",
-      "authors": "Sofia Moran-Ramos, Johan Alvarado-Calderon, Daniel Cerqueda-Garcia et al.",
-      "abstract": "BACKGROUND: Vitamin A deficiency is one of the most prevalent micronutrient deficiencies worldwide. This condition increases susceptibility to infections and due to its role in intestinal barrier integrity, it has been suggested that it could predispose to gut dysbiosis. OBJECTIVE: The aim of the study was to identify whether the gut microbiome of school-aged children at risk of vitamin A deficiency is associated with a dysbiotic state. METHODS: This 1:2 matched case-control study for children at risk of vitamin A deficiency included thirteen school-aged children (6-9 years old) at risk of VAD and 26 with adequate vitamin A levels (VAA) from the ORSMEC cohort. Habitual diet was determined with a FFQ, plasma retinol levels were determined through HPLC, and gut microbial characterization was performed through shotgun sequencing. RESULTS: In the present study, children at risk of VAD showed significantly higher levels of serum CRP (P=0.026). Although taxonomic gut microbial characterization showed no differences in alpha or beta diversity among groups, children at risk of VAD showed an enrichment of some facultative anaerobes, proposed to be established pathogens mainly from Streptococcus and Enterococcus genera (PFDR<0.1). At a functional level vitamin A status explained 7.09% of the variation in gut microbial functionality, when evaluated with the Bray-Curtis dissimilarity metric (P=0.008). Specifically, pathways related to pathogenicity such as O-antigen biosynthesis, heme biosynthesis and ethanolamine utilization were significantly enriched in children at risk of VAD (PFDR<0.1). In contrast, abundance of pathways related to B vitamins metabolism such as folate transformations, the super pathway for Coenzyme A biosynthesis and its precursor phosphopantothenate (vitamin B5) were depleted (PFDR<0.1). CONCLUSION: Overall, our study showed that in school-aged children, being at risk of vitamin A deficiency is associated with an enrichment of potential pathobionts and a shift in gut microbial functionality that could be related to greater pathogenicity.",
-      "doi": "10.1016/j.tjnut.2026.101933",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994691/",
-      "relevance": 5,
-      "matched": [
-        "vitamin",
-        "nutrient",
-        "diet"
-      ]
-    },
-    {
-      "pmid": "42993581",
-      "title": "Semilunar nucleus neurons are highly excitable and potentiated by group I mGluRs to drive descending excitation to the mouse MNTB.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Huimei Wang, Xiaoyu Wang, Danah Alquraish et al.",
-      "abstract": "Medial nucleus of the trapezoid body (MNTB) neurons receive one of the largest synapses in the mammalian brain, the calyx of Held; however, multiple studies reported additional non-calyceal excitatory inputs of largely unresolved origin to MNTB neurons. Most recently, the semilunar nucleus (SLN) was identified as a potential source of such non-calyceal input in the rat. To elucidate the function of this novel pathway, we investigated the connectivity and physiology of the mouse SLN, with particular focus on neuromodulation by group I metabotropic glutamate receptors (mGluRs). Viral tracing not only confirmed the SLN-MNTB pathway in mice, but also revealed that MNTB-projecting SLN neurons received their input from the ipsilateral auditory cortex. Physiological characterization of SLN neurons using whole-cell patch-clamp recordings showed that SLN neurons, unlike most other auditory brainstem neurons, were intrinsically highly excitable. Electrical stimulation of the fibre tracts located dorsal to the SLN, evoked small, slow AMPA receptor-mediated EPSCs in SLN neurons that readily summated temporally. Immunolabeling revealed a heterogeneous expression of mGluR1 and mGluR5 across SLN neurons. A subpopulation of SLN neurons exhibited spontaneous action potential firing at resting membrane potential. Pharmacological activation of group I mGluRs further increased spontaneous firing of SLN neurons. Probing for functional connectivity between SLN and the ipsilateral MNTB, fibre tracts dorsal and lateral to the MNTB were stimulated, eliciting primarily non-calyceal AMPA receptor-mediated EPSCs in MNTB neurons. These findings suggest that SLN output may provide a glutamatergic tonic drive to MNTB neurons, potentially modulating their temporal processing. KEY POINTS: MNTB receives a descending input from the ipsilateral auditory cortex via SLN. SLN neurons are highly excitable during development and into maturation, with a subset exhibiting spontaneous firing at resting membrane potential. Descending glutamatergic input to SLN is small and slow, and shows consistent temporal summation. Group I mGluRs further enhance spontaneous firing of SLN neurons and both mGluR1 and mGluR5 are expressed in the SLN. Descending ipsilateral projections to MNTB neurons primarily drive glutamatergic, non-calyceal inputs.",
-      "doi": "10.1113/JP291775",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993581/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42993297",
-      "title": "Neural correlates underlying motor sequence task performance: handedness and sequence complexity.",
-      "journal": "European journal of applied physiology",
-      "journal_issn": "1439-6319",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "János Négyesi, Jun Zhao, Yifan Wang et al.",
-      "abstract": "PURPOSE: We aimed to determine the neural correlates of motor sequence performance in healthy young adults, with respect to handedness and sequence complexity. METHODS: Strongly left-handed (LH, n = 15, 24.9y) and right-handed (RH, n = 15, 26.4y) participants performed finger key presses on a numeric keypad at four levels of sequence complexity with each hand in a randomized order. RESULTS: Both LH and RH performed the motor sequence task with faster reaction and motor execution times when using their right hand, irrespective of sequence complexity. Increasing motor-sequence complexity reduced frontal and parietal EEG power in both LH and RH, particularly at the highest complexity level, while RH also showed increased occipital delta activity when using the non-dominant hand, indicating that both sequence complexity and handedness modulate cortical activity during motor sequence performance. In addition, connectivity analysis showed significant hemispheric differences in brain network organization across frequency bands, with mainly greater left-hemisphere frontal and occipital connectivity but stronger right-hemisphere parietal connectivity. Sequence complexity primarily influenced functional connectivity (wPLI) rather than network topology. Notably, connectivity measures and selected MST-derived graph-theoretical metrics were linked to motor performance. CONCLUSION: Our findings suggest that motor-sequence performance is faster with the right hand, regardless of handedness and sequence complexity, which relies on a consistently organized hemispheric network, while increasing task complexity is managed primarily through frequency-specific changes in functional connectivity rather than large-scale reorganization of network structure.",
-      "doi": "10.1007/s00421-026-06495-0",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993297/",
-      "relevance": 7,
-      "matched": [
-        "performance",
-        "power"
-      ]
-    },
-    {
-      "pmid": "42993290",
-      "title": "Medical students' perceptions of smartphone-derived three-dimensional cadaveric models for anatomy education: a cross-sectional study.",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "journal_issn": "0930-1038",
-      "discipline": "anatomy",
-      "date": "2026-Nov-06",
-      "authors": "Eren Ogut, Esma Büşra Yildirim, Sude Naz Kilic et al.",
-      "abstract": "PURPOSE: Smartphone-based photogrammetry may provide an accessible way to create reusable three-dimensional (3D) models from cadaveric specimens for anatomy education. This study evaluated medical students' perceptions of these models and explored factors associated with their overall evaluations. METHODS: This cross-sectional study included 100 medical students who evaluated images and linked videos of smartphone-derived cadaveric models using a 22-item Likert-type questionnaire. Group differences were examined using non-parametric tests. Internal consistency, preliminary factor analysis, Spearman correlations, and exploratory multiple linear regression were also assessed. RESULTS: Participating students generally evaluated the model materials positively. The highest-rated items concerned long-term reuse through a digital model library (4.28 ± 0.59), improved access when cadaveric material is limited (4.26 ± 0.71), support for 3D thinking in interventional or surgical settings (4.22 ± 0.60), and preparation for clinical clerkships (4.19 ± 0.53). Regular integration into anatomy teaching was supported by 82% of participants. No significant differences were observed by sex or year of study. After reverse scoring negatively worded items, Cronbach's alpha was 0.881. Age group showed a weak correlation with the exploratory overall evaluation score (r = 0.286, p = 0.004). The exploratory regression model explained 11.4% of the variance but was not statistically significant (R2 = 0.114, p = 0.122). CONCLUSION: Participating medical students generally viewed smartphone-derived cadaveric digital models favorably, particularly for repeated access and the development of digital specimen libraries. These findings describe perceived usefulness and acceptability; they do not establish improvements in anatomical knowledge, spatial ability, or retention. Controlled studies using objective learning outcomes are needed before educational effectiveness can be determined.",
-      "doi": "10.1007/s00276-026-04050-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993290/",
-      "relevance": 2,
-      "matched": [
-        "hip",
-        "anatomical"
-      ]
-    },
-    {
-      "pmid": "42993253",
-      "title": "The tibialis posterior tendon revisited: a classification-based anatomical and radiological framework.",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "journal_issn": "0930-1038",
-      "discipline": "anatomy",
-      "date": "2026-Nov-06",
-      "authors": "Łukasz Olewnik, Ingrid C Landfald, Piotr Łabętowicz et al.",
-      "abstract": "The tibialis posterior tendon (TPT) demonstrates substantial anatomical variability in its branching and attachment morphology, extending beyond the simplified concept of a predominantly navicular attachment. This narrative review critically reappraises the classification of TPT attachment patterns proposed by Olewnik and places it in the context of subsequent anatomical, radiological, and functional evidence. Later anatomical studies have confirmed extensive variation in the number, distribution, and surface area of TPT attachments and have identified configurations not represented within the original classification. These findings support the use of classification systems as structured descriptive frameworks rather than exhaustive catalogues of TPT morphology. Cadaveric imaging studies demonstrate that complex TPT branching and attachment anatomy can be depicted on MRI; however, individual anatomical types and subtypes have not undergone systematic radiological validation. Representative MRI examples are therefore included for anatomical illustration rather than as diagnostic criteria. The functional significance of individual attachment patterns and their potential relationship to hindfoot and midfoot joint morphology remain incompletely understood. Further anatomical, imaging, and biomechanical studies are required to determine whether specific TPT patterns have reproducible radiological or functional correlates.",
-      "doi": "10.1007/s00276-026-04036-0",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993253/",
-      "relevance": 11,
-      "matched": [
-        "tendon",
-        "anatomical",
-        "joint",
-        "hip",
-        "biomechanic",
-        "foot"
-      ]
-    },
-    {
-      "pmid": "42993147",
-      "title": "Adipocyte FGF21 signalling connects protein restriction and metabolic cellular ageing.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Carter M Holloway, Spencer W Holloway",
-      "abstract": "",
-      "doi": "10.1113/JP292602",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993147/",
-      "relevance": 2,
-      "matched": [
-        "metabolic"
-      ]
-    },
-    {
-      "pmid": "42992949",
-      "title": "Cardiometabolic Outcomes in Dahl Salt-Sensitive Rat Pregnancies: Impact of a Maternal Hypertensive High-Fat Diet.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Viviane C L Gomes, Victoria N Bailey, Lauren G Kim et al.",
-      "abstract": "Excessive adiposity and chronic hypertension are major risk factors of preeclampsia, a leading hypertensive disorder of pregnancy. Yet, mechanisms underlying the complex interplay between adiposity, chronic hypertension, and preeclampsia remain incompletely understood, partly due to the limited availability of experimental models that capture these interactions. Herein, we explored maternal cardiometabolic adaptations in high-fat diet (HFD)-fed Dahl Salt-Sensitive rats, an established model of HFD-associated chronic hypertension. We hypothesized that HFD-fed dams would display a superimposed preeclampsia-like phenotype compared to control diet (CD)-fed Dahl Salt-Sensitive females. HFD-fed dams exhibited attenuated gestational weight gain, increased ketogenesis, cardiovascular dysfunction and blunted uteroplacental vascular adaptation to pregnancy. HFD feeding was associated with high blood pressure pre-pregnancy and during most of gestation and lactation. Interestingly, however, both groups displayed a drop in blood pressure during late gestation, with lower blood pressure nadir and lower urine protein excretion in HFD-fed dams. Short-term pregnancy outcomes were largely preserved in HFD-fed dams, including litter size, pup viability, and placental efficiency. Long-term, dietary normalization failed to reverse the hypertensive phenotype of HFD-exposed dams, with blood pressure remaining 10-15 mmHg higher than controls for at least 14 weeks post-weaning. In conclusion, HFD-fed Dahl salt-sensitive females developed chronic hypertension and impaired metabolic and cardiovascular adaptations to pregnancy. Yet, neither CD- nor HFD-fed dams exhibited hallmark preeclampsia features, including late-gestation blood pressure rise, proteinuria, and fetal growth restriction. This model therefore provides a valuable platform to investigate adaptive cardiometabolic mechanisms that may attenuate preeclampsia risk in obese and chronic hypertensive patients.",
-      "doi": "10.1152/ajpendo.90128.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992949/",
-      "relevance": 4,
-      "matched": [
-        "metabolic",
-        "adaptation"
-      ]
-    },
-    {
-      "pmid": "42992851",
-      "title": "Hydration of Fat-Free Mass: Mechanistic Basis of Classic Body Composition Constant.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Christian Rodriguez, Jonathan P Bennett, Shengping Yang et al.",
-      "abstract": "The widely used two-component hydrometry model of body composition rests on the assumption that fat-free mass hydration (total body water, TBW/FFM) is stable at 0.732. Deviations from this constant have been reported, but their basis is unknown. The current study applied Wang's 2008 mechanistic FFM hydration model to establish factors underlying this variation. Healthy participants (407 males, 469 females) had TBW, total body potassium (TBK), body density, and bone mineral (Mo) measured; FFM was derived with a five-component model. Two key model terms, extracellular-to-intracellular water ratio (ECW/ICW) and extracellular solids-to-TBW ratio (ECS/TBW), were evaluated across discrete age-sex groups and modeled as continuous functions of age, followed by causal mediation analysis. Group mean FFM hydration ranged from ∼0.73 and 0.75, and within that range increased significantly with age (0.00018/yr, P=0.003) after adjusting for sex and BMI. ECW/ICW increased (0.00463/yr, P<0.001) and ECS/TBW decreased (-0.00018/yr, P<0.001) with age, two main factors contributing to age-related increase in FFM hydration. Mediation analysis indicated near-complete mediation by ECW/ICW (P<0.001; direct effect, P=0.862) and partial mediation by ECS/TBW (56.2%), the latter differing by sex. ECS/TBW demonstrated near-complete mediation in females (97.6%) but no significant total age effect on TBW/FFM in males, reflecting an increase rather than decrease in ECS/TBW with age in males. Although FFM hydration occupies a narrow absolute range in adults, it rises systematically with age, mechanistically attributable to relative expansion of ECW and secondarily to loss of ECS. The practical importance of this shift is likely minimal for two-component densitometric applications, but potentially meaningful for bioimpedance and other methods that embed a fixed hydration constant.",
-      "doi": "10.1152/ajpendo.90102.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992851/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42992850",
-      "title": "Mitochondrial Oxysterol Signaling in Epigenetic Regulation and Therapeutic Development.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Yaping Wang, Shunlin Ren",
-      "abstract": "Oxysterols are oxygenated cholesterol derivatives with receptor-dependent and epigenetic activities. This review examines how mitochondrial cholesterol metabolism and oxysterol sulfation may connect lipid metabolism to DNA methylation and communication between hepatocytes and macrophages. Biochemical studies show that 25-hydroxycholesterol (25HC) and 27-hydroxycholesterol (27HC) activate DNA methyltransferase 1 (DNMT1), whereas their 3-sulfated derivatives inhibit the activities of DNMT1, DNMT3A, and DNMT3B. Cholestenoic acid (CA) has a concentration-dependent effect, activating DNMT1 at lower concentrations and inhibiting it at higher concentrations. In hepatocyte models, these activities are associated with altered promoter CpG methylation and expression of genes involved in lipid metabolism, inflammatory responses, and cell survival. The sulfated CA metabolite, 3β-sulfate-5-cholestenoic acid (3SCA), is secreted by hepatocytes and modifies inflammatory gene expression in macrophages. We propose an oxysterol epigenetic rheostat in which metabolite concentrations and sulfation influence DNMT activities. Published animal studies support protective effects of 25-hydroxycholesterol 3-sulfate in fatty liver disease, endotoxemia, and acetaminophen-induced liver injury. Its clinical formulation, larsucosterol, has shown favorable hepatic and metabolic signals in Phase 1b fatty liver studies and nominally significant mortality reductions in prespecified US Phase 2b alcohol-associated hepatitis (AH) analyses. These encouraging findings require confirmation because the overall Phase 2b primary endpoint was not met. Larsucosterol has received Fast Track and Breakthrough Therapy designations from the US Food and Drug Administration (FDA) for AH and is currently being evaluated in a registrational Phase 3 trial.",
-      "doi": "10.1152/ajpendo.90058.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992850/",
-      "relevance": 7,
-      "matched": [
-        "mitochondrial",
-        "metabolic",
-        "metabolism",
-        "oxygen",
-        "injury"
-      ]
-    },
-    {
-      "pmid": "42992456",
-      "title": "Epitope-dependent acute inhibition and potentiation of N-methyl-d-aspartate receptors by GluN1 autoantibodies.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Shang Yang, Johanna Heckmann, Maximilian Zettner et al.",
-      "abstract": "Transfer of autoantibodies targeting ionotropic N-methyl-d-aspartate (NMDA) receptors from patients with autoimmune encephalitis to mice induces characteristic disease signs. The long-term effects of pathogenic antibodies include immunoglobulin G (IgG)-induced cross-linking and receptor internalization. We investigated the direct and immediate impact of two specific pathogenic patient-derived monoclonal autoantibodies (IgG #003-102 and #007-168) on NMDA receptor (NMDAR) function. We performed cell-attached recordings from cells transfected with the GluN1-3a and GluN2A subunits of NMDARs. IgG #003-102 binds to the R2 lobe of the amino-terminal domain (ATD) of the glycine-binding GluN1 subunit. It significantly reduced the number of simultaneous NMDAR openings compared to controls at both low and high concentrations of glutamate and glycine. Closer examination revealed that IgG #003-102 rapidly reduced the number of open receptors and shortened receptor-opening bursts. However, antigen-binding fragments of IgG #003-102 did not reduce receptor openings. By contrast, IgG #007-168, which binds to the top of the R1 lobe of the GluN1-ATD, potentiated the NMDAR response. In conclusion, patient-derived IgG #003-102 inhibits NMDARs within seconds, before receptor internalization, and the full IgG is required for this acute inhibitory effect. This suggests that monovalent IgG #003-102 constructs could be a new treatment strategy to shield a pathogenic epitope on NMDARs. KEY POINTS: N-methyl-d-aspartate (NMDA) receptors (NMDARs) are ionotropic glutamate receptors central to brain development and function. Anti-NMDAR encephalitis is the most common cause of non-viral autoimmune brain inflammation and is characterized by psychosis, dyskinesias, autonomic dysfunction and seizures. Symptoms are considered to result from autoantibodies that internalize surface NMDARs on neurons. Using patch clamp recordings, we tested the acute effects of two monoclonal anti-GluN1 autoantibodies and the Fab fragment of one of them on NMDARs. The autoantibody (IgG #003-102), which binds to the R2 lobe of the GluN1-amino-terminal domain (ATD), inhibits receptors within seconds. The entire IgG is required for this inhibition. By contrast, IgG #007-168, which binds to the top of the R1 lobe of the GluN1-ATD, potentiates receptor responses. By capitalizing on the null phenotype of a Fab from IgG #003-102, we propose monovalent constructs as a potential new treatment strategy to prevent pathogenic antibodies from causing receptor dysfunction.",
-      "doi": "10.1113/JP287479",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992456/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42992386",
-      "title": "Multiparametric cardiomyocyte profiling with single-LED excitation reveals subtype-specific electromechanical coupling in LQTS in vitro.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Aleksandr Khudiakov, Chiara Alberio, Davide Fernando Dragani et al.",
-      "abstract": "Cardiac excitation-contraction coupling (ECC) is an essential and tightly regulated process that links action potentials to intracellular calcium release and mechanical contraction. At the whole-heart level, ECC is captured by integrative evaluation of electrical and mechanical components of the cardiac cycle through parameters termed electromechanical delay (EMD) and electromechanical window (EMW). Alterations in the EMD or EMW reflect impaired electromechanical coupling and have been associated with increased arrhythmic risk across multiple cardiac diseases. However, it is currently unclear whether and how equivalent metrics can be derived and interpreted in vitro or meaningfully applied to patient-specific human disease models. Here, we implement ECC profiling in vitro using a single-LED optical imaging system that enables simultaneous measurements of membrane voltage, intracellular calcium and contractility. This approach allows quantification of individual transients and their temporal relationships. To investigate distinct perturbations of ECC, we applied this platform to human-induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) representing three mechanistically distinct ECC perturbations: a repolarization defect (LQT2, KCNH2 p.A561V), a calmodulin-associated calcium-handling defect (CALM-LQTS, CALM1 p.F142L) and pharmacological contractile uncoupling by myosin ATPase inhibition (blebbistatin). Cellular analogues of the clinical EMD and EMW were robustly quantifiable and provided mechanistically informative ECC signatures that were not entirely captured by conventional metrics focused on asynchronous individual transient analysis. Pharmacological targeting of the main cardiac ion currents further validated these findings and confirmed the robustness of the ECC quantification. This novel technique provides a basis for more sensitive assessment of disease phenotypes, arrhythmogenic risk and pharmacological effects in human cellular models, supporting the development of new approach methodologies. KEY POINTS: A single-LED optical platform enables fully synchronized, simultaneous measurement of voltage, calcium and contraction in human-induced pluripotent stem cell (hiPSC)-derived cardiomyocytes (CMs) at a high spatial and temporal resolution. In vitro analogues of the clinical electromechanical delay and electromechanical window can be robustly quantified in hiPSC-CM monolayers and behave consistently with their in vivo counterparts under genetic and pharmacological perturbations. Despite comparable APD80 prolongation, LQT2 and CALM-LQTS hiPSC-CMs display divergent electromechanical signatures, demonstrating that integrative ECC metrics resolve mechanistic differences not captured by conventional single-transient analyses. Pharmacological recapitulation of the disease phenotypes further confirmed these observations. In vitro ECC profiling offers a sensitive approach for distinguishing mechanistic perturbations of cardiac function and improving the characterization of arrhythmogenic risk.",
-      "doi": "10.1113/JP290466",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992386/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42990018",
-      "title": "Dietary patterns and the testosterone-estrogen axis in men: evidence from osteoporotic fractures in men and a systematic review.",
-      "journal": "The British journal of nutrition",
-      "journal_issn": "0007-1145",
-      "discipline": "nutrition",
-      "date": "2026-Nov-06",
-      "authors": "Zahra Aslani, Amy E Kless, Steven K Clinton et al.",
-      "abstract": "Diet may influence circulating sex steroid hormones, but evidence for overall dietary patterns remains limited. We examined associations of dietary patterns reflecting lower inflammatory potential, lower insulinaemic potential and higher overall diet quality, with circulating sex steroids in older men and systematically reviewed the literature in apparently healthy men published through June 2024. We conducted cross-sectional analyses of 1622 men aged ≥65 years from the Osteoporotic Fractures in Men Study. Diet was assessed using FFQ and sex hormone-binding globulin (SHBG), total and free testosterone and total and free estradiol were measured. Dietary patterns included the reversed Empirical Dietary Inflammatory Pattern (rEDIP), reversed Empirical Dietary Index for Hyperinsulinaemia (rEDIH) and Healthy Eating Index-2020 (HEI-2020). Among older men, each 1-standard deviation increase in rEDIP was associated with higher total testosterone (β = 2·15; 95 % CI 0·12, 4·18) and free testosterone (β = 2·02 ng/dL; 95 % CI 0·29, 3·75), whereas rEDIH showed similar but non-significant associations with total testosterone (β = 1·64; 95 % CI -0·28, 3·57) and free testosterone (β = 1·43; 95 % CI -0·21, 3·08). Higher HEI-2020 scores were associated with higher free estradiol (β = 2·46 pg/mL; 95 % CI 0·85, 4·07). Across twenty-one studies, healthier dietary patterns were generally associated with lower estradiol and higher concentrations of SHBG and total testosterone. Taken together, the individual-level analyses and systematic review suggest that anti-inflammatory, low-insulinaemic and overall healthy dietary patterns are associated with more favourable sex steroid hormone profiles in men, although prospective studies are needed to establish temporality.",
-      "doi": "10.1017/S0007114526109362",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42990018/",
-      "relevance": 6,
-      "matched": [
-        "diet",
-        "dietary"
-      ]
-    },
-    {
-      "pmid": "42990005",
-      "title": "On methodological approaches for non-invasive characterization of muscle oxygen uptake recovery kinetics.",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Alessio Marciano, Harry B Rossiter",
-      "abstract": "",
-      "doi": "10.1113/EP094185",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42990005/",
-      "relevance": 4,
-      "matched": [
-        "recovery",
-        "oxygen"
-      ]
-    },
-    {
-      "pmid": "42989993",
-      "title": "Increased muscle temperature: A time-dependent stimulus of group III/IV afferent-mediated exercise pressor reflex.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-06",
-      "authors": "Elsa N Musselman, Ashley M Day, Jake W C Johansen et al.",
-      "abstract": "",
-      "doi": "10.1113/JP292749",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989993/",
-      "relevance": 4,
-      "matched": [
-        "exercise"
-      ]
-    },
-    {
-      "pmid": "42994407",
-      "title": "Adaptive Responses to \"Top-up\" Repeated-Sprint Training in Hypoxia or Normoxia in Male University Basketball Players.",
-      "journal": "International journal of sports physiology and performance",
-      "journal_issn": "1555-0265",
-      "discipline": "physiology",
-      "date": "2026-Nov-05",
-      "authors": "Masahiro Hagiwara, Takaki Yamagishi, Daichi Yamashita",
-      "abstract": "PURPOSE: Repeated-sprint training in hypoxia (RSH) has been shown to provide greater performance benefits than similar training in normoxia (RSN), whereas little is known regarding beneficial effects of RSH following a block of RSN. This study aimed to determine adaptive responses to \"top-up\" RSH. METHODS: After pretesting, 15 male university basketball players completed 6 RSN sessions (2 sets of five to seven 6-second cycle sprints, 30-second intersprint, and 5-min interset recovery), followed by midtesting. Participants were then allocated to either hypoxic (HYP, n = 8) or normoxic (NOR, n = 7) group and completed 6 \"top-up\" sessions (3 sets of identical protocol), with 5 RSH (3000 m) plus 1 RSN in HYP and 6 RSN in NOR. Six-second and incremental cycle tests were performed to determine 1-second peak power (PP6s), 6-second mean power (MP6s), maximal aerobic power (MAP), and peak oxygen uptake (V˙O2peak) at pre, mid, and post. Repeated-sprint ability (PPRSA; averaged peak power over 10 sprints) was assessed during sessions 2, 6, and 12 in normoxia. RESULTS: A 2-way mixed analysis of variance revealed main effects of time (P < .05, partial η2 = .349-.537) in all test variables (PP6s: Δ 10.6% [13.8%], MP6s: Δ 12.2% [13.6%], MAP: Δ 5.3% [4.3%], V˙O2peak: Δ 6.1% [5.5%]) without time-by-group interaction, whereas neither group improved PPRSA. CONCLUSIONS: Twelve sessions of repeated-sprint training improved anaerobic and aerobic capacities in male basketball players, with no additional benefit of hypoxic exposure during the second training phase, suggesting increased training volume may have outweighed the environmental factor.",
-      "doi": "10.1123/ijspp.2026-0037",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994407/",
-      "relevance": 16,
-      "matched": [
-        "training",
-        "sprint",
-        "aerobic",
-        "anaerobic",
-        "recovery",
-        "power"
-      ]
-    },
-    {
-      "pmid": "42994406",
-      "title": "Case Study Insights Into Female World-Class and Elite Athletes' Training and Physiology.",
-      "journal": "International journal of sports physiology and performance",
-      "journal_issn": "1555-0265",
-      "discipline": "physiology",
-      "date": "2026-Nov-05",
-      "authors": "Guro Strøm Solli, Tilda Harju, Daichi Yamashita et al.",
-      "abstract": "PURPOSE: This article offers a structured overview of published case studies involving elite and world-class female Olympic athletes, highlighting the unique insights these studies provide into training characteristics, physiology, performance, and female-specific factors. METHODS: Four databases were systematically searched for peer-reviewed case studies involving tiers 4 to 5 female Olympic athletes reporting individual-level data on training, physiological, and/or performance characteristics. RESULTS: Thirty-eight studies describing 54 elite and world-class female athletes from 18 countries and 19 Olympic sports met the inclusion criteria. Most studies were published after 2017 (68%), originated from Europe (58%), and involved endurance sports (81%). Fifteen studies examined long-term athlete development, with observation periods ranging from 4 to 26 years. Fourteen studies reported annual training and physiological characteristics across 10 sports including training volume, intensity distribution, periodization, and physiological profiling. Four studies examined altitude training, 8 addressed competition demands, tapering, and precompetition strategies, and 8 focused on female-specific physiology, health, and performance, including energy availability, menstrual function, hormonal cycle monitoring and pregnancy, and postpartum return to sport. CONCLUSION: Case studies provide unique athlete-centered insights into the complex interactions between training, physiology, health, and performance in elite female athletes. Collectively, they demonstrate that pathways to world-class performance are highly individualized, while generating hypotheses that complement group-based research. Future case studies should prioritize underrepresented sports, geographical regions, and female-specific topics to expand the diversity of performance environments and athlete populations represented in the literature.",
-      "doi": "10.1123/ijspp.2026-0135",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994406/",
-      "relevance": 13,
-      "matched": [
-        "training",
-        "athlete",
-        "endurance",
-        "performance",
-        "sports"
-      ]
-    },
-    {
-      "pmid": "42993813",
-      "title": "Six Weeks of Drop Jump Training on Stable Versus Unstable Landing Surfaces Result in Similar Improvements in Drop Jumping Performance in Young Healthy Men.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-05",
-      "authors": "Lysander Pollitt, Olaf Prieske, David G Behm et al.",
-      "abstract": "Pollitt, L, Pieske, O, Behm, DG, and Granacher, U. Six weeks of drop jump training on stable vs. unstable landing surfaces result in similar improvements in drop jumping performance in young healthy men. J Strength Cond Res XX(X): 000-000, 2026-To investigate how progressive drop jump (DJ) training performed on unstable landing surfaces affects jumping performance. Forty-two subjects were randomly allocated to no training (CONTROL, n = 8), stable surface (STABLE, n = 9), or 1 of 3 unstable landing conditions: mini-trampoline (n = 9), both-sides-used balance trainer (BOSU, n = 8), or an equated volume of BOSU and STABLE (MIX, n = 8). Subjects in each experimental condition completed 1,080 jumps across 9 drop heights (0.2 m progressing to 1 m) during 3 sessions per week over 6 weeks. Pre- and post-testing assessed maximal DJ at low (0.2 m), moderate (0.6 m), and high (1 m) drop heights for reactive strength index (RSI), jump height (JH), and contact time (CT). Using baseline as a covariate, analysis of covariance revealed significant, large main effects of condition for DJ outcome measures across all drop heights (0.19 < ηp2< 0.48). Bonferroni-adjusted post hoc comparisons identified significant postintervention differences between certain experimental conditions and CONTROL, depending on the outcome measure. No significant differences were observed between experimental conditions. At 0.2 m, differences in CT (p = 0.016) and RSI (p = 0.003) were observed for BOSU. At 0.6 m, CT for BOSU (p = 0.033), JH for STABLE (p = 0.034), and RSI for STABLE (p = 0.012) and BOSU (p = 0.013). At 1 m, JH for MIX (p = 0.012), and RSI (p ≤ 0.003) for all experimental conditions. Progressive DJ training on unstable training devices resulted in changes in performance comparable to a stable landing surface. When conceptualizing training programs, including plyometrics performed on unstable landing surfaces may provide an alternative neuromuscular stimulus without compromising performance.",
-      "doi": "10.1519/JSC.0000000000005636",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993813/",
-      "relevance": 14,
-      "matched": [
-        "training",
-        "performance",
-        "strength",
-        "neuromuscular"
-      ]
-    },
-    {
-      "pmid": "42989586",
-      "title": "The Vertebral Nerve as a Selective Target for Upper Limb Sympathetic Blockade: Anatomy, Ultrasound-Guided Technique, and Proof of Concept.",
-      "journal": "Clinical anatomy (New York, N.Y.)",
-      "journal_issn": "0897-3806",
-      "discipline": "anatomy",
-      "date": "2026-Nov-05",
-      "authors": "Bruno Buchholz, Alejandro Ortega, Verena B Franco-Riveros et al.",
-      "abstract": "The vertebral nerve (VN) is a postganglionic sympathetic structure that arises from the cervicothoracic ganglion, ascends alongside the vertebral artery, and provides sympathetic innervation to the upper limb via the brachial plexus. Despite its anatomical relevance, it remains largely unknown to anesthesiologists and pain clinicians. The stellate ganglion block (SGB) is the current standard for upper-limb sympatholysis but produces nonselective effects, including Horner's syndrome and potential cardiac involvement. A more selective approach targeting the VN could achieve equivalent upper-limb sympatholysis while potentially offering a superior safety profile. We conducted a comprehensive anatomical review of the VN, covering its origin, trajectory, branching patterns, and communications with both the cervical spinal nerves and the vertebral plexus. Using this anatomical framework, we describe an ultrasound-guided technique for selective VN blockade at the C7 level, validated with fluoroscopic contrast confirmation. We objectively evaluated clinical efficacy using infrared thermography and laser Doppler flowmetry. The VN is an anatomically consistent and sonographically accessible target for selective upper-limb sympathetic blockade. At this target, effective sympatholysis can be achieved with minimal injectate volumes, thereby avoiding the nonselective effects of conventional SGB. Further studies are needed to compare efficacy, optimal technique parameters, and complication rates with existing approaches.",
-      "doi": "10.1002/ca.70252",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989586/",
-      "relevance": 4,
-      "matched": [
-        "spinal",
-        "thoracic",
-        "anatomical",
-        "pain"
-      ]
-    },
-    {
-      "pmid": "42988571",
-      "title": "Taxonomic and anatomical comments on \"Traversodon(?) major\" von Huene, 1936 (Cynodontia) from the Middle Triassic of Brazil.",
-      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-      "journal_issn": "1932-8486",
-      "discipline": "anatomy",
-      "date": "2026-Nov-05",
-      "authors": "Leonardo Kerber, Ingmar Werneburg",
-      "abstract": "Traversodontids were diverse non-mammaliaform cynodonts that occupied herbivorous and omnivorous niches during the Middle and Late Triassic. In Brazil, they are particularly well represented in the Santa Maria Supersequence, although the taxonomic status of some historically described taxa remains uncertain. Among them, \"Traversodon(?) major\" von Huene, 1936 was established on the basis of isolated cranial, mandibular, and postcranial remains from the Chiniquá region of southern Brazil. Here, we reassess the anatomy and taxonomic affinities of the specimens historically assigned to this species. A left maxilla (GPIT-PV-61005, here designated as lectotype) is the most informative specimen. It exhibits a combination of a broad maxillary platform, a maxillary recess, and strongly shouldered postcanine alveoli, supporting traversodontid affinities but not the original assignment to the genus Traversodon. These features are typical of deeply nested gomphodontosuchines, but do not form a unique combination of diagnostic characters that would allow a confident referral to any particular genus. The remaining specimens have no association or anatomical overlap with the lectotype and are here treated independently: the mandibular fragment is referred to Traversodontidae indet., the humerus to Eucynodontia indet., and the scapulocoracoid to an indeterminate non-cynodont amniote. Accordingly, \"Traversodon(?) major\" is retained as a nomen dubium: its lectotype lacks autapomorphies, and the remaining specimens cannot be reliably referred to the same taxon.",
-      "doi": "10.1002/ar.70385",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988571/",
-      "relevance": 4,
-      "matched": [
-        "anatomical",
-        "shoulder"
-      ]
-    },
-    {
-      "pmid": "42988169",
-      "title": "Animal-source foods in infancy contribute to higher dietary quality.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-05",
-      "authors": "Saralyn F Foster, Deborah Jacobvitz, Marcela R Abrego et al.",
-      "abstract": "BACKGROUND: Few studies have characterized infant animal-source food introduction and intake longitudinally to determine whether these foods are associated with dietary quality or growth at 12-months of age. OBJECTIVE: Describe patterns and determinants of animal-source food consumption during complementary feeding and evaluate associations between animal-source foods with dietary quality and growth. METHODS: Mothers And careGivers Investing in Children (MAGIC) randomized trial is a complementary feeding intervention with responsive feeding coaching (MAGIC-FEED) compared to an attention control (MAGIC-SAFE), and an exploratory arm (MAGIC-FEED+FOOD) including food provision along with MAGIC-FEED. 135 mother-infant-caregiver triads in the Austin, Texas, United States enrolled at age 5-months, received virtual intervention visits at age 6, 7, 8 and 10 months, and had anthropometrics measured at 12-months. Diet was assessed repeatedly from 5-12-months with a 7-day food-frequency questionnaire and 24-hour diet recall from which infant dietary quality index (IDQI, range 0-1) was calculated. Descriptive statistics and covariate adjusted linear regression evaluated patterns of intake and associations between intervention arm or dietary components with dietary quality and growth. RESULTS: Overall, animal-source food intake increased from age 6 through 12 months. At age 12-months, more infants consumed egg (72%), poultry (77%) and beef (68%) and less consumed fish (30%) and pork (25%) in the prior 7-days. MAGIC-FEED was not associated with IDQI and had limited effects on animal source food consumption. In covariate-adjusted models, poultry (β=0.12, 95%CI 0.04,0.19) egg (β=0.06, 95%CI 0.01,0.12) and beef (β=0.07, 95%CI 0.01,0.13) predicted higher IDQI across infancy, compared to non-consumers. at 12-months of age. Poultry consumers predicted higher IDQI (β=0.14, 95%CI: 0.05,0.23), and pork consumers had higher length-for-age Z-scores (β=0.48, 95%CI: 0.03,0.92) at age 12-months. CONCLUSIONS: MAGIC-FEED was not associated with animal source food intake. Poultry, beef, and eggs as complementary foods were associated with higher dietary quality, and pork was associated with linear growth. Clinical Trial Registry number and website where it was obtained NCT04177472; https://clinicaltrials.gov/study/NCT04177472.",
-      "doi": "10.1016/j.tjnut.2026.101929",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988169/",
-      "relevance": 9,
-      "matched": [
-        "diet",
-        "dietary",
-        "food"
-      ]
-    },
-    {
-      "pmid": "42988168",
-      "title": "Confronting the Twin Divides: Data Bias and Infrastructure Gaps in AI-Driven Nutrition for the Global South.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-05",
-      "authors": "Haddijatou Kadji Ceesay, Jean Claude Nahayo, Abdul Samad et al.",
-      "abstract": "Nutrition science is being rapidly transformed by artificial intelligence (AI). Yet, its application in the Global South, here defined as low- and middle-income countries (LMICs) primarily across Sub-Saharan Africa, South Asia, and Latin America, is constrained by two interrelated challenges: data bias (e.g., non-diverse datasets, imbalanced samples, and inadequate attention to demographic, cultural, and socioeconomic variation) and infrastructure gaps (e.g., intermittent connectivity, unreliable electricity, and limited device access). These issues are not merely technical but structural, ranging from non-diverse training sets and culturally mismatched food recognition systems to limited population-specific validation, which produce biased outputs when deployed in settings with substantially different dietary patterns and food environments. Weak digital infrastructure, the absence of data governance, and limited workforce capacity further undermine equitable deployment. The Food Recognition Assistance and Nudging Insights (FRANI) application, validated in Ghana, Vietnam, and Sri Lanka, demonstrates what is technically possible but also highlights the boundaries of current progress: more than 90% of AI models for malnutrition go unused in day-to-day clinical practice. Existing reviews map these domains separately. This commentary argues that integrating data bias and infrastructure gaps within a single analytical framework is essential for equitable AI-driven nutrition in the Global South, and it calls for actionable policy responses that prioritize local data sovereignty, infrastructure investment, and governance frameworks before algorithmic deployment.",
-      "doi": "10.1016/j.tjnut.2026.101930",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988168/",
-      "relevance": 7,
-      "matched": [
-        "nutrition",
-        "diet",
-        "dietary",
-        "food",
-        "training"
       ]
     }
   ]
