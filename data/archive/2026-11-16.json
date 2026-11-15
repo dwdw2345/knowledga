@@ -1,0 +1,296 @@
+{
+  "updated": "2026-11-16",
+  "articles": [
+    {
+      "pmid": "43033777",
+      "title": "Musical Feedback to Reduce the Knee Adduction Moment Via Center of Pressure Medialization: A Proof-of-Concept Study in Healthy Adults for Knee Osteoarthritis Gait Retraining.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-12",
+      "authors": "Luisa Cedin, Camilla Antognini, Christopher Knowlton et al.",
+      "abstract": "Elevated knee adduction moment (KAM) is a primary contributor to medial knee osteoarthritis (OA) progression. Medialization of center of pressure (CoP) can reduce KAM, but sustaining engagement and a consistent walking pattern remains a challenge. We investigated whether concurrent plantar pressure-modulated musical feedback would cue a medial CoP shift to reduce KAM without producing detrimental lower limb compensations in healthy adults. Twelve participants (6F/6M; age: 31.5 ± 5.3 years) walked while a marker-based motion analysis system (Qualisys) and wireless pressure-sensing insoles (Moticon) recorded gait. Real-time insole data drove auditory feedback: self-selected music was progressively muffled whenever the participant failed to shift their CoP medially beyond their threshold (25 % reduction in peak lateral CoP from baseline). Gait was assessed at baseline, post-instructions, and post-training. Repeated-measures ANOVA was used for kinetics and spatiotemporal outcomes, and statistical parametric mapping, as a secondary analysis, for kinematic waveforms. All participants medialized their CoP based on instructions and musical feedback. Musical feedback significantly reduced the second KAM peak (post-training: -13.7 %; p = 0.002) and the knee adduction angular impulse (post-training: -9.4 %; p < 0.001), but with a borderline increase in peak knee flexion moment (p = 0.050) that may reflect compensation. Gait adaptations were executed without a change in walking speed. Also, foot progression angle and stride width remained unchanged. CoP medialization was achieved mainly through ankle inversion, ankle external rotation, and hip internal rotation. These preliminary findings support concurrent sonified biofeedback for gait retraining, warranting evaluation in medial knee OA patients.",
+      "doi": "10.1016/j.jbiomech.2026.113670",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033777/",
+      "relevance": 14,
+      "matched": [
+        "knee",
+        "gait",
+        "training",
+        "hip",
+        "kinematic",
+        "kinetic"
+      ]
+    },
+    {
+      "pmid": "43033350",
+      "title": "An Intrapersonal Network Approach to Acute Symptom Dynamics After Sport-Related Concussion.",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "journal_issn": "0112-1642",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Eric O Ingram, Marwin Carmo, Philippe Rast et al.",
+      "abstract": "BACKGROUND: Post-concussion presentations are heterogeneous, characterized by various nonspecific self-report symptoms. Historically complete rest was the standard recommendation for concussion care, but with relatively high rates of persistent symptoms, active domain-specific interventions have been popularized. Determining which intervention is warranted can be difficult when concurrent psychological and preexisting health factors exacerbate injury-related sequelae. OBJECTIVES: We sought to apply within-person network analysis to an observational study to characterize temporal patterns in acute symptoms. METHODS: Participants were 403 collegiate student-athletes from the Concussion, Assessment, Research, and Education Consortium with sufficient data on the Sport Concussion Assessment Tool, Third Edition. We used seven serial symptom evaluations immediately post-injury to estimate intrapersonal partial correlation networks and derive centrality frequency and in-/out-strength magnitudes. Contemporaneous networks represent within-day symptom associations with undirected edge weights; temporal networks represent day-to-day symptom associations with edge weights directed temporally from t to t + 1. RESULTS: Sadness (mean [M] = 0.99) and more emotional (M = 0.96) were the most central symptoms in the contemporaneous network. For the temporal networks, fatigue/low energy (M = 0.53) and feeling slowed down (M = 0.47) had the greatest in-strength, while confusion (M = 0.84) and neck pain (M = 0.78) had the greatest out-strength. CONCLUSIONS: After concussion, nonspecific cognitive complaints are common across presentations despite substantial heterogeneity in central symptoms. Vestibulo-ocular and cervicogenic symptoms frequently elicit next-day symptomatology and are associated with increased risk for persistent symptoms, though evidence-based treatments exist. Cognitive-/fatigue-related symptoms are likely to be exacerbated by other sequelae, highlighting the importance of active management and an early, graded return to physical activity that encourages symptom habituation.",
+      "doi": "10.1007/s40279-026-02583-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033350/",
+      "relevance": 7,
+      "matched": [
+        "strength",
+        "fatigue",
+        "physical activity",
+        "athlete",
+        "injury",
+        "pain"
+      ]
+    },
+    {
+      "pmid": "43033349",
+      "title": "Increasing Efficiency in Resistance Training? Exploring a Minimalistic Approach in Supramaximal Accentuated Eccentric Loading: A Narrative Review.",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "journal_issn": "0112-1642",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Christian Burger, Josef Colana Ayvar, Markus Tilp et al.",
+      "abstract": "Supramaximal accentuated eccentric loading (SAEL) has emerged as a resistance training strategy that may provide a high mechanical stimulus with relatively low training volumes. This narrative review synthesizes the current evidence on the neuromuscular and physiological effects of SAEL and high-intensity eccentric-only training, with particular emphasis on the potential of low-volume training protocols. SAEL is a form of eccentric-concentric resistance training in which the eccentric phase is performed with supramaximal loads (> 100% concentric one-repetition maximum [1RM]) and the concentric phase with submaximal loads (< 100% concentric 1RM), thereby providing a greater eccentric mechanical stimulus than conventional resistance training. Evidence indicates that SAEL or high-intensity eccentric-only training may promote type II fiber adaptations, satellite cell activity, and neuromuscular improvements. The greater eccentric mechanical stimulus may therefore facilitate muscle adaptations at lower training volumes. However, direct comparisons with traditional resistance training remain sparse, particularly for low-volume protocols, and the available literature is limited by short intervention periods, methodological heterogeneity, and differences in participants' training status. Nevertheless, meaningful strength adaptations have been reported with as little as 2-4 sets and 3-8 SAEL or high-intensity eccentric-only repetitions per week. The optimal dosage for resistance-trained individuals remains uncertain, although approximately ≥ 5 sets per week may be required. Future research should directly compare low-volume SAEL with higher-volume traditional resistance training in similarly trained populations to determine whether comparable adaptations can be achieved with fewer sets and repetitions.",
+      "doi": "10.1007/s40279-026-02578-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033349/",
+      "relevance": 12,
+      "matched": [
+        "training",
+        "resistance",
+        "strength",
+        "adaptation",
+        "neuromuscular"
+      ]
+    },
+    {
+      "pmid": "43033217",
+      "title": "Correction: Acute effects of core fatigue on thoracolumbar fascia mechanical and viscoelastic properties in healthy young adults: a cross-sectional study.",
+      "journal": "European journal of applied physiology",
+      "journal_issn": "1439-6319",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Hatice Karabulut, Fatmagül Varol",
+      "abstract": "",
+      "doi": "10.1007/s00421-026-06466-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033217/",
+      "relevance": 2,
+      "matched": [
+        "fatigue"
+      ]
+    },
+    {
+      "pmid": "43032948",
+      "title": "Loud acoustic stimulation reveals an online reticulospinal contribution to long-latency reflexes in humans.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Hirotaka Sugino, Daichi Nozaki, Junichi Ushiyama",
+      "abstract": "The long-latency reflex (LLR), the fastest feedback response that recruits supraspinal pathways, is an important model for understanding how descending motor pathways shape rapid corrective responses in humans. While the corticospinal tract's contribution to the LLR has been well established, that of the reticulospinal tract, the other major descending motor pathway, remains purely speculative. To address this online contribution to the LLR, we used loud acoustic stimulation (LAS), which can strongly engage brainstem circuits including the pontomedullary reticular formation. By delivering LAS at nine timings (0-80 ms in 10 ms steps) relative to perturbation onset, we tested whether LAS selectively facilitates the LLR but not the short-latency reflex (SLR), and whether the facilitated epoch shifts systematically with LAS timing. In 12 healthy participants, elbow extension perturbations evoked stretch reflexes in the biceps brachii muscle. LAS produced significant supralinear facilitation in the LLR but not in the SLR. Moreover, when LAS was delivered 40 ms or later after perturbation onset, the facilitated epoch shifted progressively later as LAS was delayed, beginning at an approximately constant delay of 30-40 ms after LAS onset. This constant delay suggests that the facilitation at these timings arose from the same LAS-evoked descending input acting on the ongoing LLR. Together with the lack of significant SLR facilitation, this temporal pattern is consistent with an online reticulospinal contribution to the human LLR, alongside the established corticospinal contribution. This approach provides a new, non-invasive means to investigate the physiological role of the reticulospinal tract in human motor control. KEY POINTS: The long-latency reflex is a rapid muscle response to sudden stretch. Unlike faster spinal reflexes, it is shaped by commands descending from the brain and adjusts to the task. Though the corticospinal tract is known to shape this reflex, whether the reticulospinal tract also contributes to the reflex has not been tested in humans. We stretched the arm and, at various delays, played a loud sound that engages the brainstem origin of the reticulospinal tract. The sound significantly enhanced the long-latency reflex, whereas no significant enhancement was detected in the faster spinal reflex. When the sound came 40 ms or more after the stretch, the enhancement followed the sound at a stable delay, suggesting that sound-evoked descending signals interacted with the ongoing reflex response. These findings are consistent with a real-time contribution of the reticulospinal tract to the human long-latency reflex and provide a non-invasive way to study this pathway.",
+      "doi": "10.1113/JP292458",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032948/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43034892",
+      "title": "No change in skeletal muscle oxidative capacity biomarkers after 6 weeks of twice-weekly single-leg cycle interval training in young active adults.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-15",
+      "authors": "Emileigh R Binet, Beatrice Yee, James McKendry et al.",
+      "abstract": "Interval training (INT) of sufficient frequency, intensity and duration can increase biomarkers of skeletal muscle oxidative capacity in humans. Studies typically involve three to four sessions per week; however, the effect of reduced training frequency on this response is unclear. Most studies also do not include a non-exercise control (CON) condition to account for the potential influence of extraneous, uncontrolled factors. We employed a single-leg, counterweighted cycling model to investigate the effect of twice weekly INT for 6 weeks on biomarkers of skeletal muscle oxidative capacity including mitochondrial content and fibre capillarisation. Sixteen healthy active adults (6 males, 10 females; 22 ± 3 years; peak oxygen uptake: 36.1 ± 6.1 mL kg-1 min-1) performed INT with one leg and their contralateral limb served as a CON. INT involved 4 × 5-min bouts at an intensity of 50%-60% Wpeak, interspersed with 2.5 min of recovery at 20% Wpeak. Muscle biopsy samples obtained from the vastus lateralis of both legs before and after the intervention revealed no differences in the primary outcome measure, citrate synthase maximal activity (P = 0.350, time × leg interaction). There were also no differences in multiple markers of mitochondrial protein content or capillarisation (all P > 0.05), except NDUFB8 protein content, which increased post-training in the INT leg only (P = 0.0387). The lack of change in most biomarkers of oxidative capacity may be due to an insufficient training intensity or related to participant fitness or measurement variability as indicated by the typical error of ∼20%-40% between legs as baseline.",
+      "doi": "10.1113/EP093493",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034892/",
+      "relevance": 11,
+      "matched": [
+        "training",
+        "exercise",
+        "recovery",
+        "mitochondrial",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43034873",
+      "title": "Sex differences in gastrointestinal permeability during acute uncompensable heat stress: Role of menstrual phase hormones.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-15",
+      "authors": "Shoji Leach, Ellie J Allsop, Isobel A Martin et al.",
+      "abstract": "Hyperthermia can increase gastrointestinal permeability, allowing microbes to leak from the intestinal lumen to the hepatic portal and systemic circulation. However, the extent to which sex and menstrual cycle hormones impact the risk of increased gastrointestinal permeability during heat stress is unclear. Twenty-four healthy young adults [12 male, 24 ± 3 years old; 12 female (5 oral contraceptive users), 23 ± 2 years old] participated in the study. Initially, participants completed a control trial (no heat or exercise) to determine baseline gastrointestinal permeability. Then, participants took part in a hyperthermia trial, in which deep body temperature was increased by +1.5°C from baseline via a water-perfused suit combined with semi-recumbent cycling at 40 W. Oestradiol was measured at baseline during the hyperthermia trial. In both trials, permeability was assessed by measuring the urinary excretion of orally ingested sucrose (10 g) and the lactulose/rhamnose ratio (L/R, 1 g each) to assess gastroduodenal and small intestinal permeability, respectively. Data are presented as the change in excretion from control to hyperthermia. Pooled analysis of all participants identified that hyperthermia increased small intestinal permeability [ΔL/R = 0.012 ± 0.029 (95% confidence interval 0.000 to 0.025), P = 0.050, d z = 0.43]. Although there were no sex differences at the group level, we identified a strong positive correlation between ΔL/R and baseline oestradiol concentration within females (r = 0.709, P = 0.040). Gastroduodenal permeability did not increase with hyperthermia (P = 0.136), nor were there any differences between the sexes (P = 0.411). Future studies should confirm whether oestradiol plays an independent role in modulating heat-induced gastrointestinal permeability in humans.",
+      "doi": "10.1113/EP094141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034873/",
+      "relevance": 5,
+      "matched": [
+        "hormone",
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43032972",
+      "title": "Quantitative proteomic approaches to studying redox post-translational modifications in skeletal muscle.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Sophie C Broome, Elizabeth G Reisman, Malcolm J Jackson et al.",
+      "abstract": "Reactive oxygen species are essential signalling molecules that regulate numerous aspects of skeletal muscle physiology. These effects are mediated through redox post-translational modifications on protein cysteine thiols, which influence the structure and function of redox-sensitive proteins. Mass spectrometry-based redox proteomic approaches have greatly advanced our ability to detect and characterise cysteine redox modifications, revealing a broad network of redox-sensitive proteins and pathways in skeletal muscle. Recent methodological developments enable quantification of the stoichiometry of reversible oxidative modifications at specific cysteine residues, providing critical insight into the extent and functional relevance of site-specific redox regulation. Redox proteomic approaches are being employed to improve our understanding of the specific redox protein modifications underlying physiological and pathophysiological processes in skeletal muscle. This review summarises current proteomic strategies for quantifying redox post-translational modifications and their application to studying redox signalling in skeletal muscle. Emerging experimental approaches that offer the potential to study the specific roles of site-specific redox modifications in muscle physiology are also discussed. Collectively, these technologies present exciting opportunities to define the mechanistic roles of individual cysteine residues in muscle biology and help uncover new therapeutic avenues for conditions characterised by impaired redox homeostasis.",
+      "doi": "10.1113/EP093434",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032972/",
+      "relevance": 1,
+      "matched": [
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43032922",
+      "title": "Does ceiling-fan use modify circulating markers of heat-related stress in bed-resting older adults?",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Glen P Kenny, Kelli E McCormick, Fergus K O'Connor et al.",
+      "abstract": "Ceiling fans are a low-energy strategy for reducing heat strain, but their ability to protect against subclinical cellular and organ stress is unknown. We examined circulating stress biomarkers in 20 older adults (12 females; median age 71 years), who completed randomized 8 h exposures to 31°C and 45% relative humidity while remaining reclined beneath a ceiling fan delivering 0 m s-1 (control) or 1.5 m s-1 (fan). Venous blood was collected before and after each exposure and analysed for serum intestinal fatty acid-binding protein (IFABP), soluble cluster of differentiation 14 (sCD14), kidney injury molecule-1, neutrophil gelatinase-associated lipocalin, tumour necrosis factor-α, interleukin-6 and C-reactive protein. Core temperature and heart rate were measured continuously. Biomarker responses were assessed using baseline-adjusted linear mixed-effects models with Holm correction for multiple testing. Fan use lowered peak core temperature and heart rate by 0.2°C (P < 0.001) and 5 beats min-1 (P = 0.030), respectively. The adjusted difference in IFABP change between control and fan was 344 pg mL-1 [95% confidence interval: 102-586] (unadjusted P = 0.005; Holm-adjusted P = 0.035). Across conditions, the estimated changes in IFABP and sCD14 were 240 pg mL-1 [95% confidence interval: 11-468] (Holm-adjusted P = 0.240) and 0.57 ng mL-1 [95% confidence interval: 0.10-1.03] (Holm-adjusted P = 0.119), respectively. No other biomarker comparisons remained significant after Holm adjustment. Ceiling-fan use at 31°C attenuated the IFABP response in bed-resting older adults despite modest effects on core temperature and heart rate. These exploratory findings suggest that fan-mediated protection might extend beyond changes captured by conventional physiological measures, but confirmation in prospectively powered studies incorporating direct measures of gastrointestinal permeability is required.",
+      "doi": "10.1113/EP094380",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032922/",
+      "relevance": 3,
+      "matched": [
+        "power",
+        "heart rate",
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43032912",
+      "title": "The effects of submaximal exercise on acid-base balance in people with long COVID.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Mark A Faghy, Callum Thomas, Rebecca Owen et al.",
+      "abstract": "Better pathophysiological understanding of long COVID (LC) is required, and disruption of acid-base regulation has been proposed as a potential mechanism underlying exercise intolerance observed in LC; however, empirical evidence remains limited. Accordingly, this study aims to systematically characterise day-to-day variation in acid-base status in individuals living with LC. Thirty people (19 female) with a confirmed diagnosis of LC or 15 healthy controls (CON; 8 female) completed three study visits. Participants completed two submaximal cardiopulmonary exercise tests (CPETs) separated by 24 h. Pre- and post-exercise fingertip capillary blood samples were collected on both CPET days for acid-base balance (pH, HCO3 -, anion gap, K+, Na+, Cl- and ionized calcium (iCa2+)) and lactate. Subgroup analysis was conducted for those presenting with metabolic acidosis between LC and CON. Whole group analysis revealed no differences between LC and CON for acid-base balance (P > 0.05) or CPET variables (P > 0.05). However, a subgroup analysis determined that following CPET1, 17% (n = 5/30), and following CPET2, 33% (n = 10/30) of those with LC demonstrated metabolic acidosis, with small to large effect sizes (0.20 → 0.80) between LC and CON for pH, HCO3 -, anion gap, K+, Na+, Cl-, iCa2+ and lactate. For CON, metabolic acidosis was identified for 6% (n = 1/18) on CPET day 1 and 11% (n = 2/18) on CPET day 2. Our findings suggest that some people with LC may experience acid-base balance disturbances following repeated submaximal exercise. Accordingly, a pathological subgroup is hypothesised, and these findings should provoke independent validation.",
+      "doi": "10.1113/EP093996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032912/",
+      "relevance": 8,
+      "matched": [
+        "exercise",
+        "metabolic",
+        "lactate"
+      ]
+    },
+    {
+      "pmid": "43032893",
+      "title": "Increases in plasma neurofilament light chain and optic nerve sheath diameter are associated with altitude but show little association with each other.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Benedikt Treml, Klaus Berek, Sasa Rajsic et al.",
+      "abstract": "Plasma neurofilament light chain (NfL) has been reported to increase following acute and repeated exposure to altitude. Independently, optic nerve sheath diameter (ONSD) has been shown to increase at altitude. In this study, we measured NfL and ONSD in parallel before, during and after a 44-h sojourn at 3100 m, and examined whether these changes were associated. Twelve healthy adults of either sex were transported to 3100 m. Blood samples and sonographic assessment of the ONSD were obtained at baseline and after 24 and 44 h at altitude. Plasma analyses included NfL and glial fibrillary acidic protein (GFAP). The occurrence of acute mountain sickness (AMS) was assessed using the Lake Louise Score. Over 44 h, the age- and body mass index-standardized z-score of NfL increased from 0.88 to 1.17 (median, P = 0.050). Concurrently, ONSD increased from 4.30 mm to 4.80 mm (median, P = 0.016). Linear regression analysis showed that z-score of NfL, as the dependent variable, was not associated with ONSD, the independent variable (R2 = 0.026, P = 0.354). Mixed model linear regression revealed an association but with a small effect size. GFAP, as a marker of blood-brain barrier injury and inflammatory parameters, remained unaffected by exposure to altitude. No participant developed AMS. An altitude of 3100 m is attainable by many individuals, but is associated with reduced oxygen availability and a risk of AMS. At this altitude in our experiment, plasma NfL and ONSD increased in parallel but with little to no association over 44 h.",
+      "doi": "10.1113/EP094003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032893/",
+      "relevance": 2,
+      "matched": [
+        "oxygen",
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43033816",
+      "title": "Different Pacing and Tactical Demands Between Indoor and Outdoor 400-m World Athletics Championship Races.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-13",
+      "authors": "Pablo Comino, Maxime Walt, Luis E Ranieri et al.",
+      "abstract": "PURPOSE: To compare pacing and tactical behaviors between indoor and outdoor 400-m World Championship races. METHODS: A total of 742 individual performances from 400-m races in 4 World Athletics Indoor Championships and 3 World Athletics Championships were analyzed. For each athlete, 100-m section times and intermediate positions were obtained from the official World Athletics website. Performances were compared through mixed-design repeated-measures analyses of variance between track conditions across heats, semifinals, and finals and according to athlete outcome (qualified and nonqualified in heats and semifinals and medalists and nonmedalists in finals). Coefficient of variation of pace, pacing profiles, and Spearman rank correlation (rs) between intermediate and final positions were evaluated. RESULTS: Track condition showed a moderate-to-large effect on pacing (P < .001; ηp2=.08-.3). Indoor 400-m races featured a relatively faster initial 100-m section (P < .001; d = 0.97-2.04) and a more pronounced speed decline during the second half of the race, which was associated with higher coefficient of variation of pace values compared to outdoor races. Outdoor races showed a progressive increase in the correlation between intermediate and final positions (rs = .36-.81), whereas indoor races exhibited higher values from the first section and remained consistently high throughout the race (rs = .7-.91). CONCLUSIONS: Track type influences pacing and tactical behaviors in 400-m championship races. Indoor races are characterized by a relatively faster initial section, greater pacing variability, and a stronger influence of early positioning due to lane merging and direct athlete interaction after the break to lane 1. In contrast, outdoor races allow for a more efficient distribution of effort. These findings highlight the importance of considering track-specific physiological and tactical demands when preparing for competition.",
+      "doi": "10.1123/ijspp.2026-0321",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033816/",
+      "relevance": 3,
+      "matched": [
+        "performance",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "43033484",
+      "title": "Unlocking Canada's Food Innovation Potential through Regulatory Modernization: Key Insights and a Proposed Framework from a Multi-Stakeholder Workshop.",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "journal_issn": "1715-5312",
+      "discipline": "physiology",
+      "date": "2026-Nov-14",
+      "authors": "Monika Hotson, Hrvoje Fabek, Jennifer Hubert et al.",
+      "abstract": "Regulation and policy should be fit-for purpose. Canadian food regulations could benefit from modernization to reflect an evolving global landscape, reduce regulatory burden, and support food innovation. These conference proceedings organized by the Canadian Nutrition Society summarize key discussions from a regulatory modernization workshop focused on process complexity and usability, innovation and process agility, leveraging international data, aligning with trading partners, and pre-market assessment requirements. Based on workshop findings, short-, medium- and long-term recommendations were synthesized, supporting updated food regulations and policies to strengthen innovation and Canada's competitiveness.",
+      "doi": "10.1139/apnm-2026-0227",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033484/",
+      "relevance": 1,
+      "matched": [
+        "strength"
+      ]
+    },
+    {
+      "pmid": "43033967",
+      "title": "Lower Sport Nutrition Knowledge in Masters Track and Field Athletes Compared with Younger Competitors.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-14",
+      "authors": "Keely A Shaw, Ora Meade, Scott C Forbes et al.",
+      "abstract": "BACKGROUND: Appropriate nutrition is essential for supporting both athletic performance and healthy aging. In masters athletes, the physiological demands of aging and the nutritional needs of competitive sport are combined. However, dietary intakes of masters athletes do not generally meet sport nutrition recommendations. Despite evidence linking nutrition knowledge to dietary quality, sport nutrition knowledge among competitive masters athletes has not previously been evaluated. OBJECTIVES: The primary objective of this observational cross-sectional study was to assess nutrition knowledge in masters athletes competing at the World Masters Athletics Championships compared to varsity athletes with structured dietetic support. METHODS: Masters track and field athletes competing at World Masters Athletics Championships as well as varsity university track and field athletes completed the Abridged Nutrition for Sport Knowledge Questionnaire to assess both general and sport-specific nutritional knowledge. Differences in scores attained by masters and varsity athletes were assessed using independent t-tests. RESULTS: A total of 238 athletes participated (n=86 varsity athletes; n=152 masters athletes; n=120 males; n=118 females). Varsity athletes scored significantly higher on overall nutrition knowledge (51.0±12.8%) compared with masters athletes (45.2±15.0%; p=0.002). Varsity athletes also demonstrated higher scores in general nutrition (p=0.02), sport nutrition (p=0.01), and carbohydrate-related knowledge (p=0.01). No statistically significant differences were observed between groups for protein-related knowledge (p=0.09). A significant main effect of sex was observed for knowledge relating to protein, with males scoring higher than females (43.0±21.5% vs. 38.5±21.6%; p=0.039). CONCLUSIONS: Masters athletes demonstrated lower nutrition knowledge compared to varsity athletes across general and sport specific domains, with particular deficits observed in questions pertaining to carbohydrates. Given the nutritional needs of aging athletes, these gaps may contribute to the documented disconnect between dietary intake and recommendations. Tailored, evidence-based nutrition education may help improve dietary behaviors, training adaptations, and long-term health outcomes in masters athletes.",
+      "doi": "10.1016/j.tjnut.2026.101943",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033967/",
+      "relevance": 12,
+      "matched": [
+        "nutrition",
+        "athlete",
+        "protein",
+        "carbohydrate",
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "43033966",
+      "title": "Omega-3 Fatty Acid Supplementation Has Coronary and Other Selective Health Benefits: Comprehensive Results from the VITamin D and OmegA-3 TriaL (VITAL).",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-14",
+      "authors": "JoAnn E Manson, Shari S Bassuk, Nancy R Cook et al.",
+      "abstract": "BACKGROUND: The VITamin D and OmegA-3 TriaL (VITAL) is the only large-scale randomized trial of marine omega-3 fatty acid (n-3 FA) supplementation for the primary prevention of cardiovascular disease (CVD) and cancer in a general population unselected for elevated risk. This article provides an integrated overview of the results of the n-3 FA component and its ancillary studies. METHODS: VITAL is a completed nationwide, randomized, placebo-controlled, 2x2 factorial trial of n-3 FAs (1 g/day) and vitamin D3 (2000 IU/day) for a median of 5.3 years for primary prevention of CVD and cancer among 25,871 U.S. men aged ≥50 and women aged ≥55 years. Ancillary studies investigated effects on heart failure, atrial fibrillation (AF), autoimmune disease, and other endpoints. RESULTS: Compared with placebo, the n-3 FA supplement did not significantly reduce the primary endpoint of major CVD events (hazard ratio [HR]=0.92 [95% confidence interval 0.80-1.06]) but did significantly reduce total myocardial infarction (MI; HR=0.72 [0.59-0.90]), fatal MI (HR=0.50 [0.26-0.97]), percutaneous coronary intervention (HR=0.78 [0.63-0.95]), and recurrent hospitalization for heart failure (HR=0.86 [0.74-0.998]). The intervention was not associated with AF risk. Supplemental n-3 FAs did not reduce total cancer incidence, other cancer endpoints, or all-cause mortality but was associated with significantly decreased risk of autoimmune disease (confirmed plus probable cases; HR=0.82 [0.68-0.99]). Effect modification by demographic, dietary, and clinical factors was observed for several endpoints, with greater benefits in Black participants and those with lower fish intake or cardiovascular risk factors, but with variable effects in women vs. men. CONCLUSION: Supplemental n-3 FAs did not significantly reduce major CVD events or cancer but decreased multiple cardiac endpoints and autoimmune disease. Several factors modified treatment effects. Although the findings do not support routine n-3 FA supplementation among healthy adults for prevention of chronic disease, targeted supplementation of those with low fish intake and other select groups warrants consideration.",
+      "doi": "10.1016/j.tjnut.2026.101941",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033966/",
+      "relevance": 14,
+      "matched": [
+        "fat",
+        "supplement",
+        "vitamin",
+        "omega-3",
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "43033823",
+      "title": "Time-Restricted Eating and Blood Pressure: Disentangling the Components of a Multidimensional Intervention.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-14",
+      "authors": "Cristina González-Correa, Sergio Couto-Alfonso, Isabel Iguacel et al.",
+      "abstract": "Time-restricted eating (TRE) has emerged as a promising chrononutritional strategy for improving cardiometabolic health, with human and experimental evidence suggesting beneficial effects on blood pressure (BP). However, attributing these effects specifically to meal timing remains challenging because TRE is not a single physiological exposure. Restricting the eating window may simultaneously modify fasting duration, circadian timing, energy balance, diet quality and nutritional composition, and body-weight dynamics, each of which may independently or interactively influence BP regulation. Interpretation is further complicated by how and when BP is assessed, particularly because BP is an intrinsically circadian phenotype. We propose a multidimensional framework that distinguishes these interconnected biological components from the methodological dimension of BP assessment. Disentangling them is essential to determine whether meal timing itself exerts an intrinsic antihypertensive effect and under which metabolic and circadian conditions such an effect emerges.",
+      "doi": "10.1093/nutrit/nuag167",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033823/",
+      "relevance": 3,
+      "matched": [
+        "nutrition",
+        "diet",
+        "meal"
+      ]
+    }
+  ]
+}
