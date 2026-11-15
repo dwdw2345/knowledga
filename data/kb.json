@@ -13,7 +13,7 @@
       "latest_articles": 230,
       "raw_articles": 300,
       "fascia_lines": 6,
-      "agent_drafts": 22
+      "agent_drafts": 28
     }
   },
   "disciplines": [
@@ -6780,8 +6780,92 @@
     ]
   },
   "agent_drafts": {
-    "updated": "2026-11-09 07:24",
+    "updated": "2026-11-16 07:33",
     "items": [
+      {
+        "pmid": "43025404",
+        "title": "Exogenous Lactate Supplementation: A Promising Fueling Strategy to Enhance Endurance Performance.",
+        "discipline": "physiology",
+        "principle": "外源性乳酸补充在生理相关剂量下可能作为氧化燃料与信号分子提升耐力表现，但现有采用低剂量单次给药的短期人体试验未显示表现获益。",
+        "mechanism": "乳酸穿梭范式：乳酸在糖酵解组织与氧化组织间进行底物交换，并参与系统能量代谢与细胞信号调节；外源乳酸可能补充氧化底物并影响代谢信号。",
+        "evidence_level": "C",
+        "evidence_note": "叙述性综述/机制综述；未提供原始人体试验的样本量与具体数据；摘要信息不足，无法量化剂量-效应。",
+        "application": "可能倾向通过改进配方（安全递送生理相关剂量、非单次冲击式给药）来探索耐力项目的外源乳酸补充策略；目前不应据此推荐实际补充方案。",
+        "counterexample": "当剂量过低或采用单次冲击式给药时，人体试验未观察到耐力表现提升；高剂量给药的安全性与耐受性限制可能使该策略不成立。",
+        "confidence": 0.4,
+        "status": "draft",
+        "generated_at": "2026-11-16 07:33"
+      },
+      {
+        "pmid": "43025406",
+        "title": "Mental Fatigue Impairs Training Performance in Resistance-Trained Males and Females: A Velocity-Based Approach.",
+        "discipline": "physiology",
+        "principle": "45分钟认知疲劳任务后，抗阻训练者在背蹲中的训练量（总次数）和首次重复向心速度均下降，且男性首次重复速度下降幅度大于女性。",
+        "mechanism": "认知疲劳可能降低中枢驱动与运动意图输出，表现为最大意图向心速度下降，并在多组训练中累积为训练量减少；具体外周机制摘要未阐明。",
+        "evidence_level": "B",
+        "evidence_note": "随机交叉设计；19名有抗阻训练经验者（10男9女）；6次训练课，最后2次随机分为认知疲劳（45分钟AX-CPT）与对照（纪录片）；样本量小，摘要结尾被截断。",
+        "application": "在需要高速度意图的抗阻训练课之前，可能倾向避免或管理长时间高强度认知负荷，以免降低训练量与动作速度；可用速度监测识别认知疲劳影响。",
+        "counterexample": "在低强度、非最大意图或不受中枢驱动限制的训练任务中，该效应可能不明显；个体对认知疲劳的敏感性差异可能使结果不成立。",
+        "confidence": 0.7,
+        "status": "draft",
+        "generated_at": "2026-11-16 07:33"
+      },
+      {
+        "pmid": "43018927",
+        "title": "Heat Training Practices in Elite and World-Class Athletes: A Review of Preparation Strategies for Competition in Hot Outdoor Environments.",
+        "discipline": "physiology",
+        "principle": "精英运动员在热环境比赛备战中常采用项目特异性热暴露（常与比赛环境相似或更严酷），并可在运动后被动加热；此类实践常伴随运动心率与核心温度下降、血浆容量增加等经典热适应标志。",
+        "mechanism": "热习服/热适应通过反复引起核心与皮肤温度、皮肤血流与出汗的持续升高，诱导心血管与体温调节适应（心率与核心温度降低、血浆容量增加）。",
+        "evidence_level": "C",
+        "evidence_note": "综述纳入12项观察性研究（其中11项含项目特异性热暴露，5项含运动后被动加热）；热干预设计、课结构与热/心血管应变监测差异大，许多报告细节不足；摘要信息不足，无法判定实验室外有效性。",
+        "application": "可能倾向在热环境比赛前至少2周开始、每日60-90分钟、持续10-14天的热暴露，并结合项目特异性与运动后被动加热；需标准化记录以便评估效果。",
+        "counterexample": "当赛前减量、训练负荷或后勤限制导致方案无法实施或暴露强度不足时，热适应标志与表现获益可能不出现；观察性设计无法证明因果。",
+        "confidence": 0.45,
+        "status": "draft",
+        "generated_at": "2026-11-16 07:33"
+      },
+      {
+        "pmid": "42868342",
+        "title": "Beyond the Hangover: Associations Between Binge Drinking, Health, and Performance in Young Adult Resistance-Trained Females.",
+        "discipline": "physiology",
+        "principle": "在年轻成年女性中，≥1年狂饮与较差的代谢健康（空腹及餐后血糖更高）相关，但在有抗阻训练者中未观察到骨密度、肌肉质量或体能表现的差异。",
+        "mechanism": "长期狂饮可能损害糖代谢（胰岛素敏感性），而抗阻训练可能维持肌肉质量与体能表现；具体机制摘要未阐明。",
+        "evidence_level": "B",
+        "evidence_note": "横断面关联研究；四组各12人（久坐低饮酒、久坐狂饮、抗阻训练低饮酒、抗阻训练狂饮）；样本量小、观察性设计不能推断因果；摘要结论被截断。",
+        "application": "可能倾向在抗阻训练女性中关注饮酒模式对代谢健康的潜在不利关联，而非仅关注体能表现；营养与生活方式评估可纳入代谢健康监测。",
+        "counterexample": "在非抗阻训练或不同饮酒定义/时长人群中关联可能不同；横断面设计无法排除混杂，不能据此断定狂饮导致代谢差异。",
+        "confidence": 0.55,
+        "status": "draft",
+        "generated_at": "2026-11-16 07:33"
+      },
+      {
+        "pmid": "43033966",
+        "title": "Omega-3 Fatty Acid Supplementation Has Coronary and Other Selective Health Benefits: Comprehensive Results from the VITamin D and OmegA-3 TriaL (VITAL).",
+        "discipline": "nutrition",
+        "principle": "在未筛选心血管风险的一般人群中，每日1 g海洋n-3脂肪酸补充未显著降低主要心血管事件复合终点，但显著降低总心肌梗死、致死性心肌梗死、经皮冠状动脉介入与心衰再住院风险，并降低自身免疫病风险。",
+        "mechanism": "n-3脂肪酸可能通过抗炎、抗血栓及心肌膜稳定性等途径选择性影响冠状动脉事件与心衰结局；具体机制摘要未展开。",
+        "evidence_level": "A",
+        "evidence_note": "全国性随机、安慰剂对照、2×2析因试验；25,871名美国男性≥50岁与女性≥55岁，中位5.3年；主要终点未达显著，部分次要/辅助终点显著，存在多终点比较局限。",
+        "application": "可能倾向将每日1 g海洋n-3脂肪酸视为对特定冠脉事件与自身免疫病风险有选择性关联的补充策略；不应据此将其作为降低总心血管事件或总死亡率的普遍措施。",
+        "counterexample": "在主要心血管事件复合终点、总癌症发生率与全因死亡率上未观察到显著降低；效应在不同性别、鱼摄入量与心血管风险因素人群中存在异质性，不能一概而论。",
+        "confidence": 0.8,
+        "status": "draft",
+        "generated_at": "2026-11-16 07:33"
+      },
+      {
+        "pmid": "43033777",
+        "title": "Musical Feedback to Reduce the Knee Adduction Moment Via Center of Pressure Medialization: A Proof-of-Concept Study in Healthy Adults for Knee Osteoarthritis Gait Retraining.",
+        "discipline": "anatomy",
+        "principle": "在健康成人中，基于足底压力调制的实时音乐反馈可引导压力中心内侧化，从而显著降低膝关节内收力矩第二峰值（约13.7%）与膝内收角冲量（约9.4%），且不改变步速、足进展角与步宽。",
+        "mechanism": "压力中心内侧化主要通过踝内翻、踝外旋与髋内旋实现，改变地面反作用力相对于膝关节的力臂，从而降低膝内收力矩；同时可能伴随膝屈曲力矩峰值边缘性升高作为代偿。",
+        "evidence_level": "B",
+        "evidence_note": "概念验证研究；12名健康成人（6女6男，31.5±5.3岁）；重复测量方差分析与统计参数映射；样本小、健康人群、短期训练，未在膝骨关节炎患者中验证。",
+        "application": "可能倾向将同步声音化生物反馈用于步态再训练以降低膝内收力矩，作为内侧膝骨关节炎的潜在辅助策略；需在患者人群中进一步评估。",
+        "counterexample": "当出现膝屈曲力矩峰值升高等等代偿模式时，单纯降低膝内收力矩的获益可能被抵消；在膝骨关节炎患者或不同步态模式人群中效果可能不成立。",
+        "confidence": 0.6,
+        "status": "draft",
+        "generated_at": "2026-11-16 07:33"
+      },
       {
         "pmid": "42975894",
         "title": "Athletic Performance Adaptations: Just Training Sprints or Combining Sprints With Three Different Strength Training Methods?",
@@ -7092,5 +7176,5 @@
       }
     ]
   },
-  "built_at": "2026-11-15 22:27"
+  "built_at": "2026-11-15 23:33"
 }
