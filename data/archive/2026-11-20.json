@@ -1,0 +1,378 @@
+{
+  "updated": "2026-11-20",
+  "articles": [
+    {
+      "pmid": "43051967",
+      "title": "Revisiting Tandler's model: Developmental anatomy of the gastrointestinal arteries and the embryological basis of human variants.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-18",
+      "authors": "Daniel Gondorf, George Triantafyllou, Maria Piagkou",
+      "abstract": "The arterial supply of the foregut, midgut, and hindgut is commonly interpreted through the classical Tandler-Felix model, in which ventral splanchnic roots and a longitudinal anastomotic channel undergo selective persistence, regression, and remodeling. Although this framework is widely used to explain adult coeliac, mesenteric, and hepatic arterial variants, the evidence for individual developmental mechanisms remains uneven. This critical narrative review re-examines the classical model against historical primary observations, contemporary human embryological and early fetal studies, adult anatomical and radiological series, and recent meta-analyses of arterial variation. This review emphasizes separating directly observed human developmental events from comparative evidence and retrospective interpretations based on adult morphology. Modern serial histology and three-dimensional reconstruction demonstrate marked variability during superior mesenteric artery and intestinal-branch formation, underscoring that definitive adult branching patterns emerge through dynamic remodeling rather than a rigid predetermined sequence. Coeliac-mesenteric common trunks, hepatic arteries of mesenteric origin, and the arc of Bühler are anatomically compatible with persistence or altered interruption of classical connections, but most specific mechanisms remain inferential. Retropancreatic topography can support developmental homology but cannot prove it on its own, and primitive longitudinal superior-inferior mesenteric arteries continuity is less directly documented than is often implied. An evidence-graded developmental framework is therefore proposed to integrate embryology, adult variation, and clinical anatomy while avoiding overstatement of historical models.",
+      "doi": "10.1002/ar.70397",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051967/",
+      "relevance": 2,
+      "matched": [
+        "anatomical",
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43050868",
+      "title": "Sound-limb propulsive impulse after lower-limb amputation increases with amputation level but is not driven by peak ankle power.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-17",
+      "authors": "Darlan Martins Ribeiro, Ruth Losada de Menezes, Flávia Martins Gervásio et al.",
+      "abstract": "Individuals with lower-limb amputation are thought to compensate for reduced prosthetic push-off by generating additional propulsion in the sound limb, but whether this originates at the ankle remains unclear. We compared propulsive impulse (PI), peak ankle power generation (A2), ankle positive work (APW) and related variables in 87 participants: 31 unimpaired controls, 30 with transfemoral amputation (TFA) and 26 with transtibial amputation (TTA), all fitted with prostheses through Brazil's public health system under a standardised protocol. Three-dimensional gait analysis provided ground reaction forces, ankle kinetics and spatiotemporal parameters. PI increased monotonically from Control to TTA to TFA and remained significant after correction for multiple comparisons and after adjustment for gait speed. In contrast, A2 was lower in both amputee groups than in Control; this reduction persisted after adjustment for gait speed only in TFA. APW, a time-integrated measure more directly comparable to PI, likewise did not follow the PI gradient. PI and A2 remained moderately correlated within every group, and the greater PI was attributable mainly to a longer propulsive phase rather than greater propulsive force. These findings indicate that the greater sound-limb propulsive impulse is not accompanied by increased peak ankle power generation or ankle positive work, although some ankle contribution cannot be excluded; whether it involves redistribution of mechanical output to more proximal joints remains a plausible hypothesis for future work. Prosthetic and rehabilitation strategies focused narrowly on restoring ankle push-off power may therefore not, by themselves, normalise sound-limb loading, particularly after transfemoral amputation.",
+      "doi": "10.1016/j.jbiomech.2026.113693",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050868/",
+      "relevance": 7,
+      "matched": [
+        "ankle",
+        "joint",
+        "kinetic",
+        "gait",
+        "rehabilitation"
+      ]
+    },
+    {
+      "pmid": "43050783",
+      "title": "Head impact exposure is associated with altered medio-lateral trunk dynamics during field-based walking in collegiate football athletes.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-17",
+      "authors": "Abdullah Zafar, Samuel Guay, Matthias Krüll et al.",
+      "abstract": "OBJECTIVE: Trunk-worn inertial sensors can measure medio-lateral trunk dynamics during naturalistic walking. This study examined whether head impact exposure (HIE) during Canadian varsity football games was associated with differences in these dynamics. METHODS: Sixty-eight unique male collegiate football athletes were monitored across multiple competitive seasons using instrumented mouthguards for head impact detection and chest-worn inertial measurement units for walking analysis. HIE was quantified at play-level and game-level temporal scales. Linear mixed-effects models assessed associations between HIE and root-mean-square lateral trunk acceleration (ACC) and trunk roll angular velocity (ROLL) extracted from walking bouts, adjusting for baseline dynamics, cadence and game exposure, with additional workload adjustment at play level. RESULTS: The analyzed sample comprised 13,956 walking bouts across 386 paired athlete-games, including 2106 post-impact bouts. Play-level HIE was associated with higher ROLL (β = 0.06, p < 0.001) after adjustment for recent physical workload. Game-level HIE was associated with higher baseline-adjusted post-game ROLL (β = 0.11, p = 0.016). ACC associations were not statistically significant at either the play level (β = 0.03, p = 0.149) or game level (β = 0.09, p = 0.055). Sensitivity analyses most consistently supported play-level ROLL; game-level ROLL estimates remained positive but were more sensitive to sampling window and team composition. CONCLUSION: HIE was associated with measurable differences in medio-lateral trunk dynamics during field-based walking, particularly trunk roll angular velocity. Continuous trunk-worn inertial sensing may provide a field-based approach for investigating locomotor dynamics associated with head impact exposure in football athletes.",
+      "doi": "10.1016/j.gaitpost.2026.110709",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050783/",
+      "relevance": 6,
+      "matched": [
+        "foot",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "43055182",
+      "title": "Activity level strongly affects extremity, but not cheek, temperature and heat loss during cold wind exposure.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Pim Scheiberlich, Lisa Klous, Elsa Rijpstra et al.",
+      "abstract": "Background: The wind chill temperature index (WCTI) estimates frostbite risk from air temperature and wind speed, but is based on exposed cheek skin during walking at a fixed speed. This may limit its applicability across activity levels and body sites, particularly because frostbite frequently occurs at the extremities. This study investigated whether activity level affects skin temperature and heat flux responses at the cheek, finger, and toe during cold wind exposure, hypothesizing that higher activity levels would increase body temperature, resulting in higher skin temperatures, altered heat fluxes, and reduced cold injury risk. Methods: Thirteen healthy male participants completed three experimental conditions in a climate chamber at -10°C with wind exposure. Activity level was varied between standing still (LOW), walking at 4.8 km·h⁻¹ on a level treadmill (MED), and walking at 4.8 km·h⁻¹ with a 5% incline (HIGH). Skin temperature and heat flux were measured continuously at the cheek, finger, and toe. Results: Cheek skin temperature was slightly higher in HIGH (14.8 ± 2.1°C) than in LOW (12.2 ± 1.9°C, P = 0.013) and MED (12.6 ± 1.2°C, P < 0.001), whereas cheek heat flux did not differ among conditions (P = 0.512). Finger skin temperature increased from 8.5 ± 1.6°C in LOW to 23.1 ± 9.2°C in MED and 31.5 ± 1.8°C in HIGH, while toe skin temperature increased from 12.8 ± 2.1°C to 24.5 ± 8.4°C and 31.4 ± 5.0°C, respectively. All pairwise differences in finger and toe skin temperature were significant (P ≤ 0.001). Finger and toe heat flux also increased with activity level, with significant overall condition effects at both sites (P < 0.001). Conclusion: Under the environmental conditions tested, activity level had limited relevance for WCTI-based assessment of exposed cheek cooling, supporting the validity of the current WCTI assumptions for the cheek. However, activity level strongly affected thermal responses at the finger and toe, indicating that cold injury risk assessment may benefit from adjustments for both anatomical location and activity level.",
+      "doi": "10.1152/japplphysiol.90236.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055182/",
+      "relevance": 1,
+      "matched": [
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43055146",
+      "title": "Isocapnic breathing mitigates cerebral blood flow reductions after ketone monoester supplementation.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Claudia M S Yong, Aedan J Rourke, Geoff B Coombs et al.",
+      "abstract": "Ketone monoester (KME) ingestion lowers cerebral blood flow (CBF), likely due to reduced arterial carbon dioxide (PaCO2). We tested the hypothesis that maintaining end-tidal CO2 (PETCO2; surrogate for PaCO2) following KME ingestion would prevent reductions in CBF and improve cerebrovascular reactivity (CVR) to CO2 compared to free-breathing. In a single-blinded randomized crossover design, twenty-three adults (age=22±2 yrs) ingested 0.6 g·kg-1 KME and breathed either room air (poikilocapnia) or a gas mixture that clamped PETCO2 at baseline (isocapnia) for 60 min. CVR to CO2 was assessed at targeted PETCO2 of +3, +6, and +9 mmHg above baseline. CBF was assessed using duplex ultrasound of extracranial arteries and transcranial Doppler ultrasound of the middle cerebral artery. Venous β-hydroxybutyrate, pH, and bicarbonate were measured. Outcomes were assessed at baseline, 45-, and 60-min post-supplementation. PETCO2 was higher during isocapnia at 45 min (3.9±3.8 mmHg; P<0.001) and 60 min (4.4±3.8 mmHg; P<0.001) post-supplementation corresponding with 15% higher CBF compared to poikilocapnia (P<0.001). Blood pH was reduced during isocapnia (P<0.001), whereas it was unchanged in poikilocapnia (P=0.246), suggesting that the ventilatory response to KME ingestion effectively buffered metabolic acidosis in poikilocapnia. CVR to CO2 was reduced following KME ingestion regardless of condition (P<0.001). Exploratory analyses demonstrated that biological sex did not alter cerebrovascular responses to KME ingestion. This work confirms that reductions in CBF and CVR to CO2 following KME ingestion are due to reduced PaCO2 in response to metabolic acidosis. Strategies that buffer metabolic acidosis likely will mitigate CBF reductions following acute KME ingestion.",
+      "doi": "10.1152/japplphysiol.90501.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055146/",
+      "relevance": 1,
+      "matched": [
+        "metabolic"
+      ]
+    },
+    {
+      "pmid": "43055139",
+      "title": "Assessing Skeletal Muscle Reactive Hyperemia with Intramuscular Doppler Ultrasound: Insights from Exercise-Trained and Untrained Adults.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Olavo João Frederico Ramos Junior, Maria Clara Ramos Souza Rodrigues, Paola Quevedo da Costa et al.",
+      "abstract": "Power Doppler ultrasound can detect low-velocity blood-flow signals within skeletal muscle, providing a spatially localized, semiquantitative index of intramuscular blood flow (IMBF). Whether this signal can characterize post-occlusive reactive hyperemia (RH), distinguish populations with different vascular responsiveness, and correlate with established indices of RH is unknown. We examined whether power Doppler-derived IMBF can be used to evaluate skeletal muscle RH following arterial occlusion, distinguish hyperemic responses between resistance-trained and untrained adults, and correlate with near-infrared spectroscopy (NIRS)-derived total hemoglobin ([tHb]) and tissue oxygen saturation (StO2) reperfusion slopes and brachial artery RH blood flow. Forty-four adults (24 trained, 20 untrained) underwent a vascular occlusion test with simultaneous power Doppler IMBF, NIRS, and brachial artery Doppler assessments. IMBF was quantified as the percentage of Doppler-positive pixels within a standardized region of interest in the extensor carpi radialis muscle. RH-IMBF0-60 and RH-IMBF0-TTP were defined as the area under the IMBF curve from cuff deflation to 60s and to the individual time-to-peak (TTP), respectively. RH-IMBF0-TTP and RH-IMBF0-60 were greater in trained individuals (P<0.001), as were the [tHb] and StO2 reperfusion slopes (both P<0.001), RH-blood flow, and peak blood flow (both P=0.001). RH-IMBF0-60 correlated with the [tHb] slope (r=0.624), StO2 slope (r=0.535), and RH-blood flow (r=0.597) (all P<0.001). These findings demonstrate that Power Doppler-derived IMBF is sensitive to post-occlusion reperfusion, distinguishes hyperemic responses between trained and untrained adults, and correlates with established indices of RH, providing proof-of-principle evidence for its application as an accessible, spatially localized, complementary approach for assessing skeletal muscle vascular reactivity.",
+      "doi": "10.1152/japplphysiol.90310.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055139/",
+      "relevance": 7,
+      "matched": [
+        "exercise",
+        "power",
+        "resistance",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43056328",
+      "title": "Genetic and Epigenetic Determinants of Physical Activity and Sedentary Behaviors: A Systematic Review.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Layan Mendis, Lianne de Vries, Floris Huider et al.",
+      "abstract": "INTRODUCTION/PURPOSE: A better understanding of the determinants of physical activity (PA) and sedentary behavior (SB) is needed to counter increasing inactivity. Twin and family studies indicate that these behaviors are shaped by biological factors, including genetic and epigenetic mechanisms. The number of genome-wide association studies (GWAS) and epigenome-wide association studies (EWAS) on PA and SB that try to elucidate these mechanisms has been increasing, motivating a review on whether their findings point to overlapping or distinct biological mechanisms. METHODS: In this preregistered systematic review, we synthesize GWAS and EWAS findings on PA and SB and identify replicated loci across studies. RESULTS: We included nine GWAS reporting 414 unique lead SNPs and seven EWAS reporting 437 significant CpG sites associated with PA and/or SB. Across all findings, 51 genomic loci and 93 SNPs met our replication criteria, defined as support from at least two different GWAS or EWAS studies. Five genomic loci (1p36.23, 1p13.3, 1q21.3, 6p22.2, and 6p21.31) including six lead SNPs (rs301799, rs8450, rs4845364, rs2393593, rs10947452, and rs6457816), showed convergence between PA/SB-associated GWAS variants and mQTLs for PA/SB-associated CpG sites, highlighting candidate regions for future functional follow-up. Functional annotation indicated that these loci are mostly enriched in genic and transcript-associated regions. Gene mapping and enrichment analyses highlighted biological pathways across neurobiological systems involved in motivation and exercise liking, as well as peripheral systems related to movement, exercise capacity, energy metabolism, and cardiometabolic functioning. PA/SB-associated SNPs also overlapped with variants linked to body composition, cardiometabolic markers, educational attainment, cognitive ability, and brain-size traits. CONCLUSIONS: Overall, PA and SB appear to be influenced by a complex, highly polygenic architecture, with consistent genetic influences but limited convergence yet in epigenetic influences. Further large-scale, multi-ancestry studies integrating genomic and epigenomic data with harmonized PA/SB measures are needed to inform functional genetic studies.",
+      "doi": "10.1249/MSS.0000000000004201",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056328/",
+      "relevance": 13,
+      "matched": [
+        "sedentary",
+        "physical activity",
+        "exercise",
+        "metabolic",
+        "metabolism"
+      ]
+    },
+    {
+      "pmid": "43053348",
+      "title": "HIV proteins disrupt a network of phosphatidylinositol (4,5)-bisphosphate binding sites on the dopamine transporter to regulate amphetamine behaviours.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Yanqi Zhu, Diksha Parwana, Heinrich J G Matthies et al.",
+      "abstract": "Amphetamine (AMPH) use has been linked to human immunodeficiency virus (HIV) transmission because HIV can spread through unprotected sex that is associated with AMPH use disorder (AUD). Thus, AUD and HIV have been termed a double epidemic. In this bidirectional relationship, the role played by AUD in HIV-dependent neuropathogenesis is well documented. By contrast, how HIV infection regulates the development of AUD remains elusive. In rodents, expression of HIV viral proteins, such as the trans-activator of transcription (Tat), enhances AMPH escalation (i.e. a progressive intensification of drug use), a Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria for addiction. In humans, HIV infection increases AMPH frequency of use, as well as the total amount used. Thus, it is possible that HIV/HIV proteins promote the progression of AUD. AMPH-associated behaviours stem, at least in part, from the ability of AMPH to reverse the dopamine (DA) transporter (DAT) function, causing non-vesicular DA release (NVDR) and an increase in extracellular DA. Previously, we provided the first evidence that specific domains of DAT engage in direct association with the plasma membrane lipid, phosphatidylinositol 4,5-bisphosphate (PIP2). These interactions are essential for AMPH-induced NVDR and specific behaviours. HIV Tat is a protein that binds PIP2 through its basic domain. We demonstrate that Tat impairs NVDR by disrupting the network of PIP2 binding sites on DAT. Our study provides an atomic scale mechanistic description on how Tat disrupts human DAT/PIP2 association and blunts AMPH-induced NVDR. Using Drosophila as an animal model, we show that Tat by blunting NVDR in the setting of AUD promotes AMPH escalation. KEY POINTS: Human immunodeficiency virus (HIV) trans-activator of transcription (Tat) impairs non-vesicular dopamine (DA) release (NVDR) by disrupting the network of PIP2 binding sites on human Da transporter (DAT). Our study provides an atomic scale mechanistic description on how Tat disrupts human DAT/phosphatidylinositol 4,5-bisphosphate association and blunts amphetamine (AMPH)-induced NVDR. We associate Tat blunting of NVDR to the ability of Tat to foster AMPH escalation, using Drosophila as an animal model.",
+      "doi": "10.1113/JP291975",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053348/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43052057",
+      "title": "Immediate transcranial magnetic stimulation-evoked potentials reveal short-latency intracortical inhibition.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Lasse Christiansen, Yufei Song, Ditte Haagerup et al.",
+      "abstract": "Short-interval intracortical inhibition (SICI) is the most widely used neurophysiological index of GABAergic inhibition in the human cortex. However, it is an indirect measure, inferring synaptic inhibition from suppression of peripherally recorded motor-evoked potentials (MEPs) elicited by transcranial magnetic stimulation (TMS). In the standard protocol, a subthreshold conditioning pulse suppresses the MEP evoked by a suprathreshold test pulse delivered 1-5 ms later. Interpretation is further complicated by temporal overlap with short-interval intracortical facilitation (SICF), reflecting excitatory interactions at interstimulus intervals of ∼1.5 and 2.7 ms. To overcome these limitations, we recorded immediate TMS-evoked EEG potentials (iTEPs; 1-10 ms post-stimulus) as a more direct measure of motor cortical activity in 16 healthy volunteers (20-35 years; seven male). The conventional SICI protocol suppressed only later components of the iTEP, probably corresponding to late corticospinal volleys previously identified in epidural spinal recordings after suprathreshold TMS, while the earliest iTEP component was unaffected. Importantly, later iTEPs were suppressed to a similar extent whether conditioning-test intervals coincided with SICF peaks or troughs, and the magnitude of iTEP suppression correlated with concurrently recorded paired-pulse MEP suppression. SICI also reduced an early TEP component (N15; 10-20 ms), but paired-pulse N15 suppression showed a different dependence on stimulus intensity and did not correlate with MEP suppression. These findings demonstrate that SICI measured via MEPs does not reflect a global index of cortical GABAergic motor cortical inhibition but instead reflects inhibition within specific cortical circuits that can be investigated more directly with iTEPs. KEY POINTS: Transcranial magnetic stimulation (TMS) over the primary motor cortex evokes high-frequency activity in the corticospinal tract, which can be measured directly with invasive, epidural recordings or indirectly as a time-locked, compound EMG response [i.e. motor evoked potential (MEP)]. GABAergic intracortical inhibition can be indexed as the MEP suppression caused by a subthreshold TMS pulse preceding the suprathreshold pulse by 1-5 ms. Combining TMS with artifact-minimized EEG allows the assessment of paired-pulse inhibition of immediate and early peaks of TMS-evoked EEG potential (TEP). Both immediate TEP (iTEP) and early TEP peaks display paired-pulse inhibition but only iTEP suppression relates to MEP suppression. iTEPs enable investigations of intracortical interactions non-invasively at the cortical level, which enables assessment of cortical and corticospinal physiology with TMS even in the absence of MEPs.",
+      "doi": "10.1113/JP291582",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052057/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43052010",
+      "title": "P2X3R antagonism during exercise in hypertensive HFpEF: A potential non-permanent pharmacological intervention for exercise intolerance.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Joseph Mannozzi",
+      "abstract": "",
+      "doi": "10.1113/JP292498",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052010/",
+      "relevance": 4,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43052044",
+      "title": "Allostatic load is not associated with augmented vasoconstrictive response to cold pressor test or functional sympatholysis in Black emerging adults.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Emily F Blake, Lauren E Eagan, Cynthia M Weiner et al.",
+      "abstract": "Black individuals are disproportionately affected by hypertension (HTN), even after controlling for conventional risk factors (i.e., obesity, smoking, physical fitness). Emerging evidence implicates chronic psychosocial stress, including discrimination/race-related events, in HTN development. Allostatic load (AL) reflects the cumulative adverse impact of repeated activation of compensatory physiological responses to psychosocial stressors. We assessed the associations between AL and disruptions in vascular parameters that may indicate heightened HTN risk in Black emerging adults. Forearm blood flow (FBF) and vascular conductance (FVC) were measured during sympathoexcitation (cold pressor test; CPT), alone and with handgrip exercise, (EX + CPT) in 35 Black undergraduate students (24F/11M, 20 ± 1 years). AL was determined using both clinical cutoffs (AL-CC) and individual z-scores (AL-z) from nine biomarkers (heart rate, systolic blood pressure (BP), diastolic BP, C-reactive protein, glucose, creatinine, total cholesterol/HDL-C ratio, cortisol, %body fat). Higher scores reflected greater AL burden. AL scores were overall low (AL-z: 0.003 ± 3.9; AL-CC: 1.6 ± 1.2). Reductions in FBF and FVC during EX + CPT (∆FBF: -3.58% ± 3.14%; ∆FVC: -12.56% ± 6.77%) were significantly attenuated (P < 0.001) as compared to CPT alone (∆FBF: -24.15% ± 7.95%; ∆FVC: -35.54% ± 9.20%). AL was not correlated with CPT-FBF, -FVC or with functional sympatholysis magnitude (%); however, blunted diurnal cortisol slope correlated with larger reductions in CPT-FBF (r = -0.55, P = 0.00328), and increased FBF- (r = 0.49, P = 0.00957) and FVC- (r = 0.43, P = 0.0283) lysis. These findings suggest hypothalamic-pituitary-adrenal axis dysregulation in Black emerging adults may elicit exaggerated vasoreactivity to sympathoexcitatory stress.",
+      "doi": "10.1113/EP093867",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052044/",
+      "relevance": 3,
+      "matched": [
+        "exercise",
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43055384",
+      "title": "Does Increased Maximal Sprint Speed Alter Pacing Distribution in the 400-m Race Among Male 400-m Sprinters? A Longitudinal Study.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Kentaro Sato, Takaya Yoshimoto, Yoshihiro Chiba et al.",
+      "abstract": "Sato, K, Yoshimoto, T, Chiba, Y, Ohnuma, H, Iso, S, Tsuchiya, J, and Takai, Y. Does increased maximal sprint speed alter pacing distribution in the 400-m race among male 400-m sprinters? A longitudinal study. J Strength Cond Res XX(X): 000-000, 2026-Performance in the 400-m sprint is influenced not only by short sprint ability but also by pacing strategy during a race. However, the effects of changes in short sprint ability on pacing characteristics remain unclear. Therefore, this study aimed to clarify the effects of changes in maximal sprint speed (MSS) on 400-m sprint performance and segmental running speed in competitive 400-m sprinters. Twenty-three male 400-m sprinters (age: 20.04 ± 1.76 years, height: 1.75 ± 0.06 m, body mass: 66.93 ± 6.93 kg, 400-m personal best: 49.03 ± 1.56 seconds; range: 45.58-52.70 seconds) performed 400-m and 60-m sprint tests on 2 occasions separated by 1 year. Maximal sprint speed was defined as the highest mean running speed among the 10-m segments during a 60-m sprint. In the 400-m sprint, the relative running speed for each 50-m segment (%MSS) was calculated as the mean running speed divided by the MSS, and the percentage of the 400-m time spent in each 50-m segment (%ST) was determined. Sprinters who exhibited greater increases in MSS demonstrated greater improvements in 400-m sprint performance. Furthermore, increases in MSS were significantly associated with improvements in running speed during the 0-250-m segments of the 400-m sprint. These findings indicate that increases in MSS may contribute to improvements in 400-m sprint performance, particularly through enhanced running speed during the first half of the race.",
+      "doi": "10.1519/JSC.0000000000005734",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055384/",
+      "relevance": 6,
+      "matched": [
+        "sprint",
+        "strength",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43055379",
+      "title": "The Relationship Between Muscle Cross-Sectional Area and Joint Torque of Trunk and Hip Generating Swing Rotation Around the Vertical Axis in Baseball Batting.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Takuya Yanaka, Yoshitaka Morishita",
+      "abstract": "Yanaka, T and Morishita, Y. The relationship between muscle cross-sectional area and joint torque of trunk and hip generating swing rotation around the vertical axis in baseball batting. J Strength Cond Res XX(X): 000-000, 2026-In baseball batting, the bat is accelerated mainly by rotation around the vertical axis. The main joint motions responsible for generating this rotation are believed to be hip flexion of the lead-side leg, hip extension of the pivot-side leg, and trunk rotation. This study investigated the relationship between muscle cross-sectional area (CSA) and joint torques contributing to swing rotation around the vertical axis in 27 baseball batters, using magnetic resonance imaging and inverse dynamics. Initial analysis confirmed significant correlations between bat-head speed and peak pivot hip torque (r = 0.59) and peak trunk rotational torque (r = 0.62). The lead hip torque correlated significantly with the CSA of psoas major (r = -0.50) and rectus femoris r (r = -0.60). The pivot hip torque correlated significantly with the CSA of gluteus maximus r (r = 0.73) and hamstrings r (r = 0.73). Similarly, trunk rotational torque was correlated with the CSAs of the pivot-side external oblique (r = 0.50) and lead-side internal oblique (r = 0.50). By contrast, all correlations involving both hip joint torques and trunk joint torque (with bat-head speed and muscle CSAs) disappeared after controlling for body mass in the partial correlation analysis. These results indicated that both hip torques and trunk torque generation are strongly dependent on muscle size and body size in baseball batters. This study suggested that hypertrophying muscles in the hips and trunk is important for generating large torque to improve bat-head speed in baseball batting.",
+      "doi": "10.1519/JSC.0000000000005730",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055379/",
+      "relevance": 2,
+      "matched": [
+        "strength",
+        "hypertrophy"
+      ]
+    },
+    {
+      "pmid": "43055231",
+      "title": "Comparative Effects of Resistance Training and High-Intensity Interval Training on Body Composition, Metabolic Health, and Functional Strength in Overweight and Obese Adults: A 12-Week Randomized Controlled Trial.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Cristina Petisco-Rodríguez, Álvaro Barroso-Hernández, Ignacio Bartolomé-Sánchez et al.",
+      "abstract": "Petisco-Rodríguez, C, Barroso-Hernández, Á, Bartolomé-Sánchez, I, and Crego, A. Comparative effects of resistance training and high-intensity interval training on body composition, metabolic health, and functional strength in overweight and obese adults: A 12-week randomized controlled trial. J Strength Cond Res XX(X): 000-000, 2026-The aim of this study was to compare the effects of 2 training programs on anthropometric and physiological variables in overweight and obese adults. Ninety subjects (age = 39.9 ± 10.4 years; body mass index (BMI) = 31.0 ± 4.3 kg·m-2) were randomly assigned to a resistance training group (RG; n = 30), a high-intensity interval training (HIIT) group (HG; n = 30), or a nontraining control group (CG; n = 30). Both the RG and HG performed 2 weekly sessions for 12 weeks. The RG completed 8 upper-body and lower-body resistance exercises at 70% of 1 repetition maximum, while the HG performed high-intensity intervals at 80% of the maximum heart rate. A 3 (group: CG, RG, HG) × 2 (time: pre, post) mixed ANOVA revealed significant effects on the BMI, body fat, and fasting glucose. Both training groups showed similar improvements in all measures from preintervention to postintervention. Compared with CG, RG and HG had reduced body fat and BMI, while RG demonstrated greater gains in muscle mass, fasting glucose, and grip strength. Paired t-tests confirmed significant within-group improvements in BMI, body fat, grip strength, and fasting glucose in the RG and HG. Statistical significance was set at p < 0.017 after the Bonferroni correction. These findings suggest that both resistance training and HIIT enhance the body composition of overweight and obese adults. However, resistance training may provide additional benefits in muscular fitness and glycemic control, supporting its role as a practical strategy for improving metabolic health in this population.",
+      "doi": "10.1519/JSC.0000000000005668",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055231/",
+      "relevance": 18,
+      "matched": [
+        "training",
+        "strength",
+        "metabolic",
+        "resistance",
+        "exercise",
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43056700",
+      "title": "Localized extracellular water responses to low-and high-load resistance exercise assessed by bioelectrical impedance spectroscopy.",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "journal_issn": "1715-5312",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Masashi Taniguchi, Kazuki Umemura, Zimin Wang et al.",
+      "abstract": "This study evaluated extracellular water (ECW) responses measured using segmental bioelectrical impedance spectroscopy (S-BIS) across different measurement regions following resistance exercise (RE) and examined their associations with muscle thickness (MT) changes to assess the regional responsiveness of S-BIS to exercise-induced muscle swelling. Eighteen healthy young adults performed unilateral knee extension RE under two load conditions with matched total training volume on separate days (30% and 80% one-repetition maximum [1RM]). MT of the quadriceps femoris (QF) was assessed using ultrasonography, and ECW was estimated using S-BIS before and after each RE session. ECW was evaluated in three regions: thigh-region, the localized region over the QF (QF-region), and the localized region over the hamstrings (Ham-region). ECW changes were analyzed using two-way repeated-measures analysis of variance, and Pearson's correlation analyses were performed to examine relationships between ECW and MT changes. ECW increased significantly only in the QF-region under both load conditions (+8.6% and +13.4%, respectively). Main effects indicated greater ECW changes under 80% than 30% 1RM (mean difference, 2.32 percentage points) and in the QF-region than the thigh- and Ham-regions. ECW changes were significantly and positively correlated with MT changes in the QF-region under both the 30% and 80% 1RM conditions (r = 0.708 and 0.667, respectively). Localized ECW assessment over the QF revealed region-specific changes following RE that were associated with MT changes. These findings suggest that localized ECW assessment using S-BIS may provide a region-specific measure of exercise-induced fluid changes associated with muscle swelling.",
+      "doi": "10.1139/apnm-2026-0250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056700/",
+      "relevance": 11,
+      "matched": [
+        "exercise",
+        "resistance",
+        "training"
+      ]
+    },
+    {
+      "pmid": "43052911",
+      "title": "Radiographic changes in disc height index and 12-month segmental motion following single-level microsurgical sequestrectomy for lumbar disc herniation.",
+      "journal": "BMC musculoskeletal disorders",
+      "journal_issn": "1471-2474",
+      "discipline": "fascia",
+      "date": "2026-Nov-14",
+      "authors": "Katharina Jäckle, Marc-Pascal Meier, Thelonius Hawellek et al.",
+      "abstract": "OBJECTIVES: Longitudinal radiographic changes after microsurgical sequestrectomy for lumbar disc herniation remain incompletely characterized, particularly regarding disc height and segmental motion. This study aimed to quantify changes in Disc Height Index (DHI) from the preoperative assessment to 12-month follow-up, to describe radiographic segmental motion and the prevalence of prespecified radiographic instability criteria at 12 months, and to identify factors associated with these radiographic findings. METHODS: This retrospective single-center observational study included 250 patients who underwent single-level microsurgical sequestrectomy for lumbar disc herniation between January 2018 and December 2024 and had complete imaging required for the present analysis. Disc height and DHI were assessed using standardized radiographic measurements. Segmental motion and radiographic instability status were assessed on 12-month flexion-extension radiographs; corresponding preoperative functional radiographs were not systematically available. Recurrent disc herniation was assessed on postoperative MRI. Multivariable regression analyses were performed to identify factors associated with DHI reduction and 12-month radiographic instability status. Because no nonoperative or alternative-surgery comparison group was available, the study was not designed to determine whether observed changes were caused by sequestrectomy or reflected the natural history of underlying degeneration. RESULTS: Mean disc height significantly decreased from 9.14 ± 1.48 mm preoperatively to 7.65 ± 1.89 mm at 12-month follow-up (p < 0.001). Mean DHI declined from 0.297 ± 0.050 to 0.249 ± 0.062 (p < 0.001), corresponding to a relative DHI change of - 17.3 ± 9.5%. Mean absolute disc-height loss was 1.49 ± 0.68 mm. Prespecified radiographic instability criteria were met by 24.4% of patients at 12 months. MRI-detected recurrent disc herniation was present in 7.6% of included patients with postoperative MRI. In the multivariable linear model, larger sequester size (standardized β = -0.152, 95% CI - 0.237 to - 0.067; p < 0.001), higher Pfirrmann grade (β = -0.449, 95% CI - 0.564 to - 0.335; p < 0.001), presence of Modic changes (β = -0.227, 95% CI - 0.326 to - 0.128; p < 0.001), and higher facet arthrosis grade (β = -0.228, 95% CI - 0.335 to - 0.121; p < 0.001) were independently associated with a more negative 12-month relative DHI change. In the separate logistic model, larger sequester size (OR 1.77 per 1-SD increase, 95% CI 1.24-2.54; p = 0.002), higher Pfirrmann grade (OR 2.40 per grade, 95% CI 1.44-3.98; p < 0.001), and higher facet arthrosis grade (OR 1.98 per grade, 95% CI 1.21-3.23; p = 0.006) were associated with meeting the radiographic instability criteria at 12 months. CONCLUSION: Significant reductions in disc height and DHI were observed between the preoperative assessment and 12-month follow-up in this cohort treated with microsurgical sequestrectomy. Prespecified radiographic instability criteria were met by 24.4% of patients at 12 months. Because baseline functional radiographs were not systematically available, the study cannot determine whether radiographic instability developed after surgery. In the absence of a comparison group and patient-reported clinical outcomes, these findings should be interpreted as longitudinal disc-height observations and cross-sectional 12-month radiographic associations; they cannot establish a causal effect of sequestrectomy or the clinical relevance of the observed motion findings. TRIAL REGISTRATION: Registration of trial 2026-06-30 - Retrospectively registered. Trial registration number DRKS00040457.",
+      "doi": "10.1186/s12891-026-10713-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052911/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43051547",
+      "title": "Natural-abundance carbon isotope profiling of long-chain polyunsaturated fatty acid supplement incorporation in extremely preterm infants: a sub-study of the Mega Donna Mega randomized clinical trial.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov-18",
+      "authors": "Chuck T Chen, Ulrika Sjöbom, Mats X Andersson et al.",
+      "abstract": "BACKGROUND: Extremely preterm infants are deprived of most third-trimester long-chain polyunsaturated fatty acid accretion. In the Mega Donna Mega trial, enteral arachidonic acid (ARA) and docosahexaenoic acid (DHA) supplementation reduced severe retinopathy of prematurity despite modest early changes in circulating levels. OBJECTIVE: We investigated whether natural-abundance carbon isotope ratio (δ13C) profiling detects early entry of supplemented ARA and DHA into circulating phospholipids in extremely preterm infants. METHODS: This sub-study of the randomized Mega Donna Mega trial included 25 infants born before 25+2 weeks' gestation who received standard-of-care nutrition (SOC, n=12) or enteral ARA+DHA supplementation (intervention, n=13; 100 and 50 mg/kg/day, respectively) from ≤3 days after birth until 40 weeks' postmenstrual age. Serum phospholipid fatty acid composition and δ13C values were determined at Day 0-3, 10-16, 34-47, and 75-87. Group differences were assessed with mixed models of treatment group by sampling window. RESULTS: Between-group differences in ARA and DHA weight percent (wt%) emerged late in the intervention (Day 75-87, mean [SD]: ARA 10.1 [2.0] versus 6.9 [1.4]; DHA 3.3 [1.0] versus 2.3 [0.7]). ARA and DHA δ13C were similar between groups at Day 0-3 and higher in supplemented infants from Day 10-16 (difference [95% CI]: ARA 1.9 [0.9, 2.8] mUr; DHA 2.0 [0.3, 3.6] mUr). The group-by-window interaction was significant for ARA δ13C (p=0.007) but not for DHA δ13C (p=0.11; p=0.005 after excluding one infant with necrotizing enterocolitis and low compliance). CONCLUSIONS: Natural-abundance δ13C profiling showed that supplemented ARA and DHA were bioavailable and entered circulating phospholipids within two weeks of birth, before clear separation in fatty acid composition. Concentration-based biomarkers may underestimate early exposure to supplemented fatty acids in extremely preterm infants. TRIAL REGISTRATION: ClinicalTrials.gov, NCT03201588, https://clinicaltrials.gov/study/NCT03201588.",
+      "doi": "10.1016/j.ajcnut.2026.101636",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051547/",
+      "relevance": 7,
+      "matched": [
+        "fat",
+        "supplement",
+        "nutrition"
+      ]
+    },
+    {
+      "pmid": "43056250",
+      "title": "Train hard, recover smart: the supplement framework to enhance exercise recovery in recreational and elite-level athletes.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "journal_issn": "1550-2783",
+      "discipline": "nutrition",
+      "date": "2026-Dec-30",
+      "authors": "Federica Conti, Dan Garner, Andrew J Galpin",
+      "abstract": "Background: Exercise-induced inflammation and muscle damage are frequent consequences of structured physical activity that facilitate muscle growth and subsequent training adaptations. Performance improvements are strongly dependent upon athletes' capacity to successfully recover from previous sessions or challenging efforts, particularly when opportunities to rest and recover are limited. Nutritional practices centered around acute or chronic ingestion of certain foods or dietary bioactive compounds have been shown to accelerate neurophysiological and subjective recovery outcomes and may be worthy of consideration in both recreationally active and professional athletic populations. Methods: This review provides a comprehensive summary of dietary strategies to promote exercise recovery that are supported by robust scientific evidence, including systematic reviews, randomized clinical trials, and observational studies up to August 2025. Results: Despite substantial variability in evidence quality, identified nutrients, dietary supplements, and bioactive compounds of greatest interest for athletes are omega-3 fatty acids and creatine monohydrate, while additional compounds showing promising results in improving subjective or objective recovery metrics such as inflammatory biomarkers, muscle soreness, and fatigue include magnesium, taurine, curcumin, L-Carnitine, Ashwagandha, anthocyanins, L-Citrulline, gingerol, tart cherry, beetroot, and pomegranate juice. Nutrients or compounds often popularized but requiring further investigation, current research gaps, and methodological limitations within the available body of literature are also discussed. Conclusion: The findings outlined in this review may inform evidence-based recovery nutrition strategies for both elite and recreational athletes.",
+      "doi": "10.1080/15502783.2026.2763838",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056250/",
+      "relevance": 20,
+      "matched": [
+        "supplement",
+        "exercise",
+        "athlete",
+        "nutrition",
+        "nutrient",
+        "fat"
+      ]
+    },
+    {
+      "pmid": "43056144",
+      "title": "Lower-limb performance and muscle soreness after short-term dark chocolate intake in CrossFit®-trained women: an exploratory secondary analysis.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "journal_issn": "1550-2783",
+      "discipline": "nutrition",
+      "date": "2026-Dec-30",
+      "authors": "Kousar Safari, Mohammad Hemmatinafar, Zeinab Jahan et al.",
+      "abstract": "BACKGROUND: Dark chocolate (DC) has been proposed as a nutritional aid for exercise performance and recovery, but evidence in trained women remains limited. This exploratory secondary analysis examined selected lower-limb performance outcomes and delayed-onset muscle soreness (DOMS) in female CrossFit® athletes. METHODS: This secondary analysis included 15 trained female CrossFit® athletes from a randomized crossover trial. No separate a priori sample-size calculation was performed for these outcomes (minimum detectable paired effect, d_z = 0.78). DC (30 g/day, 85% cocoa), placebo chocolate (PLA), and an open-label control (CONN) were compared at four operationally defined menstrual-cycle assessments after three days of supplementation. DC-PLA allocation was blinded, but blinding success was not assessed. Outcomes were vertical jump height (VJH), knee isokinetic and isometric performance, and muscle-specific DOMS after the Cindy WOD. RESULTS: Condition effects survived FDR control for VJH and 19 of 22 dynamometry outcomes. Across assessments, VJH was 34.48 ± 5.09 cm with DC and 30.22 ± 2.34 cm with PLA (mean difference 4.27 cm, 95% CI 1.45 to 7.08; Holm-adjusted p = 0.017; g_av = 1.09). No condition-by-assessment interaction survived FDR control (all q ≥ 0.141). DOMS showed significant time effects for all three muscles, peaked at approximately 24 h, remained elevated at 48 h, and declined toward baseline by 72 h. A condition-by-time effect remained significant only for gastrocnemius soreness (Holm-adjusted p = 0.012; ηp2 = 0.212); no DOMS condition main effect or condition-by-assessment-by-time interaction was supported. CONCLUSION: DC was associated with higher values for selected lower-limb outcomes, but these exploratory findings do not establish phase-specific efficacy, equivalent effects across cycle assessments, or a consistent DOMS benefit. Unusually large performance estimates and unmodeled period and carryover effects warrant caution.",
+      "doi": "10.1080/15502783.2026.2766045",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056144/",
+      "relevance": 7,
+      "matched": [
+        "performance",
+        "nutrition",
+        "supplement",
+        "exercise",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "43055249",
+      "title": "Effects of caffeine ingestion on endurance performance in acute hypoxic conditions: a systematic review and meta-analysis.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "journal_issn": "1550-2783",
+      "discipline": "nutrition",
+      "date": "2026-Dec-30",
+      "authors": "Yixiang Peng, Li Ding, Bin Chen et al.",
+      "abstract": "BACKGROUND: Caffeine is a well-established aid for endurance performance under normoxic conditions. More recently, its ergogenic potential to improve endurance performance in hypoxia has attracted increasing interest, although findings remain inconsistent. This meta-analysis therefore evaluated the effects of caffeine on endurance performance under hypoxic conditions. METHODS: PubMed, Web of Science, Scopus, and the Cochrane Library were searched up to December 2025 for placebo-controlled, randomized crossover studies examining the impact of caffeine on endurance performance (e.g. time-trial and time-to-exhaustion) and physiological and/or metabolic responses (e.g. blood lactate concentration, heart rate, arterial oxygen saturation, and minute ventilation) in hypoxic conditions. Risk of bias was assessed with the Cochrane Risk of Bias tool. Meta-analyses were conducted in R software, comparing caffeine with placebo, with pooled effects calculated as Hedge's g using random-effects models. RESULTS: Nine studies were included (n = 117; female: n = 19). Caffeine significantly improved exercise performance in hypoxia, increasing exercise capacity across both time-to-exhaustion and time-trial tests (g = 0.76, 95% CI = 0.34 to 1.18, p < 0.001, low GRADE). Caffeine also increased heart rate, blood lactate concentration, and minute ventilation (g = 0.40 to 0.47, all p = 0.005, low GRADE). No significant effects were observed for ratings of perceived exertion or arterial oxygen saturation (g = -0.25 to 0.17, all p > 0.05, very low to low GRADE) under hypoxic conditions. CONCLUSION: This meta-analysis indicates that caffeine enhances endurance performance in hypoxic conditions and is accompanied by changes in key physiological and metabolic responses. Consequently, caffeine supplementation may serve as a practical strategy for attenuating hypoxia-induced performance impairments in athletes training or competing at altitude. Future high-quality, rigorously designed studies are warranted to further validate these effects.",
+      "doi": "10.1080/15502783.2026.2727204",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055249/",
+      "relevance": 10,
+      "matched": [
+        "caffeine",
+        "performance",
+        "supplement",
+        "exercise",
+        "athlete",
+        "training"
+      ]
+    },
+    {
+      "pmid": "43056620",
+      "title": "Effect of Catechin Supplementation on Muscle Fatigue and Physical Performance: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-19",
+      "authors": "Dandara B Bonifácio, Pedro H V Mendes, Gabriela M Fraiz et al.",
+      "abstract": "CONTEXT: The antioxidant properties of catechins are well established; however, whether these biological effects translate into meaningful improvements in muscle fatigue and physical performance remains uncertain. OBJECTIVE: To systematically evaluate the effects of acute and chronic catechin supplementation on muscle fatigue and physical performance in humans. DATA SOURCES: A literature search was conducted in the MEDLINE/PubMed, Embase, and the Cochrane Central Register of Controlled Trials databases to identify randomized controlled trials (RCTs) examining the effects of catechin supplementation on muscle fatigue and physical performance outcomes. DATA EXTRACTION: The search strategy was defined according to the PICOS framework (ie, participants, intervention, comparison, outcomes, and study design) and conducted in September 2025. Risk of bias was independently assessed using the JBI critical appraisal tool. DATA ANALYSIS: Of the 771 records identified, 7 RCTs met the inclusion criteria, reflecting the still emerging evidence base available in this field. Catechin supplementation was associated with improvements in aerobic performance and reductions in perceived exertion in selected intervention settings; however, these findings varied across studies and outcomes. Additionally, no significant improvements were observed for aerobic and anaerobic performance, functional exercise capacity, or physiological responses to exercise. Meta-analytic synthesis showed no significant overall effects of catechin supplementation on performance-related outcomes. CONCLUSIONS: Catechin supplementation does not appear to enhance muscle fatigue and physical performance. Although potential effects on aerobic performance and perceived exertion were observed under specific intervention conditions, the current evidence remains limited and does not support a clear ergogenic effect. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42024605740.",
+      "doi": "10.1093/nutrit/nuag170",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056620/",
+      "relevance": 10,
+      "matched": [
+        "fat",
+        "supplement",
+        "performance",
+        "exercise"
+      ]
+    }
+  ]
+}

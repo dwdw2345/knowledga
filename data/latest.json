@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19",
-  "updated_at": "2026-11-19 06:41",
+  "updated": "2026-11-20",
+  "updated_at": "2026-11-20 06:39",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,266 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "43056700",
+      "title": "Localized extracellular water responses to low-and high-load resistance exercise assessed by bioelectrical impedance spectroscopy.",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "journal_issn": "1715-5312",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Masashi Taniguchi, Kazuki Umemura, Zimin Wang et al.",
+      "abstract": "This study evaluated extracellular water (ECW) responses measured using segmental bioelectrical impedance spectroscopy (S-BIS) across different measurement regions following resistance exercise (RE) and examined their associations with muscle thickness (MT) changes to assess the regional responsiveness of S-BIS to exercise-induced muscle swelling. Eighteen healthy young adults performed unilateral knee extension RE under two load conditions with matched total training volume on separate days (30% and 80% one-repetition maximum [1RM]). MT of the quadriceps femoris (QF) was assessed using ultrasonography, and ECW was estimated using S-BIS before and after each RE session. ECW was evaluated in three regions: thigh-region, the localized region over the QF (QF-region), and the localized region over the hamstrings (Ham-region). ECW changes were analyzed using two-way repeated-measures analysis of variance, and Pearson's correlation analyses were performed to examine relationships between ECW and MT changes. ECW increased significantly only in the QF-region under both load conditions (+8.6% and +13.4%, respectively). Main effects indicated greater ECW changes under 80% than 30% 1RM (mean difference, 2.32 percentage points) and in the QF-region than the thigh- and Ham-regions. ECW changes were significantly and positively correlated with MT changes in the QF-region under both the 30% and 80% 1RM conditions (r = 0.708 and 0.667, respectively). Localized ECW assessment over the QF revealed region-specific changes following RE that were associated with MT changes. These findings suggest that localized ECW assessment using S-BIS may provide a region-specific measure of exercise-induced fluid changes associated with muscle swelling.",
+      "doi": "10.1139/apnm-2026-0250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056700/",
+      "relevance": 11,
+      "matched": [
+        "exercise",
+        "resistance",
+        "training"
+      ]
+    },
+    {
+      "pmid": "43056620",
+      "title": "Effect of Catechin Supplementation on Muscle Fatigue and Physical Performance: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-19",
+      "authors": "Dandara B Bonifácio, Pedro H V Mendes, Gabriela M Fraiz et al.",
+      "abstract": "CONTEXT: The antioxidant properties of catechins are well established; however, whether these biological effects translate into meaningful improvements in muscle fatigue and physical performance remains uncertain. OBJECTIVE: To systematically evaluate the effects of acute and chronic catechin supplementation on muscle fatigue and physical performance in humans. DATA SOURCES: A literature search was conducted in the MEDLINE/PubMed, Embase, and the Cochrane Central Register of Controlled Trials databases to identify randomized controlled trials (RCTs) examining the effects of catechin supplementation on muscle fatigue and physical performance outcomes. DATA EXTRACTION: The search strategy was defined according to the PICOS framework (ie, participants, intervention, comparison, outcomes, and study design) and conducted in September 2025. Risk of bias was independently assessed using the JBI critical appraisal tool. DATA ANALYSIS: Of the 771 records identified, 7 RCTs met the inclusion criteria, reflecting the still emerging evidence base available in this field. Catechin supplementation was associated with improvements in aerobic performance and reductions in perceived exertion in selected intervention settings; however, these findings varied across studies and outcomes. Additionally, no significant improvements were observed for aerobic and anaerobic performance, functional exercise capacity, or physiological responses to exercise. Meta-analytic synthesis showed no significant overall effects of catechin supplementation on performance-related outcomes. CONCLUSIONS: Catechin supplementation does not appear to enhance muscle fatigue and physical performance. Although potential effects on aerobic performance and perceived exertion were observed under specific intervention conditions, the current evidence remains limited and does not support a clear ergogenic effect. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42024605740.",
+      "doi": "10.1093/nutrit/nuag170",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056620/",
+      "relevance": 10,
+      "matched": [
+        "fat",
+        "supplement",
+        "performance",
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43056328",
+      "title": "Genetic and Epigenetic Determinants of Physical Activity and Sedentary Behaviors: A Systematic Review.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Layan Mendis, Lianne de Vries, Floris Huider et al.",
+      "abstract": "INTRODUCTION/PURPOSE: A better understanding of the determinants of physical activity (PA) and sedentary behavior (SB) is needed to counter increasing inactivity. Twin and family studies indicate that these behaviors are shaped by biological factors, including genetic and epigenetic mechanisms. The number of genome-wide association studies (GWAS) and epigenome-wide association studies (EWAS) on PA and SB that try to elucidate these mechanisms has been increasing, motivating a review on whether their findings point to overlapping or distinct biological mechanisms. METHODS: In this preregistered systematic review, we synthesize GWAS and EWAS findings on PA and SB and identify replicated loci across studies. RESULTS: We included nine GWAS reporting 414 unique lead SNPs and seven EWAS reporting 437 significant CpG sites associated with PA and/or SB. Across all findings, 51 genomic loci and 93 SNPs met our replication criteria, defined as support from at least two different GWAS or EWAS studies. Five genomic loci (1p36.23, 1p13.3, 1q21.3, 6p22.2, and 6p21.31) including six lead SNPs (rs301799, rs8450, rs4845364, rs2393593, rs10947452, and rs6457816), showed convergence between PA/SB-associated GWAS variants and mQTLs for PA/SB-associated CpG sites, highlighting candidate regions for future functional follow-up. Functional annotation indicated that these loci are mostly enriched in genic and transcript-associated regions. Gene mapping and enrichment analyses highlighted biological pathways across neurobiological systems involved in motivation and exercise liking, as well as peripheral systems related to movement, exercise capacity, energy metabolism, and cardiometabolic functioning. PA/SB-associated SNPs also overlapped with variants linked to body composition, cardiometabolic markers, educational attainment, cognitive ability, and brain-size traits. CONCLUSIONS: Overall, PA and SB appear to be influenced by a complex, highly polygenic architecture, with consistent genetic influences but limited convergence yet in epigenetic influences. Further large-scale, multi-ancestry studies integrating genomic and epigenomic data with harmonized PA/SB measures are needed to inform functional genetic studies.",
+      "doi": "10.1249/MSS.0000000000004201",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056328/",
+      "relevance": 13,
+      "matched": [
+        "sedentary",
+        "physical activity",
+        "exercise",
+        "metabolic",
+        "metabolism"
+      ]
+    },
+    {
+      "pmid": "43055384",
+      "title": "Does Increased Maximal Sprint Speed Alter Pacing Distribution in the 400-m Race Among Male 400-m Sprinters? A Longitudinal Study.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Kentaro Sato, Takaya Yoshimoto, Yoshihiro Chiba et al.",
+      "abstract": "Sato, K, Yoshimoto, T, Chiba, Y, Ohnuma, H, Iso, S, Tsuchiya, J, and Takai, Y. Does increased maximal sprint speed alter pacing distribution in the 400-m race among male 400-m sprinters? A longitudinal study. J Strength Cond Res XX(X): 000-000, 2026-Performance in the 400-m sprint is influenced not only by short sprint ability but also by pacing strategy during a race. However, the effects of changes in short sprint ability on pacing characteristics remain unclear. Therefore, this study aimed to clarify the effects of changes in maximal sprint speed (MSS) on 400-m sprint performance and segmental running speed in competitive 400-m sprinters. Twenty-three male 400-m sprinters (age: 20.04 ± 1.76 years, height: 1.75 ± 0.06 m, body mass: 66.93 ± 6.93 kg, 400-m personal best: 49.03 ± 1.56 seconds; range: 45.58-52.70 seconds) performed 400-m and 60-m sprint tests on 2 occasions separated by 1 year. Maximal sprint speed was defined as the highest mean running speed among the 10-m segments during a 60-m sprint. In the 400-m sprint, the relative running speed for each 50-m segment (%MSS) was calculated as the mean running speed divided by the MSS, and the percentage of the 400-m time spent in each 50-m segment (%ST) was determined. Sprinters who exhibited greater increases in MSS demonstrated greater improvements in 400-m sprint performance. Furthermore, increases in MSS were significantly associated with improvements in running speed during the 0-250-m segments of the 400-m sprint. These findings indicate that increases in MSS may contribute to improvements in 400-m sprint performance, particularly through enhanced running speed during the first half of the race.",
+      "doi": "10.1519/JSC.0000000000005734",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055384/",
+      "relevance": 6,
+      "matched": [
+        "sprint",
+        "strength",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43055379",
+      "title": "The Relationship Between Muscle Cross-Sectional Area and Joint Torque of Trunk and Hip Generating Swing Rotation Around the Vertical Axis in Baseball Batting.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Takuya Yanaka, Yoshitaka Morishita",
+      "abstract": "Yanaka, T and Morishita, Y. The relationship between muscle cross-sectional area and joint torque of trunk and hip generating swing rotation around the vertical axis in baseball batting. J Strength Cond Res XX(X): 000-000, 2026-In baseball batting, the bat is accelerated mainly by rotation around the vertical axis. The main joint motions responsible for generating this rotation are believed to be hip flexion of the lead-side leg, hip extension of the pivot-side leg, and trunk rotation. This study investigated the relationship between muscle cross-sectional area (CSA) and joint torques contributing to swing rotation around the vertical axis in 27 baseball batters, using magnetic resonance imaging and inverse dynamics. Initial analysis confirmed significant correlations between bat-head speed and peak pivot hip torque (r = 0.59) and peak trunk rotational torque (r = 0.62). The lead hip torque correlated significantly with the CSA of psoas major (r = -0.50) and rectus femoris r (r = -0.60). The pivot hip torque correlated significantly with the CSA of gluteus maximus r (r = 0.73) and hamstrings r (r = 0.73). Similarly, trunk rotational torque was correlated with the CSAs of the pivot-side external oblique (r = 0.50) and lead-side internal oblique (r = 0.50). By contrast, all correlations involving both hip joint torques and trunk joint torque (with bat-head speed and muscle CSAs) disappeared after controlling for body mass in the partial correlation analysis. These results indicated that both hip torques and trunk torque generation are strongly dependent on muscle size and body size in baseball batters. This study suggested that hypertrophying muscles in the hips and trunk is important for generating large torque to improve bat-head speed in baseball batting.",
+      "doi": "10.1519/JSC.0000000000005730",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055379/",
+      "relevance": 2,
+      "matched": [
+        "strength",
+        "hypertrophy"
+      ]
+    },
+    {
+      "pmid": "43055231",
+      "title": "Comparative Effects of Resistance Training and High-Intensity Interval Training on Body Composition, Metabolic Health, and Functional Strength in Overweight and Obese Adults: A 12-Week Randomized Controlled Trial.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Cristina Petisco-Rodríguez, Álvaro Barroso-Hernández, Ignacio Bartolomé-Sánchez et al.",
+      "abstract": "Petisco-Rodríguez, C, Barroso-Hernández, Á, Bartolomé-Sánchez, I, and Crego, A. Comparative effects of resistance training and high-intensity interval training on body composition, metabolic health, and functional strength in overweight and obese adults: A 12-week randomized controlled trial. J Strength Cond Res XX(X): 000-000, 2026-The aim of this study was to compare the effects of 2 training programs on anthropometric and physiological variables in overweight and obese adults. Ninety subjects (age = 39.9 ± 10.4 years; body mass index (BMI) = 31.0 ± 4.3 kg·m-2) were randomly assigned to a resistance training group (RG; n = 30), a high-intensity interval training (HIIT) group (HG; n = 30), or a nontraining control group (CG; n = 30). Both the RG and HG performed 2 weekly sessions for 12 weeks. The RG completed 8 upper-body and lower-body resistance exercises at 70% of 1 repetition maximum, while the HG performed high-intensity intervals at 80% of the maximum heart rate. A 3 (group: CG, RG, HG) × 2 (time: pre, post) mixed ANOVA revealed significant effects on the BMI, body fat, and fasting glucose. Both training groups showed similar improvements in all measures from preintervention to postintervention. Compared with CG, RG and HG had reduced body fat and BMI, while RG demonstrated greater gains in muscle mass, fasting glucose, and grip strength. Paired t-tests confirmed significant within-group improvements in BMI, body fat, grip strength, and fasting glucose in the RG and HG. Statistical significance was set at p < 0.017 after the Bonferroni correction. These findings suggest that both resistance training and HIIT enhance the body composition of overweight and obese adults. However, resistance training may provide additional benefits in muscular fitness and glycemic control, supporting its role as a practical strategy for improving metabolic health in this population.",
+      "doi": "10.1519/JSC.0000000000005668",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055231/",
+      "relevance": 18,
+      "matched": [
+        "training",
+        "strength",
+        "metabolic",
+        "resistance",
+        "exercise",
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43055182",
+      "title": "Activity level strongly affects extremity, but not cheek, temperature and heat loss during cold wind exposure.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Pim Scheiberlich, Lisa Klous, Elsa Rijpstra et al.",
+      "abstract": "Background: The wind chill temperature index (WCTI) estimates frostbite risk from air temperature and wind speed, but is based on exposed cheek skin during walking at a fixed speed. This may limit its applicability across activity levels and body sites, particularly because frostbite frequently occurs at the extremities. This study investigated whether activity level affects skin temperature and heat flux responses at the cheek, finger, and toe during cold wind exposure, hypothesizing that higher activity levels would increase body temperature, resulting in higher skin temperatures, altered heat fluxes, and reduced cold injury risk. Methods: Thirteen healthy male participants completed three experimental conditions in a climate chamber at -10°C with wind exposure. Activity level was varied between standing still (LOW), walking at 4.8 km·h⁻¹ on a level treadmill (MED), and walking at 4.8 km·h⁻¹ with a 5% incline (HIGH). Skin temperature and heat flux were measured continuously at the cheek, finger, and toe. Results: Cheek skin temperature was slightly higher in HIGH (14.8 ± 2.1°C) than in LOW (12.2 ± 1.9°C, P = 0.013) and MED (12.6 ± 1.2°C, P < 0.001), whereas cheek heat flux did not differ among conditions (P = 0.512). Finger skin temperature increased from 8.5 ± 1.6°C in LOW to 23.1 ± 9.2°C in MED and 31.5 ± 1.8°C in HIGH, while toe skin temperature increased from 12.8 ± 2.1°C to 24.5 ± 8.4°C and 31.4 ± 5.0°C, respectively. All pairwise differences in finger and toe skin temperature were significant (P ≤ 0.001). Finger and toe heat flux also increased with activity level, with significant overall condition effects at both sites (P < 0.001). Conclusion: Under the environmental conditions tested, activity level had limited relevance for WCTI-based assessment of exposed cheek cooling, supporting the validity of the current WCTI assumptions for the cheek. However, activity level strongly affected thermal responses at the finger and toe, indicating that cold injury risk assessment may benefit from adjustments for both anatomical location and activity level.",
+      "doi": "10.1152/japplphysiol.90236.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055182/",
+      "relevance": 1,
+      "matched": [
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43055146",
+      "title": "Isocapnic breathing mitigates cerebral blood flow reductions after ketone monoester supplementation.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Claudia M S Yong, Aedan J Rourke, Geoff B Coombs et al.",
+      "abstract": "Ketone monoester (KME) ingestion lowers cerebral blood flow (CBF), likely due to reduced arterial carbon dioxide (PaCO2). We tested the hypothesis that maintaining end-tidal CO2 (PETCO2; surrogate for PaCO2) following KME ingestion would prevent reductions in CBF and improve cerebrovascular reactivity (CVR) to CO2 compared to free-breathing. In a single-blinded randomized crossover design, twenty-three adults (age=22±2 yrs) ingested 0.6 g·kg-1 KME and breathed either room air (poikilocapnia) or a gas mixture that clamped PETCO2 at baseline (isocapnia) for 60 min. CVR to CO2 was assessed at targeted PETCO2 of +3, +6, and +9 mmHg above baseline. CBF was assessed using duplex ultrasound of extracranial arteries and transcranial Doppler ultrasound of the middle cerebral artery. Venous β-hydroxybutyrate, pH, and bicarbonate were measured. Outcomes were assessed at baseline, 45-, and 60-min post-supplementation. PETCO2 was higher during isocapnia at 45 min (3.9±3.8 mmHg; P<0.001) and 60 min (4.4±3.8 mmHg; P<0.001) post-supplementation corresponding with 15% higher CBF compared to poikilocapnia (P<0.001). Blood pH was reduced during isocapnia (P<0.001), whereas it was unchanged in poikilocapnia (P=0.246), suggesting that the ventilatory response to KME ingestion effectively buffered metabolic acidosis in poikilocapnia. CVR to CO2 was reduced following KME ingestion regardless of condition (P<0.001). Exploratory analyses demonstrated that biological sex did not alter cerebrovascular responses to KME ingestion. This work confirms that reductions in CBF and CVR to CO2 following KME ingestion are due to reduced PaCO2 in response to metabolic acidosis. Strategies that buffer metabolic acidosis likely will mitigate CBF reductions following acute KME ingestion.",
+      "doi": "10.1152/japplphysiol.90501.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055146/",
+      "relevance": 1,
+      "matched": [
+        "metabolic"
+      ]
+    },
+    {
+      "pmid": "43055139",
+      "title": "Assessing Skeletal Muscle Reactive Hyperemia with Intramuscular Doppler Ultrasound: Insights from Exercise-Trained and Untrained Adults.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Olavo João Frederico Ramos Junior, Maria Clara Ramos Souza Rodrigues, Paola Quevedo da Costa et al.",
+      "abstract": "Power Doppler ultrasound can detect low-velocity blood-flow signals within skeletal muscle, providing a spatially localized, semiquantitative index of intramuscular blood flow (IMBF). Whether this signal can characterize post-occlusive reactive hyperemia (RH), distinguish populations with different vascular responsiveness, and correlate with established indices of RH is unknown. We examined whether power Doppler-derived IMBF can be used to evaluate skeletal muscle RH following arterial occlusion, distinguish hyperemic responses between resistance-trained and untrained adults, and correlate with near-infrared spectroscopy (NIRS)-derived total hemoglobin ([tHb]) and tissue oxygen saturation (StO2) reperfusion slopes and brachial artery RH blood flow. Forty-four adults (24 trained, 20 untrained) underwent a vascular occlusion test with simultaneous power Doppler IMBF, NIRS, and brachial artery Doppler assessments. IMBF was quantified as the percentage of Doppler-positive pixels within a standardized region of interest in the extensor carpi radialis muscle. RH-IMBF0-60 and RH-IMBF0-TTP were defined as the area under the IMBF curve from cuff deflation to 60s and to the individual time-to-peak (TTP), respectively. RH-IMBF0-TTP and RH-IMBF0-60 were greater in trained individuals (P<0.001), as were the [tHb] and StO2 reperfusion slopes (both P<0.001), RH-blood flow, and peak blood flow (both P=0.001). RH-IMBF0-60 correlated with the [tHb] slope (r=0.624), StO2 slope (r=0.535), and RH-blood flow (r=0.597) (all P<0.001). These findings demonstrate that Power Doppler-derived IMBF is sensitive to post-occlusion reperfusion, distinguishes hyperemic responses between trained and untrained adults, and correlates with established indices of RH, providing proof-of-principle evidence for its application as an accessible, spatially localized, complementary approach for assessing skeletal muscle vascular reactivity.",
+      "doi": "10.1152/japplphysiol.90310.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055139/",
+      "relevance": 7,
+      "matched": [
+        "exercise",
+        "power",
+        "resistance",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43053348",
+      "title": "HIV proteins disrupt a network of phosphatidylinositol (4,5)-bisphosphate binding sites on the dopamine transporter to regulate amphetamine behaviours.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Yanqi Zhu, Diksha Parwana, Heinrich J G Matthies et al.",
+      "abstract": "Amphetamine (AMPH) use has been linked to human immunodeficiency virus (HIV) transmission because HIV can spread through unprotected sex that is associated with AMPH use disorder (AUD). Thus, AUD and HIV have been termed a double epidemic. In this bidirectional relationship, the role played by AUD in HIV-dependent neuropathogenesis is well documented. By contrast, how HIV infection regulates the development of AUD remains elusive. In rodents, expression of HIV viral proteins, such as the trans-activator of transcription (Tat), enhances AMPH escalation (i.e. a progressive intensification of drug use), a Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria for addiction. In humans, HIV infection increases AMPH frequency of use, as well as the total amount used. Thus, it is possible that HIV/HIV proteins promote the progression of AUD. AMPH-associated behaviours stem, at least in part, from the ability of AMPH to reverse the dopamine (DA) transporter (DAT) function, causing non-vesicular DA release (NVDR) and an increase in extracellular DA. Previously, we provided the first evidence that specific domains of DAT engage in direct association with the plasma membrane lipid, phosphatidylinositol 4,5-bisphosphate (PIP2). These interactions are essential for AMPH-induced NVDR and specific behaviours. HIV Tat is a protein that binds PIP2 through its basic domain. We demonstrate that Tat impairs NVDR by disrupting the network of PIP2 binding sites on DAT. Our study provides an atomic scale mechanistic description on how Tat disrupts human DAT/PIP2 association and blunts AMPH-induced NVDR. Using Drosophila as an animal model, we show that Tat by blunting NVDR in the setting of AUD promotes AMPH escalation. KEY POINTS: Human immunodeficiency virus (HIV) trans-activator of transcription (Tat) impairs non-vesicular dopamine (DA) release (NVDR) by disrupting the network of PIP2 binding sites on human Da transporter (DAT). Our study provides an atomic scale mechanistic description on how Tat disrupts human DAT/phosphatidylinositol 4,5-bisphosphate association and blunts amphetamine (AMPH)-induced NVDR. We associate Tat blunting of NVDR to the ability of Tat to foster AMPH escalation, using Drosophila as an animal model.",
+      "doi": "10.1113/JP291975",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053348/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43052057",
+      "title": "Immediate transcranial magnetic stimulation-evoked potentials reveal short-latency intracortical inhibition.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Lasse Christiansen, Yufei Song, Ditte Haagerup et al.",
+      "abstract": "Short-interval intracortical inhibition (SICI) is the most widely used neurophysiological index of GABAergic inhibition in the human cortex. However, it is an indirect measure, inferring synaptic inhibition from suppression of peripherally recorded motor-evoked potentials (MEPs) elicited by transcranial magnetic stimulation (TMS). In the standard protocol, a subthreshold conditioning pulse suppresses the MEP evoked by a suprathreshold test pulse delivered 1-5 ms later. Interpretation is further complicated by temporal overlap with short-interval intracortical facilitation (SICF), reflecting excitatory interactions at interstimulus intervals of ∼1.5 and 2.7 ms. To overcome these limitations, we recorded immediate TMS-evoked EEG potentials (iTEPs; 1-10 ms post-stimulus) as a more direct measure of motor cortical activity in 16 healthy volunteers (20-35 years; seven male). The conventional SICI protocol suppressed only later components of the iTEP, probably corresponding to late corticospinal volleys previously identified in epidural spinal recordings after suprathreshold TMS, while the earliest iTEP component was unaffected. Importantly, later iTEPs were suppressed to a similar extent whether conditioning-test intervals coincided with SICF peaks or troughs, and the magnitude of iTEP suppression correlated with concurrently recorded paired-pulse MEP suppression. SICI also reduced an early TEP component (N15; 10-20 ms), but paired-pulse N15 suppression showed a different dependence on stimulus intensity and did not correlate with MEP suppression. These findings demonstrate that SICI measured via MEPs does not reflect a global index of cortical GABAergic motor cortical inhibition but instead reflects inhibition within specific cortical circuits that can be investigated more directly with iTEPs. KEY POINTS: Transcranial magnetic stimulation (TMS) over the primary motor cortex evokes high-frequency activity in the corticospinal tract, which can be measured directly with invasive, epidural recordings or indirectly as a time-locked, compound EMG response [i.e. motor evoked potential (MEP)]. GABAergic intracortical inhibition can be indexed as the MEP suppression caused by a subthreshold TMS pulse preceding the suprathreshold pulse by 1-5 ms. Combining TMS with artifact-minimized EEG allows the assessment of paired-pulse inhibition of immediate and early peaks of TMS-evoked EEG potential (TEP). Both immediate TEP (iTEP) and early TEP peaks display paired-pulse inhibition but only iTEP suppression relates to MEP suppression. iTEPs enable investigations of intracortical interactions non-invasively at the cortical level, which enables assessment of cortical and corticospinal physiology with TMS even in the absence of MEPs.",
+      "doi": "10.1113/JP291582",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052057/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43052044",
+      "title": "Allostatic load is not associated with augmented vasoconstrictive response to cold pressor test or functional sympatholysis in Black emerging adults.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Emily F Blake, Lauren E Eagan, Cynthia M Weiner et al.",
+      "abstract": "Black individuals are disproportionately affected by hypertension (HTN), even after controlling for conventional risk factors (i.e., obesity, smoking, physical fitness). Emerging evidence implicates chronic psychosocial stress, including discrimination/race-related events, in HTN development. Allostatic load (AL) reflects the cumulative adverse impact of repeated activation of compensatory physiological responses to psychosocial stressors. We assessed the associations between AL and disruptions in vascular parameters that may indicate heightened HTN risk in Black emerging adults. Forearm blood flow (FBF) and vascular conductance (FVC) were measured during sympathoexcitation (cold pressor test; CPT), alone and with handgrip exercise, (EX + CPT) in 35 Black undergraduate students (24F/11M, 20 ± 1 years). AL was determined using both clinical cutoffs (AL-CC) and individual z-scores (AL-z) from nine biomarkers (heart rate, systolic blood pressure (BP), diastolic BP, C-reactive protein, glucose, creatinine, total cholesterol/HDL-C ratio, cortisol, %body fat). Higher scores reflected greater AL burden. AL scores were overall low (AL-z: 0.003 ± 3.9; AL-CC: 1.6 ± 1.2). Reductions in FBF and FVC during EX + CPT (∆FBF: -3.58% ± 3.14%; ∆FVC: -12.56% ± 6.77%) were significantly attenuated (P < 0.001) as compared to CPT alone (∆FBF: -24.15% ± 7.95%; ∆FVC: -35.54% ± 9.20%). AL was not correlated with CPT-FBF, -FVC or with functional sympatholysis magnitude (%); however, blunted diurnal cortisol slope correlated with larger reductions in CPT-FBF (r = -0.55, P = 0.00328), and increased FBF- (r = 0.49, P = 0.00957) and FVC- (r = 0.43, P = 0.0283) lysis. These findings suggest hypothalamic-pituitary-adrenal axis dysregulation in Black emerging adults may elicit exaggerated vasoreactivity to sympathoexcitatory stress.",
+      "doi": "10.1113/EP093867",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052044/",
+      "relevance": 3,
+      "matched": [
+        "exercise",
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43052010",
+      "title": "P2X3R antagonism during exercise in hypertensive HFpEF: A potential non-permanent pharmacological intervention for exercise intolerance.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-18",
+      "authors": "Joseph Mannozzi",
+      "abstract": "",
+      "doi": "10.1113/JP292498",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052010/",
+      "relevance": 4,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43051967",
+      "title": "Revisiting Tandler's model: Developmental anatomy of the gastrointestinal arteries and the embryological basis of human variants.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-18",
+      "authors": "Daniel Gondorf, George Triantafyllou, Maria Piagkou",
+      "abstract": "The arterial supply of the foregut, midgut, and hindgut is commonly interpreted through the classical Tandler-Felix model, in which ventral splanchnic roots and a longitudinal anastomotic channel undergo selective persistence, regression, and remodeling. Although this framework is widely used to explain adult coeliac, mesenteric, and hepatic arterial variants, the evidence for individual developmental mechanisms remains uneven. This critical narrative review re-examines the classical model against historical primary observations, contemporary human embryological and early fetal studies, adult anatomical and radiological series, and recent meta-analyses of arterial variation. This review emphasizes separating directly observed human developmental events from comparative evidence and retrospective interpretations based on adult morphology. Modern serial histology and three-dimensional reconstruction demonstrate marked variability during superior mesenteric artery and intestinal-branch formation, underscoring that definitive adult branching patterns emerge through dynamic remodeling rather than a rigid predetermined sequence. Coeliac-mesenteric common trunks, hepatic arteries of mesenteric origin, and the arc of Bühler are anatomically compatible with persistence or altered interruption of classical connections, but most specific mechanisms remain inferential. Retropancreatic topography can support developmental homology but cannot prove it on its own, and primitive longitudinal superior-inferior mesenteric arteries continuity is less directly documented than is often implied. An evidence-graded developmental framework is therefore proposed to integrate embryology, adult variation, and clinical anatomy while avoiding overstatement of historical models.",
+      "doi": "10.1002/ar.70397",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051967/",
+      "relevance": 2,
+      "matched": [
+        "anatomical",
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43051547",
+      "title": "Natural-abundance carbon isotope profiling of long-chain polyunsaturated fatty acid supplement incorporation in extremely preterm infants: a sub-study of the Mega Donna Mega randomized clinical trial.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov-18",
+      "authors": "Chuck T Chen, Ulrika Sjöbom, Mats X Andersson et al.",
+      "abstract": "BACKGROUND: Extremely preterm infants are deprived of most third-trimester long-chain polyunsaturated fatty acid accretion. In the Mega Donna Mega trial, enteral arachidonic acid (ARA) and docosahexaenoic acid (DHA) supplementation reduced severe retinopathy of prematurity despite modest early changes in circulating levels. OBJECTIVE: We investigated whether natural-abundance carbon isotope ratio (δ13C) profiling detects early entry of supplemented ARA and DHA into circulating phospholipids in extremely preterm infants. METHODS: This sub-study of the randomized Mega Donna Mega trial included 25 infants born before 25+2 weeks' gestation who received standard-of-care nutrition (SOC, n=12) or enteral ARA+DHA supplementation (intervention, n=13; 100 and 50 mg/kg/day, respectively) from ≤3 days after birth until 40 weeks' postmenstrual age. Serum phospholipid fatty acid composition and δ13C values were determined at Day 0-3, 10-16, 34-47, and 75-87. Group differences were assessed with mixed models of treatment group by sampling window. RESULTS: Between-group differences in ARA and DHA weight percent (wt%) emerged late in the intervention (Day 75-87, mean [SD]: ARA 10.1 [2.0] versus 6.9 [1.4]; DHA 3.3 [1.0] versus 2.3 [0.7]). ARA and DHA δ13C were similar between groups at Day 0-3 and higher in supplemented infants from Day 10-16 (difference [95% CI]: ARA 1.9 [0.9, 2.8] mUr; DHA 2.0 [0.3, 3.6] mUr). The group-by-window interaction was significant for ARA δ13C (p=0.007) but not for DHA δ13C (p=0.11; p=0.005 after excluding one infant with necrotizing enterocolitis and low compliance). CONCLUSIONS: Natural-abundance δ13C profiling showed that supplemented ARA and DHA were bioavailable and entered circulating phospholipids within two weeks of birth, before clear separation in fatty acid composition. Concentration-based biomarkers may underestimate early exposure to supplemented fatty acids in extremely preterm infants. TRIAL REGISTRATION: ClinicalTrials.gov, NCT03201588, https://clinicaltrials.gov/study/NCT03201588.",
+      "doi": "10.1016/j.ajcnut.2026.101636",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051547/",
+      "relevance": 7,
+      "matched": [
+        "fat",
+        "supplement",
+        "nutrition"
+      ]
+    },
+    {
       "pmid": "43050673",
       "title": "Effects of Moderate Weight Loss on the Thermic Effect of Food and Postprandial Substrate Oxidation in Healthy Normal-Weight Adults.",
       "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
@@ -3404,6 +3664,43 @@
       "relevance": 3,
       "matched": [
         "resistance"
+      ]
+    },
+    {
+      "pmid": "43050868",
+      "title": "Sound-limb propulsive impulse after lower-limb amputation increases with amputation level but is not driven by peak ankle power.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-17",
+      "authors": "Darlan Martins Ribeiro, Ruth Losada de Menezes, Flávia Martins Gervásio et al.",
+      "abstract": "Individuals with lower-limb amputation are thought to compensate for reduced prosthetic push-off by generating additional propulsion in the sound limb, but whether this originates at the ankle remains unclear. We compared propulsive impulse (PI), peak ankle power generation (A2), ankle positive work (APW) and related variables in 87 participants: 31 unimpaired controls, 30 with transfemoral amputation (TFA) and 26 with transtibial amputation (TTA), all fitted with prostheses through Brazil's public health system under a standardised protocol. Three-dimensional gait analysis provided ground reaction forces, ankle kinetics and spatiotemporal parameters. PI increased monotonically from Control to TTA to TFA and remained significant after correction for multiple comparisons and after adjustment for gait speed. In contrast, A2 was lower in both amputee groups than in Control; this reduction persisted after adjustment for gait speed only in TFA. APW, a time-integrated measure more directly comparable to PI, likewise did not follow the PI gradient. PI and A2 remained moderately correlated within every group, and the greater PI was attributable mainly to a longer propulsive phase rather than greater propulsive force. These findings indicate that the greater sound-limb propulsive impulse is not accompanied by increased peak ankle power generation or ankle positive work, although some ankle contribution cannot be excluded; whether it involves redistribution of mechanical output to more proximal joints remains a plausible hypothesis for future work. Prosthetic and rehabilitation strategies focused narrowly on restoring ankle push-off power may therefore not, by themselves, normalise sound-limb loading, particularly after transfemoral amputation.",
+      "doi": "10.1016/j.jbiomech.2026.113693",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050868/",
+      "relevance": 7,
+      "matched": [
+        "ankle",
+        "joint",
+        "kinetic",
+        "gait",
+        "rehabilitation"
+      ]
+    },
+    {
+      "pmid": "43050783",
+      "title": "Head impact exposure is associated with altered medio-lateral trunk dynamics during field-based walking in collegiate football athletes.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-17",
+      "authors": "Abdullah Zafar, Samuel Guay, Matthias Krüll et al.",
+      "abstract": "OBJECTIVE: Trunk-worn inertial sensors can measure medio-lateral trunk dynamics during naturalistic walking. This study examined whether head impact exposure (HIE) during Canadian varsity football games was associated with differences in these dynamics. METHODS: Sixty-eight unique male collegiate football athletes were monitored across multiple competitive seasons using instrumented mouthguards for head impact detection and chest-worn inertial measurement units for walking analysis. HIE was quantified at play-level and game-level temporal scales. Linear mixed-effects models assessed associations between HIE and root-mean-square lateral trunk acceleration (ACC) and trunk roll angular velocity (ROLL) extracted from walking bouts, adjusting for baseline dynamics, cadence and game exposure, with additional workload adjustment at play level. RESULTS: The analyzed sample comprised 13,956 walking bouts across 386 paired athlete-games, including 2106 post-impact bouts. Play-level HIE was associated with higher ROLL (β = 0.06, p < 0.001) after adjustment for recent physical workload. Game-level HIE was associated with higher baseline-adjusted post-game ROLL (β = 0.11, p = 0.016). ACC associations were not statistically significant at either the play level (β = 0.03, p = 0.149) or game level (β = 0.09, p = 0.055). Sensitivity analyses most consistently supported play-level ROLL; game-level ROLL estimates remained positive but were more sensitive to sampling window and team composition. CONCLUSION: HIE was associated with measurable differences in medio-lateral trunk dynamics during field-based walking, particularly trunk roll angular velocity. Continuous trunk-worn inertial sensing may provide a field-based approach for investigating locomotor dynamics associated with head impact exposure in football athletes.",
+      "doi": "10.1016/j.gaitpost.2026.110709",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050783/",
+      "relevance": 6,
+      "matched": [
+        "foot",
+        "athlete"
       ]
     },
     {
@@ -4160,6 +4457,20 @@
       ]
     },
     {
+      "pmid": "43052911",
+      "title": "Radiographic changes in disc height index and 12-month segmental motion following single-level microsurgical sequestrectomy for lumbar disc herniation.",
+      "journal": "BMC musculoskeletal disorders",
+      "journal_issn": "1471-2474",
+      "discipline": "fascia",
+      "date": "2026-Nov-14",
+      "authors": "Katharina Jäckle, Marc-Pascal Meier, Thelonius Hawellek et al.",
+      "abstract": "OBJECTIVES: Longitudinal radiographic changes after microsurgical sequestrectomy for lumbar disc herniation remain incompletely characterized, particularly regarding disc height and segmental motion. This study aimed to quantify changes in Disc Height Index (DHI) from the preoperative assessment to 12-month follow-up, to describe radiographic segmental motion and the prevalence of prespecified radiographic instability criteria at 12 months, and to identify factors associated with these radiographic findings. METHODS: This retrospective single-center observational study included 250 patients who underwent single-level microsurgical sequestrectomy for lumbar disc herniation between January 2018 and December 2024 and had complete imaging required for the present analysis. Disc height and DHI were assessed using standardized radiographic measurements. Segmental motion and radiographic instability status were assessed on 12-month flexion-extension radiographs; corresponding preoperative functional radiographs were not systematically available. Recurrent disc herniation was assessed on postoperative MRI. Multivariable regression analyses were performed to identify factors associated with DHI reduction and 12-month radiographic instability status. Because no nonoperative or alternative-surgery comparison group was available, the study was not designed to determine whether observed changes were caused by sequestrectomy or reflected the natural history of underlying degeneration. RESULTS: Mean disc height significantly decreased from 9.14 ± 1.48 mm preoperatively to 7.65 ± 1.89 mm at 12-month follow-up (p < 0.001). Mean DHI declined from 0.297 ± 0.050 to 0.249 ± 0.062 (p < 0.001), corresponding to a relative DHI change of - 17.3 ± 9.5%. Mean absolute disc-height loss was 1.49 ± 0.68 mm. Prespecified radiographic instability criteria were met by 24.4% of patients at 12 months. MRI-detected recurrent disc herniation was present in 7.6% of included patients with postoperative MRI. In the multivariable linear model, larger sequester size (standardized β = -0.152, 95% CI - 0.237 to - 0.067; p < 0.001), higher Pfirrmann grade (β = -0.449, 95% CI - 0.564 to - 0.335; p < 0.001), presence of Modic changes (β = -0.227, 95% CI - 0.326 to - 0.128; p < 0.001), and higher facet arthrosis grade (β = -0.228, 95% CI - 0.335 to - 0.121; p < 0.001) were independently associated with a more negative 12-month relative DHI change. In the separate logistic model, larger sequester size (OR 1.77 per 1-SD increase, 95% CI 1.24-2.54; p = 0.002), higher Pfirrmann grade (OR 2.40 per grade, 95% CI 1.44-3.98; p < 0.001), and higher facet arthrosis grade (OR 1.98 per grade, 95% CI 1.21-3.23; p = 0.006) were associated with meeting the radiographic instability criteria at 12 months. CONCLUSION: Significant reductions in disc height and DHI were observed between the preoperative assessment and 12-month follow-up in this cohort treated with microsurgical sequestrectomy. Prespecified radiographic instability criteria were met by 24.4% of patients at 12 months. Because baseline functional radiographs were not systematically available, the study cannot determine whether radiographic instability developed after surgery. In the absence of a comparison group and patient-reported clinical outcomes, these findings should be interpreted as longitudinal disc-height observations and cross-sectional 12-month radiographic associations; they cannot establish a causal effect of sequestrectomy or the clinical relevance of the observed motion findings. TRIAL REGISTRATION: Registration of trial 2026-06-30 - Retrospectively registered. Trial registration number DRKS00040457.",
+      "doi": "10.1186/s12891-026-10713-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052911/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
       "pmid": "43035063",
       "title": "State-space dynamics of joint coordination reveal preserved directional structure across running speeds.",
       "journal": "Journal of biomechanics",
@@ -4647,352 +4958,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43023608/",
       "relevance": 0,
       "matched": []
-    },
-    {
-      "pmid": "43023574",
-      "title": "Marsupial fossil tracks reveal Eocene arboreal life in Antarctica.",
-      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-      "journal_issn": "1932-8486",
-      "discipline": "anatomy",
-      "date": "2026-Nov-13",
-      "authors": "Geovane Alves de Souza, Rafael Costa da Silva, João Felipe Leal Kaiuca et al.",
-      "abstract": "Antarctica is the only continent where land mammals are extinct today. Before the Eocene-Oligocene boundary (>38 million years ago), however, the \"white continent\" had a much milder climate that sustained a diverse fauna of terrestrial mammals. Several discoveries of fragmentary Eocene fossils suggest that Antarctica acted as a land bridge connecting South America to Australia, most notably marsupials. However, fossil mammals are scarce and restricted to a single location-Seymour Island. Here we present two well-preserved fossil tracks which are the second Antarctic fossil mammal outside Seymour Island and the oldest fossil tracks assigned to an opossum-like animal in the Cenozoic. They were found in the Fossil Hill Formation on King George Island (lower-middle Eocene) and exhibit possible opposable thumbs, suggesting an arboreal behavior observable in microbiotheriid and some extant didelphid marsupials living in South America today. They further coincide in time with the rise of scansorial lifestyle in several mammalian lineages. This ichnologic record offers a more comprehensive look into the dispersion and ecology of mammals through the Early Cenozoic of Antarctica, evidencing that small arboreal marsupials inhabited the South Shetland Islands during the Eocene. In addition, the new finding indicates that Antarctica was not merely a corridor, but a rich habitat of dense and productive forest canopies during the middle Eocene.",
-      "doi": "10.1002/ar.70384",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023574/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "43033777",
-      "title": "Musical Feedback to Reduce the Knee Adduction Moment Via Center of Pressure Medialization: A Proof-of-Concept Study in Healthy Adults for Knee Osteoarthritis Gait Retraining.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-12",
-      "authors": "Luisa Cedin, Camilla Antognini, Christopher Knowlton et al.",
-      "abstract": "Elevated knee adduction moment (KAM) is a primary contributor to medial knee osteoarthritis (OA) progression. Medialization of center of pressure (CoP) can reduce KAM, but sustaining engagement and a consistent walking pattern remains a challenge. We investigated whether concurrent plantar pressure-modulated musical feedback would cue a medial CoP shift to reduce KAM without producing detrimental lower limb compensations in healthy adults. Twelve participants (6F/6M; age: 31.5 ± 5.3 years) walked while a marker-based motion analysis system (Qualisys) and wireless pressure-sensing insoles (Moticon) recorded gait. Real-time insole data drove auditory feedback: self-selected music was progressively muffled whenever the participant failed to shift their CoP medially beyond their threshold (25 % reduction in peak lateral CoP from baseline). Gait was assessed at baseline, post-instructions, and post-training. Repeated-measures ANOVA was used for kinetics and spatiotemporal outcomes, and statistical parametric mapping, as a secondary analysis, for kinematic waveforms. All participants medialized their CoP based on instructions and musical feedback. Musical feedback significantly reduced the second KAM peak (post-training: -13.7 %; p = 0.002) and the knee adduction angular impulse (post-training: -9.4 %; p < 0.001), but with a borderline increase in peak knee flexion moment (p = 0.050) that may reflect compensation. Gait adaptations were executed without a change in walking speed. Also, foot progression angle and stride width remained unchanged. CoP medialization was achieved mainly through ankle inversion, ankle external rotation, and hip internal rotation. These preliminary findings support concurrent sonified biofeedback for gait retraining, warranting evaluation in medial knee OA patients.",
-      "doi": "10.1016/j.jbiomech.2026.113670",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033777/",
-      "relevance": 14,
-      "matched": [
-        "knee",
-        "gait",
-        "training",
-        "hip",
-        "kinematic",
-        "kinetic"
-      ]
-    },
-    {
-      "pmid": "43025404",
-      "title": "Exogenous Lactate Supplementation: A Promising Fueling Strategy to Enhance Endurance Performance.",
-      "journal": "International journal of sports physiology and performance",
-      "journal_issn": "1555-0265",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "Aitor Viribay, Adrián Castillo-García, Borja Martinez-Tellez",
-      "abstract": "PURPOSE: Lactate has historically been mischaracterized as a metabolic byproduct associated with fatigue. The lactate shuttle paradigm describes its role in substrate exchange between glycolytic and oxidative tissues. Recent evidence has highlighted lactate as a key regulator of systemic energy metabolism and cellular signaling. While endogenous lactate production and clearance mechanisms during exercise are well established, the potential of exogenous lactate as an ergogenic fuel remains largely unexplored. Here, we aim to (1) synthesize current knowledge and discuss the mechanistic pathways through which exogenous lactate supplementation may enhance endurance performance in humans and (2) critically appraise the current limitations of high-dose exogenous lactate administration and outline novel formulation strategies, adapted from established sports nutrition practices, that warrant future investigation. CONCLUSION: Exogenous lactate supplementation holds promise as a novel fueling strategy to enhance endurance performance. However, human trials to date have failed to demonstrate performance benefits, potentially due to the low doses and bolus administration strategies employed. Future research should therefore focus on developing formulations capable of safely delivering physiologically relevant doses and evaluating their efficacy in well-controlled human studies.",
-      "doi": "10.1123/ijspp.2026-0332",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025404/",
-      "relevance": 18,
-      "matched": [
-        "endurance",
-        "lactate",
-        "performance",
-        "exercise",
-        "fatigue",
-        "metabolic"
-      ]
-    },
-    {
-      "pmid": "43025303",
-      "title": "Lower extremity joint biomechanics from a single crossover drop task demonstrate superior predictive potential for secondary ACL injuries than drop vertical jump or single leg landing tasks.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-12",
-      "authors": "Nathan D Schilaty, Kim D Barber Foss, April L McPherson et al.",
-      "abstract": "BACKGROUND: Secondary anterior cruciate ligament (ACL) injuries remain a significant concern after return-to-sport (RTS) following ACL reconstruction (ACLR), with rates as high as 24%. Identifying biomechanical predictors of re-injury is critical for improving RTS protocols. PURPOSE: To compare the predictive potential of three common landing tasks [drop vertical jump (DVJ), single-leg landing (SLL), and single-leg crossover drop (SCD)] for secondary ACL injury risk in post-ACLR athletes. METHODS: A multicenter cohort of 150 athletes (age 13-30 years) that were cleared for RTS post-ACLR completed DVJ, SLL, and SCD tasks during 3D motion analysis; 144 athletes data met criteria for analysis. Peak kinematic and kinetic variables (n = 126) were analyzed using a penalized logistic regression with an elastic net penalty. Predictive models were evaluated via ROC curves, sensitivity, specificity, and predictive values. RESULTS: The SCD task demonstrated the strongest predictive performance for secondary ACL injury, with a validated positive predictive value (PPV) of 0.57, negative predictive value (NPV) of 0.96, sensitivity of 80.0%, specificity of 88.9%, and an area under the curve (AUC) of 0.933. The DVJ demonstrated moderate predictive performance (PPV=0.43, NPV=0.92, sensitivity=60.0%, specificity=85.7%, AUC=0.843), while the SLL demonstrated the lowest performance (PPV=0.33, NPV=0.92, sensitivity=60.0%, specificity=78.6%, AUC=0.736). CONCLUSION: Lower extremity biomechanics during SCD provide greater predictive performance for secondary ACL injury compared with the DVJ or SLL. The findings suggest that SCD captures biomechanical characteristics relevant to secondary ACL injury risk and may improve identification of athletes at elevated risk following ACL reconstruction. However, further validation and model simplification are needed before clinical implementation as a stand-alone screening tool.",
-      "doi": "10.1016/j.gaitpost.2026.110700",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025303/",
-      "relevance": 14,
-      "matched": [
-        "joint",
-        "biomechanic",
-        "acl",
-        "ligament",
-        "kinematic",
-        "kinetic"
-      ]
-    },
-    {
-      "pmid": "43019555",
-      "title": "Rock Climbing and Nutrition: How Diet and Anthropometric Factors Influence Performance.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "Laurel M Wentz, Sarah Radman, Alisha Farris et al.",
-      "abstract": "Wentz, LM, Radman, S, Farris, A, Farris, ZJ, and Kurtz, JA. Rock climbing and nutrition: How diet and anthropometric factors influence performance. J Strength Cond Res XX(X): 000-000, 2026-This study investigated the effects of diet and anthropometric characteristics on climbing performance. Rock climbers (N = 44: 52% women) completed a 3-day food record and International Society for Advancement of Kinanthropometry (ISAK) level 2 profile. Self-reported highest outdoor redpoint bouldering grade was used to categorize climber ability as intermediate or elite. Independent t-tests and Pearson's correlations were used for statistical analyses. Elite climbers (N = 11 men; 6 women) had similar body mass index (22.1 ± 1.8 vs. 22.1 ± 1.7 kg·m-2) and ape index (arm span/height; 1.02 ± 0.02 vs. 1.01 ± 0.03) compared with intermediate climbers (N = 10 men; 17 women). Dietary analysis showed energy intake was similar (42 ± 12 vs. 40 ± 10 kcal·kg-1 lean body mass, respectively), but protein intake was higher in elite climbers (1.6 ± 0.5 vs. 1.2 ± 0.4 g·kg-1 body mass; p < 0.01). Muscle mass was positively correlated with total energy intake (r = 0.56; p < 0.01) and protein intake (r = 0.65, p < 0.01). Elite climbers had greater muscle mass (31.4 ± 6.4 vs. 27.3 ± 5.4 kg; p = 0.03) and lower adipose mass (15.0 ± 2.0 vs. 18.5 ± 3.3 kg; p < 0.01) compared with intermediate climbers. Somatotype favored mesomorphy for all climbers (4.8 ± 0.9). Contrary to published reports showing energy restriction in rock climbers, our subjects consumed sufficient energy and met protein recommendations. Muscle mass was more important for climbing ability than total body mass or arm/leg length. Practical applications for climbing performance include improving modifiable characteristics, such as meeting protein and energy needs and improving muscle mass rather than restricting dietary intake, which may enhance strength-to-mass ratio, endurance, and overall climbing efficiency.",
-      "doi": "10.1519/JSC.0000000000005709",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019555/",
-      "relevance": 8,
-      "matched": [
-        "performance",
-        "strength",
-        "endurance"
-      ]
-    },
-    {
-      "pmid": "43019554",
-      "title": "Should They Start or Not? A Comparative Analysis of Starter and Nonstarter Preseason Fitness Characteristics in NCAA Division III Baseball.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "David T Schilling, Timothy R Abraham, Ashraf Elazzazi",
-      "abstract": "Schilling, DT, Abraham, TR, and Elazzazi, A. Should they start or not? A comparative analysis of starter and nonstarter preseason fitness characteristics in NCAA Division III baseball. J Strength Cond Res XX(X): 000-000, 2026-Preseason fitness testing in baseball is a widely adopted practice to assess the physical preparedness of players. However, the relationship between these preseason fitness assessments, their ability to differentiate starters from nonstarters in the subsequent season, and their relationship to preseason coaching evaluations is not well-established. This exploratory study aimed to provide a preseason profile of men's NCAA Division III baseball players, compare the differences between starting and nonstarting players, and explore the relationship of these preseason measures to the offensive performance of the starting players at the completion of the season. Starters were considered any hitter who averaged at least 2 plate appearances per team game played or participated in at least 75% of the team's games. Twenty-six players performed 8 preseason fitness tests; and the head coach, blinded to all preseason fitness testing results, subjectively rated the players' batting (power, ball contact, and form) and running performance (speed, agility, and form), resulting in a total offensive performance score (TOPS). In-season offensive performance was measured by each player's on-base plus slugging percentage (OPS). Starters demonstrated significantly greater batted ball velocity, countermovement vertical jump height, unilateral lateral to medial jump distance, medicine ball throw velocity, and faster 60-yard dash and agility T-test times relative to nonstarters. Notably, no significant correlations were observed between any physical performance variable and OPS or TOPS, suggesting that preseason fitness testing may reflect athletic readiness but does not directly relate to offensive performance or coaching evaluation outcomes in this sample.",
-      "doi": "10.1519/JSC.0000000000005689",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019554/",
-      "relevance": 4,
-      "matched": [
-        "strength",
-        "power",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43018929",
-      "title": "Creating Consensus: Establishing a Definition of Sports Pharmacy and Its Emerging Role in Sports Medicine.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "journal_issn": "0112-1642",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "Claire May, Jessica Beal-Stahl, Athena Cannon et al.",
-      "abstract": "Sports pharmacy has become an increasingly recognized specialty within the broader pharmacy profession and serves as a complementary discipline to sport medicine. Yet, the field has lacked a formally established, internationally accepted definition. The absence of standardized terminology has hindered academic integration, interprofessional collaboration, and policy development. This work aimed to establish the first consensus-derived definition of sports pharmacy, accompanied by a responsibility statement to guide future education, certification, and research. In 2024, the US Sports Pharmacy Group (USSPG), comprising pharmacists, academics, anti-doping professionals, student pharmacists, and competitive athletes from diverse US states and international settings, convened a discrete subgroup, the Define Sports Pharmacy Taskforce, to lead the development of a formal definition of sports pharmacy. The taskforce conducted a thematic analysis of existing literature and reviewed 123 open-ended member responses collected between 2022 and 2024. Eight recurring practice themes emerged and informed iterative drafting cycles. Draft definitions were subsequently reviewed by interprofessional stakeholders, including physicians, elite athletes, and anti-doping practitioners. The resulting definition emphasizes medication management, anti-doping advocacy, interprofessional collaboration, athlete-centered ethical care, and the use of therapeutic and pharmacological strategies to optimize performance, support recovery, and protect sports integrity across all levels of physical activity. This consensus-derived framework provides standardized terminology to support the development of educational pathways, establish certification standards, and promote the integration of pharmacists into athlete support teams.",
-      "doi": "10.1007/s40279-026-02574-6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018929/",
-      "relevance": 9,
-      "matched": [
-        "sports",
-        "recovery",
-        "performance",
-        "physical activity",
-        "athlete"
-      ]
-    },
-    {
-      "pmid": "43018928",
-      "title": "Maximal Aerobic Capacity and Aging in Female Masters Athletes: A Systematic Review and Meta-analysis.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "journal_issn": "0112-1642",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "Shalaya Kipp, Kathryn F Larson, Diana B Collantes Hoyos et al.",
-      "abstract": "BACKGROUND: Maximal aerobic capacity ( V ˙ O2max) represents the highest rate at which the body can use oxygen during intense exercise and is a key determinant of endurance performance. Although age-related declines in V ˙ O2max have been well documented in male individuals, less is known about this trajectory in female Masters athletes, defined as individuals aged 40 years or older who often engage in lifelong endurance training. OBJECTIVE: We performed a systematic review and meta-analysis to quantify cross-sectional age-related differences in directly measured V ˙ O2max among female Masters endurance athletes. METHODS: PubMed and Web of Science were searched from database inception to 14 May, 2025 for studies reporting directly measured V ˙ O2max in female Masters endurance athletes aged 40 years or older. Eligible exercise modalities included running, cycling, swimming, and large muscle-mass ergometry, with testing conducted under standard environmental conditions. Two reviewers independently screened studies, extracted data, and assessed risk of bias using a modified Joanna Briggs Institute checklist. Pooled mean V ˙ O2max values were calculated for predefined age groups (40-49, 50-59, 60-69, and 70 years or older) using a random-effects meta-analysis. Meta-regression was used to estimate the relationship between age and V ˙ O2max. RESULTS: Sixty-nine studies, including 1903 female Masters athletes, met the inclusion criteria. Pooled mean relative V ˙ O2max was 45 mL·kg-1·min-1 (95% confidence interval [CI] 43.0-46.8) in athletes aged 40-49 years, 40 mL·kg-1·min-1 (95% CI 38.5-41.7) in those aged 50-59 years, 35 mL·kg-1·min-1 (95% CI 33.2-37.1) in those aged 60-69 years, and 30 mL·kg-1·min-1 (95% CI 27.2-31.8) in athletes aged 70 years or older. Meta-regression demonstrated that each additional year of age was associated with a 0.57 mL·kg-1·min-1 lower V ˙ O2max (95% CI - 0.70 to - 0.44; P < 0.0001), equivalent to about 11.7% per decade. The association was consistent across testing modalities. CONCLUSIONS: This systematic review and meta-analysis demonstrates a progressive age-related decrease in directly measured V ˙ O2max among female Masters endurance athletes. Maximal aerobic capacity declines at an average rate of 0.57 mL·kg-1·min-1 per year after age 40 years, corresponding to approximately 11.7% per decade. This decline is evident across endurance sport disciplines and appears consistent with physiological changes associated with aging despite sustained endurance training. These findings provide female-specific reference values and a quantitative framework for future studies on aerobic capacity trajectories in female athletes. CLINICAL TRIAL REGISTRATION: The protocol was registered on the Open Science Framework (OSF; https://doi.org/10.17605/OSF.IO/S2RXZ ).",
-      "doi": "10.1007/s40279-026-02565-7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018928/",
-      "relevance": 14,
-      "matched": [
-        "aerobic",
-        "athlete",
-        "exercise",
-        "training",
-        "endurance",
-        "oxygen"
-      ]
-    },
-    {
-      "pmid": "43018927",
-      "title": "Heat Training Practices in Elite and World-Class Athletes: A Review of Preparation Strategies for Competition in Hot Outdoor Environments.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "journal_issn": "0112-1642",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "Joshua D Elliott, Jamie Stanley, Peta Maloney et al.",
-      "abstract": "Heat acclimation (artificial exposure) and acclimatization (natural exposure) are key strategies for elite and world-class athletes preparing to compete in hot outdoor environments, aiming to reduce performance impairments and risk of heat illness. Evidence-based guidelines, primarily derived from laboratory studies in non-elite cohorts, recommend 10-14 consecutive days of heat exposure (60-90 min per day), initiated at least 2 weeks before competition in the heat, or earlier if re-acclimation is possible closer to the event. Sessions should elicit sustained elevations in core and skin temperature, skin blood flow, and sweating. However, logistical constraints, training demands, and tapering often limit protocol implementation in elite and world-class athletes, prompting the adoption of alternative approaches. This review synthesises observational studies documenting heat training practices in these athletes and evaluates their alignment with current guidelines. Eleven of the 12 studies included sport-specific heat exposure within preparation for competition in hot environments, often in similar or more severe environmental conditions than competition, with five studies incorporating post-exercise passive heating. However, heat intervention design, session structure, and monitoring of thermal and cardiovascular strain varied widely, with many reports lacking sufficient detail to determine their effectiveness at inducing and retaining adaptations outside laboratory-controlled settings. Nonetheless, initial reports indicate that classical markers of heat adaptation such as reduced exercise heart rate and core temperature, and increased plasma volume, are commonly observed. Standardized documentation of heat training characteristics is needed to assess their effectiveness in high-performance sport and refine evidence-based guidelines.",
-      "doi": "10.1007/s40279-026-02562-w",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018927/",
-      "relevance": 15,
-      "matched": [
-        "training",
-        "athlete",
-        "exercise",
-        "adaptation",
-        "heart rate",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43018926",
-      "title": "Heart Rate Variability in Fighter Pilots: From Tactical Readiness to G-Tolerance Prediction.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "journal_issn": "0112-1642",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "João Bruno, Raynier Montoro-Bombú, Rohit Kumar Thapa et al.",
-      "abstract": "Fighter pilots are exposed to extreme physiological and psychological stressors including sustained positive head-to-foot acceleration (+Gz), high cognitive workload, and rapid decision-making demands. In such conditions, the ability to maintain autonomic balance is central to performance and safety. Heart rate variability (HRV) has emerged as a sensitive and noninvasive biomarker of autonomic regulation, reflecting the dynamic interplay between sympathetic and parasympathetic activity. This Current Opinion article explores the relevance of HRV in aviation medicine, emphasizing its predictive value for tactical readiness, resilience, and tolerance to gravitational stress. Evidence from centrifuge experiments and operational studies demonstrates that higher baseline HRV is associated with superior stress tolerance, reduced risk of loss of consciousness, and enhanced cognitive performance. Beyond acute stress assessment, HRV provides insights into recovery dynamics, fatigue status, and long-term resilience, supporting its use in readiness management and training optimization. Practical applications include daily monitoring to guide mission planning, individualized training prescriptions informed by autonomic profiles, and biofeedback interventions aimed at enhancing stress regulation. Emerging technologies such as wearable sensors, multimodal physiological monitoring, and machine learning further strengthen the translational potential of HRV for real-time telemetry and group-level readiness tracking. However, methodological challenges including individual variability, external influences, and the lack of standardized protocols must be addressed to enable operational integration. Overall, HRV represents a promising frontier for bridging physiology, performance optimization, and safety in high-stress environments.",
-      "doi": "10.1007/s40279-026-02572-8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018926/",
-      "relevance": 10,
-      "matched": [
-        "heart rate",
-        "training",
-        "strength",
-        "fatigue",
-        "recovery",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43018484",
-      "title": "Reply to Marciano and Rossiter: Balancing muscle oxygen consumption sampling and slope quality in NIRS-derived assessment of muscle oxidative capacity.",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "Guillaume Costalat, Benoît Sautillet, Grégoire P Millet et al.",
-      "abstract": "",
-      "doi": "10.1113/EP094495",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018484/",
-      "relevance": 2,
-      "matched": [
-        "oxygen"
-      ]
-    },
-    {
-      "pmid": "43016107",
-      "title": "VRCycle: A Feasibility Randomized Controlled Trial Evaluating a Virtual Reality Cycling Intervention in People With Knee Osteoarthritis.",
-      "journal": "Physical therapy",
-      "journal_issn": "0031-9023",
-      "discipline": "fascia",
-      "date": "2026-Nov-12",
-      "authors": "Erin MacIntyre, Jaime Jordán-López, Daiki Kasai et al.",
-      "abstract": "IMPORTANCE: Exercise is recommended as a core treatment for knee osteoarthritis; yet uptake is suboptimal, with identified barriers including pain, difficulty (overly effortful), and boredom. Virtual reality (VR) shows promise in overcoming these barriers, although whether VR-enhanced exercise is acceptable to people with osteoarthritis and feasible in physical therapy settings is unknown. OBJECTIVE: The objective was to assess the feasibility of conducting a clinical trial to evaluate VR-enhanced cycling and explore preliminary efficacy of this intervention. DESIGN: A prospectively registered (ACTRN12624000122550), two-arm feasibility randomized controlled trial was conducted. SETTING: The trial was conducted at a clinical trials facility. PARTICIPANTS: Forty-one participants with painful knee osteoarthritis were enrolled. INTERVENTIONS: Participants were randomized (1:1 ratio) to receive VR-enhanced cycling or traditional (no-VR) cycling, both involving twelve, 30-minute cycling sessions over 6-weeks, supervised by a physical therapist. MAIN OUTCOMES AND MEASURES: A priori feasibility criteria surrounding recruitment and enrolment rate, intervention adherence, technical difficulty, retention, and participant experience (acceptability, credibility, adverse events) were evaluated. Clinical outcomes (pain, function) and exercise capacity (perceptually regulated exercise test) were assessed at baseline, post-intervention, 1-month follow-up (clinical outcomes only). Within-session exercise engagement (work, time) and experience (perceived exertion, affect) were evaluated as process variables. RESULTS: All feasibility criteria were met. An average of 6.8 participants per week were eligible with a 73% enrollment rate. Participants attended 91% of intervention sessions, and 90% of participants completed follow-up assessments. VR technical issues were rare (3% of sessions) as were adverse events (2 unrelated to VR). Treatment acceptability and credibility was high and clinical outcomes improved in both groups. CONCLUSIONS: Progression to a full trial is supported due to high feasibility, acceptability, and improvement in clinical outcomes. RELEVANCE: Although not powered to evaluate efficacy, the within-group changes observed demonstrate that both cycling modalities can improve knee pain, function, and exercise capacity.",
-      "doi": "10.1093/ptj/pzag117",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016107/",
-      "relevance": 2,
-      "matched": [
-        "exercise",
-        "pain"
-      ]
-    },
-    {
-      "pmid": "42868342",
-      "title": "Beyond the Hangover: Associations Between Binge Drinking, Health, and Performance in Young Adult Resistance-Trained Females.",
-      "journal": "Medicine and science in sports and exercise",
-      "journal_issn": "0195-9131",
-      "discipline": "physiology",
-      "date": "2026-Nov-12",
-      "authors": "Chester M Sokolowski, Hannah K Eberhardt, Hunter J Mitchell et al.",
-      "abstract": "PURPOSE: The present study aimed to evaluate associations between resistance training and binge drinking in relation to musculoskeletal composition, physical fitness, cognitive function, and psychological wellness in young adult females. METHODS: Participants were categorized into four groups: sedentary low alcohol consumers (SL; n=12), sedentary binge drinkers (SB; n=12), resistance-trained low alcohol consumers (RTL; n=12), and resistance-trained binge drinkers (RTB; n=12). Measurements included body composition via DEXA scan, muscle quality via ultrasonography, and insulin sensitivity via oral glucose tolerance test. Physical performance was assessed using maximum chair stand power, vertical jump, broad jump, knee extensor torque, grip strength, and push-ups to failure. Tests and questionnaires were used to assess cognitive function and psychological wellness. RESULTS: Resistance-trained females had lower body fat than sedentary females (RTL = 29.28±4.27%; RTB = 29.03±3.67%; SL = 37.18±5.32%; SB = 34.83±3.54%; p<0.05), and RTL had more fat-free mass than SL and SB (RTL = 48.31±5.81 kg; SL = 38.08±6.59 kg; SB = 40.37±6.05 kg; both p<0.05). There were no differences between RTL and RTB in bone mineral density, muscle quality, or physical performance. RTL outperformed SL and SB on vertical jump (both p<0.05) while RTB outperformed SL and SB on broad jump. RTL had lower fasting blood glucose than RTB (88.92±12.09 mg/dL and 103.17 ± 10.21 mg/dL, respectively; p=0.008), and lower postprandial blood glucose than all groups (RTL = 103.83±19.82 mg/dL; RTB = 137.58±21.54 mg/dL; SL = 148.50±44.60 mg/dL; SB = 139.25±14.49 mg/dL; all p<0.05). CONCLUSIONS: The results suggest that ≥1 year of binge drinking is associated with poorer metabolic health without differences in performance in young females. Further, frequent RT may mitigate the effects of binge drinking on body composition.",
-      "doi": "10.1249/MSS.0000000000004185",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42868342/",
-      "relevance": 15,
-      "matched": [
-        "resistance",
-        "performance",
-        "training",
-        "strength",
-        "metabolic",
-        "power"
-      ]
-    },
-    {
-      "pmid": "43038809",
-      "title": "Using a sacral cluster to improve pelvic tracking during gait in overweight individuals.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-11",
-      "authors": "N B J Dur, L M S Damink, E M Macri et al.",
-      "abstract": "BACKGROUND: Pelvic tracking in three-dimensional (3D) human motion analysis commonly uses skin-mounted anterior superior iliac spines (ASIS) markers. However, these conventional methods are prone to soft tissue artifacts, especially in overweight individuals. Using a sacral marker cluster with pointer-defined virtual ASIS markers might be an alternative approach for more accurate pelvic tracking across different body compositions. RESEARCH QUESTION: What are the differences in pelvic and hip joint mechanics measured during gait using conventional pelvic tracking versus pelvic tracking with a sacral cluster in healthy-weight and overweight individuals? METHODS: Ten healthy-weight and ten overweight/obese participants underwent 3D gait analysis. The pelvis was simultaneously tracked using skin-mounted markers and a sacral cluster with pointer-defined virtual ASIS markers. Pelvic kinematics and hip kinematics and kinetics were compared between tracking methods using statistical parametric mapping paired t-tests. Root mean squared differences (RMSD) and paired Cohen's dz were calculated for significantly different waveform regions. RESULTS: Frontal-plane pelvic kinematics differed between methods more substantially in the overweight group (RMSD=4.6° ± 1.7°, dz=-0.9) than in the healthy-weight group (RMSD=2.8° ± 0.8°, dz=0.3). Frontal-plane hip kinematics also differed more substantially in the overweight group (RMSD=5.4° ± 2.3°, dz=-0.8) than in the healthy-weight group (RMSD=2.7° ± 1.7°, dz=1.4). Hip kinetics differed mostly in the sagittal plane, with more substantial differences in the overweight group (RMSD=0.22 ± 0.09Nm/kg, dz=2.3) than in the healthy-weight group (RMSD=0.11 ± 0.04Nm/kg, dz=2.7). DISCUSSION: Pelvic tracking using a sacral cluster with pointer-defined virtual ASIS markers provides different, and potentially more accurate, pelvic and hip mechanics across different body compositions than conventional methods using skin-mounted ASIS markers.",
-      "doi": "10.1016/j.gaitpost.2026.110703",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038809/",
-      "relevance": 11,
-      "matched": [
-        "gait",
-        "pelvic",
-        "joint",
-        "hip",
-        "spine",
-        "kinematic"
-      ]
-    },
-    {
-      "pmid": "43035064",
-      "title": "BoneNet: a framework for predicting MSK-FE-estimated femoral neck strain patterns from exercise IMU data.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-11",
-      "authors": "Zainab Altai, David Hollinger, Andrew T M Phillips et al.",
-      "abstract": "Femoral neck fractures pose serious risks, particularly in osteoporosis, highlighting the need for effective bone-strengthening exercises and practical, non-invasive assessment of femoral loading. This study quantifies exercise-induced strains and presents BoneNet, an explainable convolutional neural network that predicts femoral neck strains from inertial measurement unit (IMU) data, offering a potential approach for estimating musculoskeletal-finite element (MSK-FE)-derived femoral neck strain patterns. Data were collected from 40 healthy participants (40.3 ± 13.1 years), with 37 included in the FE and BoneNet analyses. MSK-FE models estimated femoral neck strains during walking, running, jumping and hopping at varying intensities. BoneNet used IMU accelerometer and gyroscope signals from seven- and three-sensor configurations with participant-grouped cross-validation. Fast running yielded 3731 ± 1472 µε (tensile) and - 9541 ± 3610 µε (compressive), with walking strain magnitudes 47% lower for both tensile and compressive strains. Unilateral hopping with longer ground contact yielded 3003 ± 1189 µε and - 7755 ± 3040 µε, with walking strain magnitudes 34% and 35% lower, respectively. Walking generally produced higher strains than all other exercises. Using seven IMUs, BoneNet achieved correlations of r = 0.75-0.94 for five exercises, while squat jumps showed weak correlations (r = 0.27-0.36) and high relative RMSE (54.9-59.4%). Three IMUs showed comparable correlations, but squat-jump errors remained high (relative RMSE 56.0-61.2%). Running at all intensities and unilateral hopping with longer ground contact may have implications for bone adaptation, while BoneNet shows potential for estimating strain patterns rather than validated absolute values.",
-      "doi": "10.1016/j.jbiomech.2026.113677",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43035064/",
-      "relevance": 10,
-      "matched": [
-        "bone",
-        "neck",
-        "exercise",
-        "skeletal"
-      ]
-    },
-    {
-      "pmid": "43020047",
-      "title": "Individualized Lactate Steady State Resolves the Discrepancy Between Maximal Lactate Steady State and Critical Speed in Running.",
-      "journal": "International journal of sports physiology and performance",
-      "journal_issn": "1555-0265",
-      "discipline": "physiology",
-      "date": "2026-Nov-11",
-      "authors": "Ozgur Ozkaya, Hakan As, Arda Peker et al.",
-      "abstract": "PURPOSE: We tested the hypothesis that maximal lactate steady state determined using a novel individualized blood lactate steady-state approach (MLSSInd) in running provides an accurate assessment of critical speed (CS). METHODS: Following a step incremental treadmill test, 8 endurance runners completed 5 constant-speed runs of up to 30 minutes for assessment of traditional MLSS (MLSSTrad) and at least 4 runs performed to the limit of tolerance for assessment of CS. MLSSTrad was defined as the highest running speed that resulted in changes in blood lactate concentration ([lactate]) of <1 mM between 10 and 30 minutes, whereas MLSSInd was determined by a breakpoint in the relationship between the rates of change of blood [lactate] between 10 and 30 minutes (or the end of exercise) plotted against the corresponding running speeds using a 2-segment linear regression. CS was calculated using the hyperbolic, linear, and 1/time models, and accepted using the model which yielded the lowest error. RESULTS: MLSSInd was significantly higher than MLSSTrad (14.0 [2.1] vs 13.2 [2.1] km·h-1, P < .001) but was not significantly different from CS (14.0 [2.1] km·h-1, P = 1.00). MLSSInd and CS were identical (r = 1.00, bias = -0.02 km·h-1, standard error of the estimate = 0.07 km·h-1, limits of agreement = -0.15 to 0.10 km·h-1). The rate of change in blood [lactate] at MLSSInd was greater than for MLSSTrad (0.07 [0.02] vs 0.04 [0.01] mM·min-1; P = .022). CONCLUSIONS: An individualized breakpoint in the relationship between the rates of change of blood [lactate] and running speed resolves the apparent mismatch between MLSS and CS in running and may better represent the heavy-to-severe intensity exercise domain boundary.",
-      "doi": "10.1123/ijspp.2026-0276",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020047/",
-      "relevance": 6,
-      "matched": [
-        "lactate",
-        "exercise",
-        "endurance"
-      ]
-    },
-    {
-      "pmid": "43020045",
-      "title": "Once Successful Junior Biathletes, but What Happened Next?",
-      "journal": "International journal of sports physiology and performance",
-      "journal_issn": "1555-0265",
-      "discipline": "physiology",
-      "date": "2026-Nov-11",
-      "authors": "Malin Jonsson Kårström, Glenn Björklund, Andreas Kårström",
-      "abstract": "PURPOSE: To investigate how successful junior biathletes performed as senior athletes and whether the transition rate (ie, achieving comparable performance rank as junior and senior) differed between nations with the highest numbers of athletes. METHODS: Juniors placed top 10 in individual competitions at Youth and Junior World Championships between 2006 and 2015 were chosen for further analysis. The biathletes were categorized into 5 different performance groups based on their senior performance (1: top 10 ranking in senior World Championships or Olympic Games [Top10-WCH], 2: top 40 ranking in World Cup (WC) total [Top40-WCtot], 3: competing in >20 individual WC competitions [>20 WCstarts] or 4: >20 International Biathlon Union Cup competitions [>20 IBUCstarts], and 5: competing in <20 individual International Biathlon Union Cup competitions [<20 IBUCstarts]). The distribution across the senior performance groups for the 4 nations with the highest number of athletes (France, Germany, Norway, and Russia) was compared with the overall sample. RESULTS: Out of 454 junior biathletes from 28 nations, 21.8% achieved a comparable performance rank as seniors (Top10-WCH), while 55.7% did <20 starts in the WC. For the 4 nations with the highest number of successful juniors, Russia demonstrated a greater percentage of athletes in the lowest performance category (<20 IBUCstarts) compared with the total sample (P < .05). CONCLUSION: The data showed a low transition rate from successful junior-to-senior level, and more than half of the biathletes did not compete regularly in the WC as seniors. The underlying reasons behind the different transition paths and possible differences between nations are of interest for future studies.",
-      "doi": "10.1123/ijspp.2026-0193",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020045/",
-      "relevance": 5,
-      "matched": [
-        "athlete",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43020041",
-      "title": "Body Mass, Strength, Power, and Endurance Variations Across an Entire Season in Male Basketball Players.",
-      "journal": "International journal of sports physiology and performance",
-      "journal_issn": "1555-0265",
-      "discipline": "physiology",
-      "date": "2026-Nov-11",
-      "authors": "Santiago Zabaloy, Irineu Loturco, Martín Barat et al.",
-      "abstract": "PURPOSE: This study aimed to analyze changes in body mass, upper- and lower-boy strength, vertical jump performance, and endurance capacity in senior semiprofessional basketball players across 4 different time points (TPs) during the season. METHODS: Fifteen male basketball players (n = 15; age: 23.4 [3.4] y; height: 1.9 [0.1] m) volunteered to participate in this study. Participants were tested for body mass, 1-repetition maximum in the squat and bench press exercises, countermovement jump (CMJ) and loaded CMJ, and 30-15 intermittent fitness test. RESULTS: Significant increases were observed in absolute and relative 1-repetition maximum in the squat (P < .03; effect size [ES]: moderate to large) from TP1 to TP2, TP3, and TP4. Regarding CMJ, greater jump heights were observed at TP2 and TP4 when compared with TP3 (P < .015; ES: small). In the loaded CMJ (ES: moderate), loads were significantly greater at TP2, TP3, and TP4 compared with TP1 (P < .009; ES: moderate). Conversely, 30-15 intermittent fitness test measures showed small but nonsignificant increments (P < .086; ES: small). CONCLUSIONS: Lower-body strength and power measures improved during the preseason in male basketball players, with these athletes being able to retain strength levels across the in-season period, despite the congested competitive schedule. In contrast, CMJ performance did not change during the preseason but appeared to be negatively affected during the most competition-dense phase of the season (ie, TP3). Finally, endurance capacity and body mass remained relatively stable from the beginning of the preseason until the end of the season.",
-      "doi": "10.1123/ijspp.2026-0126",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020041/",
-      "relevance": 14,
-      "matched": [
-        "strength",
-        "endurance",
-        "power",
-        "exercise",
-        "performance",
-        "athlete"
-      ]
     }
   ]
 }
