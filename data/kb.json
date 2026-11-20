@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-20",
-    "updated_at": "2026-11-20 06:39",
+    "updated": "2026-11-21",
+    "updated_at": "2026-11-21 06:36",
     "raw_count": 300,
     "articles": [
       {
@@ -2425,27 +2425,6 @@
         ]
       },
       {
-        "pmid": "43024823",
-        "title": "Predicting Military Training Outcome: A Prospective Cohort Study of Supervised Statistical Learning Classification Methods in British Army Recruits.",
-        "journal": "Medicine and science in sports and exercise",
-        "journal_issn": "0195-9131",
-        "discipline": "physiology",
-        "date": "2026-Nov-13",
-        "authors": "Thomas J O'Leary, Alexander T Carswell, Sarah Jackson et al.",
-        "abstract": "PURPOSE: Investigate predictors of failure and injury during British Army basic training and test the performance of statistical learning models to predict these outcomes. METHODS: 968 male and 450 female recruits had demographics, lifestyle habits, mood, physical performance, body composition, micronutrient status, and bone metabolism measured at week 1 of training. Associations between predictors and training outcome (failure; lower limb overuse musculoskeletal injury) were assessed by logistic regression. Training outcome was predicted by logistic regression, elastic net, random forests, and gradient boosting. RESULTS: 66% of men and 76% of women passed with 20% and 34% developing an injury. For men, slower 2.4 km run time (odds ratio [OR]=1.004, p=0.011) and higher symptoms of depression (OR=1.173, p=0.001) were associated with higher risk of failing, and lower areal bone mineral density (OR=0.008, p=0.002), slower 2.4 km run time (OR=1.006, p=0.011), previous stress fracture (OR=3.267, p=0.002), lower parathyroid hormone (OR=0.783, p=0.009), and lower c-telopeptide cross-links of type I collagen (βCTX) (OR=0.255, p=0.041) were associated with higher risk of injury. For women, slower 2.4 km run time (OR=1.009, p=0.009) and higher total 25-hydroxyvitamin-D (OR=1.013, p=0.001) were associated with higher risk of failing, and slower 2.4 km run time (OR=1.007, p=0.009), higher alcohol intake (OR=1.006, p=0.017), and lower βCTX (OR=0.057, p=0.026) were associated with higher risk of injury. Training outcome was poorly predicted in men and women (area under the receiver operating characteristic curve≤0.68). All models had low sensitivity and high specificity, but application of an outcome-specific threshold determined using the Youden Index improved sensitivity. CONCLUSIONS: Interventions to improve military training outcome should address aerobic fitness prior to starting training. Prediction models may be useful in identifying some 'at-risk' recruits.",
-        "doi": "10.1249/MSS.0000000000004212",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43024823/",
-        "relevance": 12,
-        "matched": [
-          "training",
-          "aerobic",
-          "metabolism",
-          "performance",
-          "hormone",
-          "injury"
-        ]
-      },
-      {
         "pmid": "42965620",
         "title": "Neuromechanical associations in vertical jump adaptation after plyometric training: a multivariate meta-analysis.",
         "journal": "European journal of applied physiology",
@@ -2684,48 +2663,6 @@
         ]
       },
       {
-        "pmid": "43031499",
-        "title": "Thoracic limb myology of Smutsia temminckii (Temminck's pangolin).",
-        "journal": "Journal of anatomy",
-        "journal_issn": "0021-8782",
-        "discipline": "anatomy",
-        "date": "2026-Nov-14",
-        "authors": "Christine Steyn, John Thomson Soley, Martina Rachel Crole",
-        "abstract": "The myrmecophagous Smutsia temminckii (Temminck's pangolin) is one of eight pangolin species, of threatened status worldwide and the only species present in southern Africa. S. temminckii utilises a bipedal gait for locomotion and will roll into a ball when vulnerable. The thoracic limbs are predominantly used to assist in exposing prey by employing scratch-digging in superficial substrates and breaking open ant nests. This study describes the thoracic limb musculature and muscle maps in S. temminckii, as well as discusses the peculiar adaptations of the thoracic limb to its unique lifestyle. The thoracic limbs of five S. temminckii were donated after they succumbed to either natural causes, electrocution or confiscation from the illegal wildlife trade. All ethical clearances were received. The muscles of the thoracic limbs were dissected and described, after which the bones were cleaned and the areas of muscle attachment identified and described. The muscles were generally well-developed with fleshy bodies and short tendons. The extrinsic muscles of the thoracic limb, and in particular M. cutaneous trunci, were prominent. M. triceps brachii, M. pronator teres and M. flexor digitorum profundus displayed additional bellies and extensive attachments. Individual metacarpophalangeal and digital muscles were noted. Two muscles were specifically named: the fleshy M. anconeus medialis and the long M. omoradialis. The musculature of S. temminckii shows clear adaptations to protraction and retraction of the forelimb, extension of the elbow joint, pronation and supination of the antebrachium, and flexion of the carpus and digits, which is consistent with scratch-digging, instead of weight-bearing. Both protractors of the forelimb and the prominent cutaneous musculature are involved when S. temminckii rolls up into a sphere during its defence posture. The muscle maps generated during this study aid in understanding the various muscle functions, as well as providing valuable information for postulating muscles in extinct pangolin species. The study may also aid workers in the veterinary field when treating musculoskeletal conditions in injured pangolins.",
-        "doi": "10.1111/joa.70268",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43031499/",
-        "relevance": 11,
-        "matched": [
-          "thoracic",
-          "muscle",
-          "tendon",
-          "bone",
-          "joint",
-          "gait"
-        ]
-      },
-      {
-        "pmid": "43038854",
-        "title": "Acute relationships between changes in iliotibial band shear wave velocity and lower-limb muscle activity during a single-leg press exercise.",
-        "journal": "Journal of biomechanics",
-        "journal_issn": "0021-9290",
-        "discipline": "anatomy",
-        "date": "2026-Nov-13",
-        "authors": "Hikari Takahashi, Hideyuki Takahashi",
-        "abstract": "PURPOSE: This study aimed to explore the associations between acute changes in iliotibial band (ITB) shear wave velocity (SWV) and changes in the SWV of anatomically related muscles, as well as the association between muscle activity during a seated single-leg press exercise and post-exercise ITB SWV. METHODS: Twenty healthy adults performed five sets of 20 single-leg press repetitions at 50 % of their estimated maximal lower-limb extension strength. SWV was measured before and after the experimental protocol in the ITB, tensor fasciae latae (TFL), gluteus maximus (Gmax), gluteus medius (Gmed), and vastus lateralis (VL). Muscle activity during the fifth set was assessed using surface electromyography and normalized to maximal voluntary contraction. Associations were examined using Spearman's rank correlation coefficients with bias-corrected and accelerated 95 % confidence intervals. RESULTS: VL SWV significantly decreased following the experimental protocol (Holm-adjusted p < 0.005), whereas no significant pre-post changes were observed in the ITB, TFL, Gmax, or Gmed. No significant correlations were found between the percentage change in ITB SWV and the percentage changes in adjacent-muscle SWV (all Holm-adjusted p ≥ 0.768). Post-exercise ITB SWV was not significantly correlated with muscle activity of any examined muscle (all Holm-adjusted p ≥ 0.596). CONCLUSION: Under the experimental conditions, changes in ITB SWV were not significantly associated with concurrent changes in adjacent-muscle SWV, and post-exercise ITB SWV was not significantly associated with muscle activity during the exercise.",
-        "doi": "10.1016/j.jbiomech.2026.113682",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43038854/",
-        "relevance": 11,
-        "matched": [
-          "muscle",
-          "hip",
-          "exercise",
-          "glute",
-          "fascia",
-          "anatomical"
-        ]
-      },
-      {
         "pmid": "42965622",
         "title": "Visual external focus of attention modulates corticospinal excitation-inhibition balance after acute exercise.",
         "journal": "European journal of applied physiology",
@@ -2844,6 +2781,27 @@
         ]
       },
       {
+        "pmid": "43057621",
+        "title": "Nutritional monitoring during spaceflight: tracking body composition and three-dimensional shape across a five-day research expedition.",
+        "journal": "The American journal of clinical nutrition",
+        "journal_issn": "0002-9165",
+        "discipline": "nutrition",
+        "date": "2026-Nov-19",
+        "authors": "Jonathan P Bennett, Michael C Wong, Nisa N Kelly et al.",
+        "abstract": "BACKGROUND: Microgravity during spaceflight leads to rapid muscle loss and fluid shifts driven by skeletal unloading and dietary changes. Obtaining accurate measurements before, during, and after missions remains challenging due to the cost and feasibility limitations of traditional imaging and laboratory systems. OBJECTIVE: This study quantified changes in whole-body and regional body shape using three-dimensional optical imaging (3DO) and body composition using bioelectrical impedance analysis (BIA) before, during, and after a short-duration spaceflight. METHODS: Fat-free mass (FFM) and fat mass (FM) were estimated by combining 3DO-derived body volume (BV) and BIA-derived total body water (TBW) within a five-compartment (5C) model. Ground-based measurements were obtained immediately pre- and post-flight using clinically validated 3DO and BIA systems. In-flight assessments used smartphone-based 3DO and smartwatch-based BIA, calibrated to ground systems. Absolute and proportional changes in body mass, circumferences, and 5C body composition were characterized as the difference between post- and pre-flight values, with in-flight measures used to monitor longitudinal changes in TBW and body shape. RESULTS: Four astronauts completed the five-day research expedition. Body mass decreased by -2.27 ± 1.66 kg, driven primarily by FFM loss (-2.17 ± 1.22 kg), representing a -4.36 ± 2.76% proportional reduction (range: -1.12 to -7.76%). In-flight TBW reductions reached -3.0 L. Post-flight circumferences decreased across all regions, with the largest proportional changes in the legs and torso. The portable 5C approach demonstrated feasibility for in-mission monitoring, capturing rapid TBW loss confirmed by incomplete recovery upon landing. CONCLUSION: Alterations in diet, activity, and microgravity contributed to greater than 4% FFM loss over five days, with the greatest regional changes in the legs and torso. In-flight monitoring captured TBW loss that did not fully recover upon landing, demonstrating the feasibility of portable body composition monitoring for astronaut health management.",
+        "doi": "10.1016/j.ajcnut.2026.101635",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43057621/",
+        "relevance": 10,
+        "matched": [
+          "nutrition",
+          "body composition",
+          "fat",
+          "diet",
+          "dietary",
+          "fluid"
+        ]
+      },
+      {
         "pmid": "43056620",
         "title": "Effect of Catechin Supplementation on Muscle Fatigue and Physical Performance: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
         "journal": "Nutrition reviews",
@@ -2936,46 +2894,6 @@
           "lactate",
           "heart rate",
           "oxygen"
-        ]
-      },
-      {
-        "pmid": "43026163",
-        "title": "Targeting in vitro human white adipocyte metabolism with exercise mimicry - current insights and future directions.",
-        "journal": "American journal of physiology. Endocrinology and metabolism",
-        "journal_issn": "0193-1849",
-        "discipline": "physiology",
-        "date": "2026-Nov-13",
-        "authors": "Juulia H Lautaoja-Kivipelto, David Walzik, Philipp Zimmer et al.",
-        "abstract": "During the past decade, in vitro exercise mimicry has become a popular approach to examine intercellular communication and the effects of exercise-like stimulation and exerkines on various cell types, including white adipocytes. Despite the growing body of literature, a comprehensive overview of how human white adipocytes in vitro adapt to these approaches is lacking. In this review, we discuss the metabolic and functional effects of exercise mimicry on in vitro human white adipocytes. We compare the in vitro observations to in vivo findings to provide the reader with an up-to-date overview of the extent to which the responses of in vitro human white adipocytes to afore-mentioned treatments resemble human white adipose tissue (WAT) adaptations to exercise and exerkines. Finally, we discuss the limitations of the existing in vitro models and obtained results before providing suggestions for improved study designs in future experiments.",
-        "doi": "10.1152/ajpendo.90142.2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43026163/",
-        "relevance": 10,
-        "matched": [
-          "exercise",
-          "metabolism",
-          "metabolic",
-          "adaptation"
-        ]
-      },
-      {
-        "pmid": "43025702",
-        "title": "Beyond glycemic index: Mixed meal postprandial glycemic response as a promising approach for Personalized Nutrition in Diabetes.",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-13",
-        "authors": "Shikha Nayar, S V Madhu",
-        "abstract": "Devising an effective tool for management of diet for patients with diabetes for a proper glycemic control has always been challenging due to the variability in available macronutrient content and composition of the meals along with the different factors affecting it. Traditionally, the concepts like glycemic index (GI) of food items, carbohydrate counting using the carbohydrate exchange lists have been largely guiding their food choices. These instruments, though useful, face certain paramount limitations that is, they are not mixed meal- based, intake responsive and sensitive to variations in the meal-composition, all of which is typical of different diets. The present perspective critically evaluates these and other associated issues considering supportive evidence available in this regard focusing on why mixed meal based glycemic responses are more pertinent for advising patients with diabetes. We also propose the need for developing a mixed meal- macronutrient exchange lists based on available macronutrients for patients with diabetes precisely characterizing the PPGR (post-prandial glycemic response) to different combination mixed meals in traditional diets. Furthermore, we suggest that the traditionally consumed mixed meals should be tested in different populations using continuous glucose monitors (CGMs) as an advance tool addressing the variability and possible combinations in traditional diets to obtain PPGR data sets. These then can be used for advising medical nutrition therapy for patients with diabetes recommending them with different traditional mixed meal combinations of their choice that keep their blood glucose in control.",
-        "doi": "10.1016/j.tjnut.2026.101940",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43025702/",
-        "relevance": 10,
-        "matched": [
-          "nutrition",
-          "meal",
-          "nutrient",
-          "carbohydrate",
-          "diet",
-          "food"
         ]
       },
       {
@@ -3133,6 +3051,45 @@
         ]
       },
       {
+        "pmid": "43063318",
+        "title": "Effects of Exercise on Symptom Burden During Cancer Treatment: Real-World Evidence from a Statewide Exercise Oncology Program.",
+        "journal": "Medicine and science in sports and exercise",
+        "journal_issn": "0195-9131",
+        "discipline": "physiology",
+        "date": "2026-Nov-20",
+        "authors": "Hao Luo, Robert U Newton, Dennis R Taaffe et al.",
+        "abstract": "PURPOSE: Cancer treatment often exacerbates symptoms such as fatigue, insomnia, and gastrointestinal disturbances. This study aimed to provide real-world evidence of exercise on symptom control in patients undergoing cancer treatment. METHODS: The analysis included patients undergoing cancer treatment, who participated in the three-month Life Now Exercise oncology program across 13 community-based sites in Western Australia. Individually tailored resistance, aerobic, and flexibility exercises at a moderate-to-high intensity were delivered twice per week in a group format, supervised by accredited exercise physiologists. Symptom burden was assessed at baseline, post-intervention, and six months post-intervention using the European Organisation for Research and Treatment of Cancer Quality-of-Life Core module (EORTC QLQ-C30) and the Functional Assessment of Chronic Illness Therapy-Fatigue scale (FACIT-F). RESULTS: Of 328 participants, 63% were aged under 65 years, 56% had breast cancer, 86% had localised disease, and 60% were undergoing hormonal therapy with/without additional radiotherapy and other systemic therapies. Improvements were observed at post-intervention in fatigue (EORTC: -3.3 [95% CI -5.5 to -1.1]; FACIT-F: 1.7 [95% CI 0.7 to 2.7]), insomnia (-3.6 [95% CI -6.9 to -0.3]), appetite loss (-3.2 [95% CI -5.9 to -0.5]), and financial difficulties (-2.8 [95% CI -5.5 to -0.1]), with most improvements sustained at six months post-intervention. Responses varied across breast, digestive, and genitourinary cancer subgroups and were associated with diverse demographic and clinical factors. However, meaningful improvements were consistently observed in patients with clinically relevant symptoms at baseline. CONCLUSIONS: Multimodal exercise at a moderate-to-high intensity is a promising non-pharmaceutical intervention for reducing symptom burden during cancer treatment. Similar exercise programs may be considered during cancer treatment for symptom control.",
+        "doi": "10.1249/MSS.0000000000004215",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063318/",
+        "relevance": 9,
+        "matched": [
+          "exercise",
+          "aerobic",
+          "fatigue",
+          "resistance"
+        ]
+      },
+      {
+        "pmid": "43062703",
+        "title": "Bilateral asymmetric accessory iliopsoas musculature and variant relationships with the femoral nerve: an anatomical case report.",
+        "journal": "Surgical and radiologic anatomy : SRA",
+        "journal_issn": "0930-1038",
+        "discipline": "anatomy",
+        "date": "2026-Nov-20",
+        "authors": "Caitlin Wetzel, Bailey Hall, Keirsten Templin et al.",
+        "abstract": "PURPOSE: Accessory musculature within the interval between the psoas major and iliacus may alter the expected course of the femoral nerve and complicate imaging or surgical exposure. This report describes a rare bilateral but asymmetric configuration of accessory iliopsoas musculature. METHODS: The posterior abdominal wall and iliopsoas regions of an 85-year-old male whole-body donor were dissected bilaterally. Accessory muscle origins, distal fusion patterns, dimensions, and relationships with the femoral nerve were documented. RESULTS: Two accessory muscular heads were identified on each side. On the left, both arose from the L4 costal process; on the right, the heads arose separately from the L2 and L3 costal processes. One head on each side fused to the native psoas major, and the other to the native iliacus. The femoral nerve passed between the native psoas major and accessory psoas-associated head on the left, but between the two accessory heads on the right. The heads differed in length and caliber between sides. CONCLUSION: In this donor, bilateral accessory iliopsoas heads had different origins and femoral nerve relationships. Recognition of unexpected intermuscular nerve intervals may aid anatomical interpretation and operative orientation, particularly in posterior abdominal wall or retroperitoneal exposures. No evidence of femoral neuropathy or altered biomechanical function was available.",
+        "doi": "10.1007/s00276-026-04059-7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062703/",
+        "relevance": 9,
+        "matched": [
+          "hip",
+          "anatomical",
+          "muscle",
+          "muscular",
+          "biomechanic"
+        ]
+      },
+      {
         "pmid": "43044059",
         "title": "Dumbbell Bench Press and Dumbbell Fly Elicit Similar Pectoralis Major Muscle Hypertrophy in Recreationally Trained Men.",
         "journal": "Journal of strength and conditioning research",
@@ -3150,27 +3107,6 @@
           "training",
           "strength",
           "resistance"
-        ]
-      },
-      {
-        "pmid": "43024402",
-        "title": "Mushrooms and Human Nutrition: Is It Time for a New Food Group?",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-13",
-        "authors": "Lora Iannotti, Gifty Aboagye-Mensah, Laura Brugger et al.",
-        "abstract": "In this narrative review, evidence is analyzed to help determine whether mushrooms should be recommended as a separate food group, based on 3 lines of inquiry: biochemistry, epidemiology, and sustainability. Mushrooms are classified taxonomically in the kingdom Fungi, distinct from Plantae or Animalia where most other foods are found. Yet around the world, food-based dietary guidelines group mushrooms with vegetables. We reviewed evidence from multiple databases and applied varying keyword strings for each area of inquiry, including (1) biochemistry, (2) epidemiology, and (3) sustainability. Studies published in English from 1990 to the present were included. Evidence from biochemistry showed mushrooms contain constituents-including ergothioneine, lectin, β-glucan, conjugated linoleic acid, micronutrients (vitamin D, niacin, choline, selenium, zinc), and other bioactive factors (phenolic compounds, terpenes)-linked to positive health outcomes with the potential to fill gaps left by other food groups. Experimental trials on human health effects are lacking, though observational studies of moderate quality showed mushroom consumption was associated with positive metabolic and neurocognitive outcomes. Regarding environmental sustainability, mushroom production on lignocellulose substrates requires minimal inputs, and spent substrate may be recycled into animal feed and biofuel, among other uses. Recommending mushrooms as a distinct group could relieve environmental pressure from other food groups. Social sustainability varies by region, with higher acceptability in Asia, cultural barriers evident in Europe and North America, and increasing consumption in South America. Economically, mushrooms show promise for revenue generation and affordability, despite sparse data and production limited to 5 mushroom types. Convincing rationale was found on the biochemistry and sustainability aspects of mushrooms to justify recommending them as a separate food group, but more empirical evidence linking mushrooms to health outcomes is needed.",
-        "doi": "10.1093/nutrit/nuag163",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43024402/",
-        "relevance": 9,
-        "matched": [
-          "nutrition",
-          "food",
-          "nutrient",
-          "diet",
-          "dietary",
-          "vitamin"
         ]
       },
       {
@@ -3323,6 +3259,44 @@
           "performance",
           "fat",
           "exercise"
+        ]
+      },
+      {
+        "pmid": "43062723",
+        "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty.",
+        "journal": "Surgical and radiologic anatomy : SRA",
+        "journal_issn": "0930-1038",
+        "discipline": "anatomy",
+        "date": "2026-Nov-20",
+        "authors": "Francesca Russo, Sebastiano Grimaldi, Giuseppe Esposito et al.",
+        "abstract": "PURPOSE: Revision rhinoplasty is among the most technically demanding procedures in facial surgery, requiring mastery of complex anatomy, advanced surgical skills, and proficiency in structural grafting. Cadaveric dissection remains a fundamental component of surgical training, yet the suitability of fresh-frozen anatomical specimens for simulating graft preparation has not been systematically assessed. This study evaluates the handling characteristics and graft-preparation feasibility of costal and auricular cartilage harvested from fresh-frozen cadavers used in structured revision rhinoplasty dissection. METHODS: Ten fresh-frozen cadaveric heads and two thoracic specimens were dissected. Costal cartilage was harvested bilaterally from ribs 5-8, and auricular cartilage bilaterally through a posterior conchal approach. Graft length, width, thickness, preparation time, carvability, laminar fragmentation, and suturability were assessed. Because multiple samples were obtained from the same donor, donor-level means were used for inferential comparisons. RESULTS: Costal cartilage was rigid and brittle, with macroscopic and handling characteristics consistent with calcification. Laminar thinning resulted in fragmentation in 85% of attempts, and intentionally thicker slices displayed macroscopically visible microfractures and fractured during suturing. No costal graft was suitable for spreader or septal extension graft simulation. Auricular cartilage maintained elasticity, allowed reproducible laminar carving, and withstood suturing without fracture. Preparation time differed significantly between graft types. CONCLUSION: In the specimens examined, costal cartilage was unsuitable for laminar graft-preparation simulation because of fragmentation and fracture, although rib harvesting remained valuable for thoracic-exposure training. Auricular cartilage was more consistently suitable for graft-shaping simulation. These findings describe distinct roles for the two cartilage sources within fresh-frozen cadaveric simulation of revision rhinoplasty.",
+        "doi": "10.1007/s00276-026-04039-x",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062723/",
+        "relevance": 8,
+        "matched": [
+          "cartilage",
+          "anatomical",
+          "thoracic",
+          "training"
+        ]
+      },
+      {
+        "pmid": "43062507",
+        "title": "Morphological variability of the last denticulate ligament process: an anatomical study.",
+        "journal": "Surgical and radiologic anatomy : SRA",
+        "journal_issn": "0930-1038",
+        "discipline": "anatomy",
+        "date": "2026-Nov-20",
+        "authors": "Loris Chaboissier, Ilona Baffaleuf, Hugo Lecot et al.",
+        "abstract": "PURPOSE: The denticulate ligament plays a role in stabilizing the spinal cord. Its most distal extension, the last denticulate ligament process (LDLP), remains poorly described in the literature. This study aims to provide a comprehensive morphological characterization of the LDLP and its anatomical relationships. METHOD: Forty-four cadaveric dissections were performed, allowing analysis of 87 LDLPs. A posterior approach with intermyolaminar dissection between vertebral levels T10 and L4 was used. Morphological parameters and precise measurements, including distances between the LDLP and the apex of the conus medullaris, were recorded. The adjacent sensory rootlets were systematically documented. RESULTS: Five distinct LDLP morphologies were identified: long oblique, short oblique, horizontal, bifid, and atypical. The denticulate ligament terminated in a slender, pearly filament located cranial to the filum terminale. The LDLP was most frequently observed at the T12-L1 level (40.2%) and adjacent to L3 sensory rootlets (66.6%). The caudal spinal insertion of the LDLP was on average 4.34 cm from the apex of the conus medullaris. A notable positional trend was observed: on average, when the conus medullaris was located at vertebral level L1 or lower, the LDLP was positioned one vertebral level higher; specifically, when the conus medullaris was located at T12-L1, the LDLP was most frequently found at the T12 level. CONCLUSION: The LDLP displayed five morphological patterns and variable vertebral levels, with most insertions located around T12-L1. Its consistent relationships with the conus medullaris and sensory rootlets may provide useful anatomical landmarks for neurosurgical procedures.",
+        "doi": "10.1007/s00276-026-04057-9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062507/",
+        "relevance": 8,
+        "matched": [
+          "ligament",
+          "anatomical",
+          "hip",
+          "spinal"
         ]
       },
       {
@@ -3621,6 +3595,24 @@
         ]
       },
       {
+        "pmid": "43062708",
+        "title": "Branch-level anatomy and estimated portal injury risk during anterior ankle arthroscopy: a combined ultrasound and cadaveric study.",
+        "journal": "Surgical and radiologic anatomy : SRA",
+        "journal_issn": "0930-1038",
+        "discipline": "anatomy",
+        "date": "2026-Nov-20",
+        "authors": "Hannes Platzgummer, Tobias Smodics, Veronika Vetchy et al.",
+        "abstract": "PURPOSE: To map the nerve branches at risk at the anterior ankle joint line with ultrasound, validate them by dissection, measure branch-specific distances to the anterolateral and anteromedial portals, and estimate per-branch injury probability. METHODS: Fourteen fresh-frozen ankles from 7 body donors were examined with high-resolution ultrasound (10-22 MHz). The intermediate (NCDI) and medial (NCDM) dorsal cutaneous nerves, the deep fibular nerve and the saphenous nerve were identified at the anterior joint line, dye-marked and verified by dissection. Distances to the portals were measured with digital calipers; injury probability was estimated with a normal distribution model and bootstrap confidence intervals. RESULTS: Dissection confirmed all sonographically identified branches (saphenous nerve 13/14 specimens, all others 14/14). The NCDI was single in 57% of specimens and split into two sub-branches in 43%. The single NCDI lay 3.6 ± 10.3 mm from the anterolateral portal (1-mm risk 3.6%, 4-mm risk 14.4%); each split sub-branch carried 5.6% and 22.1%, respectively. The saphenous nerve lay - 5.7 ± 5.2 mm from the anteromedial portal (1-mm risk 4.2%, 4-mm risk 17.0%). The NCDM and deep fibular nerve carried a 4-mm risk of 4.0% or less. The combined risk at either portal was 8.7% at 1-mm incision and 32.5% at 4-mm trocar width. CONCLUSIONS: Anterior ankle portal risk is branch-specific: in 43% of specimens, two NCDI sub-branches cross the anterolateral portal field. The combined 4-mm estimate reflects nerve contact rather than clinical injury and is an upper estimate. High-resolution ultrasound identified all sub-branches verified at dissection and may support preoperative portal planning.",
+        "doi": "10.1007/s00276-026-04063-x",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062708/",
+        "relevance": 7,
+        "matched": [
+          "ankle",
+          "injury",
+          "joint"
+        ]
+      },
+      {
         "pmid": "43055139",
         "title": "Assessing Skeletal Muscle Reactive Hyperemia with Intramuscular Doppler Ultrasound: Insights from Exercise-Trained and Untrained Adults.",
         "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
@@ -3750,6 +3742,26 @@
         ]
       },
       {
+        "pmid": "43056871",
+        "title": "Identifying specific brain morphology modes affecting brain strain under head impact.",
+        "journal": "Journal of biomechanics",
+        "journal_issn": "0021-9290",
+        "discipline": "anatomy",
+        "date": "2026-Nov-14",
+        "authors": "Yihan Zhang, Xiaoyu Du, Jingyi Wu et al.",
+        "abstract": "Head impacts induce head accelerations that generate brain strain and may ultimately lead to traumatic brain injury (TBI). Although previous studies have shown that brain morphology influences strain responses, it remains unclear which specific morphology modes are biomechanically relevant, whether their effects are consistent across strain metrics, and where these effects occur within the brain. In this study, we established 37 Brain Morphology Modes (BMMs), which explained 90.14 % of population-level morphological variation, and represented each individual brain using a corresponding set of Brain Morphology Signature (BMS) scores. Using synthetic brain models under controlled kinematics and subject-specific brain models under real-world head impacts, we found that the relationships between BMMs and brain strain responses varied across morphology modes, strain metrics, and brain regions, exhibiting morphology-dominant, direction-dependent, or mixed contribution patterns. These findings indicate that morphology-related brain strain variation cannot be explained solely by global geometric scaling, but also depends on mode-specific morphology-kinematics interactions.",
+        "doi": "10.1016/j.jbiomech.2026.113680",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056871/",
+        "relevance": 7,
+        "matched": [
+          "morphology",
+          "hip",
+          "biomechanic",
+          "kinematic",
+          "injury"
+        ]
+      },
+      {
         "pmid": "43035063",
         "title": "State-space dynamics of joint coordination reveal preserved directional structure across running speeds.",
         "journal": "Journal of biomechanics",
@@ -3788,26 +3800,6 @@
           "athlete",
           "injury",
           "pain"
-        ]
-      },
-      {
-        "pmid": "43025703",
-        "title": "Extracellular matrix inhibits amino acid absorption mediated by Lactobacillus reuteri LR1 in ETEC-infected piglets.",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-13",
-        "authors": "Qingsong Tang, Yiyi He, Zhangjian Feng et al.",
-        "abstract": "BACKGROUND: Small-intestinal mucosal architecture may affect amino acid (AA) absorption in weaned piglets. OBJECTIVE: This study aimed to investigate whether Lactobacillus reuteri (L. reuteri) LR1 improves small-intestinal AA absorption in enterotoxigenic Escherichia coli (ETEC) K88-challenged piglets and whether intestinal mucosal extracellular matrix (ECM) changes contribute. METHODS: Seventy-two 21-d-old weaned piglets were randomly assigned to 3 treatments (6 pens/treatment; 4 pigs/pen; 2 males/2 females). Control (CON) and ETEC K88 (K88) groups received a basal diet; the KLR group received basal diet plus 5 × 1010 CFU/kg L. reuteri LR1 for 14 days. K88 and KLR pigs received 5×1010 CFU of ETEC K88 by oral gavage on days 5, 7, and 9. Decellularized ECM (dECM) was isolated from piglet small intestine and tested for AA transport by Transwell assay. One pig per replicate (six/group) was sampled for analyses; three pigs/group were used for Transwell assays. Portal vein metabolites, liver free AAs, small-intestinal AA transporter and ECM-related gene expression, ECM protein, and dECM structure/transport were evaluated. Data were analyzed by unpaired two-tailed Student's t-test. RESULTS: K88 decreased the AA levels (L-glutamate, L-alanine, L-leucine, etc ) (36.3% to 51.2%), whereas KLR increased the AA levels (L-glutamate, L-aspartate, L-isoleucine, etc) in the portal vein of weaned piglets (134.6% to 179.3%, p < 0.05). K88 increased ECM-related genes (COL1A2, COL3A1, COL5A1, etc) (160.3% to 228.6%) expression and ECM deposition (136.4%) in the intestinal mucosa, whereas KLR reduced ECM-related genes (COL3A1, COL4A2, COL5A1, etc) (36.8% to 66.1%) expression and deposition (83.0%) in the intestinal mucosa (p < 0.05). Intestinal dECM showed a three-dimensional matrix network. Reducing the dECM content increased AA passage (148.3% to 226.5%, p < 0.05). dECM in the KLR reversed K88-induced reduction in AA absorption (K88 vs CON: 48.1% to 89.7%; KLR vs K88: 135.0% to 185.7%, p < 0.05). CONCLUSIONS: Dietary L. reuteri LR1 attenuated ETEC K88-induced impairment of small-intestinal AA absorption in weaned piglets, associated with reduced intestinal mucosal ECM deposition.",
-        "doi": "10.1016/j.tjnut.2026.101935",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43025703/",
-        "relevance": 7,
-        "matched": [
-          "amino acid",
-          "protein",
-          "diet",
-          "dietary",
-          "leucine"
         ]
       },
       {
@@ -4520,6 +4512,24 @@
           "bone",
           "anatomical",
           "performance"
+        ]
+      },
+      {
+        "pmid": "43062540",
+        "title": "Does the morphology of the mandibular lingula affect the location of the mandibular foramen?",
+        "journal": "Surgical and radiologic anatomy : SRA",
+        "journal_issn": "0930-1038",
+        "discipline": "anatomy",
+        "date": "2026-Nov-20",
+        "authors": "Atapol Yongvikul, Manop Khanijou, Nattharin Wongsirichat et al.",
+        "abstract": "PURPOSE: Accurate localization of the mandibular foramen (MF) is essential for successful inferior alveolar nerve block. The mandibular lingula (ML), a bony projection partially overlying the MF, is commonly used as an anatomical landmark; however, its morphology exhibits considerable variation. This study aimed to evaluate the relationship between ML morphology and the spatial position of the MF using cone-beam computed tomography (CBCT). METHODS: This retrospective CBCT-based study analyzed 288 scans (144 females; mean age 51.0 ± 19.4 years) acquired between March 2023 and March 2025. ML morphology was classified into truncated, nodular, assimilated, and other types. Vertical and horizontal relationships between the ML, MF, mandibular borders, and oblique ridges were measured using multiplanar reconstruction. MF dimensions and the presence of accessory mandibular canals were also assessed. Inter- and intra-examiner reliability were evaluated. Statistical analysis included one-way ANOVA and independent t-tests, with significance set at P < 0.05. RESULTS: The nodular ML was the most prevalent morphology (60.76%). ML type did not significantly influence the vertical position or dimensions of the MF (P > 0.05). However, significant differences were observed in horizontal localization, particularly relative to the internal oblique ridge, with the assimilated ML type demonstrating a more posteriorly positioned MF (P < 0.05). Accessory mandibular canals, present in 5.56% of cases, were associated with significantly reduced horizontal distances to the MF. CONCLUSION: ML morphology significantly influences its horizontal localization. Assimilated lingula and accessory mandibular canals may compromise the reliability of conventional landmarks.",
+        "doi": "10.1007/s00276-026-04060-0",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062540/",
+        "relevance": 5,
+        "matched": [
+          "morphology",
+          "hip",
+          "anatomical"
         ]
       },
       {
@@ -5414,39 +5424,6 @@
         ]
       },
       {
-        "pmid": "43033816",
-        "title": "Different Pacing and Tactical Demands Between Indoor and Outdoor 400-m World Athletics Championship Races.",
-        "journal": "International journal of sports physiology and performance",
-        "journal_issn": "1555-0265",
-        "discipline": "physiology",
-        "date": "2026-Nov-13",
-        "authors": "Pablo Comino, Maxime Walt, Luis E Ranieri et al.",
-        "abstract": "PURPOSE: To compare pacing and tactical behaviors between indoor and outdoor 400-m World Championship races. METHODS: A total of 742 individual performances from 400-m races in 4 World Athletics Indoor Championships and 3 World Athletics Championships were analyzed. For each athlete, 100-m section times and intermediate positions were obtained from the official World Athletics website. Performances were compared through mixed-design repeated-measures analyses of variance between track conditions across heats, semifinals, and finals and according to athlete outcome (qualified and nonqualified in heats and semifinals and medalists and nonmedalists in finals). Coefficient of variation of pace, pacing profiles, and Spearman rank correlation (rs) between intermediate and final positions were evaluated. RESULTS: Track condition showed a moderate-to-large effect on pacing (P < .001; ηp2=.08-.3). Indoor 400-m races featured a relatively faster initial 100-m section (P < .001; d = 0.97-2.04) and a more pronounced speed decline during the second half of the race, which was associated with higher coefficient of variation of pace values compared to outdoor races. Outdoor races showed a progressive increase in the correlation between intermediate and final positions (rs = .36-.81), whereas indoor races exhibited higher values from the first section and remained consistently high throughout the race (rs = .7-.91). CONCLUSIONS: Track type influences pacing and tactical behaviors in 400-m championship races. Indoor races are characterized by a relatively faster initial section, greater pacing variability, and a stronger influence of early positioning due to lane merging and direct athlete interaction after the break to lane 1. In contrast, outdoor races allow for a more efficient distribution of effort. These findings highlight the importance of considering track-specific physiological and tactical demands when preparing for competition.",
-        "doi": "10.1123/ijspp.2026-0321",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033816/",
-        "relevance": 3,
-        "matched": [
-          "performance",
-          "athlete"
-        ]
-      },
-      {
-        "pmid": "43026169",
-        "title": "Polyendocrine metabolic ovarian syndrome combined with obesity induces lipopolysaccharide cross-tolerance: A multi-cohort translational study.",
-        "journal": "American journal of physiology. Endocrinology and metabolism",
-        "journal_issn": "0193-1849",
-        "discipline": "physiology",
-        "date": "2026-Nov-13",
-        "authors": "Frank González, Robert V Considine, Ola A Abdelhadi et al.",
-        "abstract": "Women with polyendocrine metabolic ovarian syndrome (PMOS) and obesity have significant chronic proinflammatory stress impacting metabolic health. We determined the effect of in vitro lipid exposure with and without lipopolysaccharide (LPS) on mononuclear cell (MNC)-derived inflammation in PMOS. Nineteen reproductive-age women with PMOS (10 lean, 9 with obesity) and 18 ovulatory controls (9 lean, 9 with obesity) participated in the study. Nuclear factor-κB (NFκB) activation and p50 subunit-precursor mRNA, toll-like receptor-4 (TLR-4) mRNA and protein, and tumor necrosis factor-alpha (TNFα) mRNA and secretion were quantified in cultured MNC exposed to lipid with and without LPS. Insulin sensitivity was determined during an oral glucose tolerance test (ISOGTT). Androgen secretion was assessed from blood collected before and 24, 48 and 72 hours after human chorionic gonadotropin (HCG) administration. When LPS was absent, lipid-induced increases occurred in inflammation markers from MNC of both PMOS groups. When LPS was present, inflammation markers persistently increased from MNC of lean women with PMOS but decreased in those of women with PMOS and obesity concomitant with increases in p50-precursor mRNA and intranuclear anti-p50-bound NFκB indicating greater NFκB homodimer nuclear translocation. Both PMOS groups demonstrated decreased ISOGTT and higher HCG-stimulated androgen secretion compared with controls. When LPS was present, lipid-exposed inflammation responses negatively correlated with measures of adiposity and positively correlated with ISOGTT in PMOS. Women with PMOS and obesity demonstrate hallmark evidence of suppressed inflammation due to LPS cross-tolerance potentially providing a safeguard against worsening metabolic health instigated by the combined inflammatory load of PMOS and obesity.",
-        "doi": "10.1152/ajpendo.90166.2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43026169/",
-        "relevance": 3,
-        "matched": [
-          "metabolic"
-        ]
-      },
-      {
         "pmid": "42966568",
         "title": "Temporal Eating Patterns Show Inconsistent Associations With Cancer Incidence and Mortality: Systematic Review of Prospective Studies.",
         "journal": "The Journal of nutrition",
@@ -5714,6 +5691,39 @@
         ]
       },
       {
+        "pmid": "43062484",
+        "title": "Distinguishing anatomical complexity from clinical risk in dual-origin lingual artery anatomy.",
+        "journal": "Surgical and radiologic anatomy : SRA",
+        "journal_issn": "0930-1038",
+        "discipline": "anatomy",
+        "date": "2026-Nov-20",
+        "authors": "Santhiya Jayakumar",
+        "abstract": "",
+        "doi": "10.1007/s00276-026-04048-w",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062484/",
+        "relevance": 2,
+        "matched": [
+          "anatomical"
+        ]
+      },
+      {
+        "pmid": "43059379",
+        "title": "Mindless eating as a behavioural correlate of addictive-like eating symptoms in 10-12-year-old children: associations with disordered eating attitudes.",
+        "journal": "The British journal of nutrition",
+        "journal_issn": "0007-1145",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Meliha Çavdar, Nilüfer Özkan, Büşra Aslan Gönül et al.",
+        "abstract": "Middle childhood is a critical developmental period for the emergence of eating-related self-regulatory processes and maladaptive eating patterns. This cross-sectional study of 1060 children aged 10-12 years examined associations among disordered eating attitudes, mindful eating dimensions and addictive-like eating symptoms, focusing on the indirect role of mindless eating. Data were collected using a socio-demographic form, the Mindful Eating Questionnaire for Children (MEQ-C), the dimensional Yale Food Addiction Scale for Children 2.0, the Stunkard Pictogram and the Children's Eating Attitudes Test. Correlation analyses were conducted to examine associations among variables. Multiple linear regression was used to examine variables independently associated with addictive-like eating symptoms. An exploratory indirect-effect model tested whether mindless eating was involved in the statistical association between disordered eating attitudes and addictive-like eating symptoms. BMI category and meal skipping showed significant multivariate effects. In the regression model, MEQ-C-Mindless Eating showed the strongest independent association with addictive-like eating symptoms (β = 0·556, p < 0·001), followed by BMI z-score (β = 0·167, p < 0·001), disordered eating attitudes (β = 0·115, p < 0·001) and meal skipping (β = -0·105, p < 0·001). The indirect-effect model suggested that the association between disordered eating attitudes and addictive-like eating symptoms was statistically consistent with an indirect association involving mindless eating. Mindless eating may be an important behavioural correlate of addictive-like eating symptoms in middle childhood and may help contextualise their association with disordered eating attitudes. These findings highlight the relevance of eating-related self-regulation in children, although the conceptual overlap between mindless eating and addictive-like eating measures suggests findings should be interpreted with some caution.",
+        "doi": "10.1017/S0007114526109441",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43059379/",
+        "relevance": 2,
+        "matched": [
+          "food",
+          "meal"
+        ]
+      },
+      {
         "pmid": "43055379",
         "title": "The Relationship Between Muscle Cross-Sectional Area and Joint Torque of Trunk and Hip Generating Swing Rotation Around the Vertical Axis in Baseball Batting.",
         "journal": "Journal of strength and conditioning research",
@@ -5846,22 +5856,6 @@
         "matched": [
           "oxygen",
           "injury"
-        ]
-      },
-      {
-        "pmid": "43025407",
-        "title": "Erratum. Multidimensional Comparison of Specific Strength Qualities Between Professional and Academy Rugby Union Players.",
-        "journal": "International journal of sports physiology and performance",
-        "journal_issn": "1555-0265",
-        "discipline": "physiology",
-        "date": "2026-Nov-13",
-        "authors": "International Journal of Sports Physiology and Performance",
-        "abstract": "",
-        "doi": "10.1123/ijspp.2026-0637",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43025407/",
-        "relevance": 2,
-        "matched": [
-          "strength"
         ]
       }
     ]
@@ -7225,5 +7219,5 @@
       }
     ]
   },
-  "built_at": "2026-11-19 22:39"
+  "built_at": "2026-11-20 22:37"
 }
