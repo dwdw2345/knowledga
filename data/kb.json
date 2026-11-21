@@ -10,7 +10,7 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 233,
+      "latest_articles": 234,
       "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 28
@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-21",
-    "updated_at": "2026-11-21 06:36",
+    "updated": "2026-11-22",
+    "updated_at": "2026-11-22 06:28",
     "raw_count": 300,
     "articles": [
       {
@@ -2040,27 +2040,6 @@
         ]
       },
       {
-        "pmid": "43033966",
-        "title": "Omega-3 Fatty Acid Supplementation Has Coronary and Other Selective Health Benefits: Comprehensive Results from the VITamin D and OmegA-3 TriaL (VITAL).",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-14",
-        "authors": "JoAnn E Manson, Shari S Bassuk, Nancy R Cook et al.",
-        "abstract": "BACKGROUND: The VITamin D and OmegA-3 TriaL (VITAL) is the only large-scale randomized trial of marine omega-3 fatty acid (n-3 FA) supplementation for the primary prevention of cardiovascular disease (CVD) and cancer in a general population unselected for elevated risk. This article provides an integrated overview of the results of the n-3 FA component and its ancillary studies. METHODS: VITAL is a completed nationwide, randomized, placebo-controlled, 2x2 factorial trial of n-3 FAs (1 g/day) and vitamin D3 (2000 IU/day) for a median of 5.3 years for primary prevention of CVD and cancer among 25,871 U.S. men aged ≥50 and women aged ≥55 years. Ancillary studies investigated effects on heart failure, atrial fibrillation (AF), autoimmune disease, and other endpoints. RESULTS: Compared with placebo, the n-3 FA supplement did not significantly reduce the primary endpoint of major CVD events (hazard ratio [HR]=0.92 [95% confidence interval 0.80-1.06]) but did significantly reduce total myocardial infarction (MI; HR=0.72 [0.59-0.90]), fatal MI (HR=0.50 [0.26-0.97]), percutaneous coronary intervention (HR=0.78 [0.63-0.95]), and recurrent hospitalization for heart failure (HR=0.86 [0.74-0.998]). The intervention was not associated with AF risk. Supplemental n-3 FAs did not reduce total cancer incidence, other cancer endpoints, or all-cause mortality but was associated with significantly decreased risk of autoimmune disease (confirmed plus probable cases; HR=0.82 [0.68-0.99]). Effect modification by demographic, dietary, and clinical factors was observed for several endpoints, with greater benefits in Black participants and those with lower fish intake or cardiovascular risk factors, but with variable effects in women vs. men. CONCLUSION: Supplemental n-3 FAs did not significantly reduce major CVD events or cancer but decreased multiple cardiac endpoints and autoimmune disease. Several factors modified treatment effects. Although the findings do not support routine n-3 FA supplementation among healthy adults for prevention of chronic disease, targeted supplementation of those with low fish intake and other select groups warrants consideration.",
-        "doi": "10.1016/j.tjnut.2026.101941",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033966/",
-        "relevance": 14,
-        "matched": [
-          "fat",
-          "supplement",
-          "vitamin",
-          "omega-3",
-          "diet",
-          "dietary"
-        ]
-      },
-      {
         "pmid": "42965617",
         "title": "Longitudinal transcriptomic monitoring of erythropoietic adaptations in endurance athletes: a prospective study protocol.",
         "journal": "European journal of applied physiology",
@@ -2326,6 +2305,27 @@
         ]
       },
       {
+        "pmid": "43064201",
+        "title": "Adding Locally Available Foods to SQ-LNS Increased Nutrient Intake but Not the Proportion of Infants Meeting Nutrient Requirements in Rural Zimbabwe: A Randomized Controlled Trial.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Laura E Smith, Rachel Makasi, Alice Tengende et al.",
+        "abstract": "BACKGROUND: Small-quantity lipid-based nutrient supplements (SQ-LNS) improve linear growth but may not close all nutrient gaps. Whether locally available foods can help meet these gaps remains uncertain. OBJECTIVE: Compare infant and young child feeding (IYCF) (ground maize+SQ-LNS) versus \"IYCF-plus\" (pro-vitamin A maize, SQ-LNS, moringa, egg and sugar beans) on the proportion of infants meeting nutrient requirements. METHODS: Infants in rural Zimbabwe were randomized to IYCF or IYCF-plus from age 6mo. The primary outcome was the proportion meeting energy requirements at age 9mo using 24-hour dietary recalls. Secondary outcomes were proportion of children meeting protein, iron, zinc, and folate intakes, plus anthropometric indices and hemoglobin concentration. Tertiary outcomes were protein-quality indicators. Analyses used intention-to-treat mixed-effects logistic and linear regression. RESULTS: Among 192 infants (95 IYCF; 97 IYCF-plus), 9 exited and 2 died. At 9 months, 92.2% (95% CI 87.2, 97.2) in the IYCF arm and 92.5% (95% CI 87.9, 97.0) in the IYCF-plus arm met energy requirements (adjusted OR 1.0; 95% CI 0.3, 3.3). Protein adequacy was 100.0% versus 99.3%; iron adequacy was 84.4% versus 88.8%; zinc adequacy was 87.0% versus 93.0%; and folate adequacy was 97.7% versus 96.0%. Anthropometry and haemoglobin concentration showed no evidence of differences: LAZ mean difference -0.0 (95% CI -0.3, 0.2); WAZ -0.1 (-0.4, 0.2); WLZ -0.2 (-0.5, 0.2); haemoglobin concentration -0.0 (-0.3, 0.3). Protein-quality indicators were higher in the IYCF-plus arm than in the IYCF arm, including available protein (mean difference 2.3 g/kg; 95% CI 1.8, 2.8), Digestible Indispensable Amino Acid Score (DIAAS) (mean difference 79.7; 95% CI 68.9, 90.5), and all available amino acids. CONCLUSIONS: IYCF-plus using locally available foods plus SQ-LNS did not improve the proportion of infants meeting nutrient requirements more than SQ-LNS+maize alone, but improved protein quality. TRIAL REGISTRATION: clinicaltrials.gov NCT04874688.",
+        "doi": "10.1016/j.tjnut.2026.101947",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064201/",
+        "relevance": 12,
+        "matched": [
+          "nutrient",
+          "food",
+          "protein",
+          "diet",
+          "dietary",
+          "supplement"
+        ]
+      },
+      {
         "pmid": "43050255",
         "title": "Biomechanical, Anthropometric, Body Composition, Psychological, and Training-Related Correlates of Barbell Deadlift Strength.",
         "journal": "Journal of strength and conditioning research",
@@ -2381,47 +2381,6 @@
           "sprint",
           "hormone",
           "lactate"
-        ]
-      },
-      {
-        "pmid": "43033967",
-        "title": "Lower Sport Nutrition Knowledge in Masters Track and Field Athletes Compared with Younger Competitors.",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-14",
-        "authors": "Keely A Shaw, Ora Meade, Scott C Forbes et al.",
-        "abstract": "BACKGROUND: Appropriate nutrition is essential for supporting both athletic performance and healthy aging. In masters athletes, the physiological demands of aging and the nutritional needs of competitive sport are combined. However, dietary intakes of masters athletes do not generally meet sport nutrition recommendations. Despite evidence linking nutrition knowledge to dietary quality, sport nutrition knowledge among competitive masters athletes has not previously been evaluated. OBJECTIVES: The primary objective of this observational cross-sectional study was to assess nutrition knowledge in masters athletes competing at the World Masters Athletics Championships compared to varsity athletes with structured dietetic support. METHODS: Masters track and field athletes competing at World Masters Athletics Championships as well as varsity university track and field athletes completed the Abridged Nutrition for Sport Knowledge Questionnaire to assess both general and sport-specific nutritional knowledge. Differences in scores attained by masters and varsity athletes were assessed using independent t-tests. RESULTS: A total of 238 athletes participated (n=86 varsity athletes; n=152 masters athletes; n=120 males; n=118 females). Varsity athletes scored significantly higher on overall nutrition knowledge (51.0±12.8%) compared with masters athletes (45.2±15.0%; p=0.002). Varsity athletes also demonstrated higher scores in general nutrition (p=0.02), sport nutrition (p=0.01), and carbohydrate-related knowledge (p=0.01). No statistically significant differences were observed between groups for protein-related knowledge (p=0.09). A significant main effect of sex was observed for knowledge relating to protein, with males scoring higher than females (43.0±21.5% vs. 38.5±21.6%; p=0.039). CONCLUSIONS: Masters athletes demonstrated lower nutrition knowledge compared to varsity athletes across general and sport specific domains, with particular deficits observed in questions pertaining to carbohydrates. Given the nutritional needs of aging athletes, these gaps may contribute to the documented disconnect between dietary intake and recommendations. Tailored, evidence-based nutrition education may help improve dietary behaviors, training adaptations, and long-term health outcomes in masters athletes.",
-        "doi": "10.1016/j.tjnut.2026.101943",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033967/",
-        "relevance": 12,
-        "matched": [
-          "nutrition",
-          "athlete",
-          "protein",
-          "carbohydrate",
-          "diet",
-          "dietary"
-        ]
-      },
-      {
-        "pmid": "43033349",
-        "title": "Increasing Efficiency in Resistance Training? Exploring a Minimalistic Approach in Supramaximal Accentuated Eccentric Loading: A Narrative Review.",
-        "journal": "Sports medicine (Auckland, N.Z.)",
-        "journal_issn": "0112-1642",
-        "discipline": "physiology",
-        "date": "2026-Nov-14",
-        "authors": "Christian Burger, Josef Colana Ayvar, Markus Tilp et al.",
-        "abstract": "Supramaximal accentuated eccentric loading (SAEL) has emerged as a resistance training strategy that may provide a high mechanical stimulus with relatively low training volumes. This narrative review synthesizes the current evidence on the neuromuscular and physiological effects of SAEL and high-intensity eccentric-only training, with particular emphasis on the potential of low-volume training protocols. SAEL is a form of eccentric-concentric resistance training in which the eccentric phase is performed with supramaximal loads (> 100% concentric one-repetition maximum [1RM]) and the concentric phase with submaximal loads (< 100% concentric 1RM), thereby providing a greater eccentric mechanical stimulus than conventional resistance training. Evidence indicates that SAEL or high-intensity eccentric-only training may promote type II fiber adaptations, satellite cell activity, and neuromuscular improvements. The greater eccentric mechanical stimulus may therefore facilitate muscle adaptations at lower training volumes. However, direct comparisons with traditional resistance training remain sparse, particularly for low-volume protocols, and the available literature is limited by short intervention periods, methodological heterogeneity, and differences in participants' training status. Nevertheless, meaningful strength adaptations have been reported with as little as 2-4 sets and 3-8 SAEL or high-intensity eccentric-only repetitions per week. The optimal dosage for resistance-trained individuals remains uncertain, although approximately ≥ 5 sets per week may be required. Future research should directly compare low-volume SAEL with higher-volume traditional resistance training in similarly trained populations to determine whether comparable adaptations can be achieved with fewer sets and repetitions.",
-        "doi": "10.1007/s40279-026-02578-2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033349/",
-        "relevance": 12,
-        "matched": [
-          "training",
-          "resistance",
-          "strength",
-          "adaptation",
-          "neuromuscular"
         ]
       },
       {
@@ -2602,6 +2561,27 @@
           "kinetic",
           "skeletal",
           "acl"
+        ]
+      },
+      {
+        "pmid": "43064203",
+        "title": "Low-Carbohydrate, Animal-Centered Diets and Plant-Based Diets Exert Opposing Effects on Cardiometabolic Diseases.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Rami S Najjar",
+        "abstract": "Low-carbohydrate, animal-centered (LCAC) diets are promoted for the prevention and treatment of type 2 diabetes (T2D) and cardiovascular disease (CVD) because randomized trials have shown short-term reductions in select risk factors, such as body weight, triglycerides, and glycated hemoglobin. However, controlled feeding studies have shown increases in low-density lipoprotein cholesterol (LDL-C), apolipoprotein B, and circulating free fatty acids with LCAC diets. Importantly, LCAC diets can also drive lipotoxicity and inflammation. These latter pathological biochemical effects directly act on pathways involved in the development of T2D and CVD. In contrast, high-carbohydrate, unrefined plant-based diets in these conditions reduce insulin requirements even without weight loss, lower blood pressure and medication use, and improve atherogenic lipoproteins and inflammation. Meta-analyses of randomized trials demonstrate reductions in LDL-C, apolipoprotein B, and glycated hemoglobin with vegetarian or vegan diets. Further, plant-based dietary interventions have also shown regression of coronary atherosclerosis and improvements in myocardial perfusion and cardiac function, an effect absent from LCAC diet literature. Thus, public health efforts aimed at the prevention and treatment of T2D and CVD should continue to focus on improving the quantity and quality of plant foods consumed rather than carbohydrate restriction alone.",
+        "doi": "10.1016/j.tjnut.2026.101946",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064203/",
+        "relevance": 11,
+        "matched": [
+          "carbohydrate",
+          "diet",
+          "protein",
+          "fat",
+          "dietary",
+          "weight loss"
         ]
       },
       {
@@ -2859,6 +2839,24 @@
         ]
       },
       {
+        "pmid": "42868231",
+        "title": "Do Putative Human Reticulospinal Tract Properties Adapt Following Short-Term Isometric Resistance Training?",
+        "journal": "Medicine and science in sports and exercise",
+        "journal_issn": "0195-9131",
+        "discipline": "physiology",
+        "date": "2026-Nov-17",
+        "authors": "Khai Abu-Talip, Jakob Škarabot, Danyang Wei et al.",
+        "abstract": "PURPOSE: The primary purpose of this study was to investigate whether isometric resistance training (RT) leads to reticulospinal tract (RST) adaptations. METHODS: A \"RT group\" of 30 healthy adults completed 4 weeks (15 sessions) of volume-matched unilateral elbow flexion RT involving high (32 repetitions/session at 70% maximal voluntary torque [MVT]) or low (64 repetitions/session at 35%MVT) loads. An additional 15 participants served as controls (CON group). Pre- and post-test MVT, RST properties (RST gain ratio derived from the StartReact assessment; startling auditory stimulus-conditioned/control motor evoked potential [MEP] ratio; and startling stimulus-conditioned/control cervicomedullary MEP [CMEP] ratio), CST excitability and intracortical inhibition properties (in response to transcranial magnetic stimulation) were assessed. RESULTS: MVT increased more in the RT group (+12.8%; n = 30) vs. CON group (-4.3%; n = 15; group (2) × time (2), p = 0.001). However, changes in RST properties assessed using a series of indirect measures did not differ between the RT group (-1.4% to 6.6%; n = 30) and CON group (-4.5% to 10.5%; n = 15; group (2) × time (2), 0.352 ≤ p ≤ 0.834). CONCLUSIONS: RST adaptations within a sample of healthy young men and women, assessed using various indirect measurement approaches, did not occur following only 4 weeks of isometric elbow flexion RT. These findings add to the currently limited scientific evidence from short-term human RT intervention studies available to inform the use of RT for healthy individuals or patients primarily targeting the development of RST function.",
+        "doi": "10.1249/MSS.0000000000004188",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868231/",
+        "relevance": 10,
+        "matched": [
+          "training",
+          "resistance",
+          "adaptation"
+        ]
+      },
+      {
         "pmid": "43044051",
         "title": "Low-Intensity Resistance Training Improves Irisin-Associated Endothelial Function in Aging.",
         "journal": "Medicine and science in sports and exercise",
@@ -3048,6 +3046,26 @@
           "diet",
           "dietary",
           "food"
+        ]
+      },
+      {
+        "pmid": "43064204",
+        "title": "Motivational Interviewing for Nutrition Counseling among Athletes: A Systematic Review.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Bailee Cooper, Madison Lazirko",
+        "abstract": "Athletes can be placed into four unique categories, based on physical intensity. Athletic status impacts the amount time spent on the sport; everyone should be assessed for dietary intake. Registered dietitian nutritionists utilize a standard clinical practice to evaluate goals for athletes during counseling sessions. There are different types of nutrition counseling techniques which can be applied, but there is lacking evidence for Motivational Interviewing (MI). This systematic review explores how MI can impact sports nutrition and what evidence there is to support positive nutrition outcomes. A Preferred Reporting Items for Systematic Reviews and Meta-Analyses method was performed in October 2026. The databases for the study included PubMed, Scopus, Science Direct, Cochrane Reviews and web-based search. Inclusion criteria was MI for nutrition counseling, athletes/recreational individuals, sports, for all ages and genders. There were an original search of 894 in total and then this was narrowed down to 9 studies by two researchers using Rayyan software. The RoB 2.0 was used to assess randomized clinical trial risk of bias and the Mixed Methods Appraisal Tool was used to check quality of all the studies in the final review. While all the studies included MI during the nutrition intervention sessions, only one study used MI as the only counseling technique. The duration of the intervention was 4 weeks to 12 months. The most common quality of the studies were three stars and there were two studies which had a high risk of bias. MI as a counseling technique does illustrate promising results for positive nutrition outcomes, especially among athletes who struggle with an eating disorder and/or Relative Energy Deficiency Syndrome. Future studies with higher quality should focus on male team sports, (ie. contact and court sports) and randomized control trial design for MI as a technique for nutrition counseling. SYSTEMATIC REVIEW REGISTRATION: OSF, registration DOI Identifier 10.17605/OSF.IO/H63NV.",
+        "doi": "10.1016/j.tjnut.2026.101945",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064204/",
+        "relevance": 9,
+        "matched": [
+          "nutrition",
+          "athlete",
+          "diet",
+          "dietary",
+          "sports"
         ]
       },
       {
@@ -3300,6 +3318,25 @@
         ]
       },
       {
+        "pmid": "43063828",
+        "title": "Propulsion-related gait characteristics in individuals using hip disarticulation prostheses.",
+        "journal": "Gait & posture",
+        "journal_issn": "0966-6362",
+        "discipline": "anatomy",
+        "date": "2026-Nov-17",
+        "authors": "Tsukasa Kawaguchi, Nami Shida, Takumi Yamada",
+        "abstract": "BACKGROUND: People using hip disarticulation prostheses walk with substantial mechanical constraints; however, limb-specific propulsion-related gait mechanics remain unclear. It is also unknown whether gait strategies differ between unaided and cane-assisted walkers. This study examined the propulsion-related gait characteristics of these users. We hypothesized that propulsive and braking impulses, ankle work, and ankle power would be lower on the prosthetic side. METHODS: Three-dimensional gait analysis and ground reaction force measurements were obtained from seven adults during self-selected walking (four unaided, three cane-assisted). Propulsive and braking impulses, positive ankle and hip work, peak joint power, and spatiotemporal parameters were calculated. RESULTS: Compared with the non-prosthetic side, the prosthetic side showed lower propulsive and braking impulses and lower peak anterior-posterior ground reaction forces (all p = 0.016). Prosthetic-side ankle positive work and peak ankle power were lower (p = 0.031 and p = 0.016, respectively). Positive hip work did not differ between the limbs (p = 0.688), although peak hip power was lower on the prosthetic side (p = 0.016). Single-limb support was shorter and double-limb support was longer on the prosthetic side (both p = 0.016). Unaided walkers had higher median walking speed (1.06 vs 0.68 m/s) and cadence than cane-assisted walkers, whereas cane-assisted walkers had longer double-limb support. CONCLUSIONS: The non-prosthetic side exhibited greater propulsive and braking impulses, ankle work and peak ankle joint power. Differences between unaided and cane-assisted walkers may be associated with walking speed, non-prosthetic ankle power, cadence, step time, prosthetic-side step length, and individual compensatory movements.",
+        "doi": "10.1016/j.gaitpost.2026.110706",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063828/",
+        "relevance": 8,
+        "matched": [
+          "hip",
+          "gait",
+          "joint",
+          "ankle"
+        ]
+      },
+      {
         "pmid": "43050372",
         "title": "Neural Profiles of Pistol Shooting Performance Across Skill Levels in Hearing and Deaf Shooters: Insights into Cognitive-Motor Processes.",
         "journal": "Medicine and science in sports and exercise",
@@ -3315,24 +3352,6 @@
           "performance",
           "power",
           "sports"
-        ]
-      },
-      {
-        "pmid": "43032912",
-        "title": "The effects of submaximal exercise on acid-base balance in people with long COVID.",
-        "journal": "Experimental physiology",
-        "journal_issn": "0958-0670",
-        "discipline": "physiology",
-        "date": "2026-Nov-14",
-        "authors": "Mark A Faghy, Callum Thomas, Rebecca Owen et al.",
-        "abstract": "Better pathophysiological understanding of long COVID (LC) is required, and disruption of acid-base regulation has been proposed as a potential mechanism underlying exercise intolerance observed in LC; however, empirical evidence remains limited. Accordingly, this study aims to systematically characterise day-to-day variation in acid-base status in individuals living with LC. Thirty people (19 female) with a confirmed diagnosis of LC or 15 healthy controls (CON; 8 female) completed three study visits. Participants completed two submaximal cardiopulmonary exercise tests (CPETs) separated by 24 h. Pre- and post-exercise fingertip capillary blood samples were collected on both CPET days for acid-base balance (pH, HCO3 -, anion gap, K+, Na+, Cl- and ionized calcium (iCa2+)) and lactate. Subgroup analysis was conducted for those presenting with metabolic acidosis between LC and CON. Whole group analysis revealed no differences between LC and CON for acid-base balance (P > 0.05) or CPET variables (P > 0.05). However, a subgroup analysis determined that following CPET1, 17% (n = 5/30), and following CPET2, 33% (n = 10/30) of those with LC demonstrated metabolic acidosis, with small to large effect sizes (0.20 → 0.80) between LC and CON for pH, HCO3 -, anion gap, K+, Na+, Cl-, iCa2+ and lactate. For CON, metabolic acidosis was identified for 6% (n = 1/18) on CPET day 1 and 11% (n = 2/18) on CPET day 2. Our findings suggest that some people with LC may experience acid-base balance disturbances following repeated submaximal exercise. Accordingly, a pathological subgroup is hypothesised, and these findings should provoke independent validation.",
-        "doi": "10.1113/EP093996",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43032912/",
-        "relevance": 8,
-        "matched": [
-          "exercise",
-          "metabolic",
-          "lactate"
         ]
       },
       {
@@ -3613,6 +3632,23 @@
         ]
       },
       {
+        "pmid": "43063933",
+        "title": "Modeling Career Attrition in Swimming Using Internal and External Age-Specific Performance Benchmarks.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-19",
+        "authors": "Nur Adilah Masismadi, Minh Huynh, Matthew J Wylde et al.",
+        "abstract": "PURPOSE: This study examined whether absence of a recorded competitive appearance during event-specific normative peak performance age ranges (peakRange) could be predicted by medal history and performance times preceding peakRange. A secondary aim was to estimate the earliest statistically detectable differences in performance gaps between athletes with at least one competitive appearance during peakRange and those who did not. METHODS: World Aquatics race results up to 2019 were analyzed across 26 events for athletes whose peakRange fell entirely within the 2000-2019 window. Athletes were categorized into 5 career groups based on recorded appearance during peakRange and timing of first medal attainment relative to peakRange. Annual best times from age 13 to peakRange onset were evaluated against external benchmarks (global, continental, national) and internal benchmarks (debut year, prior year). Weighted penalized logistic regression models were fitted overall, and within early-medalist and nonmedalist subgroups. Post hoc analyses estimated divergence ages. RESULTS: Seventy of 78 classification tasks achieved a Matthews correlation coefficient >.10, indicating nonrandom predictive information. Divergence ages were detected across all 26 events in the overall sample, 5 events among early medalists, and 23 among nonmedalists. Divergence ages were generally earlier among women (15-16 y) than men (17-18 y). CONCLUSIONS: Performance-participation associations varied by medal history. Detected divergence ages more often corresponded to internal benchmarks among early medalists and to external benchmarks among nonmedalists. These findings concern recorded participation during peakRange, not the reasons for withdrawal from swimming.",
+        "doi": "10.1123/ijspp.2026-0254",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063933/",
+        "relevance": 7,
+        "matched": [
+          "performance",
+          "athlete"
+        ]
+      },
+      {
         "pmid": "43055139",
         "title": "Assessing Skeletal Muscle Reactive Hyperemia with Intramuscular Doppler Ultrasound: Insights from Exercise-Trained and Untrained Adults.",
         "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
@@ -3739,67 +3775,6 @@
         "matched": [
           "exercise",
           "glycogen"
-        ]
-      },
-      {
-        "pmid": "43056871",
-        "title": "Identifying specific brain morphology modes affecting brain strain under head impact.",
-        "journal": "Journal of biomechanics",
-        "journal_issn": "0021-9290",
-        "discipline": "anatomy",
-        "date": "2026-Nov-14",
-        "authors": "Yihan Zhang, Xiaoyu Du, Jingyi Wu et al.",
-        "abstract": "Head impacts induce head accelerations that generate brain strain and may ultimately lead to traumatic brain injury (TBI). Although previous studies have shown that brain morphology influences strain responses, it remains unclear which specific morphology modes are biomechanically relevant, whether their effects are consistent across strain metrics, and where these effects occur within the brain. In this study, we established 37 Brain Morphology Modes (BMMs), which explained 90.14 % of population-level morphological variation, and represented each individual brain using a corresponding set of Brain Morphology Signature (BMS) scores. Using synthetic brain models under controlled kinematics and subject-specific brain models under real-world head impacts, we found that the relationships between BMMs and brain strain responses varied across morphology modes, strain metrics, and brain regions, exhibiting morphology-dominant, direction-dependent, or mixed contribution patterns. These findings indicate that morphology-related brain strain variation cannot be explained solely by global geometric scaling, but also depends on mode-specific morphology-kinematics interactions.",
-        "doi": "10.1016/j.jbiomech.2026.113680",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43056871/",
-        "relevance": 7,
-        "matched": [
-          "morphology",
-          "hip",
-          "biomechanic",
-          "kinematic",
-          "injury"
-        ]
-      },
-      {
-        "pmid": "43035063",
-        "title": "State-space dynamics of joint coordination reveal preserved directional structure across running speeds.",
-        "journal": "Journal of biomechanics",
-        "journal_issn": "0021-9290",
-        "discipline": "anatomy",
-        "date": "2026-Nov-14",
-        "authors": "Alessandro Garofolini, William Anthony Sparrow, Rezaul Begg",
-        "abstract": "Understanding whether locomotor demands are accommodated by reorganising inter-joint coordination or by scaling an existing coordination pattern is a fundamental question in biomechanics and motor control. We examined whether the directional organisation of ankle-knee moment coordination is preserved across running speeds using a state-space representation of their continuous interaction. Sagittal-plane ankle and knee moments were analysed in 31 experienced runners (30 male, 1 female; 28 competitive and 3 elite) running at 2.5, 3.5, and 4.5 m·s-1. Trajectory geometry was characterised by loop area, path length, major-axis orientation, and anisotropy, while trajectory-attached vectors quantified the magnitude and direction of progression through four intrinsically defined coordination segments: Loading, Transfer, Propulsion, and Release. Increasing speed markedly expanded the coordination trajectory, increasing loop area and path length (both p < 0.001), with smaller changes in major-axis orientation (p = 0.003) and anisotropy (p = 0.005). Progression magnitude also increased with speed (p < 0.001), with a Speed × Segment interaction showing that the magnitude of this increase differed across coordination segments (p = 0.006). In contrast, although vector direction showed a significant effect of speed (p = 0.0016), reflecting modest overall directional shifts, but no significant Speed × Segment interaction (p = 0.084): the characteristic directional sequence through Loading, Transfer, Propulsion, and Release was preserved. Thus, running faster scales ankle-knee mechanical coordination while the segment-dependent directional structure was largely preserved. These findings distinguish increased mechanical demand from a clear reorganisation of inter-joint mechanical coordination across running speeds.",
-        "doi": "10.1016/j.jbiomech.2026.113679",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43035063/",
-        "relevance": 7,
-        "matched": [
-          "joint",
-          "knee",
-          "biomechanic",
-          "ankle",
-          "motor control"
-        ]
-      },
-      {
-        "pmid": "43033350",
-        "title": "An Intrapersonal Network Approach to Acute Symptom Dynamics After Sport-Related Concussion.",
-        "journal": "Sports medicine (Auckland, N.Z.)",
-        "journal_issn": "0112-1642",
-        "discipline": "physiology",
-        "date": "2026-Nov-14",
-        "authors": "Eric O Ingram, Marwin Carmo, Philippe Rast et al.",
-        "abstract": "BACKGROUND: Post-concussion presentations are heterogeneous, characterized by various nonspecific self-report symptoms. Historically complete rest was the standard recommendation for concussion care, but with relatively high rates of persistent symptoms, active domain-specific interventions have been popularized. Determining which intervention is warranted can be difficult when concurrent psychological and preexisting health factors exacerbate injury-related sequelae. OBJECTIVES: We sought to apply within-person network analysis to an observational study to characterize temporal patterns in acute symptoms. METHODS: Participants were 403 collegiate student-athletes from the Concussion, Assessment, Research, and Education Consortium with sufficient data on the Sport Concussion Assessment Tool, Third Edition. We used seven serial symptom evaluations immediately post-injury to estimate intrapersonal partial correlation networks and derive centrality frequency and in-/out-strength magnitudes. Contemporaneous networks represent within-day symptom associations with undirected edge weights; temporal networks represent day-to-day symptom associations with edge weights directed temporally from t to t + 1. RESULTS: Sadness (mean [M] = 0.99) and more emotional (M = 0.96) were the most central symptoms in the contemporaneous network. For the temporal networks, fatigue/low energy (M = 0.53) and feeling slowed down (M = 0.47) had the greatest in-strength, while confusion (M = 0.84) and neck pain (M = 0.78) had the greatest out-strength. CONCLUSIONS: After concussion, nonspecific cognitive complaints are common across presentations despite substantial heterogeneity in central symptoms. Vestibulo-ocular and cervicogenic symptoms frequently elicit next-day symptomatology and are associated with increased risk for persistent symptoms, though evidence-based treatments exist. Cognitive-/fatigue-related symptoms are likely to be exacerbated by other sequelae, highlighting the importance of active management and an early, graded return to physical activity that encourages symptom habituation.",
-        "doi": "10.1007/s40279-026-02583-5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033350/",
-        "relevance": 7,
-        "matched": [
-          "strength",
-          "fatigue",
-          "physical activity",
-          "athlete",
-          "injury",
-          "pain"
         ]
       },
       {
@@ -4168,6 +4143,44 @@
         ]
       },
       {
+        "pmid": "43064205",
+        "title": "US legal definitions of ultra-processed food depart from the research construct in different ways.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Jimmy Chun Yu Louie",
+        "abstract": "Definitions of ultra-processed food (UPF) are multiplying in US law and policy. California enacted a statutory definition in 2025, two Senate bills introduced in 2026 propose federal labeling triggers, and in August 2026 a white paper proposing a federal definition was submitted for interagency review. The white paper is a non-binding notice, and its text has not been released. It is nonetheless likely to become a reference point for states, retailers and researchers. Most evidence on UPF and health comes from studies in which trained coders assigned foods to Nova group 4 and exposure was expressed as the dietary share of those foods. A legal definition must instead classify individual products from ingredient lists, without case-by-case expert judgment. This Perspective proposes three tests for that translation. Construct preservation asks whether the legal rule selects the same products as the research classification. Dimensional consistency asks whether products leave the regulated category on the same basis on which they enter it. Evaluability asks whether changes in regulatory status can be read as changes in the exposure that the evidence links to health outcomes. The tests are applied to the two definitions that are fully specified in the public record. The operational definition recommended by the Healthy Eating Research expert panel appears to track Nova at the level of the food supply but lacks product-level validation, and its nutrient-based exemption fails the dimensional consistency test. California's definition satisfies dimensional consistency by design but defines a narrower category than the one examined in most UPF research. The tests do not presuppose any position on Nova and can be applied to the federal text once it is released.",
+        "doi": "10.1016/j.tjnut.2026.101948",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064205/",
+        "relevance": 6,
+        "matched": [
+          "food",
+          "nutrient",
+          "diet",
+          "dietary"
+        ]
+      },
+      {
+        "pmid": "43063934",
+        "title": "Optimal Wearing Position of Accelerometers for Monitoring Energy Expenditure in Tennis.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-19",
+        "authors": "Linjie Shu, Hui Dong, Jiancai Chen et al.",
+        "abstract": "PURPOSE: Monitoring energy expenditure (EE) in tennis is complicated by its intermittent and technically variable movements. This study identified the optimal accelerometer wearing position for EE prediction and examined the contribution of additional covariates. METHODS: Thirty-eight right-handed national second-class tennis players (11 females, 27 males) performed 4 tennis-specific technical movements with accelerometers worn at 9 positions. Criterion EE was measured using Metamax3B portable metabolic analyzer. Associations of accelerometer-derived variables with criterion EE were examined through Pearson or Spearman correlation analyses. Candidate covariates were screened using Akaike information criterion-based backward selection. Three linear mixed-effects models were evaluated per position with participant as a random intercept. Variance inflation factors, leave-one-subject-out cross-validation, and Bland-Altman analyses assessed multicollinearity, predictive performance, and agreement, respectively. RESULTS: Lower-back and ankle positions showed more frequent significant correlations with criterion EE. Backward selection retained heart rate, basal metabolic rate, sex, and movement type across positions; all primary-model variance inflation factors were below 3. Across the 3 models, marginal Rm2 of lower back ranked first (.787) and of the dominant-side ankle second (.749). In primary models, lower back had the lowest cross-validated root mean square error (.810). Bland-Altman mean differences were close to zero in top-performing models, while proportional-bias slopes were significantly negative at all positions. CONCLUSIONS: Lower back represents the optimal accelerometer placement for model-based EE monitoring in tennis, and incorporating participant variables and movement type enhances prediction accuracy. These findings support sport-specific sensor placement and individualized calibration strategies to improve training load monitoring and nutritional planning.",
+        "doi": "10.1123/ijspp.2026-0088",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063934/",
+        "relevance": 6,
+        "matched": [
+          "training",
+          "metabolic",
+          "heart rate",
+          "performance"
+        ]
+      },
+      {
         "pmid": "43055384",
         "title": "Does Increased Maximal Sprint Speed Alter Pacing Distribution in the 400-m Race Among Male 400-m Sprinters? A Longitudinal Study.",
         "journal": "Journal of strength and conditioning research",
@@ -4512,6 +4525,42 @@
           "bone",
           "anatomical",
           "performance"
+        ]
+      },
+      {
+        "pmid": "43064731",
+        "title": "Association of Mediterranean-DASH intervention for neurodegenerative delay (MIND) diet with cognition and total and cardiovascular mortality: results from the HAPIEE cohort.",
+        "journal": "European journal of clinical nutrition",
+        "journal_issn": "0954-3007",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Martin Ming Him Wong, Yim Ching Yau, Magda Kozela et al.",
+        "abstract": "BACKGROUND: The Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) dietary pattern, developed to slow cognitive decline, has been linked to cardiometabolic benefits and lower mortality. Its associations with cognition and mortality have not been studied in Eastern European populations. This study aimed to assess the relationship between MIND diet, cognition and mortality in Eastern European adults. METHODS: Data from 15,427 adults aged 45-69 years at baseline in the Czech and Polish cohorts of the Health, Alcohol and Psychosocial factors in Eastern Europe prospective cohort were analyzed. Baseline MIND diet scores (range 0-15), derived from validated food frequency questionnaires, were classified into three groups: low (<6), moderate (6-7), and high (>7). Trained nurses assessed cognitive domains at baseline. Deaths were ascertained via national registries. Multivariable regressions estimated the MIND diet-mortality and MIND diet-cognition associations, adjusting for sociodemographic and lifestyle characteristics. RESULTS: Over about 20 years of follow-up, 3,792 deaths occurred. After controlling for age and sex, MIND diet adherence was associated with lower total and CVD mortality and better cognitive outcomes. However, after full adjustment, the associations were no longer significant (high vs low adherence for all-cause mortality: HR = 1.01, 95%CI:0.93-1.10; for CVD mortality: HR = 1.01, 95%CI:0.88-1.16), and only the positive association with verbal fluency remained significant (high vs low: coefficient 0.058, SE 0.024, p = 0.015). CONCLUSION: This study of MIND diet in Central and Eastern European cohort did not find clear evidence on mortality, but the results on cognition, particularly verbal fluency, were generally consistent with the literature.",
+        "doi": "10.1038/s41430-026-01855-7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064731/",
+        "relevance": 5,
+        "matched": [
+          "diet",
+          "dietary",
+          "food"
+        ]
+      },
+      {
+        "pmid": "43064202",
+        "title": "Fermented Foods Target Multiple Hallmarks of Aging to Promote Healthy Longevity.",
+        "journal": "The Journal of nutrition",
+        "journal_issn": "0022-3166",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Parijat Hazarika, Ipsah Akhtar, Mojibur R Khan",
+        "abstract": "Aging is associated with progressive physiological decline driven by chronic inflammation, oxidative stress, immune dysfunction, and gut microbial dysbiosis, and fermented foods contain probiotics and bioactive metabolites that may beneficially influence these processes. This narrative review summarizes evidence on fermented foods and mechanisms associated with healthy aging, particularly gut microbiota composition, immune function, oxidative stress, and inflammation, while explicitly distinguishing findings from cell-based (in vitro) systems, animal (in vivo) models, and human participants. Each finding is labeled by its evidence tier so the strength and translational relevance of the data can be judged transparently. In vitro studies using cultured cells, including senescent fibroblasts, immune cells, and cancer cell lines, show that fermentation-derived metabolites can activate antioxidant, autophagic, and anti-inflammatory signaling pathways, and studies in rodent models, principally aged mice, show that fermented foods and their metabolites can improve mitochondrial function, reduce inflammatory markers, and reshape the gut microbiota. Human observational and interventional studies indicate that regular consumption of fermented foods is associated with increased gut microbial diversity, reduced circulating inflammatory markers, and, in some cohorts, longer leukocyte telomere length, although direct human evidence for many of the mechanisms identified in cell-based and animal work remains limited, a gap highlighted throughout the review. Taken together, fermented foods show potential as accessible dietary interventions for promoting healthy aging, but mechanistic detail is derived largely from cell-based and animal studies, whereas human data remain mostly observational or limited to biomarker-level endpoints, and confirmation through well-controlled human trials is still needed. The reviewed literature does not establish a minimum effective daily intake for any fermented food, and questions of portion size, variety, cultural/geographic availability, and safety of sustained daily consumption (e.g., sodium and biogenic amine content) remain priorities for future research.",
+        "doi": "10.1016/j.tjnut.2026.101950",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064202/",
+        "relevance": 5,
+        "matched": [
+          "food",
+          "diet",
+          "dietary"
         ]
       },
       {
@@ -4949,6 +4998,23 @@
         ]
       },
       {
+        "pmid": "43064730",
+        "title": "Cyanocobalamin supplementation strategies in patients with Crohn's disease and terminal ileal resection in clinical practice.",
+        "journal": "European journal of clinical nutrition",
+        "journal_issn": "0954-3007",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Anna Pèlach, Margalida Calafat, Sofia Dall'Oglio et al.",
+        "abstract": "INTRODUCTION: Vitamin B12 (B12) is absorbed at the terminal ileum. Patients with Crohn's disease (CD) resection of the terminal ileum (RTI) are at risk of B12 deficiency. No standard recommendations on the monitoring and supplementation of B12 after non-extensive RTI are available. Our aims were to describe B12 supplementation modalities in clinical practice in patients with CD and RTI and to identify potential factors associated with B12 deficiency in this population. METHODS: Retrospective, single-centre study that included patients with CD who underwent RTI between January 2008 and October 2022. B12 levels, supplementation, indication and route of administration after RTI were recorded. RESULTS: One hundred and ninety-seven patients were included. Thirteen (7%) patients were on B12 supplementation prior to RTI. Seventy-nine patients (40%) were not supplemented and did not develop B12 deficiency. B12 supplementation was prescribed for 60% of patients during follow-up (6% of whom were already supplemented before surgery), 53% preventively after surgery and 47% after B12 deficiency. Intramuscular administration was the most common (97%, mainly monthly), and oral administration was limited (11%, mainly weekly). During follow-up, changes to the B12 supplementation occurred in 36% (mainly prolonging the interval of intramuscular administration). RTI length over 20 cm (OR 1.944, 95% CI 1.019-3.709; P = 0.042) was the only factor associated with developing B12 deficiency following surgery. CONCLUSIONS: B12 supplementation in patients with CD and RTI is heterogeneous. Preventive supplementation might be driven by ileal resection length, being recommended in those greater than 20 cm. Recommendations on supplementation and monitoring are needed to optimize clinical practice.",
+        "doi": "10.1038/s41430-026-01857-5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064730/",
+        "relevance": 4,
+        "matched": [
+          "supplement",
+          "vitamin"
+        ]
+      },
+      {
         "pmid": "43052010",
         "title": "P2X3R antagonism during exercise in hypertensive HFpEF: A potential non-permanent pharmacological intervention for exercise intolerance.",
         "journal": "The Journal of physiology",
@@ -5254,6 +5320,24 @@
         ]
       },
       {
+        "pmid": "43065140",
+        "title": "Evolution of cranial architecture and inter-element articulations in salamanders of the family Salamandridae.",
+        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+        "journal_issn": "1932-8486",
+        "discipline": "anatomy",
+        "date": "2026-Nov-20",
+        "authors": "Ana Ivanović, Aleksandar Urošević, Tijana Vučić et al.",
+        "abstract": "Mobility of skull elements relative to the braincase is a widespread vertebrate trait with major consequences for feeding performance, though its macroevolutionary dynamics remain poorly understood in amphibians. Using high-resolution micro-CT data from 277 specimens representing 54 species across 18 salamandrid genera (family Salamandridae), we quantified variation in 10 cranial articulations over four skull regions and constructed a composite cranial articulation index. The articulation index varied substantially across species, ranging from largely separated (open) to fully consolidated (fused) articulations. Comparative analyses revealed that articulations of the snout and the skull roof evolved as an integrated module, whereas palatal and suspensorial articulations followed independent evolutionary trajectories, indicating a mosaic pattern of evolution in cranial articulation. Most articulations and the composite articulation index were best explained by Ornstein-Uhlenbeck models, consistent with evolution toward constrained or lineage-specific optima. We tested relationships between cranial articulation and skull size, skull robustness (bone thickness), and ecological preferences (length of the aquatic period). Contrary to expectations, our results indicate that cranial articulation in Salamandridae evolved as a modular system independent of these traits. These findings suggest that salamandrid cranial architecture is maintained near a structural optimum within a wider spectrum presumably governed by the complex synergy of developmental, phylogenetic, and ecological constraints.",
+        "doi": "10.1002/ar.70401",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065140/",
+        "relevance": 3,
+        "matched": [
+          "bone",
+          "hip",
+          "performance"
+        ]
+      },
+      {
         "pmid": "43052044",
         "title": "Allostatic load is not associated with augmented vasoconstrictive response to cold pressor test or functional sympatholysis in Black emerging adults.",
         "journal": "Experimental physiology",
@@ -5385,42 +5469,6 @@
         "matched": [
           "recovery",
           "performance"
-        ]
-      },
-      {
-        "pmid": "43033823",
-        "title": "Time-Restricted Eating and Blood Pressure: Disentangling the Components of a Multidimensional Intervention.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-14",
-        "authors": "Cristina González-Correa, Sergio Couto-Alfonso, Isabel Iguacel et al.",
-        "abstract": "Time-restricted eating (TRE) has emerged as a promising chrononutritional strategy for improving cardiometabolic health, with human and experimental evidence suggesting beneficial effects on blood pressure (BP). However, attributing these effects specifically to meal timing remains challenging because TRE is not a single physiological exposure. Restricting the eating window may simultaneously modify fasting duration, circadian timing, energy balance, diet quality and nutritional composition, and body-weight dynamics, each of which may independently or interactively influence BP regulation. Interpretation is further complicated by how and when BP is assessed, particularly because BP is an intrinsically circadian phenotype. We propose a multidimensional framework that distinguishes these interconnected biological components from the methodological dimension of BP assessment. Disentangling them is essential to determine whether meal timing itself exerts an intrinsic antihypertensive effect and under which metabolic and circadian conditions such an effect emerges.",
-        "doi": "10.1093/nutrit/nuag167",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033823/",
-        "relevance": 3,
-        "matched": [
-          "nutrition",
-          "diet",
-          "meal"
-        ]
-      },
-      {
-        "pmid": "43032922",
-        "title": "Does ceiling-fan use modify circulating markers of heat-related stress in bed-resting older adults?",
-        "journal": "Experimental physiology",
-        "journal_issn": "0958-0670",
-        "discipline": "physiology",
-        "date": "2026-Nov-14",
-        "authors": "Glen P Kenny, Kelli E McCormick, Fergus K O'Connor et al.",
-        "abstract": "Ceiling fans are a low-energy strategy for reducing heat strain, but their ability to protect against subclinical cellular and organ stress is unknown. We examined circulating stress biomarkers in 20 older adults (12 females; median age 71 years), who completed randomized 8 h exposures to 31°C and 45% relative humidity while remaining reclined beneath a ceiling fan delivering 0 m s-1 (control) or 1.5 m s-1 (fan). Venous blood was collected before and after each exposure and analysed for serum intestinal fatty acid-binding protein (IFABP), soluble cluster of differentiation 14 (sCD14), kidney injury molecule-1, neutrophil gelatinase-associated lipocalin, tumour necrosis factor-α, interleukin-6 and C-reactive protein. Core temperature and heart rate were measured continuously. Biomarker responses were assessed using baseline-adjusted linear mixed-effects models with Holm correction for multiple testing. Fan use lowered peak core temperature and heart rate by 0.2°C (P < 0.001) and 5 beats min-1 (P = 0.030), respectively. The adjusted difference in IFABP change between control and fan was 344 pg mL-1 [95% confidence interval: 102-586] (unadjusted P = 0.005; Holm-adjusted P = 0.035). Across conditions, the estimated changes in IFABP and sCD14 were 240 pg mL-1 [95% confidence interval: 11-468] (Holm-adjusted P = 0.240) and 0.57 ng mL-1 [95% confidence interval: 0.10-1.03] (Holm-adjusted P = 0.119), respectively. No other biomarker comparisons remained significant after Holm adjustment. Ceiling-fan use at 31°C attenuated the IFABP response in bed-resting older adults despite modest effects on core temperature and heart rate. These exploratory findings suggest that fan-mediated protection might extend beyond changes captured by conventional physiological measures, but confirmation in prospectively powered studies incorporating direct measures of gastrointestinal permeability is required.",
-        "doi": "10.1113/EP094380",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43032922/",
-        "relevance": 3,
-        "matched": [
-          "power",
-          "heart rate",
-          "injury"
         ]
       },
       {
@@ -5823,39 +5871,6 @@
         "matched": [
           "muscle",
           "anatomical"
-        ]
-      },
-      {
-        "pmid": "43033217",
-        "title": "Correction: Acute effects of core fatigue on thoracolumbar fascia mechanical and viscoelastic properties in healthy young adults: a cross-sectional study.",
-        "journal": "European journal of applied physiology",
-        "journal_issn": "1439-6319",
-        "discipline": "physiology",
-        "date": "2026-Nov-14",
-        "authors": "Hatice Karabulut, Fatmagül Varol",
-        "abstract": "",
-        "doi": "10.1007/s00421-026-06466-5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033217/",
-        "relevance": 2,
-        "matched": [
-          "fatigue"
-        ]
-      },
-      {
-        "pmid": "43032893",
-        "title": "Increases in plasma neurofilament light chain and optic nerve sheath diameter are associated with altitude but show little association with each other.",
-        "journal": "Experimental physiology",
-        "journal_issn": "0958-0670",
-        "discipline": "physiology",
-        "date": "2026-Nov-14",
-        "authors": "Benedikt Treml, Klaus Berek, Sasa Rajsic et al.",
-        "abstract": "Plasma neurofilament light chain (NfL) has been reported to increase following acute and repeated exposure to altitude. Independently, optic nerve sheath diameter (ONSD) has been shown to increase at altitude. In this study, we measured NfL and ONSD in parallel before, during and after a 44-h sojourn at 3100 m, and examined whether these changes were associated. Twelve healthy adults of either sex were transported to 3100 m. Blood samples and sonographic assessment of the ONSD were obtained at baseline and after 24 and 44 h at altitude. Plasma analyses included NfL and glial fibrillary acidic protein (GFAP). The occurrence of acute mountain sickness (AMS) was assessed using the Lake Louise Score. Over 44 h, the age- and body mass index-standardized z-score of NfL increased from 0.88 to 1.17 (median, P = 0.050). Concurrently, ONSD increased from 4.30 mm to 4.80 mm (median, P = 0.016). Linear regression analysis showed that z-score of NfL, as the dependent variable, was not associated with ONSD, the independent variable (R2 = 0.026, P = 0.354). Mixed model linear regression revealed an association but with a small effect size. GFAP, as a marker of blood-brain barrier injury and inflammatory parameters, remained unaffected by exposure to altitude. No participant developed AMS. An altitude of 3100 m is attainable by many individuals, but is associated with reduced oxygen availability and a risk of AMS. At this altitude in our experiment, plasma NfL and ONSD increased in parallel but with little to no association over 44 h.",
-        "doi": "10.1113/EP094003",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43032893/",
-        "relevance": 2,
-        "matched": [
-          "oxygen",
-          "injury"
         ]
       }
     ]
@@ -7219,5 +7234,5 @@
       }
     ]
   },
-  "built_at": "2026-11-20 22:37"
+  "built_at": "2026-11-21 22:29"
 }

@@ -1,0 +1,272 @@
+{
+  "updated": "2026-11-22",
+  "articles": [
+    {
+      "pmid": "43065140",
+      "title": "Evolution of cranial architecture and inter-element articulations in salamanders of the family Salamandridae.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-20",
+      "authors": "Ana Ivanović, Aleksandar Urošević, Tijana Vučić et al.",
+      "abstract": "Mobility of skull elements relative to the braincase is a widespread vertebrate trait with major consequences for feeding performance, though its macroevolutionary dynamics remain poorly understood in amphibians. Using high-resolution micro-CT data from 277 specimens representing 54 species across 18 salamandrid genera (family Salamandridae), we quantified variation in 10 cranial articulations over four skull regions and constructed a composite cranial articulation index. The articulation index varied substantially across species, ranging from largely separated (open) to fully consolidated (fused) articulations. Comparative analyses revealed that articulations of the snout and the skull roof evolved as an integrated module, whereas palatal and suspensorial articulations followed independent evolutionary trajectories, indicating a mosaic pattern of evolution in cranial articulation. Most articulations and the composite articulation index were best explained by Ornstein-Uhlenbeck models, consistent with evolution toward constrained or lineage-specific optima. We tested relationships between cranial articulation and skull size, skull robustness (bone thickness), and ecological preferences (length of the aquatic period). Contrary to expectations, our results indicate that cranial articulation in Salamandridae evolved as a modular system independent of these traits. These findings suggest that salamandrid cranial architecture is maintained near a structural optimum within a wider spectrum presumably governed by the complex synergy of developmental, phylogenetic, and ecological constraints.",
+      "doi": "10.1002/ar.70401",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065140/",
+      "relevance": 3,
+      "matched": [
+        "bone",
+        "hip",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43065132",
+      "title": "Always stay close to your mom.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-20",
+      "authors": "Tim D Smith",
+      "abstract": "",
+      "doi": "10.1002/ar.70406",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065132/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43063828",
+      "title": "Propulsion-related gait characteristics in individuals using hip disarticulation prostheses.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-17",
+      "authors": "Tsukasa Kawaguchi, Nami Shida, Takumi Yamada",
+      "abstract": "BACKGROUND: People using hip disarticulation prostheses walk with substantial mechanical constraints; however, limb-specific propulsion-related gait mechanics remain unclear. It is also unknown whether gait strategies differ between unaided and cane-assisted walkers. This study examined the propulsion-related gait characteristics of these users. We hypothesized that propulsive and braking impulses, ankle work, and ankle power would be lower on the prosthetic side. METHODS: Three-dimensional gait analysis and ground reaction force measurements were obtained from seven adults during self-selected walking (four unaided, three cane-assisted). Propulsive and braking impulses, positive ankle and hip work, peak joint power, and spatiotemporal parameters were calculated. RESULTS: Compared with the non-prosthetic side, the prosthetic side showed lower propulsive and braking impulses and lower peak anterior-posterior ground reaction forces (all p = 0.016). Prosthetic-side ankle positive work and peak ankle power were lower (p = 0.031 and p = 0.016, respectively). Positive hip work did not differ between the limbs (p = 0.688), although peak hip power was lower on the prosthetic side (p = 0.016). Single-limb support was shorter and double-limb support was longer on the prosthetic side (both p = 0.016). Unaided walkers had higher median walking speed (1.06 vs 0.68 m/s) and cadence than cane-assisted walkers, whereas cane-assisted walkers had longer double-limb support. CONCLUSIONS: The non-prosthetic side exhibited greater propulsive and braking impulses, ankle work and peak ankle joint power. Differences between unaided and cane-assisted walkers may be associated with walking speed, non-prosthetic ankle power, cadence, step time, prosthetic-side step length, and individual compensatory movements.",
+      "doi": "10.1016/j.gaitpost.2026.110706",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063828/",
+      "relevance": 8,
+      "matched": [
+        "hip",
+        "gait",
+        "joint",
+        "ankle"
+      ]
+    },
+    {
+      "pmid": "43065191",
+      "title": "Context-Dependent Mechanisms of Striated Muscle Dysfunction.",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "journal_issn": "8750-7587",
+      "discipline": "physiology",
+      "date": "2026-Nov-20",
+      "authors": "Orlando Laitano, Aneesha Dasgupta, Tyler J Kirby et al.",
+      "abstract": "",
+      "doi": "10.1152/japplphysiol.90008.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065191/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "42868231",
+      "title": "Do Putative Human Reticulospinal Tract Properties Adapt Following Short-Term Isometric Resistance Training?",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-17",
+      "authors": "Khai Abu-Talip, Jakob Škarabot, Danyang Wei et al.",
+      "abstract": "PURPOSE: The primary purpose of this study was to investigate whether isometric resistance training (RT) leads to reticulospinal tract (RST) adaptations. METHODS: A \"RT group\" of 30 healthy adults completed 4 weeks (15 sessions) of volume-matched unilateral elbow flexion RT involving high (32 repetitions/session at 70% maximal voluntary torque [MVT]) or low (64 repetitions/session at 35%MVT) loads. An additional 15 participants served as controls (CON group). Pre- and post-test MVT, RST properties (RST gain ratio derived from the StartReact assessment; startling auditory stimulus-conditioned/control motor evoked potential [MEP] ratio; and startling stimulus-conditioned/control cervicomedullary MEP [CMEP] ratio), CST excitability and intracortical inhibition properties (in response to transcranial magnetic stimulation) were assessed. RESULTS: MVT increased more in the RT group (+12.8%; n = 30) vs. CON group (-4.3%; n = 15; group (2) × time (2), p = 0.001). However, changes in RST properties assessed using a series of indirect measures did not differ between the RT group (-1.4% to 6.6%; n = 30) and CON group (-4.5% to 10.5%; n = 15; group (2) × time (2), 0.352 ≤ p ≤ 0.834). CONCLUSIONS: RST adaptations within a sample of healthy young men and women, assessed using various indirect measurement approaches, did not occur following only 4 weeks of isometric elbow flexion RT. These findings add to the currently limited scientific evidence from short-term human RT intervention studies available to inform the use of RT for healthy individuals or patients primarily targeting the development of RST function.",
+      "doi": "10.1249/MSS.0000000000004188",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42868231/",
+      "relevance": 10,
+      "matched": [
+        "training",
+        "resistance",
+        "adaptation"
+      ]
+    },
+    {
+      "pmid": "43063934",
+      "title": "Optimal Wearing Position of Accelerometers for Monitoring Energy Expenditure in Tennis.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Linjie Shu, Hui Dong, Jiancai Chen et al.",
+      "abstract": "PURPOSE: Monitoring energy expenditure (EE) in tennis is complicated by its intermittent and technically variable movements. This study identified the optimal accelerometer wearing position for EE prediction and examined the contribution of additional covariates. METHODS: Thirty-eight right-handed national second-class tennis players (11 females, 27 males) performed 4 tennis-specific technical movements with accelerometers worn at 9 positions. Criterion EE was measured using Metamax3B portable metabolic analyzer. Associations of accelerometer-derived variables with criterion EE were examined through Pearson or Spearman correlation analyses. Candidate covariates were screened using Akaike information criterion-based backward selection. Three linear mixed-effects models were evaluated per position with participant as a random intercept. Variance inflation factors, leave-one-subject-out cross-validation, and Bland-Altman analyses assessed multicollinearity, predictive performance, and agreement, respectively. RESULTS: Lower-back and ankle positions showed more frequent significant correlations with criterion EE. Backward selection retained heart rate, basal metabolic rate, sex, and movement type across positions; all primary-model variance inflation factors were below 3. Across the 3 models, marginal Rm2 of lower back ranked first (.787) and of the dominant-side ankle second (.749). In primary models, lower back had the lowest cross-validated root mean square error (.810). Bland-Altman mean differences were close to zero in top-performing models, while proportional-bias slopes were significantly negative at all positions. CONCLUSIONS: Lower back represents the optimal accelerometer placement for model-based EE monitoring in tennis, and incorporating participant variables and movement type enhances prediction accuracy. These findings support sport-specific sensor placement and individualized calibration strategies to improve training load monitoring and nutritional planning.",
+      "doi": "10.1123/ijspp.2026-0088",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063934/",
+      "relevance": 6,
+      "matched": [
+        "training",
+        "metabolic",
+        "heart rate",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43063933",
+      "title": "Modeling Career Attrition in Swimming Using Internal and External Age-Specific Performance Benchmarks.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Nur Adilah Masismadi, Minh Huynh, Matthew J Wylde et al.",
+      "abstract": "PURPOSE: This study examined whether absence of a recorded competitive appearance during event-specific normative peak performance age ranges (peakRange) could be predicted by medal history and performance times preceding peakRange. A secondary aim was to estimate the earliest statistically detectable differences in performance gaps between athletes with at least one competitive appearance during peakRange and those who did not. METHODS: World Aquatics race results up to 2019 were analyzed across 26 events for athletes whose peakRange fell entirely within the 2000-2019 window. Athletes were categorized into 5 career groups based on recorded appearance during peakRange and timing of first medal attainment relative to peakRange. Annual best times from age 13 to peakRange onset were evaluated against external benchmarks (global, continental, national) and internal benchmarks (debut year, prior year). Weighted penalized logistic regression models were fitted overall, and within early-medalist and nonmedalist subgroups. Post hoc analyses estimated divergence ages. RESULTS: Seventy of 78 classification tasks achieved a Matthews correlation coefficient >.10, indicating nonrandom predictive information. Divergence ages were detected across all 26 events in the overall sample, 5 events among early medalists, and 23 among nonmedalists. Divergence ages were generally earlier among women (15-16 y) than men (17-18 y). CONCLUSIONS: Performance-participation associations varied by medal history. Detected divergence ages more often corresponded to internal benchmarks among early medalists and to external benchmarks among nonmedalists. These findings concern recorded participation during peakRange, not the reasons for withdrawal from swimming.",
+      "doi": "10.1123/ijspp.2026-0254",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063933/",
+      "relevance": 7,
+      "matched": [
+        "performance",
+        "athlete"
+      ]
+    },
+    {
+      "pmid": "43064206",
+      "title": "A Digital Ultrasonic Height Measurement Device for Children Aged Under Five Years show high reliability yet variable accuracy.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Ms Shan Huang, Prof Caroline Se Homer, Dr Joel Conkle et al.",
+      "abstract": "BACKGROUND: Accurate height measurement is essential for monitoring child growth. OBJECTIVE: Our aim was to assess the reliability and accuracy of a handheld ultrasonic measurement device compared with a standard measurement board METHODS: We used a cross-sectional methods-comparison study design with experts measuring n=57 children aged 0-5 years in metropolitan Melbourne, Australia. The ultrasonic device was our index test and the measurement board, our reference test. RESULTS: The ultrasonic device demonstrated a similar reliability to the board with a technical error of measurement (TEM) of 0.25cm (95%CI: 0.22, 0.28cm) and 0.19cm (95%CI: 0.17, 0.22) respectively, both within current standards. F-test ratios (ultrasonic vs. board) for intra-measurer TEMs were higher for children ≤2 years at 1.39 (95% CI: 1.03, 1.87; p=0.03) than children >2 years at 1.20 (95%CI: 0.94, 1.51; p=0.14). The ultrasonic device measured children slightly taller than the board (mean difference 0.20 cm; 95% CI: 0.02, 0.38; SD=0.67; p<0.01), with a larger difference in older children who were measured standing (0.35 cm; p=0.01). The Bland Altman 95% limits of agreement ranged from -1.13cm to 1.53cm, demonstrating variance in the measurements between the different tools. CONCLUSION: We found that the ultrasonic device showed high reliability for children under 5 years when compared to the board, though accuracy was variable, with greater bias found in older children. Further testing is required to identify the source of inaccuracies and also evaluate reliability in other contexts.",
+      "doi": "10.1016/j.tjnut.2026.101949",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064206/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43064205",
+      "title": "US legal definitions of ultra-processed food depart from the research construct in different ways.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Jimmy Chun Yu Louie",
+      "abstract": "Definitions of ultra-processed food (UPF) are multiplying in US law and policy. California enacted a statutory definition in 2025, two Senate bills introduced in 2026 propose federal labeling triggers, and in August 2026 a white paper proposing a federal definition was submitted for interagency review. The white paper is a non-binding notice, and its text has not been released. It is nonetheless likely to become a reference point for states, retailers and researchers. Most evidence on UPF and health comes from studies in which trained coders assigned foods to Nova group 4 and exposure was expressed as the dietary share of those foods. A legal definition must instead classify individual products from ingredient lists, without case-by-case expert judgment. This Perspective proposes three tests for that translation. Construct preservation asks whether the legal rule selects the same products as the research classification. Dimensional consistency asks whether products leave the regulated category on the same basis on which they enter it. Evaluability asks whether changes in regulatory status can be read as changes in the exposure that the evidence links to health outcomes. The tests are applied to the two definitions that are fully specified in the public record. The operational definition recommended by the Healthy Eating Research expert panel appears to track Nova at the level of the food supply but lacks product-level validation, and its nutrient-based exemption fails the dimensional consistency test. California's definition satisfies dimensional consistency by design but defines a narrower category than the one examined in most UPF research. The tests do not presuppose any position on Nova and can be applied to the federal text once it is released.",
+      "doi": "10.1016/j.tjnut.2026.101948",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064205/",
+      "relevance": 6,
+      "matched": [
+        "food",
+        "nutrient",
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "43064204",
+      "title": "Motivational Interviewing for Nutrition Counseling among Athletes: A Systematic Review.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Bailee Cooper, Madison Lazirko",
+      "abstract": "Athletes can be placed into four unique categories, based on physical intensity. Athletic status impacts the amount time spent on the sport; everyone should be assessed for dietary intake. Registered dietitian nutritionists utilize a standard clinical practice to evaluate goals for athletes during counseling sessions. There are different types of nutrition counseling techniques which can be applied, but there is lacking evidence for Motivational Interviewing (MI). This systematic review explores how MI can impact sports nutrition and what evidence there is to support positive nutrition outcomes. A Preferred Reporting Items for Systematic Reviews and Meta-Analyses method was performed in October 2026. The databases for the study included PubMed, Scopus, Science Direct, Cochrane Reviews and web-based search. Inclusion criteria was MI for nutrition counseling, athletes/recreational individuals, sports, for all ages and genders. There were an original search of 894 in total and then this was narrowed down to 9 studies by two researchers using Rayyan software. The RoB 2.0 was used to assess randomized clinical trial risk of bias and the Mixed Methods Appraisal Tool was used to check quality of all the studies in the final review. While all the studies included MI during the nutrition intervention sessions, only one study used MI as the only counseling technique. The duration of the intervention was 4 weeks to 12 months. The most common quality of the studies were three stars and there were two studies which had a high risk of bias. MI as a counseling technique does illustrate promising results for positive nutrition outcomes, especially among athletes who struggle with an eating disorder and/or Relative Energy Deficiency Syndrome. Future studies with higher quality should focus on male team sports, (ie. contact and court sports) and randomized control trial design for MI as a technique for nutrition counseling. SYSTEMATIC REVIEW REGISTRATION: OSF, registration DOI Identifier 10.17605/OSF.IO/H63NV.",
+      "doi": "10.1016/j.tjnut.2026.101945",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064204/",
+      "relevance": 9,
+      "matched": [
+        "nutrition",
+        "athlete",
+        "diet",
+        "dietary",
+        "sports"
+      ]
+    },
+    {
+      "pmid": "43064203",
+      "title": "Low-Carbohydrate, Animal-Centered Diets and Plant-Based Diets Exert Opposing Effects on Cardiometabolic Diseases.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Rami S Najjar",
+      "abstract": "Low-carbohydrate, animal-centered (LCAC) diets are promoted for the prevention and treatment of type 2 diabetes (T2D) and cardiovascular disease (CVD) because randomized trials have shown short-term reductions in select risk factors, such as body weight, triglycerides, and glycated hemoglobin. However, controlled feeding studies have shown increases in low-density lipoprotein cholesterol (LDL-C), apolipoprotein B, and circulating free fatty acids with LCAC diets. Importantly, LCAC diets can also drive lipotoxicity and inflammation. These latter pathological biochemical effects directly act on pathways involved in the development of T2D and CVD. In contrast, high-carbohydrate, unrefined plant-based diets in these conditions reduce insulin requirements even without weight loss, lower blood pressure and medication use, and improve atherogenic lipoproteins and inflammation. Meta-analyses of randomized trials demonstrate reductions in LDL-C, apolipoprotein B, and glycated hemoglobin with vegetarian or vegan diets. Further, plant-based dietary interventions have also shown regression of coronary atherosclerosis and improvements in myocardial perfusion and cardiac function, an effect absent from LCAC diet literature. Thus, public health efforts aimed at the prevention and treatment of T2D and CVD should continue to focus on improving the quantity and quality of plant foods consumed rather than carbohydrate restriction alone.",
+      "doi": "10.1016/j.tjnut.2026.101946",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064203/",
+      "relevance": 11,
+      "matched": [
+        "carbohydrate",
+        "diet",
+        "protein",
+        "fat",
+        "dietary",
+        "weight loss"
+      ]
+    },
+    {
+      "pmid": "43064202",
+      "title": "Fermented Foods Target Multiple Hallmarks of Aging to Promote Healthy Longevity.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Parijat Hazarika, Ipsah Akhtar, Mojibur R Khan",
+      "abstract": "Aging is associated with progressive physiological decline driven by chronic inflammation, oxidative stress, immune dysfunction, and gut microbial dysbiosis, and fermented foods contain probiotics and bioactive metabolites that may beneficially influence these processes. This narrative review summarizes evidence on fermented foods and mechanisms associated with healthy aging, particularly gut microbiota composition, immune function, oxidative stress, and inflammation, while explicitly distinguishing findings from cell-based (in vitro) systems, animal (in vivo) models, and human participants. Each finding is labeled by its evidence tier so the strength and translational relevance of the data can be judged transparently. In vitro studies using cultured cells, including senescent fibroblasts, immune cells, and cancer cell lines, show that fermentation-derived metabolites can activate antioxidant, autophagic, and anti-inflammatory signaling pathways, and studies in rodent models, principally aged mice, show that fermented foods and their metabolites can improve mitochondrial function, reduce inflammatory markers, and reshape the gut microbiota. Human observational and interventional studies indicate that regular consumption of fermented foods is associated with increased gut microbial diversity, reduced circulating inflammatory markers, and, in some cohorts, longer leukocyte telomere length, although direct human evidence for many of the mechanisms identified in cell-based and animal work remains limited, a gap highlighted throughout the review. Taken together, fermented foods show potential as accessible dietary interventions for promoting healthy aging, but mechanistic detail is derived largely from cell-based and animal studies, whereas human data remain mostly observational or limited to biomarker-level endpoints, and confirmation through well-controlled human trials is still needed. The reviewed literature does not establish a minimum effective daily intake for any fermented food, and questions of portion size, variety, cultural/geographic availability, and safety of sustained daily consumption (e.g., sodium and biogenic amine content) remain priorities for future research.",
+      "doi": "10.1016/j.tjnut.2026.101950",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064202/",
+      "relevance": 5,
+      "matched": [
+        "food",
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "43064201",
+      "title": "Adding Locally Available Foods to SQ-LNS Increased Nutrient Intake but Not the Proportion of Infants Meeting Nutrient Requirements in Rural Zimbabwe: A Randomized Controlled Trial.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Laura E Smith, Rachel Makasi, Alice Tengende et al.",
+      "abstract": "BACKGROUND: Small-quantity lipid-based nutrient supplements (SQ-LNS) improve linear growth but may not close all nutrient gaps. Whether locally available foods can help meet these gaps remains uncertain. OBJECTIVE: Compare infant and young child feeding (IYCF) (ground maize+SQ-LNS) versus \"IYCF-plus\" (pro-vitamin A maize, SQ-LNS, moringa, egg and sugar beans) on the proportion of infants meeting nutrient requirements. METHODS: Infants in rural Zimbabwe were randomized to IYCF or IYCF-plus from age 6mo. The primary outcome was the proportion meeting energy requirements at age 9mo using 24-hour dietary recalls. Secondary outcomes were proportion of children meeting protein, iron, zinc, and folate intakes, plus anthropometric indices and hemoglobin concentration. Tertiary outcomes were protein-quality indicators. Analyses used intention-to-treat mixed-effects logistic and linear regression. RESULTS: Among 192 infants (95 IYCF; 97 IYCF-plus), 9 exited and 2 died. At 9 months, 92.2% (95% CI 87.2, 97.2) in the IYCF arm and 92.5% (95% CI 87.9, 97.0) in the IYCF-plus arm met energy requirements (adjusted OR 1.0; 95% CI 0.3, 3.3). Protein adequacy was 100.0% versus 99.3%; iron adequacy was 84.4% versus 88.8%; zinc adequacy was 87.0% versus 93.0%; and folate adequacy was 97.7% versus 96.0%. Anthropometry and haemoglobin concentration showed no evidence of differences: LAZ mean difference -0.0 (95% CI -0.3, 0.2); WAZ -0.1 (-0.4, 0.2); WLZ -0.2 (-0.5, 0.2); haemoglobin concentration -0.0 (-0.3, 0.3). Protein-quality indicators were higher in the IYCF-plus arm than in the IYCF arm, including available protein (mean difference 2.3 g/kg; 95% CI 1.8, 2.8), Digestible Indispensable Amino Acid Score (DIAAS) (mean difference 79.7; 95% CI 68.9, 90.5), and all available amino acids. CONCLUSIONS: IYCF-plus using locally available foods plus SQ-LNS did not improve the proportion of infants meeting nutrient requirements more than SQ-LNS+maize alone, but improved protein quality. TRIAL REGISTRATION: clinicaltrials.gov NCT04874688.",
+      "doi": "10.1016/j.tjnut.2026.101947",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064201/",
+      "relevance": 12,
+      "matched": [
+        "nutrient",
+        "food",
+        "protein",
+        "diet",
+        "dietary",
+        "supplement"
+      ]
+    },
+    {
+      "pmid": "43064731",
+      "title": "Association of Mediterranean-DASH intervention for neurodegenerative delay (MIND) diet with cognition and total and cardiovascular mortality: results from the HAPIEE cohort.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Martin Ming Him Wong, Yim Ching Yau, Magda Kozela et al.",
+      "abstract": "BACKGROUND: The Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) dietary pattern, developed to slow cognitive decline, has been linked to cardiometabolic benefits and lower mortality. Its associations with cognition and mortality have not been studied in Eastern European populations. This study aimed to assess the relationship between MIND diet, cognition and mortality in Eastern European adults. METHODS: Data from 15,427 adults aged 45-69 years at baseline in the Czech and Polish cohorts of the Health, Alcohol and Psychosocial factors in Eastern Europe prospective cohort were analyzed. Baseline MIND diet scores (range 0-15), derived from validated food frequency questionnaires, were classified into three groups: low (<6), moderate (6-7), and high (>7). Trained nurses assessed cognitive domains at baseline. Deaths were ascertained via national registries. Multivariable regressions estimated the MIND diet-mortality and MIND diet-cognition associations, adjusting for sociodemographic and lifestyle characteristics. RESULTS: Over about 20 years of follow-up, 3,792 deaths occurred. After controlling for age and sex, MIND diet adherence was associated with lower total and CVD mortality and better cognitive outcomes. However, after full adjustment, the associations were no longer significant (high vs low adherence for all-cause mortality: HR = 1.01, 95%CI:0.93-1.10; for CVD mortality: HR = 1.01, 95%CI:0.88-1.16), and only the positive association with verbal fluency remained significant (high vs low: coefficient 0.058, SE 0.024, p = 0.015). CONCLUSION: This study of MIND diet in Central and Eastern European cohort did not find clear evidence on mortality, but the results on cognition, particularly verbal fluency, were generally consistent with the literature.",
+      "doi": "10.1038/s41430-026-01855-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064731/",
+      "relevance": 5,
+      "matched": [
+        "diet",
+        "dietary",
+        "food"
+      ]
+    },
+    {
+      "pmid": "43064730",
+      "title": "Cyanocobalamin supplementation strategies in patients with Crohn's disease and terminal ileal resection in clinical practice.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-20",
+      "authors": "Anna Pèlach, Margalida Calafat, Sofia Dall'Oglio et al.",
+      "abstract": "INTRODUCTION: Vitamin B12 (B12) is absorbed at the terminal ileum. Patients with Crohn's disease (CD) resection of the terminal ileum (RTI) are at risk of B12 deficiency. No standard recommendations on the monitoring and supplementation of B12 after non-extensive RTI are available. Our aims were to describe B12 supplementation modalities in clinical practice in patients with CD and RTI and to identify potential factors associated with B12 deficiency in this population. METHODS: Retrospective, single-centre study that included patients with CD who underwent RTI between January 2008 and October 2022. B12 levels, supplementation, indication and route of administration after RTI were recorded. RESULTS: One hundred and ninety-seven patients were included. Thirteen (7%) patients were on B12 supplementation prior to RTI. Seventy-nine patients (40%) were not supplemented and did not develop B12 deficiency. B12 supplementation was prescribed for 60% of patients during follow-up (6% of whom were already supplemented before surgery), 53% preventively after surgery and 47% after B12 deficiency. Intramuscular administration was the most common (97%, mainly monthly), and oral administration was limited (11%, mainly weekly). During follow-up, changes to the B12 supplementation occurred in 36% (mainly prolonging the interval of intramuscular administration). RTI length over 20 cm (OR 1.944, 95% CI 1.019-3.709; P = 0.042) was the only factor associated with developing B12 deficiency following surgery. CONCLUSIONS: B12 supplementation in patients with CD and RTI is heterogeneous. Preventive supplementation might be driven by ileal resection length, being recommended in those greater than 20 cm. Recommendations on supplementation and monitoring are needed to optimize clinical practice.",
+      "doi": "10.1038/s41430-026-01857-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064730/",
+      "relevance": 4,
+      "matched": [
+        "supplement",
+        "vitamin"
+      ]
+    }
+  ]
+}
