@@ -10,7 +10,7 @@
       "notes": 48,
       "cross": 5,
       "journals": 30,
-      "latest_articles": 234,
+      "latest_articles": 233,
       "raw_articles": 300,
       "fascia_lines": 6,
       "agent_drafts": 28
@@ -1534,8 +1534,8 @@
     }
   ],
   "latest": {
-    "updated": "2026-11-22",
-    "updated_at": "2026-11-22 06:28",
+    "updated": "2026-11-23",
+    "updated_at": "2026-11-23 06:34",
     "raw_count": 300,
     "articles": [
       {
@@ -1578,27 +1578,6 @@
           "performance",
           "exercise",
           "fatigue"
-        ]
-      },
-      {
-        "pmid": "43038514",
-        "title": "Chlorella intake combined with short-term high-intensity intermittent training further enhances exercise performance in female lacrosse players: a double-blind, randomized, placebo-controlled, crossover trial.",
-        "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
-        "journal_issn": "1715-5312",
-        "discipline": "physiology",
-        "date": "2026-Nov-16",
-        "authors": "Shumpei Fujie, Ayami Numa, Izumi Tabata et al.",
-        "abstract": "Lacrosse is a fast-paced field sport that requires aerobic, anaerobic, and sprint performance. Chronic Chlorella intake combined with high-intensity intermittent training (HIIT) enhances aerobic, anaerobic, and sprint performance in untrained young adults. This study aimed to clarify the effects of combining Chlorella intake with short-term HIIT on aerobic, anaerobic, and sprint performance in female lacrosse players. In a double-blind, randomized, placebo-controlled crossover trial, twelve female collegiate lacrosse players were enrolled, ten participants completed 3 weeks of HIIT, comprising 7 bouts of running at full speed with a 10-second rest between each bout, 5 days/week. They were orally administered Chlorella (CH) or a placebo (PL) for 3-week in a double-blind, randomized, placebo-controlled, crossover design with a 5-week washout period. This study measured the 20-meter shuttle run test (20m SRT) and estimated maximal oxygen uptake (VO2max) as indices of aerobic performance, 50-meter sprint time as an index of sprint performance, and the 30-second Wingate test as an index of anaerobic performance. No significant differences by trial or time point were observed in aerobic (20m SRT and VO2max) or anaerobic performance (Wingate test), including 50-meter sprint time. However, improvements were observed in the HIIT + CH trial for most exercise performance outcomes (P < 0.05), but not in the HIIT + PL trial. These exploratory results suggest that CH intake may improve short-term HIIT-induced changes in exercise performance in female lacrosse players, although the small sample size and short intervention period warrant cautious interpretation.",
-        "doi": "10.1139/apnm-2025-0533",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43038514/",
-        "relevance": 23,
-        "matched": [
-          "exercise",
-          "training",
-          "performance",
-          "vo2",
-          "aerobic",
-          "anaerobic"
         ]
       },
       {
@@ -1665,27 +1644,6 @@
         ]
       },
       {
-        "pmid": "43035010",
-        "title": "Centrality of the periphery: Small muscle mass to bypass O2 transport limitations and maximize the benefits of exercise training in heart failure.",
-        "journal": "Experimental physiology",
-        "journal_issn": "0958-0670",
-        "discipline": "physiology",
-        "date": "2026-Nov-15",
-        "authors": "Danilo Iannetta, Fabio Giuseppe Laginestra, Ryan M Broxterman et al.",
-        "abstract": "Heart failure (HF) is a complex, systemic cardiovascular condition characterized by a severe impairment in O2 transport to skeletal muscle that drives exercise intolerance and reduces quality of life. Although exercise training (ET) is a cornerstone of HF clinical management, patients often exhibit limited improvements in peak oxygen uptake ( V ̇ O 2 peak ) following traditional whole-body, aerobic exercise recruiting a large muscle mass (e.g., cycling). In patients with HF, adaptations within skeletal muscle (e.g., capillarization) exert a proportionally greater influence on changes in V ̇ O 2 peak than adaptations in cardiac performance. In this review, we discuss the mechanisms by which traditional ET prescription may be suboptimal to elicit peripheral adaptations and argue that dynamic exercise recruiting only a small muscle mass (e.g., quadriceps) may be more effective in achieving this goal. Indeed, small muscle mass exercise reduces the cardiovascular restraints imposed by the failing heart, allowing the muscle to reach much greater metabolic rates and to be exposed to much larger degrees of homeostatic perturbations, a key factor triggering adaptations in O2 transport and utilization at the peripheral level. The intent of this review is to discuss the influence of muscle mass on exercise tolerance and adaptations to ET in HF, with the ultimate goal of promoting the integration of small muscle mass exercise into contemporary cardiac rehabilitation programmes.",
-        "doi": "10.1113/EP093476",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43035010/",
-        "relevance": 19,
-        "matched": [
-          "exercise",
-          "training",
-          "aerobic",
-          "metabolic",
-          "adaptation",
-          "oxygen"
-        ]
-      },
-      {
         "pmid": "43055231",
         "title": "Comparative Effects of Resistance Training and High-Intensity Interval Training on Body Composition, Metabolic Health, and Functional Strength in Overweight and Obese Adults: A 12-Week Randomized Controlled Trial.",
         "journal": "Journal of strength and conditioning research",
@@ -1704,27 +1662,6 @@
           "resistance",
           "exercise",
           "heart rate"
-        ]
-      },
-      {
-        "pmid": "43037577",
-        "title": "Reappraising Training Exposure in Sports Genomics: A Multidimensional Training Status Framework Prevents Underestimation of Polygenic Effects on Strength-Power Phenotypes.",
-        "journal": "Journal of strength and conditioning research",
-        "journal_issn": "1064-8011",
-        "discipline": "physiology",
-        "date": "2026-Nov-16",
-        "authors": "Mingrui Wang, Lun Chen, Linghua Yan et al.",
-        "abstract": "Wang, M, Chen, L, Yan, L, and Wang, J. Reappraising training exposure in sports genomics: A multidimensional training status framework prevents underestimation of polygenic effects on strength-power phenotypes. J Strength Cond Res XX(X): 000-000, 2026-This study examined whether training-exposure representation influences the statistical detectability and effect estimation of the total genotype score (TGS) for strength-power phenotypes. In this cross-sectional study, 187 Han Chinese men (48 national-level or higher-level strength-power athletes and 139 nonathletes) completed body-composition, performance, training-exposure, and genotyping assessments. Thirteen candidate variants were examined: GALNT13 rs10196189, IL6 rs1800795, EPAS1 rs11689011 and rs1867785, AMPD1 rs17602729, ACTN3 rs1815739, AGT rs699, ADRB2 rs1042713, HIF1A rs11549465, IGF1R rs1464430, MCT1 rs1049434, NOS3 rs2070744, and ACE rs4646994. Six variants that passed quality control were integrated into a standardized TGS, and performance was represented by an allometrically adjusted total score of athleticism (TSA). Fourteen linear and logistic models compared training years with multidimensional Training Status. Total genotype score alone was weakly associated with TSA (β = 0.007, p = 0.079; R2 = 0.017). Adding age and training years improved model performance but did not significantly alter the TGS coefficient. By contrast, Training Status increased the TGS coefficient to 0.028 (p < 0.001), explained 51.1% of the variance, and produced larger TGS effects than age- or training-years-based models (all p < 0.001). Discrimination of athlete status improved from area under the curve (AUC) = 0.620 with TGS alone to 0.845 after incorporating Training Status, whereas removing TGS reduced AUC to 0.700. Component-level modeling achieved the highest performance (R2 = 0.618; AUC = 0.876), although these gains did not consistently extend to threshold-dependent classification. Overall, higher-resolution characterization of training exposure reveals polygenic associations partly obscured by duration-based measures.",
-        "doi": "10.1519/JSC.0000000000005687",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43037577/",
-        "relevance": 18,
-        "matched": [
-          "training",
-          "strength",
-          "power",
-          "sports",
-          "performance",
-          "athlete"
         ]
       },
       {
@@ -2021,6 +1958,27 @@
         ]
       },
       {
+        "pmid": "43067340",
+        "title": "\"Train as You Play\" or \"Play as You Train\"? Rethinking the Role of Match Data in Guiding Training Prescription.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-19",
+        "authors": "Franck Brocherie, Yannis Irid, Jan G Bourgois et al.",
+        "abstract": "BACKGROUND: In contemporary high-performance team sports, the principle \"train as you play\" has become central to design sport-specific conditioning programs, aiming to replicate match demands in training to optimize player readiness. While wearable-based data have improved the understanding of match demands, an overreliance on these metrics for training prescription may lead to misinterpretation of players' needs and potentially contribute to detraining or increased injury risk. PURPOSE: This invited commentary critically evaluates the \"train as you play\" paradigm and propose an integrated framework that aligns match analysis with evidence-based training principles (ie, \"play as you train\" paradigm). EVIDENCE: Match-derived metrics represent the outcome of complex, context-dependent interactions including tactical decisions, opponent behavior, and psychological factors. Consequently, solely replicating match loads may overlook context-dependent individual variability and the nonlinear nature of physiological adaptation. Effective load monitoring should therefore integrate external workload indicators with concomitant internal responses, recovery markers, and neuromuscular assessments to better evaluate how players tolerate and adapt to training stress. CONCLUSION: The \"train as you play\" and \"play as you train\" paradigms are complementary rather than opposing, requiring coaches and practitioners to integrate match data with physiological, subjective, and contextual insights in an interpretative rather than imitative manner to best prepare players. Such a balanced approach can optimize adaptation, enhance performance, and reduce injury risk, ultimately fostering fatigue-resistant players who not only \"train as they play\" but also \"play better because of how they train.\"",
+        "doi": "10.1123/ijspp.2026-0281",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067340/",
+        "relevance": 14,
+        "matched": [
+          "training",
+          "fatigue",
+          "recovery",
+          "adaptation",
+          "performance",
+          "neuromuscular"
+        ]
+      },
+      {
         "pmid": "43044068",
         "title": "Load Range During Isokinetic Knee Extension and Flexion Exercise in Strength-Matched Male and Female Collegiate Athletes.",
         "journal": "Journal of strength and conditioning research",
@@ -2184,27 +2142,6 @@
         ]
       },
       {
-        "pmid": "43038515",
-        "title": "Bone biomarker concentrations at baseline and 24 h after resistance and interval running exercise in eumenorrheic females and oral contraceptive users.",
-        "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
-        "journal_issn": "1715-5312",
-        "discipline": "physiology",
-        "date": "2026-Nov-16",
-        "authors": "Isabel Guisado-Cuadrado, Nuria Romero-Parra, Rocío Cupeiro et al.",
-        "abstract": "Bone metabolism is influenced by both mechanical loading and the hormonal environment, yet their combined effects on the acute response to exercise remain unclear in premenopausal females. Therefore, this study aimed to examine baseline and 24 h post-exercise concentrations of bone biomarkers following resistance and interval-running exercise, considering menstrual and oral contraceptive (OC) cycle phases. Eight eumenorrheic and 8 OC users performed interval running (8×3 min at 85% maximal aerobic speed), whereas 9 eumenorrheic and 10 OC users completed eccentric-based resistance exercise (10×10 squats at 60% 1RM), according to their trained modality. Trials were conducted in randomized order during the early- and late-follicular phases (EFP, LFP) in eumenorrheic females and withdrawal and active pill phases (WP, APP) in OC users. Blood was sampled at baseline and 24 h post-exercise. Dickkopf-1 (DKK-1) and sclerostin showed Exercise×Time interactions, with lower concentrations 24 h after interval running. Osteocalcin showed Exercise×Phase and Exercise×Time interactions, with lower 24 h concentrations in the endurance- than resistance-trained group and lower concentrations in endurance-trained OC users during APP versus WP. Fibroblast Growth Factor-23 was lower at 24 h, while osteoprotegerin (OPG) was higher in APP than WP. Overall, interval running induced concurrent reductions in DKK-1, sclerostin, and total osteocalcin, indicating a short-term alteration in bone metabolic regulation. The reductions in DKK-1 and sclerostin are compatible with a transient decrease in Wnt pathway inhibition. Osteocalcin and OPG varied across OC phases, highlighting the relevance of considering hormonal status.",
-        "doi": "10.1139/apnm-2026-0285",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43038515/",
-        "relevance": 13,
-        "matched": [
-          "exercise",
-          "resistance",
-          "endurance",
-          "aerobic",
-          "metabolic",
-          "metabolism"
-        ]
-      },
-      {
         "pmid": "42934964",
         "title": "Regular Exercise Moderates Age-Related Cognitive Differences in Midlife Women: Domain-Specific Effects on Processing Speed and Working Memory.",
         "journal": "Medicine and science in sports and exercise",
@@ -2362,25 +2299,6 @@
           "adaptation",
           "training",
           "resistance"
-        ]
-      },
-      {
-        "pmid": "43038516",
-        "title": "Effects of menstrual cycle on appetite-regulating hormones in response to sprint exercise in physically active females.",
-        "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
-        "journal_issn": "1715-5312",
-        "discipline": "physiology",
-        "date": "2026-Nov-16",
-        "authors": "Kayoko Kamemoto, Aiko Miyaguchi, Megumi Wanifuchi et al.",
-        "abstract": "This study investigated whether the effects of sprint exercise on appetite regulation vary across menstrual cycle phases. Eight physically active females completed four trials in a counterbalanced order: exercise (EX) and resting (RE) conditions during both the early follicular phase (FP) and mid-luteal phase (LP). The exercise protocol comprised two sets of eight 6-s maximal sprints, with 30 s of rest between sprints. Blood samples were collected pre-exercise and immediately, 30-min, and 90-min post-exercise to measure glucose, lactate, acylated ghrelin, and total glucagon-like peptide-1 (GLP-1). Subjective appetite was assessed seven times during each trial and free-living energy intake was recorded on each experimental day. Blood lactate were higher in the EX than in the RE immediately and at 30 and 90 min after exercise during both the FP and LP (P ≤ 0.028). Plasma acylated ghrelin was suppressed in the EX compared with the RE at 30 min post-exercise in the LP (P = 0.001, ES = 0.55), whereas plasma total GLP-1 did not differ between phases or trials at any time point. Subjective appetite was suppressed during the EX compared with the RE in both FP and LP at 30 min post-exercise (the FP: P < 0.001, ES = 0.69; the LP: P < 0.001, ES = 1.00). Acute sprint exercise temporarily suppressed subjective appetite during both menstrual phases and acylated ghrelin during the LP; however, no clear menstrual cycle dependent differences in post-exercise appetite regulation were observed (Clinical trial registration ID: UMIN R000059802).",
-        "doi": "10.1139/apnm-2026-0107",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43038516/",
-        "relevance": 12,
-        "matched": [
-          "exercise",
-          "sprint",
-          "hormone",
-          "lactate"
         ]
       },
       {
@@ -2603,6 +2521,27 @@
         ]
       },
       {
+        "pmid": "43067153",
+        "title": "Normative values of spatiotemporal parameters and three-dimensional gait kinematics in 500 healthy Korean individuals: Age- and sex-stratified reference data.",
+        "journal": "Gait & posture",
+        "journal_issn": "0966-6362",
+        "discipline": "anatomy",
+        "date": "2026-Nov-17",
+        "authors": "Woo Sub Kim, Moon Seok Park, Ki Hyuk Sung",
+        "abstract": "BACKGROUND: Normative gait kinematic data are essential for interpreting pathological gait and evaluating treatment outcomes, but Korean population-specific reference data covering both age strata and sex remain limited. RESEARCH QUESTION: What are the age- and sex-stratified normative values of spatiotemporal parameters and three-dimensional lower-extremity gait kinematics in healthy Korean adolescents and adults? METHODS: Five hundred healthy Korean volunteers (254 male, 246 female; aged 13-75 years) in four age strata underwent three-dimensional gait analysis during barefoot walking at a self-selected speed. Dimensionless spatiotemporal parameters and pelvis, hip, knee, and ankle kinematics in three planes were compared across age strata (ANOVA with Tukey testing) and between sexes (t-tests) with false discovery rate correction. Full waveforms were compared using statistical parametric mapping (SPM), and side-to-side asymmetry and stride-to-stride variability were quantified. RESULTS: Throughout the gait cycle, women showed greater hip adduction (maximum 9.1° vs 4.8°), less external hip rotation (mean -0.7° vs -5.9°), and less out-toeing (foot progression -7.7° vs -12.1°) than men, together with greater knee flexion in stance and swing, whereas men showed greater knee varus. Despite similar walking speeds, women took shorter steps at a higher cadence. Across increasing age strata, anterior pelvic tilt (3.9° to 6.1°) and peak hip and knee flexion increased and swing-phase plantarflexion decreased. The shorter steps and slower speed of the 51-75-year stratum were no longer significant after dimensionless normalization. SPM showed broadly concordant patterns (sex differences up to 8°, age differences up to 5°). Side-to-side differences were small and stride-to-stride variability was low. SIGNIFICANCE: This population-based, age- and sex-stratified dataset provides reference values and upper reference limits of asymmetry and variability for Korean adolescents and adults, indicates that coronal- and transverse-plane hip variables warrant sex-specific reference values, and can serve as a normative basis for gait indices in Korean clinical populations.",
+        "doi": "10.1016/j.gaitpost.2026.110707",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067153/",
+        "relevance": 11,
+        "matched": [
+          "kinematic",
+          "gait",
+          "hip",
+          "knee",
+          "pelvic",
+          "ankle"
+        ]
+      },
+      {
         "pmid": "43044031",
         "title": "Effect of Different Plyometric Training Protocols on Physical Fitness in Trained Youth Soccer Players.",
         "journal": "Journal of strength and conditioning research",
@@ -2620,26 +2559,6 @@
           "sprint",
           "power",
           "performance"
-        ]
-      },
-      {
-        "pmid": "43034892",
-        "title": "No change in skeletal muscle oxidative capacity biomarkers after 6 weeks of twice-weekly single-leg cycle interval training in young active adults.",
-        "journal": "Experimental physiology",
-        "journal_issn": "0958-0670",
-        "discipline": "physiology",
-        "date": "2026-Nov-15",
-        "authors": "Emileigh R Binet, Beatrice Yee, James McKendry et al.",
-        "abstract": "Interval training (INT) of sufficient frequency, intensity and duration can increase biomarkers of skeletal muscle oxidative capacity in humans. Studies typically involve three to four sessions per week; however, the effect of reduced training frequency on this response is unclear. Most studies also do not include a non-exercise control (CON) condition to account for the potential influence of extraneous, uncontrolled factors. We employed a single-leg, counterweighted cycling model to investigate the effect of twice weekly INT for 6 weeks on biomarkers of skeletal muscle oxidative capacity including mitochondrial content and fibre capillarisation. Sixteen healthy active adults (6 males, 10 females; 22 ± 3 years; peak oxygen uptake: 36.1 ± 6.1 mL kg-1 min-1) performed INT with one leg and their contralateral limb served as a CON. INT involved 4 × 5-min bouts at an intensity of 50%-60% Wpeak, interspersed with 2.5 min of recovery at 20% Wpeak. Muscle biopsy samples obtained from the vastus lateralis of both legs before and after the intervention revealed no differences in the primary outcome measure, citrate synthase maximal activity (P = 0.350, time × leg interaction). There were also no differences in multiple markers of mitochondrial protein content or capillarisation (all P > 0.05), except NDUFB8 protein content, which increased post-training in the INT leg only (P = 0.0387). The lack of change in most biomarkers of oxidative capacity may be due to an insufficient training intensity or related to participant fitness or measurement variability as indicated by the typical error of ∼20%-40% between legs as baseline.",
-        "doi": "10.1113/EP093493",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43034892/",
-        "relevance": 11,
-        "matched": [
-          "training",
-          "exercise",
-          "recovery",
-          "mitochondrial",
-          "oxygen"
         ]
       },
       {
@@ -2821,6 +2740,27 @@
         ]
       },
       {
+        "pmid": "43067200",
+        "title": "Modeling intersegmental mechanics to reproduce physiologic coordination patterns of multi-joint finger movements.",
+        "journal": "Journal of biomechanics",
+        "journal_issn": "0021-9290",
+        "discipline": "anatomy",
+        "date": "2026-Nov-17",
+        "authors": "Orooluwa D Emmanuel, Quang D Tran, Derek G Kamper et al.",
+        "abstract": "Biomechanical models of the hand are important for understanding the functional roles of individual muscles to facilitate rehabilitation planning or prediction of surgical outcomes. Interpreting the contributions of specific hand muscles is challenging, however, because of the complex anatomy of the hand, including multiarticular muscles, distributed tendon insertions, and soft tissue structures. Most existing biomechanical models estimate joint torques based primarily on geometric moment arms and therefore rely on a kinematic representation of muscle action. In this study, we developed a dynamic biomechanical model of the index finger that incorporates intersegmental mechanical interactions arising from tendon pathways, adhesions, and ligamentous constraints (model 1: 'intersegmental mechanics model'), enabling more accurate prediction of multi-joint coordination patterns produced by individual musculotendons. The performance of the proposed model was compared with that of a conventional kinematic model (model 2: 'individual joint moment-arm model'). Both models were used to simulate index finger movements driven by individual muscle forces. Predicted joint coordination patterns were compared with experimental data collected from in vitro and in vivo studies. Model 1 reproduced multi-joint coordination patterns more accurately than Model 2, producing lower RMSE values in 26 of 27 submovements. This advantage was most evident for intrinsic plus and intrinsic minus movements, suggesting that intersegmental mechanical interactions are important for reproducing intrinsic muscle-driven coordination patterns relevant to hand function. These findings highlight the importance of incorporating intersegmental dynamics into finger modeling and suggest that the proposed framework may provide a useful tool for studying hand function and its impairment.",
+        "doi": "10.1016/j.jbiomech.2026.113695",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067200/",
+        "relevance": 10,
+        "matched": [
+          "joint",
+          "muscle",
+          "tendon",
+          "ligament",
+          "biomechanic",
+          "kinematic"
+        ]
+      },
+      {
         "pmid": "43046287",
         "title": "Dynamic responsivity of heart rate variability metrics to changing exercise intensity.",
         "journal": "Experimental physiology",
@@ -2872,26 +2812,6 @@
           "training",
           "resistance",
           "sedentary"
-        ]
-      },
-      {
-        "pmid": "43037696",
-        "title": "A randomized cross-over comparison of cardiovascular responses to forearm and upper arm post-exercise circulatory occlusion.",
-        "journal": "European journal of applied physiology",
-        "journal_issn": "1439-6319",
-        "discipline": "physiology",
-        "date": "2026-Nov-16",
-        "authors": "Bardia Emamipour, Heather Edgell",
-        "abstract": "PURPOSE: The metaboreflex is often studied using post-exercise circulatory occlusion (PECO) of the arm after handgrip (HG) exercise; however, the location of the occlusion cuff has varied (i.e. upper arm vs. forearm). These variations include differing amounts of muscle tissue which in turn could affect hemodynamic and autonomic responses to metaboreflex activation. Further, recent work has suggested the importance of considering muscle strength when investigating the metaboreflex. Thus, the purpose of the current study was to compare the hemodynamic responses to PECO at two different occlusion sites while measuring indices of metabolite production and concurrently controlling for differences in maximal HG force (max HG) in males and females. METHODS: We recruited 20 young healthy participants (10 female) to complete 2 randomized trials of 2 min of HG at 40% maximal voluntary contraction followed by 3 min of PECO at either the upper arm or forearm. We measured blood pressure, heart rate, oxygenation of the wrist dorsiflexor muscles and blood lactate from the finger. RESULTS: After controlling for max HG, we found that there was a relationship between max HG and the heart rate response to PECO (p = 0.014), regardless of biological sex, without a difference between occlusion sites (p = 0.51). Further, there was no effect of sex, max HG, or occlusion site on mean arterial pressure (p > 0.06), deoxygenation (p > 0.32) or lactate production (p > 0.07). CONCLUSION: Our results indicate that researchers should consider controlling for maximal HG when investigating the metaboreflex, and that responses to upper arm and forearm occlusion after HG exercise elicit responses that are not different.",
-        "doi": "10.1007/s00421-026-06492-3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43037696/",
-        "relevance": 10,
-        "matched": [
-          "exercise",
-          "strength",
-          "lactate",
-          "heart rate",
-          "oxygen"
         ]
       },
       {
@@ -3049,6 +2969,24 @@
         ]
       },
       {
+        "pmid": "43067342",
+        "title": "Ten Years of Training in a Male World-Class 800-1500 m Swimmer.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-20",
+        "authors": "Espen Tønnessen, Ivar Idsøe Flaten, Øyvind Sandbakk et al.",
+        "abstract": "PURPOSE: To investigate the training process of a world-class 800- to 1500-m swimmer and identify key characteristics and differences between successful and less successful competitive seasons. METHODS: A mixed-methods case study design was used to capture quantitative and qualitative aspects of the training process. Data were collected through (1) 10 years of training logs (ages 19-28); (2) in-depth semistructured interviews with the swimmer, his club coach, and national team head coach; and (3) systematic quality assurance through negotiation among researchers and key informants. RESULTS: Performance improved gradually until 23 to 24 years of age before slightly declining. Annual training volume ranged from ∼1000 to ∼1380 hours per year, with swimming accounting for ∼80% of total training time in most seasons (2700-3700 km·y-1), including extensive long-course, stroke-specific training. The swimmer followed a traditional periodization model with 3 macrocycles annually, characterized by high volumes of low-intensity training during preparation and increased intensity with reduced volume approaching competition. A later shift toward more zone 2 training at the expense of zone 1 and reduced long-course exposure coincided with the performance decline in his mid-twenties. Successful seasons were characterized by high quality in the holistic training process, including strong motivation and structured recovery, whereas less successful seasons were marked by slightly weaker recovery habits, and declining motivation and self-confidence. CONCLUSION: This study provides novel information regarding the training process for a world-class long-distance swimmer, including differences between successful and less successful seasons. These data may serve as a framework for practitioners aiming to optimize long-term performance development.",
+        "doi": "10.1123/ijspp.2026-0458",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067342/",
+        "relevance": 9,
+        "matched": [
+          "training",
+          "recovery",
+          "performance"
+        ]
+      },
+      {
         "pmid": "43064204",
         "title": "Motivational Interviewing for Nutrition Counseling among Athletes: A Systematic Review.",
         "journal": "The Journal of nutrition",
@@ -3105,6 +3043,47 @@
           "muscle",
           "muscular",
           "biomechanic"
+        ]
+      },
+      {
+        "pmid": "43067152",
+        "title": "Muscle coordination networks during human walking revealed by graphical LASSO analysis at individual and population levels.",
+        "journal": "Gait & posture",
+        "journal_issn": "0966-6362",
+        "discipline": "anatomy",
+        "date": "2026-Nov-19",
+        "authors": "Samuel A Acuña",
+        "abstract": "BACKGROUND: Understanding how the nervous system coordinates many muscles simultaneously during walking, and how that coordination breaks down in pathology, is a central challenge in gait biomechanics and rehabilitation. Existing approaches describe what muscles do individually or on average, but cannot reveal which muscles are directly coupled to one another at each moment of the stride. The purpose of this study was to establish the feasibility of graphical LASSO network analysis as a framework for characterizing muscle coordination at two complementary levels: stride-to-stride variation within a single representative participant, and between-subject variation across a healthy young adult population. METHODS: Surface EMG data were collected from six lower extremity muscles in twenty healthy young adults during treadmill walking at 1.0 m/s. Sparse partial correlation networks were estimated among the six muscles at each of 101 time-normalized gait cycle points at both the individual and population levels of analysis. RESULTS: Networks varied systematically across the gait cycle, recovering expected couplings including plantar flexor pairing during stance and quadriceps pairing during loading response and terminal swing. At the individual level, networks revealed which muscle relationships are stable features of that person's stride pattern and which vary across strides. At the population level, networks revealed which muscle relationships are common features of healthy young adult gait and which reflect individual differences in coordination strategy. Centrality metrics further identified muscles as coordinatively important at time points where their absolute activation was low. CONCLUSIONS: The graphical LASSO framework produces muscle coordination networks that are interpretable, biologically coherent, and sensitive to coordination structure at two clinically meaningful scales. By characterizing which muscles are directly couples at each moment of the stride and how that coupling structure evolves across the gait cycle, the approach offers a rich description of the neuromuscular organization of walking and a promising foundation for future clinical assessment of gait coordination.",
+        "doi": "10.1016/j.gaitpost.2026.110712",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067152/",
+        "relevance": 9,
+        "matched": [
+          "muscle",
+          "muscular",
+          "hip",
+          "biomechanic",
+          "gait",
+          "quadriceps"
+        ]
+      },
+      {
+        "pmid": "43067199",
+        "title": "The effect of prosthetic alignment and multiplanar deformation of a single prosthetic foot on musculoskeletal model predictions in unilateral transtibial prosthesis users.",
+        "journal": "Journal of biomechanics",
+        "journal_issn": "0021-9290",
+        "discipline": "anatomy",
+        "date": "2026-Nov-17",
+        "authors": "Jannis Hill, Cleveland T Barnett, Paul J Felton",
+        "abstract": "Prosthetic design and alignment are optimised to benefit prostheses users. Computer simulations can help to explain how prosthetic changes affect prosthesis users' bodies but often neglect some prosthetic design characteristics. This study explores how including non-sagittal plane deformation of the prosthetic foot and prosthetic foot to socket alignment affect prosthetic limb joint angles and joint moments. A lower-body musculoskeletal model using kinematic and kinetic data of overground running from unilateral transtibial prostheses users. The model incorporated a prosthetic foot scaled to each participant for four model variations (1) two to account for individual prosthetic alignment and (2) two to account for non-sagittal internal deformation of the prosthetic foot. Comparisons were made between prosthetic limb joint angles and normalised joint moment time histories and peaks. Correlations between prosthetic foot to socket offsets and peaks were also assessed. Prosthetic alignment changes caused small variations in angle and moment comparisons, but medio-lateral alignment correlated strongly with non-sagittal angles and moments (r > 0.80). Allowing for three-dimensional deformation in the model of the prosthetic foot resulted in generally small variations in joint angles and moments but were highest in non-sagittal planes. These were more pronounced during a run with a higher degree of non-sagittal plane loading. Therefore, accounting for individual alignment of transtibial prostheses users in inverse simulations may not be necessary, but care is warranted with greater medio-lateral offsets. Also, modelling non-sagittal prosthetic intersegmental movement may impact non-sagittal kinematics and kinetics during movements with high non-sagittal plane loading.",
+        "doi": "10.1016/j.jbiomech.2026.113692",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067199/",
+        "relevance": 9,
+        "matched": [
+          "skeletal",
+          "foot",
+          "joint",
+          "kinematic",
+          "kinetic"
         ]
       },
       {
@@ -3280,6 +3259,24 @@
         ]
       },
       {
+        "pmid": "43066521",
+        "title": "Sex and respiratory muscle efficiency are associated with costal diaphragm perfusion relative to respiratory work during exercise hyperpnoea.",
+        "journal": "The Journal of physiology",
+        "journal_issn": "0022-3751",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "Madison M Coyle, Megan L Lance, Madison J Gorsline et al.",
+        "abstract": "Females experience greater work of breathing (WOB) and oxygen cost of respiration ( V ̇ O 2 RM) than males at moderate-to-high ventilations, primarily due to smaller airways and lungs. Contrast-enhanced ultrasound (CEUS) provides an index of relative costal diaphragm microvascular perfusion ( Q ̇ di), allowing the examination of whether the Q ̇ di-WOB relationship differs by sex and is associated with estimated respiratory muscle efficiency (EffRM). We hypothesized that the Q ̇ di-WOB relationship would be steeper in females, and that individual Q ̇ di-WOB slopes would be inversely associated with estimated EffRM. Seventeen healthy adults (27 ± 5 years; 9 females) completed an incremental maximal cycle exercise test and, on a separate day, voluntary hyperpnoea at 45%, 60%, 75% and 100% of maximum exercise ventilation. Exercise-derived breathing patterns and respiratory mechanics were replicated. Oesophageal pressure-volume loops quantified WOB. V ̇ O 2 RM was estimated from whole-body oxygen uptake, and EffRM was calculated as WOB divided by estimated respiratory metabolic energy expenditure. Relative microvascular perfusion within the sampled costal diaphragm region was estimated using CEUS. The relationships between the CEUS-derived Q ̇ di (min-1) and inspiratory work and WOB (kJ min-1) were steeper in females by +83 ± 37 kJ-1 (P = 0.0367) and +63 ± 25 kJ-1 (P = 0.0203), respectively. The Q ̇ di- V ̇ O 2 RM relationship did not differ by sex (P = 0.581). Individual Q ̇ di-WOB slopes were inversely associated with estimated EffRM (slope: -12.6 ± 5.8 kJ-1%-1, r = -0.49, P = 0.0476). Thus, relative costal diaphragm perfusion increased with respiratory mechanical demand, and the perfusion-work relationship differed by sex and was associated with estimated EffRM. KEY POINTS: Females exhibit a greater work of breathing and oxygen cost of breathing than males during moderate-to-high ventilatory exercise, but whether this is accompanied by differences in human costal diaphragm perfusion was unknown. We used contrast-enhanced ultrasound to estimate relative microvascular perfusion within the medial costal diaphragm during voluntary hyperpnoea that closely replicated breathing patterns attained during exercise. Costal diaphragm perfusion increased proportionally with respiratory muscle work, indicating that perfusion of the sampled diaphragm increased in relation to the overall mechanical demand of ventilation. Females exhibited a steeper costal diaphragm perfusion-work of breathing relationship than males. Across participants, a steeper perfusion-work relationship was associated with lower estimated respiratory muscle efficiency. These findings provide new insight into the associations of sex and estimated respiratory muscle efficiency with costal diaphragm perfusion during high ventilatory demand.",
+        "doi": "10.1113/JP292205",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066521/",
+        "relevance": 8,
+        "matched": [
+          "exercise",
+          "metabolic",
+          "oxygen"
+        ]
+      },
+      {
         "pmid": "43062723",
         "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty.",
         "journal": "Surgical and radiologic anatomy : SRA",
@@ -3315,6 +3312,24 @@
           "anatomical",
           "hip",
           "spinal"
+        ]
+      },
+      {
+        "pmid": "43067347",
+        "title": "Associations of Countermovement Jump Performance and Body Composition With Baseball-Specific Base-Running Outcomes in Semiprofessional Position Players.",
+        "journal": "International journal of sports physiology and performance",
+        "journal_issn": "1555-0265",
+        "discipline": "physiology",
+        "date": "2026-Nov-19",
+        "authors": "Tzu-Han Chan, Chieh-Ying Chiang, Chun-Yu Wang et al.",
+        "abstract": "PURPOSE: Linear sprint testing may not capture the spatial and technical demands of base running, and the associated physical characteristics remain unclear. This study examined associations of body composition and countermovement jump performance with outcomes across 3 distinct contexts: stealing bases (SB), running after hitting, and running between bases. METHODS: Male semiprofessional players (N = 35) completed bioelectrical impedance-derived body composition (body fat percentage, absolute muscle mass); countermovement jump (jump height, peak relative propulsive power, take-off velocity, peak velocity); and base-running (SB, running after hitting, running between bases total times) assessments. Base-running efficiency was also calculated. RESULTS: SB, running after hitting, and running between bases total times correlated positively (r = .61 to .84). Body fat percentage correlated positively with most time-based outcomes (r = .51 to .73), whereas absolute muscle mass showed trivial-to-small, nonsignificant associations. Jump height, PPrel, take-off velocity, and peak velocity correlated negatively with time-based outcomes (r = - .41 to -.78). SB movement time, but not SB reaction time, correlated with body fat percentage and all countermovement jump variables; base-running efficiency showed no significant associations. CONCLUSIONS: Base-running tasks share an acceleration-related component but remain task-specific. Within this sample, body fat percentage was more strongly related to running performance than absolute muscle mass. Jump height, PPrel, take-off velocity, and peak velocity showed broadly similar associations; their independent or incremental value was not tested. SB reaction time and base-running efficiency showed no significant associations, although measurement reliability and unmeasured technical or perceptual-motor factors limit interpretation of these findings. These findings support task-specific assessment of base running.",
+        "doi": "10.1123/ijspp.2026-0270",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067347/",
+        "relevance": 8,
+        "matched": [
+          "performance",
+          "sprint",
+          "power"
         ]
       },
       {
@@ -3614,6 +3629,62 @@
         ]
       },
       {
+        "pmid": "43066902",
+        "title": "How Effective is Stretching for Injury Prevention? A Large-Scale Systematic Review with Meta-analysis.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "José Afonso, Ricardo Martins, Rohit K Thapa et al.",
+        "abstract": "BACKGROUND: Sports injuries can impact athletes' availability, threaten their career, and have substantial financial impact. Stretching is commonly used as a prevention strategy. However, controversial evidence, methodological shortcomings, and substantial time elapsed since previous key data syntheses justify performing an updated systematic review. OBJECTIVE: Our goal was to assess the effects of stretching interventions on injury risk. METHODS: We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. Eligible studies included humans performing stretching and at least one comparator group; sports-related injury data were required. Studies were identified from six electronic databases (CINAHL Complete, Embase, PubMed, Scopus, SPORTDiscus, and Web of Science), reference lists, citation tracking, and consultation with external experts. Risk of bias was assessed using Cochrane tools. Raw injury data were used to assess odds ratios (OR), with OR < 1 meaning a preventive effect for stretching. Results were presented with 95% confidence intervals (CIs) and prediction intervals (PIs). An inverse-variance random-effects model was employed using the DerSimonian and Laird estimator. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) framework. RESULTS: Over 300,000 records were screened, with 19 studies fulfilling the eligibility criteria (> 9000 participants, > 80% male, age range 14-59 years), of which 15 were used for the meta-analyses. Interventions lasted 4-24 weeks and mostly implemented static unassisted stretching with varying volumes. Half the studies used passive controls, and half used diverse active comparators. Risk of bias was high for ~90% of randomized trials and serious for all non-randomized trials. No injury prevention effect was detected for stretching versus all other comparators (k = 15, n = 9,002; OR = 0.945, p = 0.396, 95% CI 0.828-1.078, 95% PI 0.773-1.155), passive controls (k = 10, n = 6273; OR = 0.923, p = 0.209, 95% CI 0.814-1.046, 95% PI 0.796-1.069), or active controls (k = 6, n = 2744; OR = 1.190, p = 0.312, 95% CI 0.849-1.667, 95% PI 0.738-1.919). Likewise, no injury prevention effect was found for muscle, tendon, and ligament/joint capsule injury risk, or across 19 sensitivity analyses, 3 subgroup analyses, and 3 secondary analyses. GRADE denoted very low certainty of evidence for all outcomes except bone injury risk (low certainty). CONCLUSIONS: Despite the very low to low certainty of evidence as per GRADE judgments, the data consistently showed no chronic effect of stretching on injury risk across multiple analyses. No study assessed the acute effects of stretching on injury risk. Given the studied samples, these conclusions apply mostly to male participants aged 14-60 years performing static unassisted stretching, with little to no information about other populations or interventions. There is virtually no research using sport-specific stretching exercises. Several other caveats are discussed, as well as implications for practice, policy-making and future research. REGISTRATION: PROSPERO: CRD42024616532. OSF project ( https://osf.io/umj8h/ ) and registration ( https://osf.io/ybdvw ).",
+        "doi": "10.1007/s40279-026-02559-5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066902/",
+        "relevance": 7,
+        "matched": [
+          "injury",
+          "exercise",
+          "sports",
+          "athlete"
+        ]
+      },
+      {
+        "pmid": "43066901",
+        "title": "Force and Power Testing in Anterior Cruciate Ligament Reconstruction Literature: A Scoping Review.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "Alessandro Compagnin, Francesco Della Villa, Stefano Di Paolo et al.",
+        "abstract": "BACKGROUND: Force and power testing has been recognised as a key aspect of anterior cruciate ligament reconstruction anterior cruciate ligament reconstruction (ACLR) rehabilitation. However, a literature synthesis is required to examine how these physical characteristics have been assessed due to pronounced heterogeneity in the methods used. OBJECTIVES: To synthesise and describe the existing literature on force and power testing post-ACLR. METHODS: A scoping review of the electronic databases MEDLINE (PubMed), SPORTDiscus, Cochrane Library and PEDro was conducted including studies adopting at least one force or power test in patients post-ACLR. The search methodology followed the Joanna Briggs Institute Manual for evidence synthesis and included the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). RESULTS: In total, 1625 studies fulfilled the inclusion criteria. Seven main device categories were identified, with different rates of implementation over the years (1981-2023) and throughout the recovery process: (1) isokinetic dynamometry (IKD; 64.9%), (2) jump (without force platform; 32.2%), (3) force platform (28.0%), (4) traditional gym equipment and bodyweight exercises (6.2%), (5) hand-held dynamometry (4.0%), (6) manual muscle testing (1.5%) and (7) other devices (5.5%). Studies used 1.42 ± 0.62 devices, with 45 different combinations recorded. Various tests were conducted using different devices, ranging from 8 to 72 recorded tests per category. Only force plate assessments showed a linear increment in implementation from the surgical procedure (r = 0.86, p = 0.012). CONCLUSIONS: Significant heterogeneity in assessment device selection, metrics analysed, test implementation and protocols was observed. Most studies included a single device category to examine force and power characteristics of patients post-ACLR. The IKD remains the most adopted testing device in research, but current assessment practices are more varied than in the past.",
+        "doi": "10.1007/s40279-026-02571-9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066901/",
+        "relevance": 7,
+        "matched": [
+          "power",
+          "exercise",
+          "recovery",
+          "rehabilitation"
+        ]
+      },
+      {
+        "pmid": "43067344",
+        "title": "Effects of High-Intensity Interval Training Combined With Mango Leaf Extract Supplementation on Inflammatory Biomarkers in Overweight and Obese Men: A Randomized Controlled Trial.",
+        "journal": "International journal of sport nutrition and exercise metabolism",
+        "journal_issn": "1526-484X",
+        "discipline": "nutrition",
+        "date": "2026-Nov-20",
+        "authors": "Fatemeh Omidali, Fatemeh Shabkhiz, Ali Akbarnejad",
+        "abstract": "BACKGROUND: Chronic low-grade inflammation is a key factor in obesity-related metabolic disorders. This study examined the effects of an 8-week whole-body high-intensity interval training program combined with mango leaf extract (ME) supplementation on inflammatory biomarkers in sedentary overweight and obese men. METHODS: Forty sedentary men (age 25-40 years; body mass index ≥ 25 kg/m2) were randomly assigned to control, exercise plus placebo, ME, or exercise plus ME. WB-HIIT was performed three times weekly for 8 weeks. The ME and placebo groups received 500 mg twice daily (1,000 mg/day). Fasting blood samples were collected pre- and postintervention, and serum interleukin-6, interleukin-13, calprotectin, and interleukin-1 receptor antagonist were analyzed using ELISA. Data were analyzed using analysis of covariance adjusted for baseline values (p < .05). RESULTS: Significant between-group differences were observed for interleukin-6 and calprotectin (p < .001), with the exercise plus ME group showing the greatest reductions compared with all other groups. No significant difference was found for interleukin-13 (p = .073). Interleukin-1 receptor antagonist showed a significant Time × Group interaction, although no significant pairwise differences were detected. Body weight, body mass index, and waist circumference improved significantly in both exercise groups compared with control (p < .05), whereas no changes were observed in the ME group. CONCLUSION: Whole-body high-intensity interval training combined with mango leaf extract supplementation may enhance anti-inflammatory adaptations in overweight and obese men. This combination may represent a promising nonpharmacological strategy for attenuating obesity-related low-grade inflammation.",
+        "doi": "10.1123/ijsnem.2026-0128",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067344/",
+        "relevance": 7,
+        "matched": [
+          "supplement",
+          "training",
+          "exercise"
+        ]
+      },
+      {
         "pmid": "43062708",
         "title": "Branch-level anatomy and estimated portal injury risk during anterior ankle arthroscopy: a combined ultrasound and cadaveric study.",
         "journal": "Surgical and radiologic anatomy : SRA",
@@ -3758,23 +3829,6 @@
           "diet",
           "dietary",
           "food"
-        ]
-      },
-      {
-        "pmid": "43034989",
-        "title": "Exercise and insulin independently stimulate galactose uptake into human skeletal muscle.",
-        "journal": "The Journal of physiology",
-        "journal_issn": "0022-3751",
-        "discipline": "physiology",
-        "date": "2026-Nov-15",
-        "authors": "Thien Vinh Luong, Mette Glavind Bülow Pedersen, Christian Thorup et al.",
-        "abstract": "Carbohydrate choice affects glycaemic responses during and after exercise, particularly for individuals with impaired glucose regulation. Galactose causes smaller glycaemic excursions than glucose but is thought to require hepatic conversion to glucose via the Leloir pathway before peripheral use. Whether galactose is directly taken up by skeletal muscle, and whether this is regulated by exercise and insulin remains unclear. In this randomised, controlled crossover trial, eight healthy men (age 68 ± 4 years; body mass index 24.7 ± 2.1 kg/m2) completed two 4 h study days, with and without a hyperinsulinaemic-euglycaemic clamp (1.0 mU/kg/min). Galactose turnover was assessed using a primed-constant galactose infusion. Participants performed one-legged, high-intensity knee-extension exercise at maximal capacity, with the contralateral leg as a non-exercised control. Skeletal muscle galactose uptake was quantified by dynamic [1 8F]FDGal positron emission tomography (PET), and arteriovenous (AV) exchange across the leg was determined from femoral blood samples combined with [1 5O]H2O PET-measured leg perfusion. Exercise and insulin markedly increased galactose uptake (exercise effect: P < 0.001; insulin effect: P < 0.001; interaction: P = 0.0769). PET analysis showed that exercise primarily increased tracer influx (K1), while insulin increased intracellular trapping (k3) and modestly reduced efflux (k2). Plasma galactose concentrations were low (0.2 ± 0.1 mmol/L) and galactose AV exchange across the leg did not differ across conditions. Human skeletal muscle can directly take up galactose, and this is stimulated by exercise and insulin. This challenges the assumption that hepatic conversion is required before peripheral utilisation. Future studies should determine whether galactose is incorporated into skeletal muscle glycogen to a physiologically relevant extent. KEY POINTS: Galactose causes smaller spikes in blood sugar than glucose, and it has long been assumed that the body must first convert galactose into glucose in the liver before peripheral use. Using positron emission tomography imaging with the galactose analogue 2-[1 8F]fluoro-2-deoxygalactose in combination with a one-legged knee-extension ergometer, we demonstrated that human skeletal muscle can directly take up galactose. Both exercise and insulin markedly increased skeletal muscle galactose uptake, with an additive effect when combined. Exercise primarily increased galactose uptake by enhancing muscle blood flow, whereas insulin exerted its effect by promoting phosphorylation and intracellular trapping. Further studies are required to determine whether galactose is incorporated into skeletal muscle glycogen to a physiologically meaningful extent.",
-        "doi": "10.1113/JP292497",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43034989/",
-        "relevance": 7,
-        "matched": [
-          "exercise",
-          "glycogen"
         ]
       },
       {
@@ -4143,6 +4197,24 @@
         ]
       },
       {
+        "pmid": "43066903",
+        "title": "Insights into Channelopathies and Sport: The Genotype-Positive/Phenotype-Negative Athlete from Molecular Diagnosis to Management.",
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "journal_issn": "0112-1642",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "Isabel Diebold, Franziska Hahn, Eimo Martens et al.",
+        "abstract": "Channelopathies, diseases with ion channel perturbations, are a major cause of sudden cardiac death in athletes. Advances in genetic testing have identified a growing population of athletes carrying (likely) pathogenic variants in cardiac ion channel genes who remain phenotypically silent. These genotype-positive/phenotype-negative (G+/P-) individuals present a distinct clinical challenge. Standard preparticipation screening, designed around phenotypic findings, provides little guidance for their management. A critical gap exists in providing prognostic guidance based on the involved gene, specific variants, and its molecular consequences. Beyond a critical review of existing literature, we provide a mechanistically anchored framework for variant-specific arrhythmic risk stratification across the major channelopathy genes. For each gene, we translate molecular pathophysiology into clinically actionable risk profiles and examine how exercise-specific triggers, including adrenergic surge, electrolyte shifts, and sympathovagal imbalance, interact with the underlying molecular substrate to modulate arrhythmic vulnerability. Standard diagnostic tools ranging from electro- and echocardiography, exercise stress testing, and pharmacological provocation to emerging modalities such as electroanatomic mapping and magnetocardiography are evaluated for their capacity to unmask subclinical disease and refine sports eligibility decisions. The case for an interdisciplinary sports-cardio-genetic board is made alongside a call for international collaborative registries, as existing evidence in G+/P- athletes is largely absent. The integration of artificial intelligence and telemonitoring into longitudinal athletic surveillance is discussed as a pragmatic strategy for early phenotype detection. Ultimately, guidance for the G+/P- athlete rests on a thorough understanding of the causative genetic variant and its pathophysiological consequences.",
+        "doi": "10.1007/s40279-026-02584-4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066903/",
+        "relevance": 6,
+        "matched": [
+          "athlete",
+          "exercise",
+          "sports"
+        ]
+      },
+      {
         "pmid": "43064205",
         "title": "US legal definitions of ultra-processed food depart from the research construct in different ways.",
         "journal": "The Journal of nutrition",
@@ -4248,59 +4320,6 @@
         "matched": [
           "cardiorespiratory",
           "metabolic",
-          "physical activity"
-        ]
-      },
-      {
-        "pmid": "43035114",
-        "title": "Corrigendum to \"Nutritional Value Score Rates Foods Based on Nutrient Density and Noncommunicable Disease Prevention\" [The Journal of Nutrition. 2026;156(5):101443].",
-        "journal": "The Journal of nutrition",
-        "journal_issn": "0022-3166",
-        "discipline": "nutrition",
-        "date": "2026-Nov-15",
-        "authors": "Ty Beal, Flaminia Ortenzi",
-        "abstract": "",
-        "doi": "10.1016/j.tjnut.2026.101942",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43035114/",
-        "relevance": 6,
-        "matched": [
-          "nutrition",
-          "nutrient",
-          "food"
-        ]
-      },
-      {
-        "pmid": "43034993",
-        "title": "Dietary Sugar Intake and Risk of Cognitive Disorders: A Systematic Review and Meta-Analysis.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-15",
-        "authors": "Zilan Chen, Yuqi Pang, Ye Ju et al.",
-        "abstract": "CONTEXT: Although prior studies have linked excessive dietary sugar intake to adverse cognitive outcomes, the findings of individual studies remain inconsistent, and there is a lack of synthesis. OBJECTIVE: The objective of this study was to comprehensively examine the association between dietary sugar intake and risk of cognitive disorders. DATA SOURCES: The Cochrane, Embase, PubMed, ScienceDirect, and Web of Science databases were searched from inception to December 2025. DATA EXTRACTION: Prospective cohort, nested case-control or case-cohort studies evaluating the association of dietary total sugar or its subtypes with the risk of cognitive disorders, including cognitive impairment and dementia (including Alzheimer's disease), in adults were reviewed. Details of the studies and main outcomes were extracted independently by 2 reviewers. DATA ANALYSIS: Among 2171 records screened, 10 prospective cohort studies comprising 12 cohorts and 257 761 participants were included. The number of cohorts and participants for each exposure was as follows: total sugar: 5 (N = 200 812); sugar-sweetened beverages: 9 (N = 214 084); fruit juice: 2 (N = 194 847); fructose: 4 (N = 197 082); sucrose: 3 (N = 194 928); lactose: 3 (N = 194 928); maltose: 3 (N = 194 928); glucose: 3 (N = 194 928). Meta-analysis indicated that individuals with the highest total sugar intake were at a higher risk of cognitive disorders compared with those with the lowest intake (hazard ratio = 1.23, 95% CI = 1.10-1.38, low certainty). No significant associations were observed for any specific sugar subtypes examined, with certainty of evidence ranging from low to very low. CONCLUSIONS: The present review suggests that higher total sugar intake may be associated with an increased risk of cognitive disorders. In contrast, the current evidence does not support a clear association between specific sugar subtypes and cognitive disorders. Future studies should prioritize clarifying the dose-response relationship between total sugar intake and cognitive disorders. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. CRD42025640308.",
-        "doi": "10.1093/nutrit/nuag168",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43034993/",
-        "relevance": 6,
-        "matched": [
-          "diet",
-          "dietary"
-        ]
-      },
-      {
-        "pmid": "43034992",
-        "title": "Effects of Resveratrol Supplementation on Exercise-Induced Muscle Damage: A Narrative Review.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-15",
-        "authors": "Sheng-Lei Yang, Guang-Xin Wang, Yan-Yuan Du et al.",
-        "abstract": "Exercise-induced muscle damage (EIMD) is a common consequence of high-intensity or unfamiliar physical activity and can lead to muscle soreness, inflammation, oxidative stress, and temporary loss of muscle function. Although various interventions have been explored to alleviate EIMD, resveratrol (RES), a natural polyphenolic compound found in grapes, berries, and other plants, has attracted attention due to its potential antioxidant and anti-inflammatory properties. This review aims to explore the effects of RES on EIMD in terms of its impact on muscle recovery, inflammation, and oxidative stress markers. This review synthesizes the results of preclinical and clinical studies and highlights the timing, dosage, and efficacy of exercise-associated RES. Although the results are promising, with several studies reporting reduced muscle damage and improved recovery, inconsistencies in RES administration timing, dosage, and bioavailability require further investigation. Understanding these factors is critical to optimizing the therapeutic potential of RES in both the exercise and clinical settings. Finally, the review summarizes the potential of RES as a safe and effective intervention for EIMD and implications for future research.",
-        "doi": "10.1093/nutrit/nuag103",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43034992/",
-        "relevance": 6,
-        "matched": [
-          "supplement",
-          "exercise",
           "physical activity"
         ]
       },
@@ -4579,41 +4598,6 @@
           "morphology",
           "hip",
           "anatomical"
-        ]
-      },
-      {
-        "pmid": "43037193",
-        "title": "Synergistic modulation of cardiac lipid metabolism by Hedan Pill and Shexiang Baoxin Pill through the peroxisome proliferator-activated receptor α-carnitine palmitoyltransferase 1A axis in experimental heart failure.",
-        "journal": "Experimental physiology",
-        "journal_issn": "0958-0670",
-        "discipline": "physiology",
-        "date": "2026-Nov-16",
-        "authors": "Feng Wang, Lixin Wang, Qian Zhang et al.",
-        "abstract": "Congestive heart failure (CHF) is associated with profound cardiac metabolic remodelling, particularly in lipid utilization. While Hedan Pill and Shexiang Baoxin Pill are traditional Chinese medicines with cardiovascular benefits, their synergistic mechanisms in CHF remain unclear. Network pharmacology and molecular docking were combined with in vivo validation using ApoE-/- mice fed a high-fat diet and subjected to isoproterenol (ISO) treatment. Animals were allocated to seven groups: control, model, Entresto, Hedan Pill, Shexiang Baoxin Pill, Entresto + Hedan Pill, and Entresto + Shexiang Baoxin Pill. Cardiac function, serum lipids, myocardial histopathology, and protein expression of peroxisome proliferator-activated receptor α (PPARα), carnitine palmitoyltransferase 1A (CPT1A) and sterol regulatory element-binding protein 1c (SREBP-1c) were assessed. Network analysis indicated convergence on the PPARα-lipid metabolism pathway, with strong binding affinities between several active compounds and PPARα (≤ -7.0 kcal mol-1). In vivo, Hedan Pill or ShexiangBaoxin Pill alone improved ejection fraction, reduced triglycerides, and alleviated fibrosis and lipid deposition. Compared with Entresto alone, both combination regimens further reduced serum triglycerides and LDL-C, whereas ejection fraction did not differ significantly. Mechanistically, both agents upregulated myocardial PPARα and CPT1A while suppressing SREBP-1c. Hedan Pill and Shexiang Baoxin Pill synergistically improve cardiac lipid metabolic homeostasis through the PPARα-CPT1A axis, thereby protecting against CHF-induced myocardial injury. These findings provide physiological and mechanistic evidence supporting their translational potential as complementary interventions in CHF.",
-        "doi": "10.1113/EP093334",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43037193/",
-        "relevance": 5,
-        "matched": [
-          "metabolism",
-          "metabolic",
-          "injury"
-        ]
-      },
-      {
-        "pmid": "43034873",
-        "title": "Sex differences in gastrointestinal permeability during acute uncompensable heat stress: Role of menstrual phase hormones.",
-        "journal": "Experimental physiology",
-        "journal_issn": "0958-0670",
-        "discipline": "physiology",
-        "date": "2026-Nov-15",
-        "authors": "Shoji Leach, Ellie J Allsop, Isobel A Martin et al.",
-        "abstract": "Hyperthermia can increase gastrointestinal permeability, allowing microbes to leak from the intestinal lumen to the hepatic portal and systemic circulation. However, the extent to which sex and menstrual cycle hormones impact the risk of increased gastrointestinal permeability during heat stress is unclear. Twenty-four healthy young adults [12 male, 24 ± 3 years old; 12 female (5 oral contraceptive users), 23 ± 2 years old] participated in the study. Initially, participants completed a control trial (no heat or exercise) to determine baseline gastrointestinal permeability. Then, participants took part in a hyperthermia trial, in which deep body temperature was increased by +1.5°C from baseline via a water-perfused suit combined with semi-recumbent cycling at 40 W. Oestradiol was measured at baseline during the hyperthermia trial. In both trials, permeability was assessed by measuring the urinary excretion of orally ingested sucrose (10 g) and the lactulose/rhamnose ratio (L/R, 1 g each) to assess gastroduodenal and small intestinal permeability, respectively. Data are presented as the change in excretion from control to hyperthermia. Pooled analysis of all participants identified that hyperthermia increased small intestinal permeability [ΔL/R = 0.012 ± 0.029 (95% confidence interval 0.000 to 0.025), P = 0.050, d z = 0.43]. Although there were no sex differences at the group level, we identified a strong positive correlation between ΔL/R and baseline oestradiol concentration within females (r = 0.709, P = 0.040). Gastroduodenal permeability did not increase with hyperthermia (P = 0.136), nor were there any differences between the sexes (P = 0.411). Future studies should confirm whether oestradiol plays an independent role in modulating heat-induced gastrointestinal permeability in humans.",
-        "doi": "10.1113/EP094141",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43034873/",
-        "relevance": 5,
-        "matched": [
-          "hormone",
-          "exercise"
         ]
       },
       {
@@ -5116,25 +5100,6 @@
         ]
       },
       {
-        "pmid": "43035925",
-        "title": "Variant Foramina of the Orbital Apex: Osteological Evaluation and Systematic Review.",
-        "journal": "Clinical anatomy (New York, N.Y.)",
-        "journal_issn": "0897-3806",
-        "discipline": "anatomy",
-        "date": "2026-Nov-15",
-        "authors": "Cezar Octavian Morosanu, Amy Manson, Mae Hunter et al.",
-        "abstract": "The orbital apex contains several anatomical variations that can significantly impact surgical procedures involving the orbit and skull base. Among these anatomical variants, the metoptic canal (MC), Warwick's foramen (WF), and optic canal duplication (OCD) may serve as important conduits for neurovascular elements. Despite their clinical relevance, these variant structures are inconsistently described in the literature, and data on their incidence and morphology remain limited. This study aimed to investigate the prevalence, morphology, and anatomical relationships of these accessory orbital foramina. A total of 110 adult dry skulls and 15 isolated sphenoid bones from the department of human anatomy were examined. The size, shape, and position of any MCs, WF, or OCDs present were recorded. Morphometric assessments were performed on these foramina as well as the optic canal, optic strut, and superior orbital fissure. A systematic review of relevant studies was also conducted for comparative analysis. Accessory orbital foramina were identified in 20 of the 125 specimens (17.6%). OCD was present in five cases (4%), MC in eleven cases (8.8%), and WF in eight cases (6.4%). Statistical analysis revealed that the optic strut and superior orbital fissure were significantly wider in skulls displaying OCD. In addition, orbits with WF were associated with shorter superior orbital fissures compared to non-variant orbits. The systematic review identified 35 relevant studies for analysis. This study highlights the considerable anatomical variability of accessory orbital foramina and the need for awareness during surgical dissection. Features such as increased size of the optic strut and reduced size of the superior orbital fissure can raise the suspicion of a variant foramen in the orbital apex.",
-        "doi": "10.1002/ca.70250",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43035925/",
-        "relevance": 4,
-        "matched": [
-          "bone",
-          "hip",
-          "anatomical",
-          "morphology"
-        ]
-      },
-      {
         "pmid": "42965520",
         "title": "Impact of Artificial Intelligence or Telerehabilitation on Consumer Ratings in Physical Therapy: An Online Randomized Experiment.",
         "journal": "Physical therapy",
@@ -5455,23 +5420,6 @@
         ]
       },
       {
-        "pmid": "43037930",
-        "title": "Neurocognitive Alterations Manifested as Reaction Time Deficits Following ACL Reconstruction: A Systematic Review and Meta-Analysis of Observational Studies.",
-        "journal": "Sports medicine (Auckland, N.Z.)",
-        "journal_issn": "0112-1642",
-        "discipline": "physiology",
-        "date": "2026-Nov-16",
-        "authors": "Mostafa Jalili Bafrouei, Manouchehr Moradi Sabzevar, Hooman Minoonejad et al.",
-        "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) is associated with changes in cognitive-motor processing that may persist beyond physical recovery and are not fully identified by conventional physical performance assessments. OBJECTIVE: This systematic review and meta-analysis aimed to evaluate neurocognitive function as expressed through cognitive-motor performance following ACLR compared with healthy individuals, with particular emphasis on reaction time and higher-order cognitive outcomes. METHODS: Four databases (PubMed, Web of Science, Scopus, Embase) were searched from inception to December 2025. Eligibility criteria included observational studies on cognitive-motor outcomes in individuals from ACLR recovery and healthy controls. Data extraction followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. Methodological quality was evaluated using the Joanna Briggs Institute appraisal tools. Random-effects models were used to calculate standardized mean differences with 95% confidence intervals. Heterogeneity was assessed with I2, subgroup analyses and publication bias evaluations. RESULTS: Twenty-one non-randomised studies involving 986 participants Twenty-one non-randomised studies involving 986 participantswere included. Neurocognitive performance showed a significant impairment in reaction time from ACLR recovery with a moderate effect size (standardized mean difference = 0.56, 95% confidence interval 0.41-0.71, p < 0.001) and high heterogeneity (I2 = 78%). In contrast, pooled analyses showed no statistically significant differences for error rate, accuracy, visual memory, or visual motor speed. CONCLUSIONS: Anterior cruciate ligament reconstruction is associated with persistent reaction time deficits, whereas pooled analyses of error rate, accuracy, visual memory, and visual motor speed did not demonstrate statistically significant differences compared with healthy controls. This pattern suggests selective impairment in the temporal efficiency of cognitive-motor processing rather than generalized cognitive dysfunction. Reaction time may represent a potential marker of altered cognitive-motor processing following ACLR; however, prospective studies are needed to determine its prognostic value and clinical utility for post-ACLR assessment and return-to-sport decision making.",
-        "doi": "10.1007/s40279-026-02541-1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43037930/",
-        "relevance": 3,
-        "matched": [
-          "recovery",
-          "performance"
-        ]
-      },
-      {
         "pmid": "42966568",
         "title": "Temporal Eating Patterns Show Inconsistent Associations With Cancer Incidence and Mortality: Systematic Review of Prospective Studies.",
         "journal": "The Journal of nutrition",
@@ -5739,6 +5687,70 @@
         ]
       },
       {
+        "pmid": "43066663",
+        "title": "Evaluating the effects of changes in minute ventilation and the partial pressure of end-tidal carbon dioxide on the diaphragm electromyogram during voluntary hyperpnoea.",
+        "journal": "Experimental physiology",
+        "journal_issn": "0958-0670",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "Jack R Dunsford, Leah M Mann, Paolo B Dominelli et al.",
+        "abstract": "The diaphragm electromyogram (EMGDIA) is commonly used as a proxy for inspiratory neural drive (IND) based on correlative evidence; however, robust experimental evidence supporting its use is lacking. To determine the effects of independent changes in minute ventilation ( V ̇ E ) and the partial pressure of end-tidal carbon dioxide ( P ETC O 2 ) on EMGDIA. n = 10 healthy adults (20-40 years; n = 5 males, n = 5 females) completed spirometry, a 10-min rest period and a series of hyperpnoea trials at three standardized levels of V ̇ E by having participants breathe according to tidal volume (VT) and breathing frequency (FB) targets. Within each level of V ̇ E , P ETC O 2 was set to -5, +0 or +5 mmHg relative to resting P ETC O 2 using dynamic end-tidal forcing. Trials were performed in a quasi-randomized, single-blind manner. EMGDIA was assessed using an intraoesophageal catheter, standard ventilatory and gas exchange variables were collected, and the perception of dyspnoea intensity was assessed using the Borg category-ratio 0-10 scale. EMGDIA increased significantly with V ̇ E (P < 0.001) but was unaffected by changes in P ETC O 2 (P = 0.320). Moreover, EMGDIA was significantly associated with V ̇ E , the work of breathing, and the pressure-time product of the diaphragm (R2 = 0.762-0.824; all P < 0.001), but not P ETC O 2 (R2 = 0.529; P = 0.947). Dyspnoea perception increased significantly with V ̇ E (P < 0.001) and P ETC O 2 (P < 0.001). During voluntary hyperpnoea involving manipulations of P ETC O 2 across a physiological range observed with exercise (i.e., 5 mmHg below and above resting P ETC O 2 ), EMGDIA reflects the mechanical ventilatory output of IND rather than changes in the drive to breathe due to variations in P ETC O 2 .",
+        "doi": "10.1113/EP094174",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066663/",
+        "relevance": 2,
+        "matched": [
+          "exercise"
+        ]
+      },
+      {
+        "pmid": "43066561",
+        "title": "CetaSpiroX12: An ultrasonic spirometer to investigate respiratory physiology and mechanics in cetaceans.",
+        "journal": "Experimental physiology",
+        "journal_issn": "0958-0670",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "Elmar Ottiger, Christian Buess, Felix Daners et al.",
+        "abstract": "Understanding respiratory physiology in species with exceptionally high respiratory flow, such as cetaceans, requires accurate tools capable of capturing rapid and turbulent airflow. Traditional methods, including Fleisch-type pneumotachographs, are limited by dependence on laminar flow within the flow sensor, sensitivity to environmental conditions, water droplets and restricted measurement ranges, leaving gaps in our knowledge of comparative respiratory mechanics. To address this, we developed and validated a novel ultrasonic spirometer, the CetaSpiroX12, which integrates 12 commercially available human spirometry sensors into a radial manifold to extend the measurable flow range. Bench tests confirmed individual sensor performance to 16 L s-1 and accurate summation of the 12 sensors during assembled-system testing at total flows up to 90 L s-1. The parallel sensor configuration provides a theoretical combined measurement capacity of 192 L s-1, provided that flow through each individual sensor remains within its validated range. Together, these results indicate that the CetaSpiroX12 provides accurate flow measurements across a wide range of respiratory flows, overcoming long-standing limitations of previous approaches. Beyond advancing our understanding of cetacean ventilatory physiology and mechanics, this technology has broader applications for both clinical health assessment in managed populations and non-invasive respiratory studies in the wild. Moreover, the modular manifold design can be adapted to other large marine and terrestrial mammals, enabling comparative investigations into respiratory strategies across species with high ventilatory demands.",
+        "doi": "10.1113/EP091956",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066561/",
+        "relevance": 2,
+        "matched": [
+          "performance"
+        ]
+      },
+      {
+        "pmid": "43066533",
+        "title": "Attacking adaptive reserves in the oxygen transport cascade to enhance V . O 2 max : Time to combine weapons?",
+        "journal": "The Journal of physiology",
+        "journal_issn": "0022-3751",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "Lorcan S Daly",
+        "abstract": "",
+        "doi": "10.1113/JP292701",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066533/",
+        "relevance": 2,
+        "matched": [
+          "oxygen"
+        ]
+      },
+      {
+        "pmid": "43066524",
+        "title": "Deciphering the role of brainstem vestibular-related inhibitory networks in shaping postural reflexes in the Xenopus tadpole.",
+        "journal": "The Journal of physiology",
+        "journal_issn": "0022-3751",
+        "discipline": "physiology",
+        "date": "2026-Nov-21",
+        "authors": "Léandre Lavenu, Mathilde Pain, Gabriel Barrios et al.",
+        "abstract": "Brainstem vestibulospinal (VS) nuclei generate excitatory commands in response to multi-modality sensory inputs, to activate specific spinal networks and generate adapted postural reflexes. Comparably organized in all species, bilaterally-distributed excitatory VS nuclei with both ipsi- and contralateral projections alone fail to explain the mostly unilateral reflex responses typically observed. Consequently, we investigated the role of central vestibular inhibitory circuits in the functional organization of vestibular-driven postural reflexes. Then, using a larval Xenopus brainstem/spinal cord in vitro preparation, we show that the spinal responses evoked by galvanic vestibular stimulation are shaped by both commissural and local inhibitory brainstem networks. We further show that a complex interaction between GABAergic and glycinergic inhibitory networks regulate VS neuron excitability and, consequently, the expression of the spinal response. Our data reveal that, although excitatory VS neurons execute the neural score, inhibitory neurons in the central vestibular system co-ordinate and modulate the overall performance. KEY POINTS: Excitatory vestibulospinal (VS) pathways alone fail to explain reflex postural adjustments. VS neurons receive massive GABA and glycine inputs, both from local and commissural vestibular-related brainstem neurons. Perturbing either inhibitory influence specifically modulates vestibular-evoked spinal reflexes, and commissural integrity is mandatory for proper VS-evoked reflex expression. Both local and commissural neurons regulate VS excitability via complex inhibitory interactions. Our study demonstrates the critical role of brainstem vestibular-related inhibitory circuits in shaping spinal postural responses.",
+        "doi": "10.1113/JP291318",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066524/",
+        "relevance": 2,
+        "matched": [
+          "performance"
+        ]
+      },
+      {
         "pmid": "43062484",
         "title": "Distinguishing anatomical complexity from clinical risk in dual-origin lingual artery anatomy.",
         "journal": "Surgical and radiologic anatomy : SRA",
@@ -5837,40 +5849,6 @@
         "matched": [
           "rehabilitation",
           "injury"
-        ]
-      },
-      {
-        "pmid": "43038277",
-        "title": "Corn Syrup Solids in Infant Formula and Child Health Outcomes: A Systematic Review.",
-        "journal": "Nutrition reviews",
-        "journal_issn": "0029-6643",
-        "discipline": "nutrition",
-        "date": "2026-Nov-16",
-        "authors": "Ying Liao, Shasha Cui, Kevin Fiscella et al.",
-        "abstract": "CONTEXT: The potential impact of corn syrup solids (CSSs) in infant formula on long-term child health outcomes is a critical area of investigation, informing nutritional guidelines and parental choices. OBJECTIVE: This systematic review aimed to investigate the effects of CSSs in infant formula on various child health outcomes. DATA SOURCES: Following PRISMA guidelines, our PROSPERO-registered protocol (CRD420261306977) guided a comprehensive search of PubMed, Embase, Web of Science, and the Cochrane Library, completed on January 23, 2026. DATA EXTRACTION: From 150 identified studies, titles and abstracts were screened, followed by full-text review. Data from eligible studies were extracted independently in duplicate, and study quality and risk of bias were assessed. DATA ANALYSIS: We extracted data from 5 observational and 2 controlled interventional studies. Two studies reported a higher early childhood obesity risk in children fed CSS-containing formula. Other findings included increased food fussiness, decreased food enjoyment, frequent sweet intake, and gut microbiota changes (depleted Bifidobacteriaceae, enriched Lachnospiraceae). Short-term postprandial differences in plasma metabolites and gastric acidity were also noted. Four studies had low risk of bias, 3 had moderate risk. CONCLUSIONS: This systematic review suggests that CSS-containing formula intake during infancy may be associated with altered eating behaviors, gut microbiota changes, acute metabolic responses, and childhood obesity. Future well-designed randomized controlled trials (RCTs) are needed to elucidate these connections. Limitations include a scarcity of robust RCTs, imprecise exposure data, and exclusion of non-English studies. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. [CRD420261306977].",
-        "doi": "10.1093/nutrit/nuag169",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43038277/",
-        "relevance": 2,
-        "matched": [
-          "nutrition",
-          "food"
-        ]
-      },
-      {
-        "pmid": "43036166",
-        "title": "Superficial facial musculature in naked mole-rats: Adaptations to a subterranean niche.",
-        "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-        "journal_issn": "1932-8486",
-        "discipline": "anatomy",
-        "date": "2026-Nov-15",
-        "authors": "Mikaela D Thurber, Diana K Sarko",
-        "abstract": "Naked mole-rats (Heterocephalus glaber) are eusocial rodents with unusually long lifespans. Adaptations to their subterranean habitat include large, well-innervated incisors used for digging underground tunnel systems; oral folds that close behind the incisors; and a specialized tactile system (sensitive incisors in addition to tactile hairs that cover the entire body). This well-developed tactile system compensates for their reduced visual and auditory systems. Naked mole-rats are functionally blind and have small eyes, even compared to other African mole-rat species. They also have relatively poor auditory capabilities as well as absent pinnae. Although few studies have characterized the facial musculature of naked mole-rats, their facial musculature would be expected to have evolved commensurately with adaptations to a subterranean niche. To examine this, we performed detailed dissections of superficial facial musculature in adult naked mole-rats. This included muscle identification and characterization of attachment sites compared to what has previously been shown in rats. Our dissections demonstrated reduced musculature associated with the eyes (e.g., orbicularis oculi), the ears (e.g., auricularis posterior and interscutularis muscles), and the dorsal head (frontalis and occipitalis muscles), but well-developed musculature facilitating movements of the nose and mouth, befitting the roles of these anatomical structures in sensory perception and social interactions. Our findings not only provide insights into the evolutionary adaptations of naked mole-rat facial musculature to a subterranean niche, but will also help inform future studies assessing and interpreting social-emotional communication in naked mole-rats through the lens of species-specific adaptations in the musculature underlying facial expressions.",
-        "doi": "10.1002/ar.70395",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43036166/",
-        "relevance": 2,
-        "matched": [
-          "muscle",
-          "anatomical"
         ]
       }
     ]
@@ -7234,5 +7212,5 @@
       }
     ]
   },
-  "built_at": "2026-11-21 22:29"
+  "built_at": "2026-11-22 22:35"
 }
