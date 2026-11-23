@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23",
-  "updated_at": "2026-11-23 06:34",
+  "updated": "2026-11-24",
+  "updated_at": "2026-11-24 06:41",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,192 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "43071941",
+      "title": "Effects of succinate supplements on metabolic health and muscle mass after mechanical overloading and denervation of skeletal muscles in mice fed high-fat or ketogenic diet.",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "journal_issn": "1715-5312",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "Mantas Dirmontas, Petras Minderis, Aivaras Ratkevicius",
+      "abstract": "Succinate might mediate muscle exercise-induced adaptations in body tissues and organs. We studied metabolic health and body composition in 6-month-old C57BL/6J mouse males after 12 weeks of feeding regular diet (RD, kcal distribution: 13% fat, 57% carbohydrate, 30% protein), high-fat diet (HFD, kcal distribution: 60% fat, 20% carbohydrates, 20% protein) or ketogenic diet (KD, kcal distribution: 80% fat, < 1% carbohydrates, 20% protein) with or without 2% succinate supplements (SUS) in drinking water (n = 10 in each group). In additional set of experiments, functional overloading (FO) of the plantaris muscle (PL) was induced in a group of mice by denervation of the gastrocnemius and soleus muscles at week 6 for all six dietary intervention groups (n = 8-10 in each group). HFD induced the greatest (p < 0.001) increase in body and fat mass. SUS blunted (p < 0.01) initial surge in energy intake when mice were switched to HFD, but did not influence metabolic health measures at the end of study.Mechanical overloading induced ~25% increase in PL mass which was not affected by diet or SUS. In conclusion, SUS does not have a long-term effect on metabolic health or skeletal muscle hypertrophy after overloading.",
+      "doi": "10.1139/apnm-2026-0282",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071941/",
+      "relevance": 7,
+      "matched": [
+        "metabolic",
+        "exercise",
+        "hypertrophy",
+        "adaptation"
+      ]
+    },
+    {
+      "pmid": "43071939",
+      "title": "Protection by ascorbate and catechin at high physiological concentrations against myocardial ischemia-reperfusion injury in an isolated rat heart model.",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "journal_issn": "1715-5312",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "Ahmed Abou Hadeed, Kosar Omidian, Hossein Rafiei et al.",
+      "abstract": "Myocardial ischemia-reperfusion (I/R) injury is an important health concern in myocardial infarction and situations such as angioplasty and cardiac surgeries. Ascorbate (vitamin C) and flavonoids such as catechin are known for their antioxidant activity and are of interest as supplements or added to perfused blood during surgeries to limit I/R injury. While intravenous ascorbate during surgeries has been studied in clinical trials, it has usually been at high pharmacological concentrations (with potential unwanted prooxidant activity). The objectives of this study were to 1) determine the extent to which ascorbate or catechin alone, added to the perfusate at levels which could be in blood after dietary supplementation, can protect myocardial tissue in the reperfusion phase of I/R injury, and 2) evaluate the possible cooperative or synergistic protective effect of ascorbate and catechin when given together. Isolated rat hearts (n=48) were perfused in the retrograde mode with modified Krebs-Henseleit buffer, and following the induction of 30 min global ischemia, ascorbate (150 μM) and/or catechin (5 μM) were added directly into the perfusate during 90 min reperfusion. The experiments showed that 150 μM ascorbate protected the heart against lipid peroxidation and cell apoptosis by 100%, while 5 μM catechin protected by 67% and 90% respectively. Due to the strong protection by ascorbate alone, no cooperative protective effect could be observed when ascorbate and catechin were used together. In conclusion, this preclinical study showed strong protection against myocardial ischemia-reperfusion injury by ascorbate in the perfusate at a much lower concentration than most clinical trials, and protection by catechin at a physiological dose.",
+      "doi": "10.1139/apnm-2026-0027",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071939/",
+      "relevance": 3,
+      "matched": [
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43071602",
+      "title": "Automated action potential parameter analysis for reproducible electrophysiological measurements in neurons.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "Dmytro V Vasylyev, Stephen G Waxman",
+      "abstract": "Quantitative analysis of action potential (AP) waveforms is central to studies of neuronal excitability, ion channel function, disease mechanisms and pharmacological modulation. However, AP analysis is still often performed using partially manual workflows or proprietary software environments that can constrain the amount of information extracted from APs and limit reproducibility, transparency and throughput. Here, we present a freely available, open-source software tool for extracting AP parameters, developed for use with the OriginLab software package Origin/OriginPro. APpar detects APs from membrane voltage recordings using a user-defined derivative criterion and calculates a comprehensive set of excitability parameters, including resting membrane potential, voltage threshold, overshoot, afterhyperpolarization (AHP), AP amplitude, rise and decay time, AP duration, AP half-width, AP width at 0 mV, AP area above voltage threshold, dV/dtmax, dV/dtmin and interspike interval for the respective AP. Because AP threshold is a particularly sensitive and method-dependent measurement, APpar includes a TRUE-threshold validation algorithm. After the initial forward dV/dt threshold crossing is identified, the software finds AP overshoot, searches backward to the closest preceding local dV/dt maximum, then searches backward to the user-defined dV/dt crossing and recalculates AP parameters from this validated threshold point. We validated APpar using APs from dorsal root ganglion neuron current-clamp recordings, including copied identical APs, current-evoked repetitive firing and long-duration spontaneous firing. The software produced stable measurements from identical copied APs and extracted dynamic changes in AP parameters across repetitive and spontaneous firing sequences. APpar provides a transparent, customizable and Origin-compatible framework for reproducible AP analysis in neuronal electrophysiology. KEY POINTS: Action potential (AP) waveforms contain important information about neuronal excitability and function of the underlying ion channels, but their analysis is often performed using partially manual, labour-intensive workflows, constraining the amount of information extracted from each AP, which can limit reproducibility and throughput. Measurements such as AP threshold, amplitude and duration depend strongly on how threshold is defined, creating variability between studies and laboratories. We developed APpar, a freely available open-source software tool that automatically detects APs and extracts a comprehensive set of waveform and excitability parameters within the widely used Origin/OriginPro environment. APpar incorporates a novel TRUE-threshold (Temporally Reversed Unsupervised Extraction of the Threshold) validation algorithm that improves the consistency of derivative-based threshold detection while preserving user control over physiologically meaningful analysis settings. Validation using dorsal root ganglion (DRG) neuron recordings showed that APpar provides stable measurements and enables efficient analysis of single AP, repetitive and spontaneous firing, supporting reproducible studies of neuronal excitability and ion channel function.",
+      "doi": "10.1113/JP291963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071602/",
+      "relevance": 2,
+      "matched": [
+        "training"
+      ]
+    },
+    {
+      "pmid": "43071598",
+      "title": "DEL-1 deficiency exacerbates inflammation-driven cardiac dysfunction during angiotensin II-induced hypertension.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "Alina Maslakova, Maria Knyrim, Michael Marterstock et al.",
+      "abstract": "Hypertension is associated with inflammatory activation in the heart that contributes to cardiac remodelling and functional impairment, yet the mechanisms that regulate these cardiac inflammatory responses remain incompletely understood. Developmental endothelial locus-1 (DEL-1) is a secreted immunomodulatory glycoprotein that regulates leukocyte recruitment and inflammation resolution; however, its constitutive role in cardiac inflammation and remodelling during hypertension has not been defined. Here, we investigated the function of DEL-1 during angiotensin II (ANGII)-induced hypertension using Del1-deficient mice. Echocardiographic analysis revealed a distinct temporal pattern of cardiac remodelling during ANGII infusion. Del1KO mice developed early systolic dysfunction accompanied by diastolic alterations three days after ANGII infusion, whereas wild-type (WT) littermates maintained preserved systolic performance at this stage. Importantly, these functional differences occurred in the absence of differences in arterial pressure, suggesting a blood pressure independent mechanism. Flow cytometric analysis demonstrated markedly enhanced recruitment of neutrophils and inflammatory Ly6Chi monocytes into Del1KO hearts during the early phase of hypertension, indicating amplified inflammatory activation. This was accompanied by activation of the bone marrow haematopoietic compartment, characterized by an early expansion of long-term haematopoietic stem cells, followed by a transient increase in haematopoietic progenitor populations during the intermediate phase of hypertension. During later stages of hypertension, systolic function partially recovered in Del1KO mice but was accompanied by exaggerated hypertrophic remodelling and increased cardiac fibrosis. Together, these findings identify DEL-1 as an endogenous regulator that restrains early cardiac inflammation at the onset of hypertension and supports balanced cardiac adaptation during prolonged hypertensive stress. KEY POINTS: Hypertension is associated with cardiac inflammation and remodelling, but endogenous mechanisms that restrain early inflammatory cardiac injury remain incompletely defined. Developmental endothelial locus-1 (DEL-1) deficiency caused early systolic dysfunction and diastolic alterations during angiotensin II-induced hypertension, despite no early difference in arterial blood pressure. Loss of DEL-1 amplified early recruitment of neutrophils and Ly6Chi inflammatory monocytes to the heart and was associated with activation of the bone marrow haematopoietic compartment. At later stages, systolic function partially recovered in Del1KO mice, but this was accompanied by exaggerated fibrotic remodelling and increased profibrotic gene expression. These findings identify endogenous DEL-1 as a protective regulator that limits early inflammatory cardiac injury and supports balanced cardiac adaptation during hypertensive stress.",
+      "doi": "10.1113/JP291432",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071598/",
+      "relevance": 4,
+      "matched": [
+        "adaptation",
+        "performance",
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43071507",
+      "title": "Correction to 'Amyloid beta plaque pathology induces chemosensory deficits and increases apnoeas in the 5XFAD mouse model of Alzheimer's disease'.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "",
+      "abstract": "",
+      "doi": "10.1113/JP292989",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071507/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43071164",
+      "title": "Classification of hyperplastic anterior choroidal arteries: arterial distribution and proposed sites of persistent anastomosis.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-23",
+      "authors": "Shunji Mugikura, Naoko Mori",
+      "abstract": "",
+      "doi": "10.1007/s00276-026-04056-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071164/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43070841",
+      "title": "The Development of the Strength and Conditioning Coach Evaluation Tool.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "David LaPlaca, Paul Schempp, Jeremy Elliott et al.",
+      "abstract": "LaPlaca, D, Schempp, P, Elliott, J, Weldon, A, and Bishop, C. The development of the strength and conditioning coach evaluation tool. J Strength Cond Res XX(X): 000-000, 2026-The aim of this study was to develop a tool to assess the level of coaching skills of strength and conditioning (S&C) coaches. The study involved 213 S&C coaches working on the elite level with an average of 13.8 years of experience, employed across Major League Baseball, Major League Soccer, National Basketball Association, National Football League, National Hockey League, Armed Forces, Australian Football League, English Premier League, and NCAA Division 1 FBS \"Power Five\" Conferences. Subjects completed an evaluation form composed of qualitative and quantitative questions. Hereafter, 22 subjects further completed a test-retest within 2 weeks, the intraclass correlation coefficient was 0.771 (95% confidence interval: 0729-0.807), demonstrating statistical reliability. This study has produced a preliminary evaluation tool that is reliable for evaluating S&C coaching expertise. It can be used by S&C coaches, their supervisors, and non-S&C managers to guide professional development and assesses the current skills, knowledge, and experiences of a S&C coach.",
+      "doi": "10.1519/JSC.0000000000005723",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070841/",
+      "relevance": 4,
+      "matched": [
+        "strength",
+        "power"
+      ]
+    },
+    {
+      "pmid": "43070796",
+      "title": "Citrulline Malate Ingestion Enhances Muscular Performance During a Selected Hypertrophy Hack Squat Training Protocol.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "Benjamin Wax, Sandor Dorgo, Samuel Montalvo et al.",
+      "abstract": "Wax, B, Dorgo, S, Montalvo, S, Lyons, B, and Mayo, JJ. Citrulline malate ingestion enhances muscular performance during a selected hypertrophy hack squat training protocol. J Strength Cond Res XX(X): 000-000, 2026-This study examined potential ergogenic effects of an oral citrulline malate supplement (CM) during lower-body resistance training. Fifteen resistance-trained men completed a randomized, counterbalanced, double-blind crossover design. Subjects ingested 8.0 g CM or placebo 60 minutes before 8 sets of hack squats at 67% one-repetition maximum to failure with 90-second recovery intervals, repeating the protocol with the alternate treatment 1 week later. Blood lactate before and after exercise, rating of perceived exertion after sets 4 and 8, muscle soreness at 24 and 48 hours, and heart rate and blood pressure at rest and 5 and 10 minutes after exercise were assessed. Hack squat repetition numbers were higher overall in the CM condition (condition effect p = 0.0213), and CM increased total repetitions by 10.7 (95% confidence interval 1.4 to 20.0; p = 0.0265; Hedges' g = 0.61) and total workload by 1,064.7 units (95% confidence interval 84.1 to 2045.4; p = 0.0354; Hedges' g = 0.57). Blood lactate increased after exercise but did not differ by condition. Rating of perceived exertion showed no significant condition effect or Holm-adjusted set-specific difference. Citrulline malate was associated with significantly lower muscle soreness overall and at both 24 and 48 hours after exercise. Heart rate and systolic blood pressure showed condition × time interactions, with Holm-adjusted CM vs. placebo differences at 5 minutes after exercise, whereas diastolic blood pressure showed no significant condition effect or Holm-adjusted time-point difference. Acute CM supplementation may improve lower-body resistance training work capacity and reduce perceived soreness without altering lactate accumulation or perceived exertion.",
+      "doi": "10.1519/JSC.0000000000005744",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070796/",
+      "relevance": 22,
+      "matched": [
+        "training",
+        "hypertrophy",
+        "performance",
+        "exercise",
+        "strength",
+        "recovery"
+      ]
+    },
+    {
+      "pmid": "43070683",
+      "title": "Longitudinal Associations of Hip Flexor Size and Strength with Physical Function in Older Adults with Chronic Low Back Pain.",
+      "journal": "Physical therapy",
+      "journal_issn": "0031-9023",
+      "discipline": "fascia",
+      "date": "2026-Nov-23",
+      "authors": "Felix Marechal, J Megan Sions, Ryan T Pohlig et al.",
+      "abstract": "IMPORTANCE: Older adults with chronic low back pain (cLBP) experience greater functional decline than their pain-free peers, which increases their mortality risk. OBJECTIVE: The objective was to investigate the contribution of hip flexor size into future physical function, beyond hip flexion strength, among older adults with cLBP. DESIGN: This was a 12-month longitudinal study. SETTING: This study was conducted in a clinical research laboratory. PARTICIPANTS: The sample included 250 community-dwelling older adults with cLBP. EXPOSURE(S): Hip flexion strength was measured at baseline via hand-held dynamometry. Hip flexor cross-sectional area (CSA) was measured at baseline for the iliopsoas, rectus femoris, and sartorius via ultrasound brightness mode. To avoid multicollinearity between CSA measures, the hip flexor CSA with the strongest bivariate correlation with the outcome measures was used for analyses. MAIN OUTCOME(S) AND MEASURE(S): Physical function was captured through the 6-Minute Walk Test and the Stair Climb Test, at baseline and 12-month follow-up. RESULTS: At 12 months, 6-Minute Walk Test performance was explained by baseline hip flexion strength (b = 2.439, SE = 1.034, η2p = 0.030), but not by baseline hip flexor CSA. Conversely, Stair Climb Test performance was not explained by baseline hip flexion strength but was explained by baseline hip flexor CSA (b = -0.258, SE = 0.121, η2p = 0.027). CONCLUSIONS: Hip flexion strength and hip flexor size provide distinct insights into future physical function among older adults with cLBP. Hip flexion strength is longitudinally associated with walking capacity, whereas hip flexor CSA provides insight into stairs performance. RELEVANCE: Rehabilitation professionals may consider capturing both hip flexion strength and hip flexor size to better represent ambulatory needs of older adults with cLBP. These modifiable hip characteristics may also help clinicians tailor interventions to their patients' rehabilitation goals.",
+      "doi": "10.1093/ptj/pzag130",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070683/",
+      "relevance": 5,
+      "matched": [
+        "pain",
+        "rehabilitation",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43070635",
+      "title": "Initial Exercise Guidance for Children and Adolescents during and beyond Cancer Treatment: ACSM Expert Consensus Statement - Corrigendum.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "Martin K Fridh, Sabine Kesting, Marie A Neu et al.",
+      "abstract": "",
+      "doi": "10.1249/MSS.0000000000004216",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070635/",
+      "relevance": 4,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43069570",
+      "title": "Simultaneous imaging of arterial and venous territories in human cutaneous microcirculation: An ex vivo anatomical model.",
+      "journal": "Journal of anatomy",
+      "journal_issn": "0021-8782",
+      "discipline": "anatomy",
+      "date": "2026-Nov-22",
+      "authors": "Martin Lhuaire, Aïna Venkatasamy, Severine Carrion et al.",
+      "abstract": "Accurate visualisation of the arterial and venous components of the cutaneous microcirculation remains essential for understanding perforator flap anatomy and skin vascular organisation. Although traditional vascular injection techniques provide detailed anatomical information, their compatibility with modern multimodal imaging and simultaneous arteriovenous radiological discrimination remains limited. This study developed and performed a proof-of-concept evaluation of an ex vivo imaging model for radiological discrimination of selectively injected arterial and venous vascular compartments using dual-dilution latex-barium sulphate (BaSO4) co-injection combined with mammography and photon-counting computed tomography (PCCT). An initial in vitro calibration using a tubing phantom was performed to determine optimal contrast dilutions. The protocol was subsequently evaluated using thigh perforator flaps obtained from 21 fresh-frozen human donors. Eighteen donors underwent combined arterial and venous injections using red arterial (1/2) and blue venous (1/10) latex-BaSO4 mixtures, while three additional donors underwent venous-only injections. Specimens were analysed using magnified mammography and PCCT. Quantitative assessment included signal intensity, signal-to-noise ratio and contrast-to-noise ratio. In vitro experiments demonstrated a linear relationship between contrast concentration and signal intensity, with maximal arteriovenous radiological discrimination obtained using 1/2 and 1/10 dilutions. Mammography provided consistent discrimination between arterial and venous compartments across submillimetre vessel diameters. PCCT enabled three-dimensional visualisation of the vascular network but showed greater variability in radiological discrimination between the predefined arterial and venous compartments, mainly due to voxel size limitations and partial-volume averaging. Incomplete venous filling represented the principal technical limitation and reduced the proportion of specimens suitable for dual-compartment analysis. Completeness of capillary filling was not independently validated. This proof-of-concept study demonstrates the feasibility of simultaneous imaging of selectively injected arterial and venous vascular compartments within the same human specimen. Magnified mammography enabled reliable radiological differentiation between compartments, whereas current PCCT settings were insufficient for equivalent separation. Further optimisation of venous perfusion and independent validation of distal microvascular filling are required before broader quantitative anatomical application.",
+      "doi": "10.1111/joa.70267",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069570/",
+      "relevance": 4,
+      "matched": [
+        "anatomical",
+        "hip"
+      ]
+    },
+    {
       "pmid": "43068382",
       "title": "Correction to 'Peripheral cholecystokinin promotes thermogenesis via vagal afferent signalling, hypothalamic oxytocin and sympathetic outflow to brown adipose tissue'.",
       "journal": "The Journal of physiology",
@@ -3187,6 +3373,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43068382/",
       "relevance": 0,
       "matched": []
+    },
+    {
+      "pmid": "43068658",
+      "title": "Deep learning classification of children with autism spectrum disorder using short-duration center of pressure data.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-21",
+      "authors": "Yumeng Li, Maya Nachega, Sugru Yahaya et al.",
+      "abstract": "Children with autism spectrum disorder (ASD) often demonstrate impaired postural stability. However, assessment of postural stability in this population can be challenging because prolonged standing trials may increase spontaneous fidgeting and reduce data quality. Convolutional neural network (CNN) may offer a practical approach for identifying ASD-related postural control patterns using short-duration center of pressure (COP) data. The purpose of this study was to evaluate the classification performance of a CNN for distinguishing children with ASD from healthy controls using short duration COP data. 49 children, including 20 typically developing children and 29 children with ASD, completed quiet-standing trials on a force plate. COP data were analyzed using CNN models trained separately with 5 s, 10 s, and 15 s COP data inputs. Classification accuracy, precision, recall, and F1 score were calculated to assess the model performance. In general, classification performance improved as COP input duration increased. Using 5 s COP data, the CNN model achieved a classification accuracy of 77.6 %. When the duration was increased to 10 s, accuracy improved substantially to 96.7 %. Extending the duration to 15 s resulted in a minor increase in accuracy to 98.8 %. These findings indicate that short-duration COP contains discriminative information in this sample. Larger multisite samples and external validation are required before clinical application.",
+      "doi": "10.1016/j.jbiomech.2026.113702",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068658/",
+      "relevance": 1,
+      "matched": [
+        "performance"
+      ]
     },
     {
       "pmid": "43066903",
@@ -3758,6 +3960,26 @@
       "matched": [
         "food",
         "meal"
+      ]
+    },
+    {
+      "pmid": "43070619",
+      "title": "Postactivation Performance Enhancement in Highly Trained Sprinters: Effects of Different Jump Squat Loading Strategies.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-19",
+      "authors": "Túlio B M A Moura, Lucas A Pereira, Tomás T Freitas et al.",
+      "abstract": "Moura, TBMA, Pereira, LA, Freitas, TT, Mercer, VP, Moura, FA, and Loturco, I. Postactivation performance enhancement in highly trained sprinters: Effects of different jump squat loading strategies. J Strength Cond Res XX(X): 000-000, 2026-The aim of this study was to investigate the acute effects of different conditioning activities (CAs) on sprint and jump performance, and on muscle contractile properties, in highly trained sprinters. Thirteen male athletes participated in this randomized crossover study. Countermovement jump (CMJ) height, 50-m sprint performance, and muscle contractile properties assessed via tensiomyography (TMG) were measured before and at 5 and 10 minutes after the execution of 1 set of 3 jump squat (JS) repetitions performed either at the optimum power load (JS OPL) or at 80% of 1 repetition maximum (JS 80% 1RM) in a crossover design. Generalized estimating equations were used to analyze the effect of the different CAs on CMJ and sprint performance, whereas a 2-way ANOVA was conducted to analyze the effect of the CAs on the TMG-derived variables. Individual performance responses were examined using the \"true change\" approach. No significant changes were observed after both JS OPL and JS 80% 1RM protocols in CMJ height, sprint performance, or TMG-derived variables (p > 0.05). Overall, the execution of JS-based CAs did not elicit consistent performance enhancements when conventional group-level analyses were applied. Considering the small performance variations typically observed in sprinters, practitioners are advised to use individualized monitoring and more sensitive analytical approaches to better identify meaningful performance changes when using acute performance enhancement strategies.",
+      "doi": "10.1519/JSC.0000000000005745",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070619/",
+      "relevance": 12,
+      "matched": [
+        "sprint",
+        "performance",
+        "strength",
+        "power",
+        "athlete"
       ]
     },
     {
@@ -4711,235 +4933,6 @@
         "training",
         "strength",
         "resistance"
-      ]
-    },
-    {
-      "pmid": "43044031",
-      "title": "Effect of Different Plyometric Training Protocols on Physical Fitness in Trained Youth Soccer Players.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Raouf Hammami, Abdelkader Mahmoudi, Wajdi Dardouri et al.",
-      "abstract": "Hammami, R, Mahmoudi, A, Dardouri, W, and van den Tillaar, R. Effect of different plyometric training protocols on physical fitness in trained youth soccer players. J Strength Cond Res XX(X): 000-000, 2026-This study examined the effects of bilateral and unilateral plyometric training, performed at different volumes, on physical performance in trained youth male soccer players. Thirty-two subjects were randomly assigned to one of three 8-week plyometric training groups: bilateral (4 × 8 reps), high-volume unilateral (4 × 8 reps per leg), and low-volume unilateral (4 × 4 reps per leg). All groups completed 2 supervised sessions per week, with intensity increases adjusted according to individual readiness. Pre- and postintervention assessments included dynamic balance, maximal lower-limb strength (bilateral and unilateral 1 repetition maximum half squat), lower-limb power (five-jump test), linear sprint speed (10 and 30 m), and change-of-direction (CoD) ability. Significant improvements were observed over time for all performance measures (p ≤ 0.001, η2 ≥ 0.41). Unilateral plyometric training was associated with greater improvements in both bilateral and unilateral strength, and five-jump performance, compared with the bilateral condition, whereas CoD, sprint, and balance performance improved similarly across all groups, with no significant differences between training modalities. In addition, no differences were observed between the low- and high-volume unilateral protocols for any measured variables, suggesting that training volume within the tested range did not differentially affect outcomes. The findings indicate that incorporating plyometric training alongside regular soccer practice is associated with improvements in multiple aspects of physical performance in youth players. Within this context, unilateral plyometric training was associated with greater improvements in strength and power outcomes compared with bilateral training, whereas changes in sprint, CoD, and balance performance were similar across training modalities, suggesting that these capacities were not differentially influenced.",
-      "doi": "10.1519/JSC.0000000000005713",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044031/",
-      "relevance": 11,
-      "matched": [
-        "training",
-        "strength",
-        "sprint",
-        "power",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43043067",
-      "title": "Aqua Steps: A Feasibility Study of a new Aquatic Exercise Therapy Intervention for Falls Prevention in Older Adults.",
-      "journal": "Physical therapy",
-      "journal_issn": "0031-9023",
-      "discipline": "fascia",
-      "date": "2026-Nov-17",
-      "authors": "Stelios G Psycharakis, Linda Linton, John Norrie et al.",
-      "abstract": "IMPORTANCE: One-third of people ≥65 years old fall at least once each year. Falls cause major deteriorations in physical and mental health and have high economic costs. Aquatic exercise may reduce falls, but research on older adults at high falls risk is sparse. OBJECTIVE: The objective was to assess the feasibility and acceptability of a new aquatic exercise intervention (Aqua Steps) and explore preliminary evidence on its effectiveness for older adults at high falls risk. DESIGN: A feasibility study for the Aqua Steps intervention, with secondary outcome assessments at baseline, end of intervention, and 6 months after end of intervention. A second group undertook an established pre-existing land-based program for falls prevention (Steady Steps). SETTING: The settings were swimming pools and exercise halls. PARTICIPANTS: Participants were 101 older adults at high falls risk. INTERVENTIONS: Both the aquatic and land-based group participants undertook 60 minutes of supervised exercise therapy per week, for 16 weeks. MAIN OUTCOMES AND MEASURES: Primary outcomes, based on Aqua Steps feasibility, included recruitment, retention, and adverse events. The following secondary outcomes were also explored to identify preliminary evidence of improvements: falls; functional, strength, and balance tests; and patient-reported outcomes. RESULTS: The Aqua Steps intervention exceeded comfortably all feasibility targets set for progression to a large-scale trial; recruitment took 1 month, the program had 88% retention and 90% adherence, and there were no accidents or severe adverse events. After the intervention, falls, fallers, and frequent fallers were reduced by 38%, 36%, and 58%, respectively. There were statistically significant improvements, which were maintained at follow-up, on all functional (22%-70%) and strength (10%-80%) tests, falls efficacy (11%), and balance confidence (8%). In the Steady Steps group, there was a reduction in falls and fallers/frequent fallers (29%-35%) and significant improvements in functional tests (8%-30%) and falls efficacy (7%). CONCLUSIONS: Aqua Steps had very high feasibility and acceptability and was popular and safe. There was preliminary evidence for improvements in falls and risk factors for falls. RELEVANCE: Such positive effects could have a significant impact on people's lives. The findings can inform the design of a large-scale follow-up definitive trial to confirm and generalize findings and to shape future policy on exercise for falls prevention.",
-      "doi": "10.1093/ptj/pzag129",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43043067/",
-      "relevance": 3,
-      "matched": [
-        "exercise"
-      ]
-    },
-    {
-      "pmid": "43042514",
-      "title": "Midlife Cardiorespiratory Fitness and Site-Specific Cancer Outcomes in Men.",
-      "journal": "Medicine and science in sports and exercise",
-      "journal_issn": "0195-9131",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Clare Meernik, David Leonard, Kerem Shuval et al.",
-      "abstract": "PURPOSE: Higher cardiorespiratory fitness (CRF) is associated with a lower risk of cancer and mortality after diagnosis. However, mortality data are generally not specific to cancer sites or causes of death, limiting insights into the underlying mechanisms and opportunities for targeted prevention and survivorship strategies. This study aimed to examine the association between CRF and site-specific cancer incidence and mortality after diagnosis in men. METHODS: This cohort study used data from the Cooper Center Longitudinal Study (1971-2018) linked to Medicare claims (1999-2019). CRF was estimated using a maximal treadmill test. The associations between CRF and site-specific cancer incidence and death after cancer for the leading cancer sites in men (colorectal, lung, and prostate) were estimated using multivariable illness-death models and proportional hazards regression with Gompertz baseline hazards. RESULTS: Among 28,612 men with a mean Medicare follow-up of 7.9 years to cancer incidence, 4,998 colorectal, lung, and prostate cancers were identified. Higher CRF was associated with a lower risk of colorectal (HR: 0.91 per metabolic equivalent of task [MET]; 95% CI: 0.87, 0.96) and lung cancer (HR: 0.81 per MET; 95% CI: 0.77, 0.85), but not prostate cancer. During a mean follow-up of 7.1 years to death after diagnosis of colorectal, lung, or prostate cancer, 1,549 deaths were identified. High- (vs. low-) fit men with colorectal, lung, or prostate cancer had a 33-41% lower likelihood of all-cause mortality, including a generally lower risk of death from cardiovascular disease and other non-cancer causes. CONCLUSIONS: Achieving higher CRF levels may contribute to cancer prevention and longer survival after diagnosis. Interventions that increase CRF through physical activity may improve health across the cancer control continuum.",
-      "doi": "10.1249/MSS.0000000000004213",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43042514/",
-      "relevance": 6,
-      "matched": [
-        "cardiorespiratory",
-        "metabolic",
-        "physical activity"
-      ]
-    },
-    {
-      "pmid": "43041119",
-      "title": "Understanding the conceptual layers of 'sympathetic': Implications for autonomic neuroscience.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Thomas J M Verlinden",
-      "abstract": "",
-      "doi": "10.1113/JP292766",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43041119/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "42868231",
-      "title": "Do Putative Human Reticulospinal Tract Properties Adapt Following Short-Term Isometric Resistance Training?",
-      "journal": "Medicine and science in sports and exercise",
-      "journal_issn": "0195-9131",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Khai Abu-Talip, Jakob Škarabot, Danyang Wei et al.",
-      "abstract": "PURPOSE: The primary purpose of this study was to investigate whether isometric resistance training (RT) leads to reticulospinal tract (RST) adaptations. METHODS: A \"RT group\" of 30 healthy adults completed 4 weeks (15 sessions) of volume-matched unilateral elbow flexion RT involving high (32 repetitions/session at 70% maximal voluntary torque [MVT]) or low (64 repetitions/session at 35%MVT) loads. An additional 15 participants served as controls (CON group). Pre- and post-test MVT, RST properties (RST gain ratio derived from the StartReact assessment; startling auditory stimulus-conditioned/control motor evoked potential [MEP] ratio; and startling stimulus-conditioned/control cervicomedullary MEP [CMEP] ratio), CST excitability and intracortical inhibition properties (in response to transcranial magnetic stimulation) were assessed. RESULTS: MVT increased more in the RT group (+12.8%; n = 30) vs. CON group (-4.3%; n = 15; group (2) × time (2), p = 0.001). However, changes in RST properties assessed using a series of indirect measures did not differ between the RT group (-1.4% to 6.6%; n = 30) and CON group (-4.5% to 10.5%; n = 15; group (2) × time (2), 0.352 ≤ p ≤ 0.834). CONCLUSIONS: RST adaptations within a sample of healthy young men and women, assessed using various indirect measurement approaches, did not occur following only 4 weeks of isometric elbow flexion RT. These findings add to the currently limited scientific evidence from short-term human RT intervention studies available to inform the use of RT for healthy individuals or patients primarily targeting the development of RST function.",
-      "doi": "10.1249/MSS.0000000000004188",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42868231/",
-      "relevance": 10,
-      "matched": [
-        "training",
-        "resistance",
-        "adaptation"
-      ]
-    },
-    {
-      "pmid": "43044055",
-      "title": "Effect Of Joint-Angle Configuration on Hamstring Torque-Duration Relationship Parameters and the Etiology of Motor Performance Fatigue.",
-      "journal": "Medicine and science in sports and exercise",
-      "journal_issn": "0195-9131",
-      "discipline": "physiology",
-      "date": "2026-Nov-16",
-      "authors": "Baptiste Corcelle, Gregory M Blain, Pierre Demeusoy et al.",
-      "abstract": "PURPOSE: This study examined how hamstring muscle-tendon unit length influences critical torque (CT), work capacity above CT (W'), and the mechanisms of motor performance fatigue during and after repeated maximal voluntary contractions. METHODS: Twelve healthy men (25 ± 4 years) performed, on separate days, two fatiguing protocols consisting of fifty 3-s maximal isometric knee flexions (2-s rest) at joint-angle configurations expected to produce relatively long (LL) and short (SL) hamstring muscle-tendon unit lengths. Neuromuscular assessments were conducted before, during, and up to 15 min post-exercise. CT and W' were determined from the torque-duration relationship. Peripheral fatigue was evaluated using peak evoked torques (T100), and central fatigue using voluntary activation (VA) derived from the twitch interpolation technique. Linear mixed-effects models and paired t-tests assessed the effects of time and joint-angle configuration. RESULTS: CT did not differ between LL and SL (p = 0.65), whereas W' was significantly lower at SL than LL (p < 0.001, d = 0.96). MVC torque decreased by ~45% after fatiguing protocols (p < 0.001, η 2p = 0.84), accompanied by reductions in T100 (-22%) and VA (-17). During recovery, VA returned to baseline within 3 min, while T100 remained depressed throughout recovery (p < 0.001). CONCLUSIONS: In the knee flexors, short muscle-tendon unit length reduces the capacity to perform work above CT without altering CT or the magnitude and etiology of fatigue. The rapid recovery of voluntary activation alongside persistent peripheral impairment extends current knowledge of recovery kinetics specifically for repeated maximal knee-flexion exercise.",
-      "doi": "10.1249/MSS.0000000000004206",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044055/",
-      "relevance": 13,
-      "matched": [
-        "fatigue",
-        "performance",
-        "exercise",
-        "recovery",
-        "neuromuscular"
-      ]
-    },
-    {
-      "pmid": "43044051",
-      "title": "Low-Intensity Resistance Training Improves Irisin-Associated Endothelial Function in Aging.",
-      "journal": "Medicine and science in sports and exercise",
-      "journal_issn": "0195-9131",
-      "discipline": "physiology",
-      "date": "2026-Nov-16",
-      "authors": "Sosuke Yasunaga, Shumpei Fujie, Reita Ito et al.",
-      "abstract": "PURPOSE: Low-intensity resistance training (LRT) may be suitable for both muscle and cardiovascular health of older adults. However, its effects and mechanisms remain unclear. This study aimed to examine whether LRT improves endothelial function in adult senescence-accelerated mouse prone 1 (SAMP1) mice, a model of accelerated aging, and whether this response is accompanied by changes in circulating irisin, arterial protein kinase B (Akt)/endothelial nitric oxide synthase (eNOS) signaling, and nitric oxide (NO) levels. METHODS: Adult (38-week-old) SAMP1 mice were randomized to three groups: LRT (climbing a ladder at 40% maximal carrying capacity, 3 days/week for 12 weeks), high-intensity resistance training (80%), or sedentary control, with assessment at 50 weeks of age. Young (13-week-old) SAMP1 mice were used as a sedentary-control group. In the human study, 17 healthy middle-aged and older adults were allocated to an LRT or control group in a randomized controlled trial. LRT participants performed an elastic band-based resistance training program for 45 min, three times per week, for 8 weeks. RESULTS: In adult mice, aging was associated with reduced circulating irisin levels and muscle fibronectin type III domain-containing protein 5 (FNDC5) expression, accompanied by impaired endothelial function, diminished arterial NO production, and attenuated Akt/eNOS signaling. These age-related impairments were improved by LRT. Consistent with these findings in mice, LRT in middle-aged and older adults increased circulating nitrate/nitrite (NOx) and irisin concentrations, accompanied by improvements in endothelial function. CONCLUSIONS: These findings suggest that LRT-induced enhancement of circulating irisin secretion in adult SAMP1 mice and middle-aged and older adults may be involved in the improvement of endothelial function accompanied by increased NO production and the activation of the arterial Akt/eNOS signaling pathway.",
-      "doi": "10.1249/MSS.0000000000004205",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044051/",
-      "relevance": 10,
-      "matched": [
-        "training",
-        "resistance",
-        "sedentary"
-      ]
-    },
-    {
-      "pmid": "43041012",
-      "title": "Three separate pancreatic acinar cell receptors employ different combinations of intracellular pathways to Ca2+ signalling.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-16",
-      "authors": "Muhanad Salih, Julia V Gerasimenko, Oleg V Gerasimenko et al.",
-      "abstract": "Cytosolic Ca2+ spiking in pancreatic acinar cells, elicited by low concentrations of ACh, cholecystokinin (CCK) and gastrin-releasing peptide (GRP), controls the secretion of digestive enzymes, whereas high-intensity stimulation induces sustained Ca2+ elevation initiating acute pancreatitis. Since the discovery of the Ca2+-releasing function of inositol 1,4,5-trisphophate (IP3), it has been assumed that Ca2+ signalling relies on the phospholipase C-IP3 pathway. We have now compared the mechanisms of action of the three physiological stimulants acting on three different receptors. Each pathway to Ca2+ signalling depends on functional IP3 receptors. However, low physiological concentrations of CCK and GRP, unlike ACh, cannot elicit Ca2+ signals without co-operation of an additional intracellular mechanism. CCK-elicited Ca2+ signalling has an absolute requirement for functional intracellular receptors for nicotinic acid adenine dinucleotide phosphate (NAADP) but, surprisingly, does not depend on the activity of CD38, the enzyme involved in the synthesis of both NAADP and cyclic ADP ribose (cADPR). Thus, physiological CCK-evoked Ca2+ signalling requires functional NAADP and IP3 receptors, but not necessarily an increase in the production of these messengers. In contrast, GRP-elicited Ca2+ signal generation does not require functional NAADP receptors but does depend on the operation of CD38, indicating a requirement for increased cADPR production. Even Ca2+ signals elicited by ACh are partially dependent on CD38 but not on functional NAADP receptors. It is the engagement of non-IP3 pathways that allows low concentrations of secretagogues to elicit safe Ca2+ spiking and therefore secretion, obviating the need for potentially toxic high levels of agonists. KEY POINTS: Three different agonists acting on three different receptors, on the same normal pancreatic acinar cell, employ different combinations of intracellular pathways to generate cytosolic Ca2+ signals. Activation of IP3 receptors is always required for Ca2+ signal generation but is insufficient alone. At least two separate intracellular pathways and intracellular receptors are required for physiological Ca2+ signalling. Although functional IP3 receptors are always required, the second parallel pathway, and its relative importance, differs for the different agonists. The exceptionally high sensitivity of pancreatic acinar cells to physiological, low pico-molar, cholecystokinin (CCK) concentrations appears to be due to sensitization of IP3 and nicotinic acid adenine dinucleotide phosphate (NAADP) receptors to resting messenger levels.",
-      "doi": "10.1113/JP292588",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43041012/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "43039960",
-      "title": "A 6-month randomized clinical trial to test the effect of different dietary interventions on abdominal fat components and cardiometabolic profile in overweight adults.",
-      "journal": "European journal of clinical nutrition",
-      "journal_issn": "0954-3007",
-      "discipline": "nutrition",
-      "date": "2026-Nov-16",
-      "authors": "Isa Galvão Rodrigues, Gabriela Maria Pereira Floro Arcoverde, Camila Lima Chagas do Nascimento et al.",
-      "abstract": "INTRODUCTION: Abdominal obesity is strongly associated with cardiometabolic risk and can be modified through nutritional interventions, yet there is still no consensus on the dietary strategy capable of producing the best outcomes. This study examined the effects of different dietary interventions, with macronutrient management, on abdominal fat components and cardiometabolic parameters in overweight adults. METHODS: A randomized clinical trial was conducted with three individualized dietary interventions involving caloric restriction combined with balanced macronutrient management (BALANCED), carbohydrate reduction (LOWCARB), and fat reduction (LOWFAT), in addition to a control group that received qualitative and group-based counseling (CONTROL). Participants were followed for six months, with assessments at baseline, three, and six months. Visceral adipose tissue (VAT) and subcutaneous adipose tissue (SAT) were evaluated by ultrasound, along with body weight, biochemical parameters, and blood pressure. RESULTS: Body weight and VAT decreased significantly over time, with no significant time × group interactions, indicating comparable trajectories across the intervention groups. The average weight reduction was ~3%. Significant changes over time were also observed for total cholesterol, glucose, HbA1c, and blood pressure, with no significant time × group interactions for cardiometabolic parameters. CONCLUSION: After six months of dietary intervention, without changes in physical activity level, modest but significant reductions in body weight and VAT were observed over time, with no significant differences in their trajectories among the intervention groups. No evidence of a differential effect of macronutrient composition on these outcomes was observed.",
-      "doi": "10.1038/s41430-026-01845-9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039960/",
-      "relevance": 13,
-      "matched": [
-        "fat",
-        "diet",
-        "dietary",
-        "nutrition",
-        "nutrient",
-        "carbohydrate"
-      ]
-    },
-    {
-      "pmid": "43039146",
-      "title": "Reduced Erythropoietic Signalling may be responsible for anemia without iron deficiency among Indian Pregnant Women: findings from a cross-sectional study.",
-      "journal": "The American journal of clinical nutrition",
-      "journal_issn": "0002-9165",
-      "discipline": "nutrition",
-      "date": "2026-Nov-16",
-      "authors": "Ravindranadh Palika, Monica Chilumula, Teena Dasi et al.",
-      "abstract": "BACKGROUND: A substantial proportion of anemia is not associated with iron deficiency (ID), particularly in India. However, the aetiology of anemia without ID remains elusive. OBJECTIVE: To compare erythropoietic activity markers (erythropoietin, erythroferrone), micronutrient profiles, and inflammatory markers across four mutually exclusive groups of anemia and iron deficiency (ID) status: anemia with ID, anemia without ID, no-anemia with ID, and no-anemia and no-ID, to identify the factors associated with anemia without ID. METHODS: In this cross-sectional study, pregnant women in their third trimester (n=687) were screened for complete blood count including hemoglobin, plasma ferritin (PF), soluble transferrin-receptor (sTfR), high-sensitive C-reactive protein (hsCRP) and Alpha-1-Acid Glycoprotein (AGP), vitamins B12, A, D and red blood cell-folate and in a sub-sample hepcidin, erythropoietin (EPO) and erythroferrone (EFRE) levels were measured. Anemia was defined when Hemoglobin <11g/dL and ID was defined when inflammation adjusted PF levels <20μg/L. RESULTS: The prevalence of anemia with ID, anemia without ID, no-anemia with ID and no-anemia and no ID were 26%, 21%, 11%, 42%, respectively. The anemia with ID group exhibited significantly lower mean Hb (9.32g/dL; 95% CI: 9.1, 9.5 Vs 10.08g/dL 95%CI: 9.9, 10.2), EFRE (0.55ng/mL, 95%CI: 0.5, 0.7 Vs 0.19ng/mL 95%CI: 0.1, 0.3) and higher median EPO (28.18mIU/mL; IQRs: 22.7, 41.0 Vs 22.00mIU/mL; IQRs: 20.8, 24.5) compared to anemia without ID group. Furthermore, despite lower hemoglobin, median EPO in anemia without ID was comparable to non-anemic groups. Micronutrient or Inflammatory markers were either similar or did not show consistent trends across the four groups. Further, hemoglobin levels showed significant negative correlation with EPO (r=-0.55, p<0.001) in anemia with ID group, but not in anemia without ID group (r=0.11, p=0.438). CONCLUSION: Our study findings suggest that reduced erythropoietic signalling may underly anemia without ID, which is not explained by inflammation or micronutrient deficiencies. Thus, diagnosing ID is vital for effective iron treatment.",
-      "doi": "10.1016/j.ajcnut.2026.101631",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039146/",
-      "relevance": 3,
-      "matched": [
-        "nutrient",
-        "protein",
-        "vitamin"
-      ]
-    },
-    {
-      "pmid": "43039145",
-      "title": "Effects of a multisectoral household agricultural and livelihood intervention on nutrition, development, and morbidity among HIV-affected children 6 to 36 months of age in Western Kenya: A cluster-randomized trial.",
-      "journal": "The American journal of clinical nutrition",
-      "journal_issn": "0002-9165",
-      "discipline": "nutrition",
-      "date": "2026-Nov-16",
-      "authors": "Lisa M Butler, Phelgona Otieno, Bezawit E Kase et al.",
-      "abstract": "BACKGROUND: Food insecurity and HIV are interconnected, potentially increasing nutritional and health-related risks. OBJECTIVE: The Pediatric Shamba Maisha study evaluated the effects of an agricultural and livelihood intervention on growth, development, and common morbidities among children in HIV-affected households in Kenya. METHODS: The Pediatric Shamba Maisha study was a parallel-arm cluster-randomised controlled trial nested within a multisectoral agriculture and livelihood intervention trial among food-insecure adults living with HIV in rural Kenya. The Pediatric Study enrolled children aged 6 to 36 months from participating households. Anthropometric and clinical data were collected every 6 months for 24 months. RESULTS: Of the 359 children enrolled (intervention arm=173, control arm=186), 334 (90%) completed the 24-month visit. In 215 children aged 6 to <24 months at enrolment, height/length increased more in the intervention arm than in the control arm (βheight: 1.18 cm, p=0.004, 95% confidence interval (CI) = (0.390,1.98); βheight-for-age z-score: 0.390, p=0.007, 95% CI = (0.109,0.670)). Weight change of children enrolled at aged 6 to <24 months was similar between study arms across 24 months (βweight: -0.126 kg, p=0.299, 95% CI = (-0.3647,0.113); βweight-for-age z-score: -0.099, p=0.279, 95% CI = (-0.278,0.080)). In 142 children aged 24 to 36 months at enrolment, changes in height and weight over time did not differ between arms. For the intervention compared to control, younger children had lower prevalence of cough (β: -0.790 log-odds, p = 0.037, 95% CI = (-1.57,-0.047)), and older children had lower prevalence of diarrhoea (β: -1.66 log-odds, p = 0.017, 95% CI = (-3.03,-0.296)). Neurobehavioral development outcomes did not differ between study arms. CONCLUSIONS: The intervention improved growth and health of children aged 6 to <24 months at enrolment, underscoring the importance of early-life interventions. TRIAL REGISTRATION: ClinicalTrials.gov Identifiers: NCT02815579, NCT03170986https://clinicaltrials.gov/study/NCT02815579?term=NCT02815579&rank=1https://clinicaltrials.gov/study/NCT03170986?term=NCT03170986&rank=1.",
-      "doi": "10.1016/j.ajcnut.2026.101632",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039145/",
-      "relevance": 4,
-      "matched": [
-        "nutrition",
-        "food"
-      ]
-    },
-    {
-      "pmid": "43039144",
-      "title": "Assessing dietary intake in infants through fecal sample analysis in the LLNEXT Cohort.",
-      "journal": "The American journal of clinical nutrition",
-      "journal_issn": "0002-9165",
-      "discipline": "nutrition",
-      "date": "2026-Nov-16",
-      "authors": "Jurate Gumbaragyte, Caroline Rivera, Anna Bauer et al.",
-      "abstract": "BACKGROUND: Accurate diet tracing is fundamental to diet-health association studies, yet it remains challenging. This is particularly the case for early life studies, which rely on parental recall. Fecal sample analysis offers a non-invasive method for assessing those dietary components that have sufficient quantities of DNA remaining in stool, and are able to be taxonomically distinguished by marker gene sequence. OBJECTIVE: We aimed to determine whether a fecal DNA-based approach can be used to characterize infant dietary history. METHODS: We detected food-derived DNA in fecal samples from 73 infants at 9 and 12 months of age (139 samples total) and 25 mothers (25 samples) in the Dutch Lifelines NEXT cohort using FoodSeq, a novel fecal DNA-based tool. We compared FoodSeq data with infant food frequency questionnaire (FFQ) data using logistic mixed-effects models. We also evaluated the coherence of matching FoodSeq/FFQ in relation to the gut microbiome. RESULTS: Infant fecal samples demonstrated a lower diversity in food groups than observed in the mothers. We identified nine significant associations between matching DNA-detected and FFQ-reported food items including nuts (OR = 1.89 [1.24-2.89], q = 0.035), potatoes (OR = 2.16 [1.94-3.91], q = 0.064), dairy (OR = 2.28 [1.20-4.33], q = 0.061), formula feeding (OR = 3.96 [1.58-9.94], q = 0.055), and pork (OR = 2.44 [1.27-4.67], q = 0.063). Matched FFQ/FoodSeq pairs showed significantly stronger associations than unmatched ones (p = 1.6x10-12). Stronger associations of FFQs to gut microbiome taxa showed higher direction concordance with matching FoodSeq items. CONCLUSIONS: Fecal DNA-based diet identification showed evidence for concordance with several caregiver-reported FFQ categories (i.e., potatoes and nuts) in early life, supporting further development and validation of the FoodSeq tool for infant diet assessment up to 12 months of age.",
-      "doi": "10.1016/j.ajcnut.2026.101634",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039144/",
-      "relevance": 7,
-      "matched": [
-        "diet",
-        "dietary",
-        "food"
-      ]
-    },
-    {
-      "pmid": "43039034",
-      "title": "Corrigendum to 'Dietary guidelines adherence and pregnancy exposure to 10 classes of priority chemicals: an observational study in the Environmental influences on Child Health Outcomes Cohort' Am J Clin Nutr. 2026; volume: 124(2) 101393.",
-      "journal": "The American journal of clinical nutrition",
-      "journal_issn": "0002-9165",
-      "discipline": "nutrition",
-      "date": "2026-Nov-16",
-      "authors": "Diana C Pacyga, Xiaoshuang Xun, Deborah H Bennett et al.",
-      "abstract": "",
-      "doi": "10.1016/j.ajcnut.2026.101628",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039034/",
-      "relevance": 4,
-      "matched": [
-        "diet",
-        "dietary"
       ]
     }
   ]
