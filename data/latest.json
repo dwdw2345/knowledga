@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24",
-  "updated_at": "2026-11-24 06:41",
+  "updated": "2026-11-25",
+  "updated_at": "2026-11-25 06:47",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,306 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "43077687",
+      "title": "Validity of a Consumer-Grade Bioelectrical Impedance Device for Body Composition Assessment Compared with a Three-Compartment Model in Recreationally Active Adults.",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "journal_issn": "1715-5312",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Patrick G Saracino, Hannah K Eberhardt, Cecilia D Salas et al.",
+      "abstract": "This study aimed to validate a consumer multi-frequency bioelectrical impedance device against a 3-compartment (3C) model in recreationally active adults. Following an overnight fast and abstention from caffeine (12 h), alcohol (24 h), and strenuous exercise (24 h), participants underwent body composition assessment using a consumer multi-frequency bioelectrical impedance device (BIAH30; InBody Dial H30). A criterion 3C model was derived from body mass, body volume via air displacement plethysmography, and total body water via a validated multi-frequency bioelectrical impedance device. Fifty-five recreationally active participants (29M/26F; 22±4 years, 170.5±8.2 cm; 70.6±10.5 kg; 24.2±2.6 kg·m⁻²) completed the study. BF% (21.7±7.8% vs 19.9±7.8%) and FM (15.3±5.8 vs 14.0±5.8 kg) were higher with BIAH30 compared to 3C (p < 0.001), whereas FFM (55.5±10.6 vs 56.7±10.4 kg) was lower (p < 0.001). Bland-Altman analysis indicated mean biases of 1.9% (95% LOA: -4.0 to 7.7%), 1.3 kg (95% LOA: -2.7 to 5.3 kg), and -1.2 kg (95% LOA: -5.1 to 2.8 kg) for BF%, FM, and FFM, respectively, with no proportional bias. Lin's concordance correlation coefficient indicated moderate to strong agreement (CCC: 0.90-0.98). In conclusion, the InBody H30 demonstrated significant differences in BF%, FM, and FFM relative to 3C. Mean bias was small, no proportional bias was observed, and agreement was moderate to strong. However, 95% limits of agreement were wide, indicating notable individual variability. While the H30 may serve as a practical, low-cost option for group-level estimates or longitudinal tracking, it should not be considered interchangeable with multi-compartment models for precise individual-level measurement.",
+      "doi": "10.1139/apnm-2026-0163",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077687/",
+      "relevance": 2,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43077681",
+      "title": "Bone Health in Female Athletes Using Hormonal Contraceptives.",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "journal_issn": "1715-5312",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Lauren A Burt, Kelly Drager, Emily Smith-Bregeda et al.",
+      "abstract": "The objectives of this study were to (1) report the prevalence and type of hormonal contraception (HC) use among Canadian elite and world-class athletes and (2) investigate associations between current HC use and bone density, microarchitecture and strength, accounting for sport type (endurance vs. non-endurance). Participants included 61 high performance athletes, mean age 24 years. Endurance-based sport affiliations include long-track speed skating (n=16), cross-country skiing (n=13) and biathlon (n=9). Non-endurance sports were ski cross (n=7), figure skating (n=6), luge (n=4), ski jumping (n=4), and combat sports (n=2). High-resolution peripheral quantitative computed tomography scans of the radius and tibia were acquired and outcome measures included bone mineral density, microarchitecture, geometry and bone strength. Questionnaires captured sport affiliation and reproductive health information. Two-way analysis of variance (ANOVA) was performed to examine the effects of current HC use (yes/no) and sport type (endurance/non-endurance) on bone variables. HC prevalence was 69% (n=42) and the majority of athletes used progestin only intrauterine devices (IUDs, n=29). No evidence of detrimental effects resulting from HC use was found in this cohort. Although some differences were observed between groups, no interaction effects remained significant after multiple-comparison correction and these findings should be interpreted with caution. Overall, the results do not support clinically meaningful differences in bone health between HC groups. These findings highlight the need for longitudinal research examining the effects of currently prevalent HC methods, particularly IUDs, on overall bone health and strength along with lifetime fracture risk in athletes.",
+      "doi": "10.1139/apnm-2026-0090",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077681/",
+      "relevance": 8,
+      "matched": [
+        "athlete",
+        "strength",
+        "endurance",
+        "performance",
+        "sports"
+      ]
+    },
+    {
+      "pmid": "43077359",
+      "title": "Combined resistance and aerobic exercise in chronic kidney disease: An exploratory study of physical activity as a moderator of adaptations.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Jared M Gollie, Alice S Ryan, Michael O Harris-Love et al.",
+      "abstract": "Physical inactivity is common in chronic kidney disease (CKD) and might contribute to impaired skeletal muscle and physical function. Whether habitual physical activity (PA) influences adaptation to structured exercise in CKD remains unclear. We examined the effects of 6 weeks of combined flywheel resistance and aerobic exercise (FRE+AE) on neuromuscular and physical function and explored whether baseline self-reported PA moderated treatment response in older male Veterans with stages 3-4 CKD. Twenty-four participants were randomized to FRE+AE (n = 12) or health education (EDU; n = 12). Outcomes included vastus lateralis (VL MT) and rectus femoris (RF MT) muscle thickness, maximal voluntary isometric torque (MVIT), isokinetic knee-extensor power at 60° s- 1 and 180° s- 1, gait speed (GS), five-repetition sit-to-stand (STS) and timed up and go (TUG). Intervention effects were evaluated using baseline-adjusted linear regression, and baseline PA was examined as a continuous moderator. At 6 weeks, FRE+AE resulted in greater VL MT than EDU (adjusted difference, 3.31 mm; 95% confidence interval, 0.91-5.71; P = 0.010) and greater GS (0.17 m s- 1; 95% confidence interval, 0.07-0.26; P = 0.002). Treatment effects for RF MT (2.09 mm; P = 0.051) and isokinetic power at 180° s- 1 (28 W; P = 0.060) favoured FRE+AE but were not statistically significant after controlling for multiple comparisons. No clear treatment effects were observed for MVIT, power at 60° s- 1, STS or TUG. Baseline PA did not moderate treatment effects across outcomes. These findings demonstrate that short-term FRE+AE can improve VL MT and GS in older male Veterans with moderate-to-advanced CKD, whereas baseline habitual self-reported PA did not explain variation in treatment responsiveness.",
+      "doi": "10.1113/EP093682",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077359/",
+      "relevance": 23,
+      "matched": [
+        "exercise",
+        "aerobic",
+        "resistance",
+        "adaptation",
+        "physical activity",
+        "power"
+      ]
+    },
+    {
+      "pmid": "43077358",
+      "title": "Endurance Exercise Training Before Myocardial Infarction Reduces Decline of Myocardial Function in Old Mice.",
+      "journal": "Medicine and science in sports and exercise",
+      "journal_issn": "0195-9131",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Cajetan Immanuel Lang, Robert Schenke, Sinan Schlüter et al.",
+      "abstract": "BACKGROUND: Pre-infarction endurance training reduces scar formation and adverse cardiac remodeling in rodents; however, evidence is largely restricted to young animals. Whether these benefits extend to aged individuals, the population most affected by myocardial infarction (MI), remains unclear. METHODS: We investigated the effects of 6 weeks of endurance exercise training prior to MI in aged mice (20 months). C57BL/6 mice were randomized to exercise (EX-MI, n=11; treadmill running 30 min/day, 5 days/week) or sedentary conditions (SED-MI, n=12). MI was induced by permanent ligation of the left anterior descending artery. FDG PET imaging was performed on days 5 and 7 post MI, and cardiac structure and function were evaluated by MRI at day 28. Histological analyses were performed ex vivo. RESULTS: Exercise training resulted in smaller and thicker infarct scars compared with sedentary controls. Despite similar lef t ventricular dilation, EX-MI mice showed significantly improved systolic function, with higher ejection fraction and stroke volume. This was supported by enhanced global longitudinal and radial strain rates. Likewise, regional deformation analysis demonstrated higher circumferential and radial strain within the scar. FDG uptake was increased in the infarct region at day 7. Additionally, remote myocardium was thicker and exhibited greater radial deformation in exercised animals. CONCLUSIONS: Our study shows that short time endurance exercise training in older mice prior to acute MI reduces post-MI left ventricular remodeling, scar size, and scar thinning. Myocardial contractility in both the remote and infarct areas were preserved by endurance training, potentially reflecting an enhanced compensatory capacity induced by pre-infarction exercise training.",
+      "doi": "10.1249/MSS.0000000000004217",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077358/",
+      "relevance": 16,
+      "matched": [
+        "exercise",
+        "training",
+        "endurance",
+        "sedentary"
+      ]
+    },
+    {
+      "pmid": "43077275",
+      "title": "Fueling the vicious cycle between HIV and amphetamine use: How HIV Tat blunts dopamine transporter-mediated efflux to drive amphetamine escalation.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Samuel J Mabry, Zachary Freyberg",
+      "abstract": "",
+      "doi": "10.1113/JP292942",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077275/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43077131",
+      "title": "Qualitative and quantitative characterisation of smooth muscle in the human ​common bile duct.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-24",
+      "authors": "Aryan K Sharma, Jaimin P Chauhan, Abed M Zaitoun et al.",
+      "abstract": "PURPOSE: The distribution and abundance of smooth muscle within the human common bile duct (CBD) remain incompletely characterised, with previous studies relying predominantly on qualitative assessment. This study aimed to characterise smooth-muscle architecture within the human ​CBD using complementary qualitative assessment and semi-automated quantitative digital image analysis. METHODS: ​CBD specimens from 106 pancreaticoduodenectomies and 3 total pancreatectomies were stained for desmin, smooth muscle actin (SMA) and calretinin and analysed using QuPath ( https://qupath.github.io ). RESULTS: Desmin-positive smooth muscle was identified in all specimens and was predominantly scattered (44.0%) or interrupted (26.6%), while focal (25.7%) and continuous circumferential (3.7%) patterns were less frequent. Median desmin-positive area was 1.86% (IQR 1.17-2.79%), compared with 33.55% (IQR 25.96-43.54%) for SMA. Qualitative desmin classification demonstrated moderate concordance with quantitative desmin-positive area (ρ = 0.515, p < 0.001). Smooth-muscle abundance and distribution did not differ significantly between malignant and non-malignant specimens and were not associated with preoperative bilirubin or CBD wall thickness. Malignant specimens demonstrated greater CBD wall thickness than non-malignant specimens despite similar smooth-muscle abundance. CONCLUSIONS: These findings demonstrate that smooth muscle is consistently identifiable but predominantly sparse and discontinuously distributed within the surgically resected human ​CBD. Semi-automated digital image analysis provides an objective approach to its quantification; however, studies incorporating disease-free controls and functional assessment are required to determine the physiological significance of these findings.",
+      "doi": "10.1007/s00276-026-04068-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077131/",
+      "relevance": 3,
+      "matched": [
+        "muscle"
+      ]
+    },
+    {
+      "pmid": "43077101",
+      "title": "Mapping lumbar artery perforators on routine contrast-enhanced abdominopelvic MDCT: distribution, morphology, and a coordinate-based perforator map in a Vietnamese population.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-24",
+      "authors": "Do Manh Hieu, Nguyen Van Phung",
+      "abstract": "PURPOSE: Imaging data on the lumbar artery perforators (LAPs) are limited and, for Vietnamese subjects, absent. We assessed whether contrast-enhanced abdominopelvic multidetector CT (MDCT) acquired for unrelated indications-with no extra imaging-can characterise LAP distribution and morphology and yield the first coordinate-based perforator map in this population. METHODS: We retrospectively analysed contrast-enhanced abdominopelvic MDCT of 108 subjects (216 hemi-backs) acquired for unrelated indications (256-detector scanner, 0.5 mm reconstruction). On multiplanar, maximum-intensity-projection, and volume-rendered images, each perforator was assigned a source level (LA1-LA4), a diameter at deep-fascia penetration, and cutaneous emergence coordinates on an Oxy system. Within-subject non-independence was handled with the intraclass correlation coefficient (ICC) and cluster-robust regression. RESULTS: Nine hundred seventy-seven perforators were identified. Diameter increased from LA1 to LA4 (LA4-LA1 difference 0.83 mm, 95% CI 0.72-0.95; overall mean 1.98 ± 0.54 mm), whereas number was non-monotonic-lowest at LA2 (n = 121, below LA1 n = 167) and rising sharply to LA3 (n = 247) and LA4 (n = 442). Diameter did not differ by side (p = 0.38) or sex (p = 0.90). The emergence point shifted toward the inter-iliac-crest line from LA1 to LA4 (p < 0.001), forming two paravertebral clusters densest in the lower lumbar region. Clustering was mild (ICC 0.056), leaving conclusions unchanged. CONCLUSION: Routine abdominopelvic MDCT can map lumbar artery perforators without additional imaging. LA3-LA4 are the dominant sources in number and calibre, comparable between sides and sexes; the resulting coordinate-based map-the first for a Vietnamese population-provides a reproducible search window for preoperative localisation, pending intraoperative validation.",
+      "doi": "10.1007/s00276-026-04055-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077101/",
+      "relevance": 11,
+      "matched": [
+        "pelvic",
+        "lumbar",
+        "morphology",
+        "acl",
+        "fascia"
+      ]
+    },
+    {
+      "pmid": "43077098",
+      "title": "The tibiofibular syndesmosis needs clarification, not overcomplication.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-24",
+      "authors": "Xiuqi Liu, Mette Renate Andersen, Guillaume Cordier et al.",
+      "abstract": "",
+      "doi": "10.1007/s00276-026-04064-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077098/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43077026",
+      "title": "Anastomosis between an extracranial C1/2-origin left posterior inferior cerebellar artery and the V4 segment of the vertebral artery diagnosed by magnetic resonance angiography.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "journal_issn": "0930-1038",
+      "discipline": "anatomy",
+      "date": "2026-Nov-24",
+      "authors": "Atsumasa Toda, Akira Uchino, Yoko Usami et al.",
+      "abstract": "PURPOSE: To describe a case of a congenital anastomosis between the posterior inferior cerebellar artery (PICA) arising from the vertebral artery (VA) at the extracranial C1/2 level and the V4 segment of the VA, forming a large arterial ring involving the V3-V4 segments. METHODS: Magnetic resonance imaging (MRI), including magnetic resonance angiography (MRA), was performed in a 64-year-old man presenting with right lower-extremity weakness for evaluation of suspected cerebrovascular disease. MRI was performed using a 3-T scanner, and MRA was performed using the standard three-dimensional time-of-flight technique. RESULTS: MRI revealed no evidence of acute cerebral infarction. MRA demonstrated that the left PICA originated from the extracranial VA at the C1/2 level. A short but large anastomotic artery was identified between the left PICA and the V4 segment of the left VA, forming a large arterial ring involving the V3-V4 segments. The right VA and right PICA were normal in appearance. Other findings included a small aneurysm of the right internal carotid artery (ICA) and stenosis of the left ICA at its origin. CONCLUSION: To our knowledge, this is the first reported case of an anastomosis between an extracranial C1/2-origin PICA and the V4 segment of the VA diagnosed by MRA. Although a tiny anastomosis between these arteries may be detected by catheter angiography or cadaveric dissection, it may not be visualized on MRA because of its limited spatial resolution. In the event of occlusion of one channel of the arterial ring, the other channel and the anastomotic artery may serve as important collateral pathways.",
+      "doi": "10.1007/s00276-026-04054-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077026/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43075938",
+      "title": "Cellular composition and morphology of the human nasal epithelium in the superior turbinate.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-24",
+      "authors": "Daiana Yedgey, Victoria F Low, Maurice A Curtis",
+      "abstract": "The sense of smell is essential for environmental awareness, food safety, and quality of life, yet it is vulnerable to aging, environmental insults, viruses, and neurological disease. Our understanding of the cellular composition and morphology of the human nasal epithelium is heavily influenced by rodent studies or small biopsies from humans. The human nasal cavity contains three epithelial types: olfactory epithelium (OE), transitional epithelium (TE), and respiratory epithelium (RE). Epithelial types differ in the relative composition of olfactory sensory neurons (OSNs) and supporting cells. However, the intact human nasal mucosa has not been studied in detail. Here, we characterized the morphology of tissue from large en bloc specimens (>7 cm3) that included both cranial and facial aspects of the olfactory system of 13 embalmed human cadavers. Using histochemical stains, chromogenic and fluorescent immunohistochemistry with markers targeting cilia, sustentacular cells, basal cells, olfactory neurons, olfactory ensheathing cells, fibroblasts, and cell membranes, we assessed the epithelial morphology and continuity from OE through TE to RE. A custom image-analysis pipeline was developed to quantify epithelial thickness and delineate the epithelial subtypes. Our findings demonstrate distinct cellular compositions and structural organization across OE, TE, and RE, confirm variable OE thickness compared with RE, and highlight complex epithelial transitions not captured in small biopsies. This work provides an integrated anatomical and molecular characterization of the human nasal epithelium across its full anatomical extent, establishing a foundational reference for the study of aging, disease, and olfactory dysfunction.",
+      "doi": "10.1002/ar.70404",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43075938/",
+      "relevance": 4,
+      "matched": [
+        "morphology",
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "43075826",
+      "title": "A new specimen of Pterygornis dapingfangensis (Aves: Enantiornithes) with implications for early avian cranial morphology.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-24",
+      "authors": "Min Wang, Zhiheng Li, Zhonghe Zhou",
+      "abstract": "Disarticulated fossil remains reveal critical anatomical details that are often obscured by the skeletal overlap and taphonomic flattening typical of articulated Mesozoic birds. Here, we report a nearly complete, fully disarticulated enantiornithine bird from the Lower Cretaceous Jiufotang Formation, northeastern China. The new specimen, which is referrable to Pterygornis dapingfangensis, reveals previously unknown morphologies and corroborates the presence of a fully fused pelvis in this species. Exquisitely preserved cranial elements demonstrate an ancestral non-avian theropod palatal architecture, characterized by well-developed basipterygoid processes, an elongate vomer bearing a broad premaxillary ramus, and a robust pterygoid with a caudally bifurcated quadrate ramus. This plesiomorphic palate morphology reinforces growing evidence that enantiornithines retained an akinetic skull, suggesting that the enantiornithine cranium was generally evolutionarily conservative.",
+      "doi": "10.1002/ar.70403",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43075826/",
+      "relevance": 6,
+      "matched": [
+        "morphology",
+        "kinetic",
+        "skeletal",
+        "anatomical"
+      ]
+    },
+    {
+      "pmid": "43075814",
+      "title": "The History of Anatomy Is Not Merely the History of Discovering the Human Body; It Is Also the History of How We Have Come to Know the Human Body.",
+      "journal": "Clinical anatomy (New York, N.Y.)",
+      "journal_issn": "0897-3806",
+      "discipline": "anatomy",
+      "date": "2026-Nov-24",
+      "authors": "R Shane Tubbs",
+      "abstract": "",
+      "doi": "10.1002/ca.70257",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43075814/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43074750",
+      "title": "May the haemodynamic force be with you: Promise and challenges in preclinical small rodent assessment.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Alireza Kashef, Parashar D Bhatt, Renée A Gorman",
+      "abstract": "",
+      "doi": "10.1113/JP292798",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43074750/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43073329",
+      "title": "Postprandial response prediction after high-carbohydrate and high-fat standardised meals using global, local, and phenotypic scores.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-24",
+      "authors": "F M Del Razo-Olvera, A T Arias-Marroquín, A Huerta-Chagoya et al.",
+      "abstract": "BACKGROUND/OBJECTIVES: Metabolic risk is assessed almost entirely from fasting samples, although adults spend most waking hours postprandially. We tested whether fasting-derived polygenic and phenotypic scores predict the postprandial excursion itself. SUBJECTS/METHODS: In a hypothesis-generating physiological study, 96 Mexican adults underwent standardised high-carbohydrate and high-fat meal challenges in random order. We tested a multi-ancestry-derived global polygenic score (gPRS), a four-variant Mexico-specific score (mxPRS) and phenotypic scores against the fasting concentration, the postprandial trajectory and the incremental area under the curve (iAUC). RESULTS: The phenotypic score predicted glucose and insulin trajectories (β = 8.1 mg/dL and 17.5 µU/mL per SD, both p < 0.001) but not glucose iAUC (p = 0.358). The mxPRS predicted triglycerides in both domains (fasting p = 0.027; iAUC β = 2808 mg/dL·min per SD, p = 0.026) and neither glucose nor insulin iAUC. The gPRS predicted no fasting concentration and no iAUC except insulin after carbohydrate, which was unstable. Most variance was unexplained. CONCLUSIONS: These exploratory findings are hypothesis-generating. Ancestry-relevant variants merit further study as predictors of postprandial lipaemia in admixed populations, and accessible phenotypic measurements carry more information about postprandial glucose and insulin than a multi-ancestry genome-wide score.",
+      "doi": "10.1038/s41430-026-01851-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073329/",
+      "relevance": 9,
+      "matched": [
+        "carbohydrate",
+        "fat",
+        "meal"
+      ]
+    },
+    {
+      "pmid": "43076069",
+      "title": "Correction to: Reporting Completeness of Systematic Reviews of Nutrition or Diet-Related Randomised Controlled Trials: A Meta-Research on Adherence to PRISMA Items.",
+      "journal": "Nutrition reviews",
+      "journal_issn": "0029-6643",
+      "discipline": "nutrition",
+      "date": "2026-Nov-23",
+      "authors": "",
+      "abstract": "",
+      "doi": "10.1093/nutrit/nuag177",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43076069/",
+      "relevance": 4,
+      "matched": [
+        "nutrition",
+        "diet"
+      ]
+    },
+    {
+      "pmid": "43074396",
+      "title": "Morphology of the endocranial cavities of Stratiotosuchus maxhechti (Notosuchia, Mesoeucrocodylia) from the Late Cretaceous of Brazil.",
+      "journal": "Journal of anatomy",
+      "journal_issn": "0021-8782",
+      "discipline": "anatomy",
+      "date": "2026-Nov-23",
+      "authors": "Philippe George Azambuja, Paulo Victor Luiz Gomes da Costa Pereira, Athirson de Souza Albuquerque et al.",
+      "abstract": "Notosuchia is a group of mostly terrestrial crocodylomorphs found predominantly in the Mesozoic of Gondwana. Currently, approximately 30 specimens have been reported from the Bauru Group (Paraná Basin) in southeastern Brazil. Baurusuchidae, a notosuchian group comprising only terrestrial species, is typically recovered from the Late Cretaceous of the Bauru Group and includes Stratiotosuchus maxhechti, the focus of this study. Here, we focus on the holotype, recovered from an outcrop of the Adamantina Formation (Paraná Basin) in São Paulo State. The specimen was subjected to computed tomography (CT) to study its encephalic endocast, paratympanic sinus system, nasal cavities, and associated structures. One of these associated structures, the paranasal sinus system, is similar to those described in the literature for other notosuchians, such as Campinasuchus and Barreirosuchus, with pneumatic structures within the maxilla and jugal, as well as a lacrimal sinus. The olfactory region was present, with a morphology different from that of extant taxa (e.g., dorsoventral flattening of the structure) and more similar to the patterns described for other oreinirostral skulls. Despite the poor preservation of the encephalic endocast, it was possible to identify morphological patterns consistent with those reported in other baurusuchids, namely a sigmoid-shaped encephalon oriented almost horizontally, distinct from that of the extant crocodyliform described herein. The paratympanic sinuses were much more complex than in extant taxa. This structure shows high plasticity within the crocodyliform lineage, probably representing a basal characteristic associated with terrestrial habits that was lost in several lineages, especially in aquatic and semiaquatic forms. The paratympanic sinuses and the development of the olfactory region are possible indicators of the importance of sensory organs in supporting the hypercarnivorous paleoecological role historically interpreted for this taxon in the Late Cretaceous of the Bauru Group.",
+      "doi": "10.1111/joa.70274",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43074396/",
+      "relevance": 3,
+      "matched": [
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43073858",
+      "title": "Risk factors and efficacy comparison of different treatment methods for cervical spondylotic myelopathy complicated with traumatic central cord syndrome.",
+      "journal": "BMC musculoskeletal disorders",
+      "journal_issn": "1471-2474",
+      "discipline": "fascia",
+      "date": "2026-Nov-23",
+      "authors": "Shaosong Sun, Xingchen Zhang, Youlai Yu et al.",
+      "abstract": "OBJECTIVE: We aimed to analyze the independent risk factors for cervical spondylotic myelopathy (CSM) patients with traumatic central cord syndrome (TCCS). In addition, the short-term and medium-term efficacy of conservative treatment and surgical treatment on patients' neurological function and imaging were compared. METHODS: Total of 182 patients with CSM admitted in our hospital during January 2016 to December 2021 were chosen as the study subjects. They were divided into a complicated group (with TCCS) and a non-complicated group (without TCCS). Influencing factors were analyzed using univariate and multivariate logistic regression analyses. A nomogram prediction model was constructed based on these factors. Patients with TCCS were divided into a conservative group (n = 30) and a surgical group (n = 38) according to the actual treatment received. Changes in the American Spinal Injury Association (ASIA) score, Spinal Cord Independence Measure III (SCIM-III) score, modified Japanese Orthopaedic Association (mJOA) score, and imaging parameters were compared between the two groups before treatment and at 3 and 6 months after treatment. Subgroup analyses were also performed according to ASIA grade, surgical timing, and surgical approach. Complications and the minimal clinically important difference (MCID) were assessed. RESULTS: Age, positive pathological signs, hand intrinsic muscle score, intramedullary high signal (IMHS) length, degree of spinal cord compression, and degree of spinal canal stenosis were all associated with CSM complicated by TCCS (P < 0.05). Multivariate Logistic regression analysis showed that advanced age (OR = 2.264), high IMHS length (OR = 2.532), high degree of spinal cord compression (OR = 3.438), and high degree of spinal canal stenosis (OR = 3.900) were independent risk factors for CSM complicated by TCCS. And high hand intrinsic muscle score (OR = 0.430) was an independent protective factor (all P < 0.05). A nomogram prediction model was constructed based on the above five factors. At 3 months after treatment, the improvements in ASIA sensory and motor scores, SCIM-III score, mJOA score, intervertebral space height, and cervical lordosis angle in the surgical group were significantly greater than those in the conservative group (all P < 0.05), and the differences reached the MCID threshold. At 6 months after treatment, no significant differences were observed in any indicators between the two groups (all P > 0.05). Subgroup analysis by ASIA grade showed that in the B/C grade subgroup, the improvement in ASIA motor score at 3 months was greater in the surgical group than in the conservative group (P = 0.038). No significant differences in neurological improvement were found between the surgical timing subgroups or between the surgical approach subgroups. There was no significant difference in the incidence of complications between the two groups (P > 0.05), and no severe complications were observed in either group. CONCLUSION: Advanced age, low hand intrinsic muscle score, high IMHS length, high degree of spinal cord compression, and high degree of spinal canal stenosis are independent risk factors for CSM complicated by TCCS. The nomogram provides a visual tool for clinical risk screening. Surgical treatment can significantly promote early (3-month) recovery of neurological function and imaging structure compared with conservative treatment, offering a distinct advantage in accelerating rehabilitation. However, the efficacy of the two treatment modalities converges at 6 months.",
+      "doi": "10.1186/s12891-026-10229-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073858/",
+      "relevance": 2,
+      "matched": [
+        "rehabilitation",
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43073852",
+      "title": "Correction: A combined classification system for preaxial foot polydactyly and its derived surgical strategies.",
+      "journal": "BMC musculoskeletal disorders",
+      "journal_issn": "1471-2474",
+      "discipline": "fascia",
+      "date": "2026-Nov-23",
+      "authors": "Yu Chen, Chunhua Yin, Wei Liu et al.",
+      "abstract": "",
+      "doi": "10.1186/s12891-026-10749-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073852/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
       "pmid": "43071941",
       "title": "Effects of succinate supplements on metabolic health and muscle mass after mechanical overloading and denervation of skeletal muscles in mice fed high-fat or ketogenic diet.",
       "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
@@ -3963,6 +4263,23 @@
       ]
     },
     {
+      "pmid": "43073891",
+      "title": "Long-term outcomes following non-operative treatment of grade II and III medial collateral ligament injuries with and without concomitant ACL injury.",
+      "journal": "BMC musculoskeletal disorders",
+      "journal_issn": "1471-2474",
+      "discipline": "fascia",
+      "date": "2026-Nov-19",
+      "authors": "Jamie S Brown, Anders Isacsson, Jaanika Paemre et al.",
+      "abstract": "BACKGROUND: Non-operative treatment is widely accepted for isolated grade II medial collateral ligament (MCL) injuries. However, optimal management of grade III injuries, particularly those associated with anterior cruciate ligament (ACL) injury, remains controversial. METHODS: A prospective cohort of consecutive acute knee injuries were referred for subacute MRI. Grade II or III MCL injuries on MRI were followed-up with Knee injury and Osteoarthritis Outcome Score (KOOS), Tegner activity scale (TAS), clinical examination, and radiography at mean 11.5 years in 154 of 202 (76%) patients. RESULTS: KOOS and TAS were not statistically significantly different in patients with MCL grade II compared to MCL grade III injury and MCL grade II compared to MCL grade II/ACL injury. There were no statistically significant differences in KOOS after MCL grade II/ACL compared to MCL grade III/ACL injury, however the TAS was lower in the latter (median 4 versus 2, p = 0.038, 95% CI 0-2). There were statistically significant differences in KOOS Sport/recreation, QOL, KOOS4 and TAS after MCL grade III/ACL injury compared to isolated MCL grade III injury (median 75 vs. 90 [p = 0.015, 95% CI 0-30], 75 vs. 88 [p = 0.022, 95% CI 0-25], 81 vs. 88 [p = 0.052, 95% CI 0-17] and 2 vs. 4 [p = 0.014, 95% CI 0-2] respectively). The proportion with radiographic osteoarthritis was 25% after isolated MCL grade II/III and 41% for MCL grade II/III with ACL injury. CONCLUSIONS: With the exception of a lower TAS for MCL grade III/ACL compared to MCL grade II/ACL, non-operatively managed grade III MCL injuries with and without ACL injury had comparable patient-reported and radiographic outcomes compared to their grade II counterparts.",
+      "doi": "10.1186/s12891-026-10760-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073891/",
+      "relevance": 6,
+      "matched": [
+        "ligament",
+        "injury"
+      ]
+    },
+    {
       "pmid": "43070619",
       "title": "Postactivation Performance Enhancement in Highly Trained Sprinters: Effects of Different Jump Squat Loading Strategies.",
       "journal": "Journal of strength and conditioning research",
@@ -4587,352 +4904,6 @@
       "relevance": 1,
       "matched": [
         "hip"
-      ]
-    },
-    {
-      "pmid": "43046776",
-      "title": "Mechanistic investigation of central, coronary, and arterial hemodynamics during lower body negative pressure using a validated 0D-1D cardiovascular model.",
-      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-      "journal_issn": "8750-7587",
-      "discipline": "physiology",
-      "date": "2026-Nov-18",
-      "authors": "Francesco Tripoli, Luca Ridolfi, Jerry J Batzel et al.",
-      "abstract": "Lower body negative pressure (LBNP) is used in physiological and space medicine research as a tool to simulate central hypovolemia and orthostatic loading. Despite its extensive application, hemodynamic characterization is fragmented due to limitations in current acquisition methodologies and substantial inter-individual variability in LBNP-induced cardiovascular responses. This study presents an advanced multiscale 0D-1D cardiovascular model to investigate the hemodynamic response to graded LBNP (0 to -50 mmHg). The model combines a 1D representation of the arterial and coronary trees with a 0D description of the peripheral, venous, cardiopulmonary, coronary, and cerebro-ocular circulations. The model accounts for short-term regulatory mechanisms (i.e., baroreflex, cardiopulmonary reflex, and cerebral autoregulation) and includes transcapillary fluid exchange and lymphatic return to the heart. Model outcomes were validated against in vivo measurements obtained during a previously published graded LBNP experimental study. Once validated, the model enabled a detailed investigation of cardiac and arterial hemodynamics, including ventricular mechano-energetic and oxygen consumption parameters, coronary circulation, and pressure wave propagation throughout the arterial tree. The simulations revealed a greater mechano-energetic vulnerability of the right ventricle compared with the left ventricle, whereas coronary blood flow remained nearly constant despite the increase in rate-pressure product at higher LBNP levels. Wave propagation analysis revealed variations limited to the lower-limb arteries due to elevated transmural pressure and arterial stiffening. The proposed in silico - in vivo framework provides a comprehensive description of cardiovascular responses to LBNP, offering mechanistic insights that are difficult to obtain experimentally.",
-      "doi": "10.1152/japplphysiol.90397.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046776/",
-      "relevance": 1,
-      "matched": [
-        "oxygen"
-      ]
-    },
-    {
-      "pmid": "43046710",
-      "title": "Plasma Amino Acid Responses to an Oral Glucose Challenge Relate More Strongly to Obesity Than to Insulin Resistance.",
-      "journal": "American journal of physiology. Endocrinology and metabolism",
-      "journal_issn": "0193-1849",
-      "discipline": "physiology",
-      "date": "2026-Nov-18",
-      "authors": "Eduardo D S Freitas, Kailin A Johnson, Matthew Buras et al.",
-      "abstract": "The coexistence of obesity and insulin resistance is associated with elevated plasma amino acid concentrations. However, it remains unclear whether obesity or insulin resistance is more strongly associated with plasma amino acid dysregulation. Twenty-one adults were studied spanning a broad range of obesity and insulin resistance, and who underwent an oral glucose tolerance test (OGTT). Insulin resistance was assessed in the basal state using the homeostasis model assessment of insulin resistance (HOMA-IR) and during the OGTT from the OGTT-derived plasma glucose and insulin responses, using the Matsuda insulin sensitivity index (Matsuda-ISI). Principal component analysis (PCA) revealed greater clustering of amino acid responses according to obesity-related measures (body mass index, body fat, body fat percentage, and waist circumference), as well as HOMA-IR and Matsuda-ISI, during the OGTT-stimulated state compared with the fasting state. Regression analyses showed statistically significant models (P < 0.05) only for branched-chain amino acids (BCAAs) in both the fasting and OGTT-stimulated states. The models explained 59% and 67% of the variance in BCAA outcomes in the fasting and OGTT-stimulated states, respectively. A composite obesity score, derived from the obesity-related measures, was a significant predictor of BCAAs in both states, whereas indices of insulin resistance/sensitivity were not. In conclusion, these exploratory findings show that plasma amino acids, specifically BCAAs, are more closely related to obesity than to insulin resistance, with these differences in plasma amino acid profiles becoming more evident during an OGTT-stimulated state than in the fasting state.",
-      "doi": "10.1152/ajpendo.90181.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046710/",
-      "relevance": 3,
-      "matched": [
-        "resistance"
-      ]
-    },
-    {
-      "pmid": "43067200",
-      "title": "Modeling intersegmental mechanics to reproduce physiologic coordination patterns of multi-joint finger movements.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-17",
-      "authors": "Orooluwa D Emmanuel, Quang D Tran, Derek G Kamper et al.",
-      "abstract": "Biomechanical models of the hand are important for understanding the functional roles of individual muscles to facilitate rehabilitation planning or prediction of surgical outcomes. Interpreting the contributions of specific hand muscles is challenging, however, because of the complex anatomy of the hand, including multiarticular muscles, distributed tendon insertions, and soft tissue structures. Most existing biomechanical models estimate joint torques based primarily on geometric moment arms and therefore rely on a kinematic representation of muscle action. In this study, we developed a dynamic biomechanical model of the index finger that incorporates intersegmental mechanical interactions arising from tendon pathways, adhesions, and ligamentous constraints (model 1: 'intersegmental mechanics model'), enabling more accurate prediction of multi-joint coordination patterns produced by individual musculotendons. The performance of the proposed model was compared with that of a conventional kinematic model (model 2: 'individual joint moment-arm model'). Both models were used to simulate index finger movements driven by individual muscle forces. Predicted joint coordination patterns were compared with experimental data collected from in vitro and in vivo studies. Model 1 reproduced multi-joint coordination patterns more accurately than Model 2, producing lower RMSE values in 26 of 27 submovements. This advantage was most evident for intrinsic plus and intrinsic minus movements, suggesting that intersegmental mechanical interactions are important for reproducing intrinsic muscle-driven coordination patterns relevant to hand function. These findings highlight the importance of incorporating intersegmental dynamics into finger modeling and suggest that the proposed framework may provide a useful tool for studying hand function and its impairment.",
-      "doi": "10.1016/j.jbiomech.2026.113695",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43067200/",
-      "relevance": 10,
-      "matched": [
-        "joint",
-        "muscle",
-        "tendon",
-        "ligament",
-        "biomechanic",
-        "kinematic"
-      ]
-    },
-    {
-      "pmid": "43067199",
-      "title": "The effect of prosthetic alignment and multiplanar deformation of a single prosthetic foot on musculoskeletal model predictions in unilateral transtibial prosthesis users.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-17",
-      "authors": "Jannis Hill, Cleveland T Barnett, Paul J Felton",
-      "abstract": "Prosthetic design and alignment are optimised to benefit prostheses users. Computer simulations can help to explain how prosthetic changes affect prosthesis users' bodies but often neglect some prosthetic design characteristics. This study explores how including non-sagittal plane deformation of the prosthetic foot and prosthetic foot to socket alignment affect prosthetic limb joint angles and joint moments. A lower-body musculoskeletal model using kinematic and kinetic data of overground running from unilateral transtibial prostheses users. The model incorporated a prosthetic foot scaled to each participant for four model variations (1) two to account for individual prosthetic alignment and (2) two to account for non-sagittal internal deformation of the prosthetic foot. Comparisons were made between prosthetic limb joint angles and normalised joint moment time histories and peaks. Correlations between prosthetic foot to socket offsets and peaks were also assessed. Prosthetic alignment changes caused small variations in angle and moment comparisons, but medio-lateral alignment correlated strongly with non-sagittal angles and moments (r > 0.80). Allowing for three-dimensional deformation in the model of the prosthetic foot resulted in generally small variations in joint angles and moments but were highest in non-sagittal planes. These were more pronounced during a run with a higher degree of non-sagittal plane loading. Therefore, accounting for individual alignment of transtibial prostheses users in inverse simulations may not be necessary, but care is warranted with greater medio-lateral offsets. Also, modelling non-sagittal prosthetic intersegmental movement may impact non-sagittal kinematics and kinetics during movements with high non-sagittal plane loading.",
-      "doi": "10.1016/j.jbiomech.2026.113692",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43067199/",
-      "relevance": 9,
-      "matched": [
-        "skeletal",
-        "foot",
-        "joint",
-        "kinematic",
-        "kinetic"
-      ]
-    },
-    {
-      "pmid": "43067153",
-      "title": "Normative values of spatiotemporal parameters and three-dimensional gait kinematics in 500 healthy Korean individuals: Age- and sex-stratified reference data.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-17",
-      "authors": "Woo Sub Kim, Moon Seok Park, Ki Hyuk Sung",
-      "abstract": "BACKGROUND: Normative gait kinematic data are essential for interpreting pathological gait and evaluating treatment outcomes, but Korean population-specific reference data covering both age strata and sex remain limited. RESEARCH QUESTION: What are the age- and sex-stratified normative values of spatiotemporal parameters and three-dimensional lower-extremity gait kinematics in healthy Korean adolescents and adults? METHODS: Five hundred healthy Korean volunteers (254 male, 246 female; aged 13-75 years) in four age strata underwent three-dimensional gait analysis during barefoot walking at a self-selected speed. Dimensionless spatiotemporal parameters and pelvis, hip, knee, and ankle kinematics in three planes were compared across age strata (ANOVA with Tukey testing) and between sexes (t-tests) with false discovery rate correction. Full waveforms were compared using statistical parametric mapping (SPM), and side-to-side asymmetry and stride-to-stride variability were quantified. RESULTS: Throughout the gait cycle, women showed greater hip adduction (maximum 9.1° vs 4.8°), less external hip rotation (mean -0.7° vs -5.9°), and less out-toeing (foot progression -7.7° vs -12.1°) than men, together with greater knee flexion in stance and swing, whereas men showed greater knee varus. Despite similar walking speeds, women took shorter steps at a higher cadence. Across increasing age strata, anterior pelvic tilt (3.9° to 6.1°) and peak hip and knee flexion increased and swing-phase plantarflexion decreased. The shorter steps and slower speed of the 51-75-year stratum were no longer significant after dimensionless normalization. SPM showed broadly concordant patterns (sex differences up to 8°, age differences up to 5°). Side-to-side differences were small and stride-to-stride variability was low. SIGNIFICANCE: This population-based, age- and sex-stratified dataset provides reference values and upper reference limits of asymmetry and variability for Korean adolescents and adults, indicates that coronal- and transverse-plane hip variables warrant sex-specific reference values, and can serve as a normative basis for gait indices in Korean clinical populations.",
-      "doi": "10.1016/j.gaitpost.2026.110707",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43067153/",
-      "relevance": 11,
-      "matched": [
-        "kinematic",
-        "gait",
-        "hip",
-        "knee",
-        "pelvic",
-        "ankle"
-      ]
-    },
-    {
-      "pmid": "43063828",
-      "title": "Propulsion-related gait characteristics in individuals using hip disarticulation prostheses.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-17",
-      "authors": "Tsukasa Kawaguchi, Nami Shida, Takumi Yamada",
-      "abstract": "BACKGROUND: People using hip disarticulation prostheses walk with substantial mechanical constraints; however, limb-specific propulsion-related gait mechanics remain unclear. It is also unknown whether gait strategies differ between unaided and cane-assisted walkers. This study examined the propulsion-related gait characteristics of these users. We hypothesized that propulsive and braking impulses, ankle work, and ankle power would be lower on the prosthetic side. METHODS: Three-dimensional gait analysis and ground reaction force measurements were obtained from seven adults during self-selected walking (four unaided, three cane-assisted). Propulsive and braking impulses, positive ankle and hip work, peak joint power, and spatiotemporal parameters were calculated. RESULTS: Compared with the non-prosthetic side, the prosthetic side showed lower propulsive and braking impulses and lower peak anterior-posterior ground reaction forces (all p = 0.016). Prosthetic-side ankle positive work and peak ankle power were lower (p = 0.031 and p = 0.016, respectively). Positive hip work did not differ between the limbs (p = 0.688), although peak hip power was lower on the prosthetic side (p = 0.016). Single-limb support was shorter and double-limb support was longer on the prosthetic side (both p = 0.016). Unaided walkers had higher median walking speed (1.06 vs 0.68 m/s) and cadence than cane-assisted walkers, whereas cane-assisted walkers had longer double-limb support. CONCLUSIONS: The non-prosthetic side exhibited greater propulsive and braking impulses, ankle work and peak ankle joint power. Differences between unaided and cane-assisted walkers may be associated with walking speed, non-prosthetic ankle power, cadence, step time, prosthetic-side step length, and individual compensatory movements.",
-      "doi": "10.1016/j.gaitpost.2026.110706",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063828/",
-      "relevance": 8,
-      "matched": [
-        "hip",
-        "gait",
-        "joint",
-        "ankle"
-      ]
-    },
-    {
-      "pmid": "43050868",
-      "title": "Sound-limb propulsive impulse after lower-limb amputation increases with amputation level but is not driven by peak ankle power.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-17",
-      "authors": "Darlan Martins Ribeiro, Ruth Losada de Menezes, Flávia Martins Gervásio et al.",
-      "abstract": "Individuals with lower-limb amputation are thought to compensate for reduced prosthetic push-off by generating additional propulsion in the sound limb, but whether this originates at the ankle remains unclear. We compared propulsive impulse (PI), peak ankle power generation (A2), ankle positive work (APW) and related variables in 87 participants: 31 unimpaired controls, 30 with transfemoral amputation (TFA) and 26 with transtibial amputation (TTA), all fitted with prostheses through Brazil's public health system under a standardised protocol. Three-dimensional gait analysis provided ground reaction forces, ankle kinetics and spatiotemporal parameters. PI increased monotonically from Control to TTA to TFA and remained significant after correction for multiple comparisons and after adjustment for gait speed. In contrast, A2 was lower in both amputee groups than in Control; this reduction persisted after adjustment for gait speed only in TFA. APW, a time-integrated measure more directly comparable to PI, likewise did not follow the PI gradient. PI and A2 remained moderately correlated within every group, and the greater PI was attributable mainly to a longer propulsive phase rather than greater propulsive force. These findings indicate that the greater sound-limb propulsive impulse is not accompanied by increased peak ankle power generation or ankle positive work, although some ankle contribution cannot be excluded; whether it involves redistribution of mechanical output to more proximal joints remains a plausible hypothesis for future work. Prosthetic and rehabilitation strategies focused narrowly on restoring ankle push-off power may therefore not, by themselves, normalise sound-limb loading, particularly after transfemoral amputation.",
-      "doi": "10.1016/j.jbiomech.2026.113693",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050868/",
-      "relevance": 7,
-      "matched": [
-        "ankle",
-        "joint",
-        "kinetic",
-        "gait",
-        "rehabilitation"
-      ]
-    },
-    {
-      "pmid": "43050783",
-      "title": "Head impact exposure is associated with altered medio-lateral trunk dynamics during field-based walking in collegiate football athletes.",
-      "journal": "Gait & posture",
-      "journal_issn": "0966-6362",
-      "discipline": "anatomy",
-      "date": "2026-Nov-17",
-      "authors": "Abdullah Zafar, Samuel Guay, Matthias Krüll et al.",
-      "abstract": "OBJECTIVE: Trunk-worn inertial sensors can measure medio-lateral trunk dynamics during naturalistic walking. This study examined whether head impact exposure (HIE) during Canadian varsity football games was associated with differences in these dynamics. METHODS: Sixty-eight unique male collegiate football athletes were monitored across multiple competitive seasons using instrumented mouthguards for head impact detection and chest-worn inertial measurement units for walking analysis. HIE was quantified at play-level and game-level temporal scales. Linear mixed-effects models assessed associations between HIE and root-mean-square lateral trunk acceleration (ACC) and trunk roll angular velocity (ROLL) extracted from walking bouts, adjusting for baseline dynamics, cadence and game exposure, with additional workload adjustment at play level. RESULTS: The analyzed sample comprised 13,956 walking bouts across 386 paired athlete-games, including 2106 post-impact bouts. Play-level HIE was associated with higher ROLL (β = 0.06, p < 0.001) after adjustment for recent physical workload. Game-level HIE was associated with higher baseline-adjusted post-game ROLL (β = 0.11, p = 0.016). ACC associations were not statistically significant at either the play level (β = 0.03, p = 0.149) or game level (β = 0.09, p = 0.055). Sensitivity analyses most consistently supported play-level ROLL; game-level ROLL estimates remained positive but were more sensitive to sampling window and team composition. CONCLUSION: HIE was associated with measurable differences in medio-lateral trunk dynamics during field-based walking, particularly trunk roll angular velocity. Continuous trunk-worn inertial sensing may provide a field-based approach for investigating locomotor dynamics associated with head impact exposure in football athletes.",
-      "doi": "10.1016/j.gaitpost.2026.110709",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050783/",
-      "relevance": 6,
-      "matched": [
-        "foot",
-        "athlete"
-      ]
-    },
-    {
-      "pmid": "43050372",
-      "title": "Neural Profiles of Pistol Shooting Performance Across Skill Levels in Hearing and Deaf Shooters: Insights into Cognitive-Motor Processes.",
-      "journal": "Medicine and science in sports and exercise",
-      "journal_issn": "0195-9131",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Ting-Yu Chueh, Jia-Hao Wu, Tsung-Min Hung et al.",
-      "abstract": "INTRODUCTION: Precision sport performance requires optimal motor preparation supported by efficient neural processing. While the psychomotor efficiency framework has been used to explain expertise-related neural patterns, it remains unclear whether such neural signatures generalize across individuals with different sensory experiences. The present study aimed to examine expertise-related neural oscillations during motor preparation in 10-m air-pistol shooting by comparing skilled and novice performers in hearing and deaf populations. METHODS: Study 1 included 37 hearing participants (skilled: n = 19; novice: n = 18), whereas Study 2 included 43 deaf participants (skilled: n = 19; novice: n = 24). Electroencephalography (EEG) was used to assess temporal alpha asymmetry (T4 minus T3), parietal alpha, occipital alpha, frontocentral alpha, sensorimotor rhythm (SMR), and frontal midline theta during the 4 s preceding trigger pull. RESULTS: In Study 1, skilled hearing shooters showed lower temporal alpha asymmetry, reflecting relatively greater left temporal alpha power. They also exhibited higher posterior and frontocentral alpha power, a time-specific increase in SMR, and higher frontal midline theta power relative to novice shooters. In contrast, Study 2 revealed a distinct neural profile in deaf shooters. Deaf novices showed a time-dependent decrease in temporal alpha asymmetry as the trigger pull approached, whereas skilled deaf shooters remained relatively stable. In addition, skilled deaf performers showed reduced frontocentral alpha and SMR power relative to novices, indicating greater sensorimotor cortical engagement during motor preparation. CONCLUSIONA: These findings highlight population specificity in expertise-related neural profiles, indicating that neural markers of expertise may not generalize across sensory contexts. Rather than reflecting a universal pattern of psychomotor efficiency, the observed neural profiles may vary across populations with different sensory experiences. Overall, the present study highlights the importance of considering sensory experience when examining neural optimization and provides insights into the cognitive-motor processes underlying skilled performance across diverse athletic populations in precision sports.",
-      "doi": "10.1249/MSS.0000000000004214",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050372/",
-      "relevance": 8,
-      "matched": [
-        "performance",
-        "power",
-        "sports"
-      ]
-    },
-    {
-      "pmid": "43050255",
-      "title": "Biomechanical, Anthropometric, Body Composition, Psychological, and Training-Related Correlates of Barbell Deadlift Strength.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Adam E Mohan, Alec Piñero, Dan Montenegro et al.",
-      "abstract": "Mohan, AE, Piñero, A, Montenegro, D, Rivera, O, Van Every, DW, Larsen, S, Androulakis Korakakis, P, Swinton, PA, and Schoenfeld, BJ. Biomechanical, anthropometric, body composition, psychological, and training-related correlates of barbell deadlift strength. J Strength Cond Res XX(X): 000-000, 2026-To examine the relative contributions of biomechanical, body composition, anthropometric, psychological, and training-related variables to maximal barbell deadlift strength in resistance-trained individuals, 21 well-trained subjects (17 men, 4 women) completed assessments of body composition, anthropometry, motion capture, isometric dynamometry, psychological characteristics, and 1 repetition maximum (1RM) deadlift performance. Given the number of candidate predictors relative to the sample size, analyses were framed as theory-informed and exploratory rather than tests of causal determinants. Bayesian correlation and regression analyses, including bootstrap LASSO and Bayesian grouped-shrinkage models, were used to identify variables associated with deadlift strength. Body composition variables demonstrated the strongest associations with deadlift 1RM, particularly fat-free mass and lean mass. After adjustment for height and body mass, lean mass retained positive associations with performance, whereas fat mass showed negative associations. Relative arm length was also positively associated with deadlift strength. Bootstrap LASSO analyses identified arm lean mass as the most consistently retained predictor (67% of models), followed by isometric knee net joint moment (54%). Neck circumference, ankle width, and handgrip strength showed weaker and less consistent associations. In the Bayesian grouped-shrinkage model, body composition exhibited the strongest domain-level signal (τ = 0.31, 95% CrI: 0.08-0.92) and the highest probability of being the most influential predictor domain (0.53), exceeding anthropometric, biomechanical, training, psychological, and demographic domains. Body size and body composition, particularly lean mass, appear to provide the strongest and most consistent signal for maximal deadlift performance, whereas psychological characteristics contribute comparatively little in resistance-trained individuals.",
-      "doi": "10.1519/JSC.0000000000005725",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050255/",
-      "relevance": 12,
-      "matched": [
-        "training",
-        "strength",
-        "resistance",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43046699",
-      "title": "Recombinant type III collagen: a promising ingredient for enhancing skin repair post UVB exposure.",
-      "journal": "Connective tissue research",
-      "journal_issn": "0300-8207",
-      "discipline": "fascia",
-      "date": "2026-Nov-17",
-      "authors": "Qian Wang, Guodong Li, Fei Liu et al.",
-      "abstract": "PURPOSE: Skin damage is accelerated by UVB exposures. Therefore, it is essential to develop skin repair ingredients to protect the skin from damage caused by UVB exposures. This study was performed to evaluate the efficacy of recombinant type III collagen (RC-III) in alleviating damage induced by UVB exposure, and to elucidate its underlying mechanisms, using the normal human epidermal keratinocytes (NHEKs) and 3D epidermal models (EpiKutis®). METHODS: The MTT assay and cell morphology observations were used to assess the cytotoxicity of RC-III. The skin repair potential of RC-III was evaluated on NHEKs and EpiKutis® models by immunofluorescence (IF) staining, Reverse Transcription Quantitative PCR (RT-qPCR), enzyme-linked immunosorbent assay (ELISA), wound closure assay and ultra-high performance liquid chromatography-mass spectrometer (UHPLC-MS/MS). RESULTS: RC‑III showed no cytotoxicity against NHEKs at a concentration of 2 mg/mL. In the UVB‑damaged models, RC‑III displayed prominent antioxidant effect and anti‑inflammatory property while also modulating the expression of barrier‑related proteins and lipids. Specifically, RC-III could reduce the levels of reactive oxygen species (ROS), increase superoxide dismutase (SOD) activity, decrease the gene and protein expression of inflammatory factors and reduce the protein expression of NF-κB p65, promote the protein expression of peroxisome proliferator-activated receptor alpha (PPARα) and its downstream proteins, and restore the levels of skin lipids. CONCLUSIONS: All findings reported here are derived exclusively from in vitro systems. RC-III showed remarkable skin repair potential, effectively alleviating damage induced by UVB exposure in NHEKs and EpiKutis® models. Our study provided more scientific evidence for the application of RC-III.",
-      "doi": "10.1080/03008207.2026.2763369",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046699/",
-      "relevance": 4,
-      "matched": [
-        "collagen",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43046287",
-      "title": "Dynamic responsivity of heart rate variability metrics to changing exercise intensity.",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Matias Kanniainen, Johannes Mämmelä, Agnese Sbrollini et al.",
-      "abstract": "Heart rate variability (HRV) provides a non-invasive measure of autonomic regulation during exercise. Here, we examine the dynamic responsiveness of conventional and non-linear HRV metrics, with particular focus on dynamical detrended fluctuation analysis (DDFA), to changes in running intensity. Ten healthy runners completed a multi-phase outdoor protocol comprising flat, uphill, downhill and recovery segments, with RR intervals recorded via chest-worn ECG. HRV indices included RMSSD, SDRR, LF/HF, SD1/SD2, DFA α1 and the DDFA exponent α ∼ ( t ) . Phase-averaged non-linear metrics showed very strong Spearman correlations (|ρ| = 0.99, P = 0.000309) with a phase-dependent intensity index, Ik. DFA α1 and SDRR showed strong correlations (|ρ| = 0.93, P = 0.00767), LF/HF moderate non-significant association (|ρ| = 0.70, P = 0.125), and RMSSD virtually none (|ρ| = 0.06, P = 0.913). Time-lagged windowed cross-correlation analysis revealed that conventional metrics lost coupling with heart rate during sustained exertion, whereas SD1/SD2, DFA α1 and, especially, DDFA α ∼ ( t ) maintained clear intensity-dependent modulation. During recovery, DDFA α ∼ ( t ) returned rapidly towards baseline, consistent with parasympathetic reactivation. DDFA more effectively tracks rapid changes in exercise intensity than conventional HRV measures.",
-      "doi": "10.1113/EP093952",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046287/",
-      "relevance": 10,
-      "matched": [
-        "exercise",
-        "heart rate",
-        "recovery"
-      ]
-    },
-    {
-      "pmid": "43045958",
-      "title": "Does succinic acid treatment improve metabolic health in a male murine model of early ageing?",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Stephen J Ives, Kendall S Zaleski, Cheyanne Slocum et al.",
-      "abstract": "Ageing associates with obesity, mitochondrial dysfunction, and impaired glucose homeostasis. Previously, we documented that succinic acid (SA) treatment improves mitochondrial function and adiposity; however, the effects on ageing are unknown. Therefore, we determined the effect of SA treatment on metabolic health in 19 aged male mice (Age; 16 months), randomized to receive vehicle (Veh, n = 8) or SA (n = 11) and compared to young controls (Young; 6 months) (n = 24). After 6 weeks of treatment, insulin tolerance (IT), glucose tolerance (GT), pyruvate tolerance (PT) and physical activity (PA) were assessed. Body mass (BM), epididymal white adipose tissue (EWAT) and heart mass (HM) were measured at study end. Soleus muscle and EWAT underwent mitochondrial respirometry. Mice in the Age group had higher HM and EWAT (both P < 0.001). Blood glucose levels were higher in the Age group during the PT test (25470 ± 1206 vs. 31884 ± 4348 area under the curve (AUC), P = 0.014, Young vs. Age, respectively), though GT and IT were not affected (P > 0.05). PA was ∼50% lower in the Age group (8778 ± 5774 vs. 4132 ± 1523 rev/day), though Age-SA had 48% higher PA (Age-SA 6118 ± 2203 rev/day). SA treatment did not affect BM (37.8 ± 2.7 vs. 37.7 ± 3.2 g), EWAT (1.4 ± 0.4 vs. 1.3 ± 0.4 g) or HM (0.17 ± 0.01 vs. 0.19 ± 0.04 g, Age-Veh vs. Age-SA, all P > 0.05, respectively). GT AUC differed by group (P = 0.019), with Age-SA having lower AUC (Young 47120 ± 8751 vs. Age-SA 37180 ± 5383 AUC, P < 0.018), but not IT or PT (both P > 0.22). SA reversed the age-associated reduction in complex I+II-driven respiration in adipose (P < 0.05). Ageing elevated adiposity, impaired pyruvate tolerance and reduced adipose mitochondrial function, though SA was partially restorative in mitigating these age-associated effects, warranting further study.",
-      "doi": "10.1113/EP093949",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43045958/",
-      "relevance": 6,
-      "matched": [
-        "metabolic",
-        "mitochondrial",
-        "physical activity"
-      ]
-    },
-    {
-      "pmid": "43045041",
-      "title": "Carbohydrate quality and progression trajectories of cardiometabolic multimorbidity: a prospective cohort study with multi-omics analyses.",
-      "journal": "The American journal of clinical nutrition",
-      "journal_issn": "0002-9165",
-      "discipline": "nutrition",
-      "date": "2026-Nov-17",
-      "authors": "Mingrui Chen, Huan Liu, Chenhui Zhang et al.",
-      "abstract": "BACKGROUND: Carbohydrate quality is associated with cardiometabolic health, but its relationships with cardiometabolic multimorbidity (CMM) progression and molecular and genetic characteristics remain unclear. OBJECTIVE: To investigate associations of carbohydrate quality with CMM progression and explore potential multi-omics signatures, pathways, and genetic effect modification. METHODS: We included 177,763 UK Biobank participants free of baseline cardiometabolic diseases (CMDs). Carbohydrate quality was assessed using correlation and principal component analyses. Multivariable Cox and multi-state models evaluated CMD incidence and CMM progression. Carbohydrate-associated proteomic and metabolomic signatures were derived for exploratory mediation analyses, and genomic data were used for gene-environment-wide interaction study (GEWIS). RESULTS: During a median 12.56-year follow-up, 37,527, 5,751, and 650 participants developed first, double, and triple CMDs, respectively. High- and low-quality carbohydrates showed opposing associations with CMM accumulation, strongest for ≥3 CMDs [HRs (95% CIs): 0.92 (0.86, 0.98) and 1.11 (1.05, 1.19), respectively]. In multi-state analyses, associations were particularly evident for progression from hypertension to comorbid T2D [HRs (95% CIs): 0.98 (0.96, 0.99) and 1.05 (1.03, 1.06), respectively]. Exploratory multi-omics mediation analyses yielded statistical mediation signals, with estimated pathway-level mediation proportions for T2D of 40.1% for PPAR signalling with high-quality carbohydrates and 36.2% and 36.4% for PI3K-Akt and MAPK signalling with low-quality carbohydrates. GEWIS identified candidate interaction loci with genotype-dependent differences in carbohydrate-CMD associations. High-quality carbohydrates were inversely associated with CHD onset among rs17589271 TT carriers but positively associated among GT/GG carriers [HRs (95% CIs): 0.95 (0.93, 0.98) and 1.22 (1.10, 1.35), respectively]. Low-quality carbohydrates showed a stronger association with progression from prior CMDs to comorbid T2D among rs144465069 AG/AA carriers [HR (95% CI): 2.09 (1.57, 2.78)]. CONCLUSIONS: Carbohydrate quality was differentially associated with CMM progression. Exploratory multi-omics and genetic analyses highlighted potential pathways and genotype-specific associations. These findings may inform future research on personalised nutritional strategies for cardiometabolic prevention.",
-      "doi": "10.1016/j.ajcnut.2026.101629",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43045041/",
-      "relevance": 4,
-      "matched": [
-        "carbohydrate",
-        "nutrition"
-      ]
-    },
-    {
-      "pmid": "43045014",
-      "title": "Watermelon supplementation lowers blood pressure: A systematic review and meta-analysis of randomized controlled trials.",
-      "journal": "The Journal of nutrition",
-      "journal_issn": "0022-3166",
-      "discipline": "nutrition",
-      "date": "2026-Nov-17",
-      "authors": "Yunzhen Lei, Jiaying Diao, Ming Xu et al.",
-      "abstract": "BACKGROUND: Watermelon contains L-citrulline, polyphenols, lycopene, and other bioactive compounds that may influence vascular function and blood pressure regulation. This systematic review and meta-analysis evaluated the effects of watermelon supplementation on blood pressure, arterial stiffness-related indices, autonomic function, lipid metabolism, and anthropometric parameters. METHODS: PubMed, Web of Science, Embase, and the Cochrane Library were searched from inception to May 13, 2026. Randomized controlled trials comparing watermelon, watermelon juice, or watermelon extract with non-watermelon control interventions were included. Methodological quality was assessed using the revised Cochrane Risk of Bias tool, and evidence certainty was evaluated using the GRADE framework. Continuous outcomes were synthesized using mean differences with 95% confidence intervals. Crossover trials were analyzed as paired data, with each participant counted once; when paired variance information was unavailable, a within-participant correlation coefficient of 0.50 was assumed. Primary analyses used post-intervention values, and analyses based on change-from-baseline values were conducted as supplementary analyses. Heterogeneity was explored using subgroup analysis, meta-regression, restricted cubic spline analysis, and leave-one-out sensitivity analysis. Trial sequential analysis was conducted using unique participant counts. RESULTS: Sixteen randomized controlled trials were included. Five trials were judged to have a low risk of bias, eight had some concerns, and three had a high risk of bias. In the post-intervention primary analysis, watermelon supplementation was associated with lower systolic blood pressure (SBP; 12 studies; WMD, -5.53 mmHg; 95% CI, -8.99 to -2.06; P=0.002; I2=89.7%) and diastolic blood pressure (DBP; 12 studies; WMD, -2.55 mmHg; 95% CI, -3.77 to -1.33; P<0.001; I2=57.1%). Significant pooled reductions were observed for first systolic peak pressure and pulse pressure, whereas second systolic peak pressure, mean arterial pressure, reflection time, heart rate, pulse-wave velocity, augmentation index, and anthropometric and lipid outcomes were not statistically significant. Among autonomic outcomes, RMSSD and high-frequency power increased, whereas SDNN, low-frequency power, and the LF/HF ratio did not show statistically significant changes; these outcomes were each informed by two studies. Exploratory subgroup and study-level meta-regression analyses showed nominal differences across study characteristics, but these analyses were based on sparse, potentially confounded evidence and were not adjusted for multiple comparisons. Restricted cubic spline analyses found no evidence of nonlinearity. In the TSA analysis, 236 unique participants represented 15.9% and 28.9% of the required information sizes for SBP and DBP, respectively, and neither cumulative Z-curve crossed the trial sequential monitoring boundary. Potential small-study effects could not be excluded. According to the current GRADE profile, certainty was very low for SBP and low for DBP. CONCLUSIONS: Watermelon supplementation was associated with lower SBP and DBP, but substantial heterogeneity, limited accrued information, and low certainty of evidence restrict confidence in the estimated effects. Evidence for haemodynamic, autonomic, arterial-stiffness, lipid, and anthropometric outcomes was inconsistent and was usually based on few studies. The subgroup and meta-regression findings are exploratory study-level observations and do not establish patient-level effect modification or an optimal intervention regimen. Larger, well-designed randomized controlled trials with prespecified analyses are needed.",
-      "doi": "10.1016/j.tjnut.2026.101944",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43045014/",
-      "relevance": 3,
-      "matched": [
-        "supplement"
-      ]
-    },
-    {
-      "pmid": "43044834",
-      "title": "Presynaptic GluN2D containing NMDARs on CA1 Shaffer collateral terminals control the release of glutamate onto pyramidal cells.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Tue G Banke, Jean-Francois Pare, Viktor J Olah et al.",
-      "abstract": "NMDA receptors (NMDARs) are expressed throughout the brain and, in addition to their central role in synaptic transmission, are essential mediators of many forms of synaptic plasticity. Given their widespread expression, it is not surprising that NMDAR dysfunction has been implicated in numerous neurological and neuropsychiatric disorders, including epilepsy, autism spectrum disorders and depression. NMDARs are localized at both pre- and postsynaptic sites, but presynaptic NMDARs are poorly understood. Here, by combining the use of wild-type and NMDAR subunit-specific knockout mice, a series of highly selective subunit-specific pharmacological modulators, and electron microscopy analysis of immunostained brain sections, we describe GluN2D-containing NMDARs located presynaptically on CA3 pyramidal neuron axon terminals. We show that presynaptic NMDARs at the Schaffer collateral terminals control the probability of glutamate release onto connecting CA1 pyramidal neurons, but not Schaffer innervation of radiatum interneurons. Thus, GluN2D-containing NMDARs could be involved in various forms of plasticity. KEY POINTS: Functional presynaptic NMDA receptors (NMDARs) are present on CA3 pyramidal cell presynaptic terminals synapsing onto pyramidal cells Presynaptic NMDARs contain GluN2D and GluN2B subunits Activation of presynaptic GluN2D-containing NMDARs enhances the probability of vesicular release of glutamate Presynaptic GluN2D-containing NMDARs regulate short-term plasticity.",
-      "doi": "10.1113/JP291838",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044834/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "43044068",
-      "title": "Load Range During Isokinetic Knee Extension and Flexion Exercise in Strength-Matched Male and Female Collegiate Athletes.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Tianyi Lu, Marvin Powell, B Christine Green et al.",
-      "abstract": "Lu, T, Powell, M, Green, BC, Brown, LE, and Jones, MT. Load range during isokinetic knee extension and flexion exercise in strength-matched men and women collegiate athletes. J Strength Cond Res XX(X): 000-000, 2026-Isokinetic testing is a quantitative and objective measure of muscular strength. Despite its accurate nature, mistakes may occur in interpretation of test results when not accounting for load range. The aim of this study was to quantify acceleration, deceleration, and load range across a velocity spectrum during concentric knee extension and flexion exercises on an isokinetic dynamometer and to investigate sex differences in these components among strength-matched male and female collegiate athletes. Thirty male (n = 15) and female (n = 15) collegiate track and field athletes performed maximal knee extension and flexion exercise at constant angular velocities of 60, 120, 180, 300, 350, and 400 deg·s-1. Load range is defined as the range during which the athlete's legs moved over 90% of the preset velocity. Repeated measures analysis of variance was applied to evaluate differences in acceleration, deceleration, and load range across angular velocities and sex. There was a significant main effect of angular velocity on all ranges in both knee extension and flexion (p < 0.001). Men exhibited smaller acceleration range at all conditions except for the knee extension at 120 deg·s-1 (p = 0.228, d = 0.28) and a larger load range at all conditions except for the knee extension at 120 deg·s-1 (p = 0.065, d = 0.57). Results suggest that despite being matched in relative strength, male athletes required less time to accelerate the limb to a desired velocity. Practitioners are recommended to use different protocols for male and female athletes when performing isokinetic training and testing.",
-      "doi": "10.1519/JSC.0000000000005737",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044068/",
-      "relevance": 14,
-      "matched": [
-        "exercise",
-        "strength",
-        "athlete",
-        "training"
-      ]
-    },
-    {
-      "pmid": "43044063",
-      "title": "How Often Should Volume Increase? Effects of Different Volume-Progression Frequencies on Strength and Hypertrophy Adaptations in Women.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Alysson Enes, Ana Carolina G Macedo, Guilherme Nass et al.",
-      "abstract": "Enes, A, Macedo, ACG, Nass, G, Costa-Rodrigues, J, Alves-Marques, F, Santana, C, Dell'Avanzi, FG, Rodrigues, BG, Alves, RC, De Souza, EO, and Souza-Junior, TP. How often should volume increase? Effects of different volume-progression frequencies on strength and hypertrophy adaptations in females. J Strength Cond Res XX(X): 000-000, 2026-Resistance training (RT) volume is an important programming variable for strength and hypertrophy. However, how frequently RT volume should be progressed remains unclear. Thus, we investigated the effects of progressively increasing RT volume by 2 weekly sets targeting the quadriceps femoris every 2 weeks (2 W) or every 4 weeks (4 W) over a 12-week period in recreationally trained women. Using a within-subject design and accounting for previous RT volume, 21 subjects (age 23.3 ± 3.9 years; RT experience 1.1 ± 0.7 years) had their limbs assigned to one of the 2 conditions: 2 weeks (2 W) or 4 weeks (4 W). 45° leg-press 1-repetition maximum (1RM) and the sum of muscle thickness (∑MT) of the proximal (30%), middle (50%), and distal (70%) portions of the lateral thigh were assessed at baseline and after 12 weeks. Our mixed-model analysis indicated a main effect of time for 1RM (p < 0.0001), with no difference between the 2 and 4 W conditions (p = 0.317). Similarly, regarding the ∑MT, the analysis indicated a main effect of time (p < 0.001), with no difference between the conditions (p = 0.616). Within the relatively high training volumes examined, progressing the RT volume by 2 weekly sets every 2 or 4 weeks did not elicit detectable differences in strength and hypertrophy adaptations over 12 weeks in recreationally trained women.",
-      "doi": "10.1519/JSC.0000000000005747",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044063/",
-      "relevance": 12,
-      "matched": [
-        "strength",
-        "hypertrophy",
-        "adaptation",
-        "training",
-        "resistance"
-      ]
-    },
-    {
-      "pmid": "43044059",
-      "title": "Dumbbell Bench Press and Dumbbell Fly Elicit Similar Pectoralis Major Muscle Hypertrophy in Recreationally Trained Men.",
-      "journal": "Journal of strength and conditioning research",
-      "journal_issn": "1064-8011",
-      "discipline": "physiology",
-      "date": "2026-Nov-17",
-      "authors": "Filipi G Dell'Avanzi, Alysson Enes, Felipe Alves-Marques et al.",
-      "abstract": "Dell'Avanzi, FG, Enes, A, Alves-Marques, F, Costa-Rodrigues, J, Bello, G, Seima, G, Nass, G, Moreira, NF, Santana, C, Mohan, AE, Piñero, A, Schoenfeld, BJ, and Souza-Junior, TP. Dumbbell bench press and dumbbell fly elicit similar pectoralis major muscle hypertrophy in recreationally trained men. J Strength Cond Res XX(X): 000-000, 2026-Exercise selection is one of the main resistance training (RT) variables for eliciting inhomogeneous muscle growth. Whether exercises that differ in resistance moment arm elicit whole- and nonuniform hypertrophy of the pectoralis major remains unclear. This study investigated the effects of the dumbbell bench press (DBP) and dumbbell fly (DFLY) on pectoralis major muscle thickness (MT). Twenty-six young healthy men (RT experience 3.3 ± 3.1 years) were allocated to DBP or DFLY groups, training twice a week over a 10-week period. The weekly set number was individualized according to subjects' previous RT pectoralis major volume. Pectoralis major MT was assessed by ultrasound imaging at medial (30%), intermediate (50%), and lateral (70%) sites at baseline and postintervention. Our mixed-model analysis indicated a main effect for time (p < 0.05) but no time-by-group interaction for the medial site (p = 0.500), intermediate site (p = 0.864), lateral site (p = 0.720), and the sum of the MT across sites (p = 0.985). Therefore, both exercises elicited similar general and regional hypertrophy on pectoralis major MT in recreationally trained individuals. Coaches and practitioners can select DBP or DFLY when targeting pectoralis major muscle development in recreationally trained men based on personal preference and goals within the RT program.",
-      "doi": "10.1519/JSC.0000000000005739",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044059/",
-      "relevance": 9,
-      "matched": [
-        "hypertrophy",
-        "exercise",
-        "training",
-        "strength",
-        "resistance"
       ]
     }
   ]
