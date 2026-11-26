@@ -1,0 +1,546 @@
+{
+  "updated": "2026-11-26",
+  "articles": [
+    {
+      "pmid": "43081794",
+      "title": "A reexamination of the extinct batoid genus Protoplatyrhina, with notes on the evolutionary relationships of Cretaceous rhinopristiforms.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-25",
+      "authors": "Benjamin Spencer Goode",
+      "abstract": "The Late Cretaceous batoid Protoplatyrhina has been the subject to contestation regarding its phylogenetic positioning. Reassessment of the holotype and referred specimens of the Late Cretaceous rhinopristiform Protoplatyrhina hopii Williamson et al., 1993 reveals that the diagnostic dental characteristic described for the species, the lack of a lingual crown uvula, is not consistent with some referred specimens. The presence of a uvula appears to be variable within Protoplatyrhina hopii; when present, the uvula is less pronounced than typical of most teeth from Protoplatyrhina renae Case, 1978. Protoplatyrhina bourdoni sp. nov. is erected for teeth from the Hosta Tongue of the Point Lookout Sandstone in New Mexico, USA. Prior attributions to Protoplatyrhina renae are assessed, with the present work finding that multiple purported occurrences likely belong to additional undescribed taxa, indicating overlooked intrageneric diversity. Protoplatyrhinidae fam. nov. is erected to classify Protoplatyrhina, Angolabatis, an undescribed taxon from the Lower Barremian of Spain, and possibly Pseudohypolophus. Hypsobatidae is herein restricted to Hypsobatis and Youssoubatis on the basis of possessing the plesiomorphic characteristic of a distinct transverse keel on the occlusal surface of the crown. Conversely, the stratigraphically older members of Protoplatyrhinidae fam. nov. typically do not feature a transverse keel, with only members of the genus Protoplatyrhina possessing it, albeit uncommonly, more weakly when present, and on teeth of \"wide\" or \"median-width\" morphology, possibly as an atavistic expression.",
+      "doi": "10.1002/ar.70407",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081794/",
+      "relevance": 4,
+      "matched": [
+        "hip",
+        "morphology",
+        "pain"
+      ]
+    },
+    {
+      "pmid": "43081685",
+      "title": "Cranial and endocranial anatomy of Gregorymys mixtecorum (Rodentia, Geomyidae) and the interpretation of its ecomorph.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-25",
+      "authors": "Paulina Moctezuma-Duclaud, Jair Israel Barrientos-Lara, Jesús Alvarado-Ortega",
+      "abstract": "The relationship between neuroanatomical shape and ecomorphology remains a topic of debate in mammalian evolutionary biology. While previous studies on sciurids suggested that brain endocasts could reliably reflect locomotor habits, this correlation has not been extensively tested across broader rodent lineages. This study describes the neuroanatomy of the extinct geomyid Gregorymys mixtecorum for the first time, in order to evaluate whether its endocranial morphology allows interpretation of locomotor ecomorphology in the absence of postcranial elements. Using high-resolution computed tomography, we reconstructed the brain endocasts of two new G. mixtecorum specimens alongside 19 newly scanned extant rodent species. These data were integrated with a previously published landmark-based sciurid dataset to perform Geometric Morphometric analyses, including Principal Component Analysis (PCA) and Procrustes ANOVA. Our results reveal that PC1 and PC2 account for 18.78% and 16.82% of the variance, respectively. Crucially, Procrustes ANOVA demonstrates that while ecomorphology explains 24.15% of the morphological variation, taxonomic family accounts for a significantly higher proportion (48.87%). These findings indicate that rodent endocast shape is primarily constrained by phylogenetic history. However, the significant ecological signal (24.15%) suggests that locomotor adaptations exert a distinct selective pressure on neuroanatomy. Rather than producing identical gross morphologies across disparate clades, which is prevented by deep phylogenetic constraints, ecological factors may drive parallel morphological shifts within independent lineages. Consequently, while the general endocast shape is heavily driven by evolutionary history, localized anatomical structures can still serve as reliable predictors for inferring ecomorphology in extinct geomyids, as long as evolutionary variations unique to each lineage are considered as a baseline.",
+      "doi": "10.1002/ar.70386",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081685/",
+      "relevance": 3,
+      "matched": [
+        "hip",
+        "anatomical",
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43077904",
+      "title": "Relationship between center of mass velocity and pitch velocity in high school softball pitchers.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-21",
+      "authors": "Ian P Jump, Ryan M Zappa, Kenzie B Friesen et al.",
+      "abstract": "Greater pitch velocity is advantageous in fastpitch softball because it reduces the time available for a batter to react. Limited research has explored the importance of whole-body center of mass (COM) velocities and their influence on pitch velocity in softball pitchers. Therefore, this study examined the relationship between vertical and horizontal COM velocity and pitch velocity during the pitching motion. Forty-two high school fastpitch softball pitchers (15 ± 1 years; 1.70 ± 0.07 m; 76.4 ± 16.8 kg; 35 right-handed, 7 left-handed) participated. Each pitcher threw 10 fastballs while an electromagnetic motion-capture system collected kinematic data. Horizontal and vertical COM velocities were examined using statistical parametric mapping (SPM) to assess time-specific relationships with pitch velocity, while peak horizontal and vertical COM velocities were examined using multilevel modeling to assess within-pitcher and between-pitcher associations with pitch velocity. SPM analyses showed that horizontal COM velocity was positively associated with pitch velocity from 27% to 98% of the pitching motion. Vertical COM velocity was positively associated with pitch velocity from 31%-63% and 97%-100% and negatively associated from 77% to 86% of the pitch. Multilevel models showed significant between-pitcher effects, where greater peak horizontal and vertical COM velocities were associated with greater pitch velocity. No significant within-pitcher effects were observed. These findings suggest that pitchers with greater average horizontal and vertical COM velocities tend to throw harder, while pitch-to-pitch changes in COM velocity within the same pitcher may not explain meaningful changes in pitch velocity. SPM further demonstrated that these associations varied throughout the pitching motion, with particularly strong relationships during the propulsive phase.",
+      "doi": "10.1016/j.jbiomech.2026.113699",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077904/",
+      "relevance": 4,
+      "matched": [
+        "hip",
+        "kinematic"
+      ]
+    },
+    {
+      "pmid": "43077903",
+      "title": "Effect of running-induced fatigue on lower limb joints mechanical work contribution in recreational runners with different strike types.",
+      "journal": "Journal of biomechanics",
+      "journal_issn": "0021-9290",
+      "discipline": "anatomy",
+      "date": "2026-Nov-21",
+      "authors": "Ghazaleh Shariati Javan, Hamed Esmaeili, Fatemeh Salari-Esker et al.",
+      "abstract": "Running-induced fatigue alters lower limb biomechanics and may influence injury risk, but whether these effects differ between rearfoot strike (RFS) and forefoot strike (FFS) runners lower-limb joints mechanical work contribution remains unclear. The aim of this study was to examine the effect of running-induced fatigue on lower limb joint mechanical work and its relative contribution in recreational runners with different strike types. Sixty recreational runners (30 RFS, 30 FFS) performed running trials at 3.3 m/s before and after a running-induced fatigue protocol on a treadmill. Kinematic and ground reaction force data were collected during stance phase using motion capture and a force plate. A mixed-design ANOVA was used to investigate the effect or running-induced fatigue on mechanical work and its contribution in the groups at hip, knee and ankle joints. Fatigue-by-joint-by-group interaction effects were found for both negative (F = 28.407, p < 0.001, ηp2 = 0.329) and positive work (F = 23.508, p < 0.001, ηp2 = 0.288). In RFS runners, fatigue decreased ankle negative and positive work while increasing knee and hip work. In FFS runners, fatigue increased both negative and positive work at the ankle, with relative contribution also increasing. Running-induced fatigue elicits divergent biomechanical responses based on foot strike pattern. RFS runners redistribute work proximally to the knee and hip to offload fatigued ankle musculature, whereas FFS runners increase ankle work, maintaining or enhancing ankle dominance. These strike-specific adaptations highlight the neuromuscular system's adaptive capacity to preserve locomotion under fatigue.",
+      "doi": "10.1016/j.jbiomech.2026.113701",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077903/",
+      "relevance": 11,
+      "matched": [
+        "joint",
+        "muscular",
+        "hip",
+        "knee",
+        "biomechanic",
+        "kinematic"
+      ]
+    },
+    {
+      "pmid": "43077764",
+      "title": "Comparative study on biomechanical and metabolic characteristics of anterior arm crutches and axillary crutches under non-weight-bearing three-point gait conditions.",
+      "journal": "Gait & posture",
+      "journal_issn": "0966-6362",
+      "discipline": "anatomy",
+      "date": "2026-Nov-19",
+      "authors": "Changzheng Ding, Qinqin Xu, Tao Zhuang et al.",
+      "abstract": "OBJECTIVE: To compare the biomechanical, neuromuscular and metabolic demands of axillary crutches (AC) and forearm crutches (FC) during non-weight-bearing three-point gait. METHODS: Eighteen healthy adults (11 men, 7 women; mean (SD) age 22.7 (2.3) years) completed normal gait (NG), AC and FC conditions in a repeated-measures design. Metabolic data were recorded during 8-minute treadmill trials; three-dimensional kinematics, ground reaction forces (GRF) and surface electromyography (EMG) were recorded during overground walking 48-72 h later. One-way repeated-measures ANOVA was used to compare conditions. RESULTS: Relative to NG, both crutch conditions reduced walking speed, prolonged stance phase and increased energy cost (all p < 0.001). FC preserved gait rhythm slightly better than AC but showed higher triceps brachii activation, larger vertical GRF peaks, wider centre of mass (CoM) fluctuation and higher net oxygen uptake (11.66 (1.42) vs 10.27 (1.56) ml/min/kg) and cost of transport (1.55 (0.28) vs 1.39 (0.27) cal/kg/m) (all p < 0.001). AC showed lower metabolic cost and smaller CoM excursions. CONCLUSION: FC preserves gait rhythm at the cost of greater neuromuscular and metabolic demand, whereas AC provides better walking economy and passive stability. AC may therefore be preferable when energy conservation and stability are priorities during early rehabilitation after ankle-foot surgery.",
+      "doi": "10.1016/j.gaitpost.2026.110711",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077764/",
+      "relevance": 11,
+      "matched": [
+        "biomechanic",
+        "gait",
+        "muscular",
+        "kinematic",
+        "ankle",
+        "foot"
+      ]
+    },
+    {
+      "pmid": "43078501",
+      "title": "Pacemaker near 0.1 Hz: A functional framework co-ordinating neural, cardiovascular and visceral systems.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Zoran Matić, Vincenzo Catrambone, Gaetano Valenza",
+      "abstract": "Oscillations near 0.1 Hz are associated with co-ordinated brain-body dynamics across neural, autonomic, cardiovascular, respiratory, gastrointestinal and peripheral systems. Although once dismissed as noise, these slow fluctuations are now recognized as key mediators of resonance across distributed functional axes, including brain-heart and brain-gut interactions. Here, we review multidisciplinary evidence demonstrating that 0.1 Hz oscillations emerge from hierarchical interactions among central pacemakers, baroreceptor feedback, vascular vasomotion and intrinsic organ oscillators. To illustrate, slow breathing at this frequency consistently enhances vagal activity, increases heart rate variability, stabilizes blood pressure and entrains brain and cerebrospinal fluid rhythms, linking autonomic regulation to cognitive and emotional processes. Collectively, we argue that 0.1 Hz represents a systems-level organizing frequency underlying dynamic integration of brain-body physiological and psychological (e.g. emotional, cognitive) processes. Understanding the role of these oscillations offers promising avenues for biofeedback, neuromodulation and clinical interventions especially aimed at improving neuroautonomic and psychophysiological functions.",
+      "doi": "10.1113/JP291384",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078501/",
+      "relevance": 1,
+      "matched": [
+        "heart rate"
+      ]
+    },
+    {
+      "pmid": "43078486",
+      "title": "A sensitive subject: The role of carotid bodies in respiratory neuroplasticity.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Antonio Mendes, Nicole A Struthers, Nasimi A Guluzade",
+      "abstract": "",
+      "doi": "10.1113/JP292631",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078486/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43078485",
+      "title": "Drugs to treat chronic obstructive pulmonary disease and pulmonary fibrosis: What we currently have and how transient receptor potential mucolipin channel modulators could change therapy.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Zala Serianz, Eva-Maria Weiden, Christian Grimm",
+      "abstract": "Endolysosomes harbour a diverse array of ion channels, transporters, pumps and exchangers that regulate the bidirectional flux of ions and solutes between the cytosol and the endolysosomal lumen. Among the principal families of non-selective Ca2+- and Na+-permeable cation channels localized to the endolysosomal system are the transient receptor potential mucolipin (TRPML) channels and the two-pore channels (TPCs). This review summarizes recent advances demonstrating pathophysiologically relevant roles of TRPML channels in pulmonary disease, with particular emphasis on their regulation of matrix metalloproteinases (MMPs) and the consequent effects on extracellular matrix (ECM) remodelling, including collagen and elastin homeostasis. Pharmacological activation of TRPML1 has been shown to promote the release of multiple MMPs, whereas genetic ablation of TRPML1 in mice results in reduced extracellular MMP levels, increased collagen deposition and the development of a fibrotic lung phenotype. In contrast, activation of TRPML3 enhances the endocytic uptake of MMPs, specifically the macrophage elastase MMP12. Accordingly, TRPML3-deficient mice exhibit increased extracellular elastin accumulation, and an emphysema-like lung phenotype. This phenotype is further aggravated following exposure to tobacco smoke, highlighting the protective role of TRPML3 in maintaining pulmonary ECM homeostasis under physiological and pathological conditions. Collectively, these findings identify TRPML channels as key regulators of ECM turnover through their complementary roles in the secretion and uptake of MMPs. Given the limited treatment options and absence of curative therapies for chronic obstructive pulmonary disease or lung fibrosis, pharmacological modulation of TRPML channel activity may offer new opportunities for treatment.",
+      "doi": "10.1113/JP292297",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078485/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43077835",
+      "title": "Low-intensity cerebellar transcranial ultrasound stimulation modulates motor cortex excitability.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Jean-François Nankoo, Nasem Raies, Anton Fomenko et al.",
+      "abstract": "Transcranial ultrasound stimulation (TUS) offers millimetre-scale spatial precision for targeting deep brain structures, yet its effects on human cerebellar-cortical circuits remain largely unexplored. We investigated whether low-intensity TUS targeting the right cerebellum could safely modulate corticospinal excitability in healthy human adults. In Experiment 1 (n = 15, 4 females), participants received 500 ms of right cerebellar TUS while motor-evoked potentials (MEPs), induced by transcranial magnetic stimulation of the left motor cortex, were recorded from the right first dorsal interosseous muscle at multiple timepoints. Participant-specific acoustic simulations showed that the -3 dB field was predominantly centred on right Crus II but extended to adjacent cerebellar structures, including the dentate nucleus. MEP amplitude was reduced relative to baseline at 450 ms during sonication (30% reduction) and at 550 ms immediately following sonication (37% reduction). In Experiment 2 (n = 16, 7 females), inactive sham measured across all timepoints showed temporal variation in MEP, but no individual timepoint differed significantly from baseline after correction. Real TUS at the 450 ms timepoint was tested against inactive sham, flip sham and active sham targeting primary visual cortex; real cerebellar TUS produced significantly greater suppression than all three control conditions. The 550 ms reduction observed in Experiment 1 was not tested against equivalent active sham conditions and therefore requires further validation. No adverse events occurred and modelled acoustic and thermal exposures remained within safety limits. These findings provide evidence that low-intensity cerebellar TUS can transiently modulate corticospinal excitability. KEY POINTS: Low-intensity transcranial ultrasound stimulation (TUS) of the right cerebellum transiently reduced contralateral motor cortex excitability in healthy adults. The strongest sham-controlled effect occurred 450 ms after sonication onset, when real cerebellar TUS produced greater motor-evoked potential suppression than inactive, flip and visual cortex active sham conditions. Acoustic modelling showed that the stimulated field was centred predominantly on right Crus II but extended into adjacent cerebellar structures, including lobule VI and the dentate nucleus. Exploratory regional exposure analyses did not identify Crus II, lobule VI or the dentate nucleus as the specific anatomical driver of the physiological effect. These findings support low-intensity cerebellar TUS as a non-invasive approach for probing cerebellar influences on corticospinal excitability while highlighting the need for further target-specific validation.",
+      "doi": "10.1113/JP291425",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077835/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43081749",
+      "title": "Long-term recreational soccer participation and 10-year changes in cardiac structure and function in middle-aged women with hypertension.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-25",
+      "authors": "Jacobina Kristiansen, Magni Mohr, Magna E Mørkøre et al.",
+      "abstract": "Cardiovascular risk increases across middle age in women, but the association between sustained recreational soccer participation and long-term cardiac remodelling is unclear. We investigated 10-year changes in echocardiographic measures of cardiac structure and function in middle-aged women with mild-to-moderate hypertension originally randomized to recreational soccer or non-exercise control. The exercise group continued organized recreational soccer participation, completing 1.6 (SD 0.6) sessions/week across the 10-year follow-up. At 10 years, 11 exercisers and 10 controls completed transthoracic echocardiography. Outcomes were analysed using constrained linear mixed-effects models. Left ventricular mass decreased in controls (-12.28 g; 95% CI -23.94 to -0.63; P = 0.0398) but did not change detectably in exercisers (7.39 g; 95% CI -3.81 to 18.59; P = 0.183), yielding a between-group difference in change of 19.67 g (95% CI 4.09 to 35.26; P = 0.0161). The corresponding indexed difference was 11.55 g/m2 (95% CI 2.52 to 20.58; P = 0.0151). Right ventricular internal diameter increased less in exercisers than controls (between-group difference, -0.56 cm; 95% CI -0.87 to -0.25; P = 0.00150). Confidence intervals for diastolic function, tricuspid annular plane systolic excursion and left atrial size spanned zero. Long-term recreational soccer participation was associated with differences in selected 10-year cardiac structural changes, but these small exploratory analyses do not establish beneficial remodelling.",
+      "doi": "10.1113/EP094081",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081749/",
+      "relevance": 2,
+      "matched": [
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43077714",
+      "title": "Cardiopulmonary exercise testing quotients: Expanding the concept beyond peak V . O 2 Q .",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Ben Knox-Brown, Joshua Barnes, Chris Harding et al.",
+      "abstract": "Interpretation of cardiopulmonary exercise testing (CPET) is limited by uncertainty regarding normal standards for key exercise parameters. Previously, we demonstrated that a quotient derived from a first percentile lower boundary for peak oxygen uptake (peak V . O 2 Q ) was prognostically informative. We hypothesised that similar lower-bound ('first percentile') values could be derived for other clinically important CPET parameters. We undertook retrospective analysis of CPET data from two UK tertiary centres between 2012 and 2024. First percentile values were derived for peak work rate, anaerobic threshold and end-exercise O2 pulse, overall and stratified by age and sex. Quotients were calculated as the measured value divided by the first percentile value. Associations with all-cause mortality were assessed using Cox proportional hazards models adjusted for age, sex and body mass index. Prognostic performance was compared with conventional percent predicted expressions using Harrell's C-statistics. Data from 1377 patients were included. First percentile values were 28 W for peak work rate, 6.5 mL kg- 1 min- 1 for anaerobic threshold, and 6.2 mL beat- 1 for males and 4.5 mL beat- 1 for females for O2 pulse. Lower quotient values were independently associated with increased all-cause mortality after adjustment for age, sex and body mass index, including peak work rate quotient [hazard ratio (HR) 1.38, 95% confidence interval (CI) 1.18-1.62], anaerobic threshold quotient (HR 1.48, 95% CI 1.10-1.98) and O2 pulse quotient (HR 2.38, 95% CI 1.54-3.69). Quotient measures demonstrated superior prognostic discrimination compared with conventional percent predicted expressions. Lower-bound values for multiple CPET parameters can be derived and used to generate physiologically meaningful quotient measures associated with survival.",
+      "doi": "10.1113/EP094073",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077714/",
+      "relevance": 11,
+      "matched": [
+        "exercise",
+        "aerobic",
+        "anaerobic",
+        "oxygen",
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43077702",
+      "title": "Enhancing blood glucose regulation through hypoxic conditioning: A role for microRNAs?",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-24",
+      "authors": "Chris Chow Li Tee, Mee Chee Chong, Wee Kian Yeo et al.",
+      "abstract": "Obesity- and metabolism-related disorders remain major global health concerns, largely driven by physical inactivity and impaired blood glucose regulation. Exercise training is a well-established strategy for improving metabolic health, and hypoxic conditioning, involving exposure to reduced oxygen availability at rest or during exercise, has emerged as a potential adjunct intervention to enhance metabolic adaptations. Hypoxic conditioning can improve blood glucose regulation, insulin sensitivity and body composition; however, the molecular mechanisms underpinning these responses remain incompletely understood. Circulating microRNAs (c-miRNAs), small non-coding RNAs involved in post-transcriptional gene regulation, have gained attention as potential mediators of exercise- and hypoxia-induced metabolic adaptations. This review summarises current evidence examining the effects of exercise performed in normoxia, passive hypoxic exposure and combined exercise and hypoxia on c-miRNA expression patterns implicated in blood glucose regulation. Existing evidence indicates that several c-miRNAs, including miR-486, miR-19b-3p, miR-21, miR-126, miR-204 and miR-206, can influence pathways related to glucose uptake, glycolysis, inflammation, angiogenesis and insulin signalling through mechanisms involving phosphoinositide 3-kinase/Akt and hypoxia-inducible factor-1α-related signalling. However, most mechanistic evidence is currently derived from in vitro and animal models, with relatively few human studies, particularly during combined exercise and hypoxia. Furthermore, inconsistencies in hypoxic dose, exercise modality and the timing of c-miRNA analysis limit current interpretation. Recent evidence supports c-miRNAs as plausible biomarkers and candidate mediators linking exercise, hypoxic exposure and metabolic regulation. Further direct mechanistic evidence in humans is required to clarify the physiological significance of c-miRNA responses and their potential as biomarkers and future therapeutic targets for optimising metabolic health.",
+      "doi": "10.1113/EP094270",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077702/",
+      "relevance": 8,
+      "matched": [
+        "exercise",
+        "training",
+        "metabolic",
+        "metabolism",
+        "adaptation",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43084089",
+      "title": "Ischemic Preconditioning Effects in Competitive Swim Athletes: A Randomized Control Trial.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-25",
+      "authors": "Meesha E Montgomery, Hailey G Scholten, Shane D Scholten",
+      "abstract": "Montgomery, ME, Scholten, HG, and Scholten, SD. Ischemic preconditioning effects in competitive swim athletes: A randomized control trial. J Strength Cond Res XX(X): 000-000, 2026-Ischemic preconditioning (IPC) has been shown to effectively enhance athletic performance in short-duration (250 yard) swimming, possibly through mechanisms related to the vascular system. Swimming is an ideal mode of exercise to test IPC's effectiveness outside of the lab because of the controlled environment. However, it remains unclear whether these benefits persist over longer swimming distances. To address this gap, this study investigated the potential benefits of IPC on performance in a 500-yard swimming event by conducting a block-randomized controlled trial comparing swim times under 2 IPC conditions: a 1-minute sham condition and a 5-minute IPC intervention. Fourteen NCAA Division II swimmers completed all trials. Eleven out of 14 subjects swam faster (1.72 seconds) with IPC treatment than with sham treatment (p = 0.19; effect size = 0.08). This improvement in time is small, but it is worth considering in competitive sports, where the time difference among competitive athletes is small.",
+      "doi": "10.1519/JSC.0000000000005759",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084089/",
+      "relevance": 9,
+      "matched": [
+        "athlete",
+        "exercise",
+        "strength",
+        "performance",
+        "sports"
+      ]
+    },
+    {
+      "pmid": "43083838",
+      "title": "Drop-Under Kinematics in the Snatch: A Systematic Review.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-25",
+      "authors": "Pei-Tzu Lan, Chia-Fen Wu, Wang-Heng Chen et al.",
+      "abstract": "Lan, P-T, Wu, C-F, Chen, W-H, Hu, W-P, and Wang, S-Y. Drop-under kinematics in the snatch: A systematic review. J Strength Cond Res XX(X): 000-000, 2026-Drop-under is widely regarded as an important factor contributing to snatch success. However, its kinematic descriptions remain inconsistent across studies. This review synthesized quantitative data for 4 barbell variables comprising vertical displacement to maximum height, vertical drop distance, horizontal displacement from the most forward position to catch position, and turnover duration. Catch-position joint angles were reviewed narratively because definitions differed across studies. Five databases were searched in March 2026 for studies reporting kinematic data on the drop-under, turnover, or catch phase in trained weightlifters. Methodological quality was assessed with a modified Downs and Black checklist. Substantial heterogeneity precluded meta-analysis, so findings were synthesized with weighted means. Fifteen studies involving 574 competitive weightlifters were included. Weighted means were 1.02 m for displacement to maximum height, 15.5 cm for drop distance, 10.9 cm for horizontal displacement, and 0.23 seconds for turnover duration. Consistent definitions reduced heterogeneity, with I2 for turnover duration falling from 96.7 to 65.0%. Among 4 studies comparing lift outcomes, horizontal displacement showed the most consistent difference in barbell kinematics (d = 0.278 to 0.600, all from 1 research group), and trunk-arm angle showed the largest effect size (d = 1.013). Much of the disagreement in this literature is definitional. Barbell kinematics are best interpreted as outcomes of the coupled lifter-barbell system, and no single displacement variable should serve on its own as a criterion for technical quality. Drop-under technique is more appropriately assessed based on the lifter's position relative to the barbell at the catch.",
+      "doi": "10.1519/JSC.0000000000005742",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43083838/",
+      "relevance": 1,
+      "matched": [
+        "strength"
+      ]
+    },
+    {
+      "pmid": "43083641",
+      "title": "Reliability and Minimal Detectable Change of Training Efficiency Index During Preseason and In-Season Training in Professional Rugby League Athletes.",
+      "journal": "Journal of strength and conditioning research",
+      "journal_issn": "1064-8011",
+      "discipline": "physiology",
+      "date": "2026-Nov-25",
+      "authors": "Thomas Fary, Grant Duthie, Patrick Campbell et al.",
+      "abstract": "Fary, T, Duthie, G, Campbell, P, Jennings, J, Ballard, D, and Johnston, RD. Reliability and minimal detectable change of training efficiency index during preseason and in-season training in professional rugby league athletes. J Strength Cond Res XX(X): 000-000, 2026-Training Efficiency Index (TEI) is an integrated method using external and internal loads to monitor responses to the training dose. The aim of this study was to quantify relative and absolute reliability of TEI, comparing daily, weekly, and drill-level TEI measurements. Thirty-nine professional rugby league athletes (26 ± 4 years; 1.86 ± 0.06 m; 97 ± 9 kg) were monitored across the 2025 National Rugby League season. The reliability was assessed in two 4-week blocks during preseason (14 sessions) and in-season (11 sessions). Daily reliability was assessed using 1 prespecified field session per week, weekly reliability was calculated by averaging sessions, and drill-level TEI was calculated from a relatively standardized in-season 13v13 match-simulation training drill. Training Efficiency Index was calculated for each training session using wearable microtechnology, combining 5 different external load variables with Edwards' TRIMP. The reliability was estimated using variance-component linear mixed-effects models with an overall intercept as a fixed effect and athlete as a random intercept. Between-athlete and within-athlete variance were used to derive intraclass correlation coefficients (ICC), coefficient of variation, and minimal detectable change (MDC) estimates. Weekly aggregation of TEI was more reliable than daily estimates and more reliable during preseason compared with in-season training. Weekly TEI impulse was most reliable across phases (ICC [95% confidence interval] = 0.86 [0.79-0.89] preseason; 0.79 [0.68, 0.86] in-season), with changes >17% (178.6 TEI impulse units) in preseason and >19% (206.7 TEI impulse units) in-season to exceed the phase-specific MDC. These findings support weekly TEI, particularly TEI impulse, for longitudinal monitoring of training responses in rugby league athletes.",
+      "doi": "10.1519/JSC.0000000000005754",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43083641/",
+      "relevance": 10,
+      "matched": [
+        "training",
+        "athlete",
+        "strength"
+      ]
+    },
+    {
+      "pmid": "43078077",
+      "title": "Unilateral Versus Bilateral Squat Velocity-Based Training in Recreationally Trained Men: Effects of a 6-Week Intervention on Strength, Jump, and Sprint Performance.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "Juan Rabal-Pelay, Pablo J Bascuas, Cristina Comeras-Chueca et al.",
+      "abstract": "PURPOSE: The main aim was to analyze the effect of bilateral and unilateral squat velocity-based training on strength, jump, sprint, and change-of-direction (COD) performance. METHODS: Twenty recreationally trained men (age: 23.1 ± 5.5 y) were randomly assigned to bilateral (n = 9) or unilateral (n = 11) squat training groups and followed a 6-week velocity-based training intervention using the bilateral or the unilateral squat exercise, respectively. Pre- and posttraining measurements included: modified 505 COD test with each leg; linear 20-m sprint; countermovement jump and broad jump, evaluated under both bilateral and unilateral conditions; and incremental loading tests in the bilateral and unilateral squat exercises. RESULTS: Significant group × time interactions favoring unilateral squat training group were observed for right-leg unilateral broad jump and COD (P ≤ .05). Significant main effects of time were observed for bilateral and unilateral countermovement jump performance and squat velocity variables (P < .05), with no significant group × time interactions. No significant changes were observed in sprint performance. CONCLUSIONS: Both bilateral and unilateral squat velocity-based training effectively improved vertical jump performance and movement velocity in squat exercises. However, unilateral training produced greater improvements in unilateral performance tasks, particularly in the broad jump and COD with the right leg. These findings suggest that while both approaches enhance general neuromuscular performance, unilateral squat training may provide additional benefits for unilateral explosive actions without producing superior adaptations in sprint performance.",
+      "doi": "10.1123/ijspp.2026-0223",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078077/",
+      "relevance": 22,
+      "matched": [
+        "training",
+        "strength",
+        "sprint",
+        "performance",
+        "exercise",
+        "adaptation"
+      ]
+    },
+    {
+      "pmid": "43078074",
+      "title": "The Impact of Race-to-Race Fatigue on Performance in a 24-Hour Competitive Swimming Schedule.",
+      "journal": "International journal of sports physiology and performance",
+      "journal_issn": "1555-0265",
+      "discipline": "physiology",
+      "date": "2026-Nov-23",
+      "authors": "José María González-Ravé, Alejandro Lopez-Hernandez, José Francisco Alonso-Ramos et al.",
+      "abstract": "PURPOSE: To examine the sequence of physiological, perceptual, and neuromuscular responses to successive competitive events performed within 24 hours in U16 and U18 national-level swimmers and to determine whether cumulative fatigue impairs performance-related markers. METHODS: Nineteen highly trained junior swimmers (11 males and 8 females; age 16 [1] y) competed in a \"direct-final\" format (no heats), completing at least 3 separate maximum-effort finals (50-400 m) during the first 24 hours of the Spanish National Championships. Swimmers were categorized by age: U16 and U18. Countermovement jump, blood lactate, heart rate, and rating of perceived exertion (RPE) were measured 15 minutes before and immediately after each of the 3 events. General linear models and linear mixed-effects models were employed to evaluate the changes over time, group differences (U16 vs U18), sex, and interactions effects. Effect sizes were reported as η2 or partial η2. RESULTS: Blood lactate concentration increased significantly (P < .001) from prerace to postrace at each event, reaching a peak of 15.4 (4.7) mmol·L-1 in sprinters. U16 swimmers showed a higher cardiovascular response compared with U18 as the competition progressed (P = .002). The swim team achieved a historic sixth-place overall regional finish, with 37% of the athletes improving their personal bests. No sequential reductions were observed for countermovement jump, F(2,16) = 0.54, P = .593, which remained stable at ∼33 to 34 cm postrace for 50 to 100 m and ∼30 to 31 cm for 200- to 400-m finals, indicating preserved neuromuscular performance. CONCLUSIONS: Although successive races induce substantial metabolic and cardiovascular stress, lower-limb explosive performance remains stable. Youth swimmers appear capable of tolerating congested multievent competition without substantial impairment in lower body neuromuscular power.",
+      "doi": "10.1123/ijspp.2026-0166",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078074/",
+      "relevance": 16,
+      "matched": [
+        "fatigue",
+        "performance",
+        "metabolic",
+        "sprint",
+        "power",
+        "lactate"
+      ]
+    },
+    {
+      "pmid": "43082789",
+      "title": "Agreement Between GPT-5-Generated and Human Reference PEDro Scale Ratings: A Preliminary Study.",
+      "journal": "Physical therapy",
+      "journal_issn": "0031-9023",
+      "discipline": "fascia",
+      "date": "2026-Nov-25",
+      "authors": "Juan Antonio Valera-Calero, Germán Monclús-Díez, Isidro Fernández-López et al.",
+      "abstract": "IMPORTANCE: Assessing methodological quality is essential for interpreting the findings of randomized controlled trials (RCTs). OBJECTIVE: The objective was to quantify agreement between pre-existing human reference Physiotherapy Evidence Database (PEDro) scale ratings and GPT-5-generated PEDro scale ratings when applying the PEDro scale to RCTs and to characterize the direction and distribution of the observed discrepancies. DESIGN: Observational cross-sectional study. SETTING: Systematic reviews published in journals indexed in the Journal Citation Reports. PARTICIPANTS: Individual RCTs identified through the source systematic reviews were the unit of analysis. INTERVENTIONS: Human reference PEDro scale ratings extracted from the source systematic reviews were compared with GPT-5-generated PEDro scale ratings for the corresponding RCT reports. MAIN OUTCOME MEASURE: Agreement was analyzed across 11 PEDro items and total PEDro scores (0 to 10). RESULTS: A total of 227 RCTs were included. The mean human reference total PEDro score was 5.66 (SD = 1.76), and the mean GPT-5-generated total PEDro score was 6.54 (SD = 1.61), yielding a mean GPT-5-human total-score difference of 0.88 points (95% CI = 0.74 to 1.01). The resulting ICC was 0.834 (95% CI = 0.431 to 0.926), and the linear relationship between total scores had an R2 of 0.664. Bland-Altman analysis identified a small negative proportional bias (slope= -0.10; R2=0.025). Item-level percent agreement ranged from 69.2% to 94.7%, and Cohen κ ranged from 0.082 to 0.759. The greatest PEDro score items disagreement concerned the reporting of eligibility criteria, adequacy of follow-up, and baseline comparability between groups. CONCLUSION: Under the specific procedure tested, GPT-5-generated PEDro scale ratings were broadly aligned with human reference PEDro scale ratings while assigning higher total PEDro scores on average. However, discrepancies could not be identified reliably from the GPT-5 output alone. RELEVANCE: This procedure should be regarded as an initial research procedure and is not yet ready for routine or general use.",
+      "doi": "10.1093/ptj/pzag134",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082789/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43078451",
+      "title": "Comparing the Effects of Small-Quantity Lipid-Based Nutrient Supplements and Micronutrient Powders on Early Child Growth Trajectories: A secondary analysis from a Cluster-Randomized Controlled Trial.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov-24",
+      "authors": "Solis Winters, Susana L Matias, Alan Hubbard et al.",
+      "abstract": "BACKGROUND: Micronutrient powders (MNP) and small-quantity lipid-based nutrient supplements (SQ-LNS) have been widely used on a global scale to complement infant diets, yet few studies directly compare their effectiveness on child growth. OBJECTIVE: We leverage longitudinal anthropometric data from a cluster-randomized trial in Guatemala to conduct a secondary analysis of the effect of SQ-LNS vs. MNP on early child growth trajectories. METHODS: In 76 communities in Baja Verapaz, Guatemala, 1720 households with pregnant women or children under 4.5 months old were randomly assigned to usual care (MNP; n=760), treatment 1 (SQ-LNS plus behavior change; n=546), or treatment 2 (MNP plus behavior change; n=414). Using a subset of longitudinal anthropometric data collected for children 6-36 months old in treatment households (n=816), we constructed Super-Imposition by Translation and Rotation (SITAR) length and weight trajectory models, which estimate a child's deviation from the sample average growth curve across three dimensions - size (cm/kg), timing (months), and velocity (%). Modified intent-to-treat effects of SQ-LNS vs. MNP on these three parameters were estimated with linear regression models. RESULTS: We found no differences in the effect of SQ-LNS on the size (length adjusted MD [95% CI]: -0.03 [-0.52,0.45]; weight: -0.09 [-0.23,0.05]), timing (length: 0.03 [-0.35,0.41]; weight: -0.35 [-0.87,0.18]), or velocity (length: 0.49 [-1.21,2.19]; weight: 1.41 [-1.23,4.05]) of length or weight trajectories compared to MNP. Results were similar for length-for-age difference, length-for-age z-score, and weight-for-length z-score. CONCLUSIONS: These findings suggest that supplementation with SQ-LNS provides no additional benefit on growth relative to MNP in this setting. Despite receiving both a behavior change intervention and supplementation with either SQ-LNS or MNP, the mean growth curves in our sample were far below the WHO reference curves, reinforcing the notion that supplementation alone is insufficient for addressing the many complex drivers of growth faltering. TRIAL REGISTRATION: ClinicalTrials.gov, NCT03399617 CLINICAL TRIALS REGISTRY NUMBER AND DATE: NCT03399617, January 28, 2018.",
+      "doi": "10.1016/j.ajcnut.2026.101642",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078451/",
+      "relevance": 7,
+      "matched": [
+        "nutrient",
+        "supplement",
+        "diet"
+      ]
+    },
+    {
+      "pmid": "43078450",
+      "title": "Effects of daily wild blueberry consumption for 12 weeks on cardiometabolic health in middle-aged/older adults with above-normal blood pressure: results from a randomized clinical trial.",
+      "journal": "The American journal of clinical nutrition",
+      "journal_issn": "0002-9165",
+      "discipline": "nutrition",
+      "date": "2026-Nov-24",
+      "authors": "Nancy Ghanem, Sylvia Y Lee, Emily K Woolf et al.",
+      "abstract": "BACKGROUND: Evidence suggests wild blueberries (WBB) can improve vascular function. However, findings from randomized controlled trials are equivocal and limited, particularly among middle-aged and older adults with above-normal blood pressure (BP). OBJECTIVE: To evaluate the effects of daily consumption of freeze-dried WBB powder on endothelial function and other cardiometabolic health parameters in middle-aged and older adults with above-normal BP. METHODS: In a randomized, double-blind, placebo-controlled, parallel-arm trial, 52 postmenopausal women and men aged 40-75 y with elevated BP or stage 1-hypertension were randomized to consume 22 g/d freeze-dried WBB powder or an isocaloric placebo for 12 weeks. The primary outcome, endothelial function, was assessed as the endothelial function was assessed as reactive hyperemia index (RHI). Secondary outcomes included arterial stiffness, brachial and aortic hemodynamics, circulating biomarkers of cardiometabolic health, and gut microbiota composition. RESULTS: WBB consumption did not improve endothelial function or most cardiometabolic health parameters compared to placebo (P > 0.05). A treatment × time interaction was observed for aortic pulse pressure, which increased in WBB group relative to placebo (+3.0 mmHg; 95% CI 0.29, 5.67; P = 0.03); however, this isolated finding was not accompanied by adverse changes in other hemodynamic or arterial stiffness parameters. Several adverse within-group hemodynamic changes were observed in the placebo group but not the WBB group. Gut microbial α- and β-diversity did not change differentially between groups over time, although overall community composition differed modestly between groups. Exploratory analyses indicated baseline microbial richness was associated with improvements in endothelial function, particularly in the WBB group. CONCLUSIONS: Consumption of 22 g/d of freeze-dried WBB powder for 12 weeks did not improve endothelial function or other cardiometabolic health parameters in the current study. Baseline gut microbiota may contribute to inter-individual variability in response, highlighting the need for larger studies incorporating precision nutrition approaches. Clinical Trial Registration number in clinicaltrials.gov: NCT04530916.",
+      "doi": "10.1016/j.ajcnut.2026.101651",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078450/",
+      "relevance": 1,
+      "matched": [
+        "nutrition"
+      ]
+    },
+    {
+      "pmid": "43078397",
+      "title": "Sorghum as a One Health Whole Grain Food System with Nutritional, Metabolic Health, Environmental and Sustainability Prospects.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-24",
+      "authors": "M D Khurshidul Zahid, Deepti Nigam, Shiva A Aghdam et al.",
+      "abstract": "Metabolic disorders are a growing global health concern highlighting the need for safe, affordable, and sustainable dietary approaches to support metabolic health. Sorghum is a climate-resilient, gluten-free cereal grain with considerable nutritional and functional potential, yet it remains underutilized in human diets. Its nutritional composition, including dietary fiber, proteins, essential nutrients, and bioactive phytochemicals, varies with genotype, growing conditions, and post-harvest processing, which may influence its health effects. Growing interest in food-based approaches to metabolic health has prompted investigation of sorghum and its bioactive constituents in relation to glycemic regulation, lipid metabolism, oxidative stress, inflammation, and gut microbiota modulation. Experimental studies suggest that sorghum-derived compounds may influence carbohydrate digestion, glucose metabolism, lipid-related pathways, and inflammatory responses. Animal studies have also reported changes in metabolic parameters and gut microbiota composition following sorghum-based dietary interventions. However, evidence from human studies remains limited, and findings vary according to sorghum genotype, processing methods, food formulation, dietary intake, study design, and participant characteristics. Differences in the bioavailability of bioactive compounds and the nutritional properties of sorghum products further complicate comparisons across studies. Beyond its potential metabolic effects, sorghum offers agricultural advantages related to climate resilience and opportunities to diversify food systems. However, sensory characteristics, processing requirements, consumer familiarity, and food acceptance remain important considerations for expanding its dietary use. This review critically examines sorghum's nutritional composition, bioactive constituents, and potential metabolic health effects of sorghum, while distinguishing findings from in vitro, animal, and human studies. It also discusses the influence of agricultural practices, post-harvest processing, and food applications on nutritional quality and consumer acceptance. Further well-designed human clinical trials using standardized sorghum products, defined dietary interventions, and clinically relevant outcomes are required to establish the extent of its metabolic health benefits and clarify its potential role in dietary strategies for chronic disease risk reduction.",
+      "doi": "10.1016/j.tjnut.2026.101953",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078397/",
+      "relevance": 12,
+      "matched": [
+        "nutrition",
+        "food",
+        "nutrient",
+        "protein",
+        "carbohydrate",
+        "diet"
+      ]
+    },
+    {
+      "pmid": "43078134",
+      "title": "Carl L. Keen: A Career Devoted to Trace Element Nutrition, Developmental Biology, and the Vascular Health Benefits of Flavanols.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-24",
+      "authors": "Gerardo G Mackenzie, Sheri M Zidenberg-Cherr, D'Ann C Finley et al.",
+      "abstract": "",
+      "doi": "10.1016/j.tjnut.2026.101939",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078134/",
+      "relevance": 2,
+      "matched": [
+        "nutrition"
+      ]
+    },
+    {
+      "pmid": "43079914",
+      "title": "Association between adherence to EAT-Lancet reference diet and incidence of overweight and obesity in a prospective cohort study of Chinese adults.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Hui Shi, Jun Liu, Ming Long et al.",
+      "abstract": "The EAT-Lancet reference diet (ELD) was proposed by the EAT-Lancet Commission to promote human well-being. However, the association between adherence to ELD and obesity incidence in Chinese adults remains unclear. This study utilised data from the China Health and Nutrition Survey (1997-2015) and included 10 557 adults to examine the risk of overweight and 14 764 adults to examine the risk of obesity in association with adherence to ELD. ELD adherence was assessed via Planetary Health Diet (PHD) score. Cox regression models were used to analyse the correlation between adherence to ELD and incidence of overweight (24 ≤ BMI < 28 kg/m2) and obesity (BMI ≥ 28 kg/m2). After median follow-ups of 8.8 and 9.9 years, 3478 and 1757 participants, respectively, experienced incident overweight and obesity. Compared with the lowest quartile (Q1) of PHD score, participants in the highest quartile (Q4) were associated with lower incidence of overweight (hazard ratio (HR) = 0.41; 95 % CI: 0.37, 0.46; P-trend < 0.001) and obesity (HR = 0.39; 95 % CI: 0.34, 0.45; P-trend < 0.001). Dose-response analysis revealed a significant inverse association between the Planetary Health Diet (PHD) score and the incidence of overweight and obesity. Subgroup analyses demonstrated this inverse association was more pronounced among rural residents and individuals with low physical activity. Higher adherence to ELD was significantly associated with lower incidence of overweight and obesity in Chinese adults, especially among rural residents and those with low physical activity levels. Promoting this sustainable dietary pattern could be a relevant strategy to address obesity-related public health challenges in China.",
+      "doi": "10.1017/S0007114526109465",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079914/",
+      "relevance": 6,
+      "matched": [
+        "diet",
+        "nutrition",
+        "dietary",
+        "physical activity"
+      ]
+    },
+    {
+      "pmid": "43079909",
+      "title": "Cruciferous vegetable intake and dementia risk in community-dwelling Japanese people aged 40-74 years: a 13-year cohort study.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Madoka Nishigawa, Yumi Watanabe, Kaori Kitamura et al.",
+      "abstract": "Cruciferous vegetables containing isothiocyanates and indoles have been suggested to be associated with a reduced risk of dementia, but supporting evidence is scarce. The present cohort study aimed to determine whether cruciferous vegetable intake is associated with dementia risk in middle-aged and older adults. Participants were 13 203 Japanese people aged 40-74 years. Data were collected using a self-administered questionnaire. The predictor was cruciferous vegetable intake, and the outcome was newly diagnosed dementia using the Long-Term Care Insurance database. Covariates included age, sex, marital status, education level, occupation, BMI, total physical activity, smoking, alcohol consumption, coffee/green tea consumption, energy-adjusted non-cruciferous vegetable, fruit, dairy products, and fish intake and disease history. Information on food intake was obtained with a validated FFQ, with adjustments made for energy using the residual method. Hazard ratios (HR) were calculated using a Cox proportional hazards model. The mean age of participants was 59·1 years (sd 9·3). During a mean follow-up of 13·3 years, 1048 cases of dementia were observed. Lower cruciferous vegetable intake was associated with a higher dementia risk (P for trend = 0·0127), with an increased risk in the lowest intake quartile (HR = 1·28, 95 % CI: 1·04-1·59) than in the highest quartile (reference) after adjustment for covariates, including non-cruciferous vegetable intake. This association tended to be stronger in the younger subgroup of <65 years (HR = 1·91, 95 % CI: 1·24-2·94) than in the older subgroup of ≥65 years (P for interaction = 0·0856). In conclusion, lower cruciferous vegetable intake is associated with an increased risk of dementia in middle-aged and older people.",
+      "doi": "10.1017/S0007114526109477",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079909/",
+      "relevance": 2,
+      "matched": [
+        "food",
+        "physical activity"
+      ]
+    },
+    {
+      "pmid": "43079905",
+      "title": "Dietary chlorogenic acid modulates lipid partitioning in yellow catfish (Pelteobagrus fulvidraco): enhancing intramuscular fat with reduced visceral deposition.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Ying-Jia Chi, Meng-Ru Li, Heng-Yang Cui et al.",
+      "abstract": "Modern intensive aquaculture faces excessive lipid deposition, visceral fat accumulation compromises fish health and reduces yield. Strategic lipid repartitioning from visceral depots towards intramuscular fat may improve product quality and metabolic health. This study investigated the effects and mechanisms of chlorogenic acid (CGA) in modulating lipid partitioning in yellow catfish (Pelteobagrus fulvidraco). Fish were fed a control diet, high-fat diet (HFD), CGA diet or HFD supplemented with CGA (0·4 g·kg-1) for 8 weeks. Using MRI-based three-dimensional lipid quantification, we demonstrated that HFD preferentially increased inedible fat while reducing the proportional of lipid deposition in edible tissues, mainly muscle. In contrast, CGA supplementation significantly reduced visceral fat content and increased absolute amount and proportional distribution of lipid in muscle. Consistently, CGA significantly increased muscle TAG content, supporting enhanced neutral lipid accumulation in muscle. Meanwhile, CGA significantly increased PUFA levels in muscle lipids (P < 0·05), contributing to an improved n-3/n-6 PUFA ratio. Transcriptomic analysis revealed tissue-specific regulatory mechanisms: in visceral fat, CGA promoted lipolytic gene expression and suppressed lipogenic gene expression; in muscle, CGA activated pathways related to fatty acid elongation and TAG biosynthesis, accompanied by upregulation of pparγ and its target genes. These findings suggest that supplementation with 0·4 g·kg-1 CGA may modulate lipid partitioning in yellow catfish under the present experimental conditions, by reducing visceral lipid deposition while enhancing muscle lipid accumulation and quality, highlighting its potential as a nutritional approach to improve product value and metabolic health for this aquaculture species.",
+      "doi": "10.1017/S0007114526109568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079905/",
+      "relevance": 10,
+      "matched": [
+        "fat",
+        "diet",
+        "dietary",
+        "nutrition",
+        "supplement"
+      ]
+    },
+    {
+      "pmid": "43079901",
+      "title": "Complementary-feeding patterns, dietary diversity and linear growth among children aged 6-23 months in forty low- and middle-income countries.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Zhixin Liu, Xing Lin Feng",
+      "abstract": "Dietary diversity is widely used to assess complementary-feeding quality, but it may not fully reflect variation in diet composition relevant to child growth. We aimed to identify complementary-feeding patterns across forty low- and middle-income countries, examine their correspondence with minimum dietary diversity (MDD) and assess their associations with child linear growth. We analysed nationally representative Demographic and Health Surveys conducted between 2015 and 2024. Latent class analysis of the eight WHO/UNICEF food groups identified feeding patterns among 165 348 children aged 6-23 months. MDD was defined as consumption of at least five of the eight food groups during the previous 24 h. Associations with length-for-age z-score (LAZ) and stunting were assessed using linear regression and modified Poisson regression with robust se, respectively. Four patterns emerged: Diverse (8·8 %), Dairy-oriented (27·5 %), Plant-forward (34·3 %) and Breastmilk-dominant (29·4 %), with prevalence varying across countries. Overall, 24·3 % met MDD. Among those who did not, 38·8 % were Breastmilk-dominant, 37·9 % Plant-forward and 23·3 % Dairy-oriented. Compared with Diverse, Plant-forward and Breastmilk-dominant patterns were associated with lower LAZ and higher stunting prevalence. Dairy-oriented did not differ detectably in either outcome despite lower MDD attainment. These findings indicate that MDD non-attainment encompasses distinct dietary compositions with different growth associations. Pattern-based assessment could complement MDD monitoring by distinguishing the forms of complementary feeding underlying low dietary diversity.",
+      "doi": "10.1017/S0007114526109490",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079901/",
+      "relevance": 7,
+      "matched": [
+        "diet",
+        "dietary",
+        "food"
+      ]
+    },
+    {
+      "pmid": "43079900",
+      "title": "Planetary Health Diet adherence only partially correlates with healthy eating principles in the European context.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Agustin Ramiro Miranda, Joseph Meunier, Anant Jani et al.",
+      "abstract": "Dietary shifts towards more sustainable dietary patterns are increasingly encouraged to promote both human and environmental health. The Planetary Health Diet (PHD) offers a reference framework for such transitions; however, its correlation with diet quality across diverse European populations remains underexplored. This study aimed to assess the extent to which adherence to the PHD aligns with three principles of a healthy diet (i.e. adequacy, balance and moderation) across six European countries. Nationally representative dietary data (post-2013) from Estonia, France, the Netherlands, Portugal, Switzerland and the UK (n 12 641 adults) were harmonised to estimate food and nutrient intakes based on ≥2 non-consecutive 24-h recalls. Adherence to the PHD was evaluated using three indices: World Index for Sustainability and Health, EAT-Lancet Diet Index and EAT-Lancet Index. Nutrient adequacy was assessed using the mean probability of adequacy for eighteen micronutrients, while balance and moderation were evaluated according to established macronutrient, Na and saturated fat thresholds. Weighted multivariable regression models were applied to explore associations. Probabilities of nutrient adequacy varied by sex, age and country. Between-country differences in PHD adherence were observed across all three indices, with large within-country variability. In general, PHD adherence was associated with greater nutrient adequacy and better compliance with saturated-fat recommendations, but associations were weak and varied across countries, nutrients and PHD indices. These findings suggest that adherence to the PHD only partially reflects healthy eating principles in Europe, highlighting the need for considering regional dietary patterns and population-specific nutritional priorities when applying the PHD.",
+      "doi": "10.1017/S0007114526109556",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079900/",
+      "relevance": 8,
+      "matched": [
+        "diet",
+        "nutrition",
+        "nutrient",
+        "fat",
+        "dietary",
+        "food"
+      ]
+    },
+    {
+      "pmid": "43079789",
+      "title": "Association between maternal food addiction and anaemia among mothers and their children living in socially vulnerable situations.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Luiz Gonzaga Ribeiro Silva-Neto, Risia Cristina Egito de Menezes, Thays Lane Ferreira Dos Santos et al.",
+      "abstract": "The objective of this study was to evaluate the association between food addiction (FA) and the presence of anaemia in mother-child pairs living in socially vulnerable situations. This population-based cross-sectional study was conducted in urban slums and communities in Maceió, Alagoas, Brazil, between 2020 and 2021. A total of 401 mother-child dyads (children aged 6-59 months) were evaluated. Children of both sexes were included. FA was identified using the mYFAS 2·0 questionnaire, validated for Portuguese. Anaemia was determined based on Hb concentration. Poisson regression models with robust variance estimates were used, adjusted for socio-demographic variables, nutritional status and lifestyle factors. The prevalence of maternal FA was 21·4 %, whereas anaemia was observed in 64·8 % of mothers and 50·1 % of children. The presence of maternal FA was associated with a 41 % higher prevalence of anaemia among women (prevalence ratio = 1·41; 95 % CI: 1·05, 1·89; p = 0·020) and a 25 % higher prevalence of anaemia among their children (prevalence ratio = 1·25; 95 % CI: 1·08, 1·46; p = 0·003). These findings highlight the potential relevance of behavioural factors related to eating in the context of anaemia among mothers and children living in socially vulnerable situations. Further longitudinal studies are needed to investigate the temporal relationship between maternal FA and anaemia in mothers and their children.",
+      "doi": "10.1017/S0007114526109337",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079789/",
+      "relevance": 4,
+      "matched": [
+        "food",
+        "nutrition"
+      ]
+    },
+    {
+      "pmid": "43079783",
+      "title": "Randomised arachidonic acid and DHA supplementation in very preterm infants: evidence for incorporation into plasma lipids using the natural abundance variation of 13C.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Virgilio Carnielli, Anna Sartori, Ariadna Witte Castro et al.",
+      "abstract": "The objective was to test the bioavailability of long-chain PUFA (LCPUFA) supplements containing arachidonic acid (ARA) and DHA using 13C natural variation of dietary lipids. Thirty-three preterm infants were studied: 12 on standard of care (SOC) without LCPUFA supplements and twenty-one received LCPUFA supplements. Of the supplemented infants, ten received ARA120 (ARA 120 mg/kg body weight (bw) and DHA 60 mg/kg bw), and eleven ARA160 (ARA 160 mg/kg bw and DHA 80 mg/kg bw). Supplementation started as soon as enteral nutrition was tolerated and continued until 36 weeks Post Menstrual Age (PMA); median [Q1, Q3] supplementation days 46 [39, 63]. Plasma phospholipid (PL) fatty acids were measured by GC and isotope ratio MS. The 13C:12C ratio(δ13C) of the LCPUFA supplements was different from the infants' plasma baseline (-12·7 v - 29·0 for ARA and -11·2 v - 28·0 for DHA). At baseline, no differences in PL-DHA or PL-ARA δ13C were observed among study groups. At 36 weeks' PMA, PL-ARA mol% was higher in ARA160 than ARA120, and both exceeded SOC. PL-DHA mol% was higher in ARA160 than in ARA120 and SOC, while ARA120 did not differ significantly from SOC. Supplement-derived ARA represented 55·7 ± 12·9% of the plasma PL ARA pool in ARA120 v 59·1 ± 15·5% in ARA160 (P = 0·127), and supplement-derived DHA was 42·3 ± 11·1% v 48·3 ± 15·5%, respectively (P = 0·054), for plasma PL DHA. We conclude that LCPUFA supplementation increased plasma PL ARA and DHA mol% values. Natural abundance showed that by 36 weeks PMA, 40 to 60 % of PL LCPUFA was derived from the supplement.",
+      "doi": "10.1017/S0007114526108514",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079783/",
+      "relevance": 7,
+      "matched": [
+        "supplement",
+        "nutrition",
+        "fat",
+        "diet",
+        "dietary"
+      ]
+    },
+    {
+      "pmid": "43079777",
+      "title": "Interaction between 3-SNP genetic risk score and lifestyle risk score on cardiovascular risk factors and the risk of lifetime ASCVD among overweight and obese women.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-25",
+      "authors": "Sahand Tehrani Fateh, Farideh Shiraseb, Viviane Z Rocha et al.",
+      "abstract": "Interaction between genetic variations and lifestyle risk factors has been shown to be associated with atherosclerotic CVD (ASCVD). This study for the first time sought to investigate this interaction on cardiovascular risk factors and the lifetime ASCVD risk in Iranian obese and overweight women. This study consisted of 256 overweight or obese women. The genetic risk score (GRS) included three genetic variations (CAV-1 rs3807992, CRY-1 rs2287161 and MC4R rs17782313), and each of them was genotyped using PCR-restriction fragment length polymorphism. Lifestyle risk score (LRS) consisting of dietary behaviour, physical activity, sleep quality, socio-economic status and waist-to-stature ratio was used to assess lifestyle risk factors associated with ASCVD, and the Bonferroni correction was also applied for multiple comparisons. Following Bonferroni correction for multiple comparisons using a family-wise approach (α = 0·0028 for interaction analyses), the interaction between high LRS and high GRS was not significantly associated with any assessed cardiovascular risk factor or lifetime ASCVD risk. The nominal P-values for these interactions were 0·040 (CRI-II), 0·038 (CHOLINDEX), 0·018 (TyG-BMI), 0·041 (TAG), 0·041 (AIP), 0·067 (HDL), 0·075 (LDL) and 0·077 (ASCVD lifetime risk), all of which exceeded the Bonferroni-adjusted significance threshold. In this exploratory, hypothesis-generating study, uncorrected analyses suggested preliminary nominally significant interactions. However, after adjusting for multiple comparisons, no definitive evidence of GRS × LRS interactions was observed. These findings require replication in larger, prospective cohorts.",
+      "doi": "10.1017/S0007114526108599",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079777/",
+      "relevance": 3,
+      "matched": [
+        "diet",
+        "dietary",
+        "physical activity"
+      ]
+    }
+  ]
+}
