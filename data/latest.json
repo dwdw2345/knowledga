@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27",
-  "updated_at": "2026-11-27 11:53",
+  "updated": "2026-11-28",
+  "updated_at": "2026-11-28 11:40",
   "articles": [
     {
       "pmid": "42981778",
@@ -3175,6 +3175,271 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823643/"
     },
     {
+      "pmid": "43102965",
+      "title": "When the cure adds to the cost: Skeletal muscle mitochondrial effects of bed rest in elderly.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-27",
+      "authors": "Caroline Manon Markmann Bentsen",
+      "abstract": "",
+      "doi": "10.1113/JP292684",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102965/",
+      "relevance": 2,
+      "matched": [
+        "mitochondrial"
+      ]
+    },
+    {
+      "pmid": "43102963",
+      "title": "Cardiomyocyte-derived signalling molecules, 'concerting the orchestra?'.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-27",
+      "authors": "Alexander Grassam-Rowe, Ming Lei",
+      "abstract": "The dynamic responses of the heart enable effective organism-level responses to different stimuli. Canonically, the heart's dynamism arises from extrinsic cardiotropic neural and endocrine signalling integrated into intrinsic cardiac regulatory mechanisms. However, it has long been recognised that cardiomyocytes are also sources of signalling molecules that act to modulate both intra-cardiac and extra-cardiac responses. After initial investigations in the 20th century, recent evidence has shed new light on the role of specific populations of cardiomyocytes as putative sources of signalling molecules. In particular, there is evidence supporting these 'signalling cardiomyocyte' subpopulations as sources of catecholamines and acetylcholine - the major autonomic signalling molecules. Our focus is primarily on catecholamines, which we use as the model of the paradigm, given the more extensive evidence base - yet we also discuss more recently proposed and controversial signalling molecules. This review interrogates the evidence supporting and challenging the presence and proposed functional roles of these reported cardiomyocyte-derived signalling molecules. The review then finishes by proposing next steps for investigators in the field to approach major outstanding issues.",
+      "doi": "10.1113/JP288977",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102963/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43102958",
+      "title": "WM-S25: Validation of heated-hand venous arterialization at sea level and high altitude.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-27",
+      "authors": "Jessica N Kenney, Ibrahim A Wafai, Brooke R Shepley et al.",
+      "abstract": "Arterial blood sampling remains the gold standard for blood gas and acid-base analysis; however, it can be logistically challenging in research settings, especially during field research. In this study, we evaluated the validity of arterializing venous blood in the hand through 25 min of warm (45°C) water hand immersion, in comparison to direct arterial (brachial) sampling in healthy adults (age range 20-35 years, mean 24 years) at both sea level (334 m a.s.l., n = 15) and high altitude (3800 m a.s.l., n = 11). Agreement was assessed using Bland-Altman analyses. For the primary analysis of P O 2 , equivalence testing was also performed with a predefined margin of ±5 mmHg. Secondary analyses included P C O 2 , oxygen saturation, glucose, lactate, pH and HCO3 -. At sea level, hand heating reduced the mean bias for arterial-venous P O 2 from -20.85 mmHg [unheated 95% limits of agreement (LOA): -38.72 to -2.97 mmHg] to -7.99 mmHg (heated 95% LOA: -26.68 to 10.71 mmHg). At high altitude, hand heating reduced the mean bias for arterial-venous P O 2 from -5.99 mmHg (unheated 95% LOA: -11.82 to -0.16 mmHg) to -0.98 mmHg (heated 95% LOA: -3.60 to 1.63 mmHg). Equivalence testing demonstrated that heated venous P O 2 was equivalent to arterial P O 2 only at high altitude, with no equivalence observed in any other conditions. Agreement for P C O 2 , pH, HCO3 -, glucose and lactate was generally good irrespective of hand heating or elevation, whereas heating improved agreement for oxygen saturation at both elevations. These findings support heated-hand venous arterialization as a practical alternative to arterial sampling for assessment of arterial P O 2 during high-altitude research.",
+      "doi": "10.1113/EP093946",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102958/",
+      "relevance": 2,
+      "matched": [
+        "lactate",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43102890",
+      "title": "Dissociated orientation biases of local gamma oscillations and cross-laminar delta-gamma coupling in mouse primary visual cortex.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-27",
+      "authors": "Baitao Liao, Kehan Chen, Zhengjiang Yang et al.",
+      "abstract": "Gamma-band neural oscillations are implicated in sensory feature processing, yet their laminar organization and cross-frequency coupling in the mouse primary visual cortex (V1) remain poorly defined. Using linear electrode arrays, we recorded local field potentials and multi-unit activity across cortical layers in lightly anaesthetized adult male C57BL/6 mice during presentation of drifting grating stimuli. We systematically characterize orientation selectivity and phase-amplitude coupling (PAC). Visual stimulation most strongly drove cross-laminar PAC involving L6 delta phase (1-3 Hz) and L4 gamma amplitude (25-75 Hz) (hereafter L6-L4 PAC, where the first layer denotes the source of low-frequency phase and the second layer the source of high-frequency amplitude), with significantly greater coupling strength for L6-L4 PAC than for the reciprocal L4-L6 PAC. Notably, local gamma power exhibited a robust, consistent vertical preference, whereas L6-L4 PAC showed a significant horizontal bias. Dataset-level analyses revealed that the vertical preference of gamma originated from consistent clustering of peak directions around vertical, whereas the horizontal bias of PAC emerged from the accumulation of weak, widely distributed individual deviations. These findings reveal a functional dissociation between local gamma oscillations and cross-laminar PAC in mouse V1: gamma power shows a vertical bias that may carry orientation information, whereas L6-L4 delta-gamma coupling shows a weaker horizontal bias and may reflect a form of cross-laminar temporal co-ordination. KEY POINTS: Visual stimulation drives robust cross-laminar phase-amplitude coupling (PAC) from layer 6 delta-phase (1-3 Hz) to layer 4 gamma-amplitude (25-75 Hz), with significantly stronger coupling than the reverse direction (L4 → L6). Local gamma power (25-75 Hz) exhibits a consistent, depth-invariant preference for vertical orientations across all cortical layers. In contrast, L6 → L4 PAC shows a significant horizontal bias, revealing a functional dissociation between local gamma oscillations and inter-laminar coupling. Single-trial analyses show that gamma's vertical preference arises from tight clustering of peak directions, whereas PAC's horizontal bias emerges from weak, scattered individual deviations summing to a population effect. These findings suggest that local gamma power encodes feature-specific orientation information, while L6 → L4 δ-γ coupling provides a stimulus-engaged, horizontally biased rhythmic scaffold for inter-laminar coordination.",
+      "doi": "10.1113/JP291644",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102890/",
+      "relevance": 2,
+      "matched": [
+        "strength",
+        "power"
+      ]
+    },
+    {
+      "pmid": "43102881",
+      "title": "Increased CA3 burst activity in Doc2α and Syt7 knockout mice.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-27",
+      "authors": "Raghava Jagadeesh Salaka, Edwin R Chapman",
+      "abstract": "The hippocampal cornu ammonis 3 (CA3) subfield is central to associative learning and memory consolidation. CA3 pyramidal neurons execute these functions by generating hypersynchronous bursts that feedforward to the CA1. Extensive recurrent collateral connections within CA3 are crucial for the generation of this burst activity. Double C2-like domain-containing protein α (Doc2α) and synaptotagmin 7 (Syt7) are high-affinity calcium sensors implicated in asynchronous release (AR) of neurotransmitter and in the exocytosis of dense-core vesicles (DCVs). Additionally, Doc2α is a sensor for miniature neurotransmission, whereas Syt7 is involved in synaptic facilitation and synaptic vesicle (SV) replenishment. Both Doc2α and Syt7 are expressed in the hippocampus, but their potential roles in spontaneously bursting networks, like CA3, remain unanswered. Using whole-cell recordings at near physiological conditions (33°C-34°C and 1.2 mM Ca2+) in acute hippocampal slices obtained from juvenile (P15-21) knockout (KO) mice lacking Doc2α, Syt7 or both proteins, we report no changes in spontaneous inhibitory or excitatory postsynaptic current frequency or amplitude in CA1 pyramidal neurons. However, there was a marked increase in burst activity, originating in CA3, in all three KO conditions; this was not due to changes in AR or the intrinsic properties of CA3 pyramidal neurons. We propose that this novel burst phenotype in Doc2α- and Syt7-KO mice is unrelated to changes in neurotransmitter release but might be mediated by changes in neuropeptide release from DCVs in the CA3 subfield or along upstream pathways. Regardless of the underlying mechanisms, this work reveals that both Doc2α and Syt7 act to regulate network activity. KEY POINTS: Hippocampal cornu ammonis 3 (CA3) burst activity is critical for associative learning and memory consolidation. Doc2α and Syt7 are high-affinity Ca2+ sensors with similar kinetic properties and are expressed in the hippocampus. Doc2α and Syt7 support various modes of neurotransmitter release and presynaptic plasticity. Both Doc2α and Syt7 are also involved in the exocytosis of dense-core vesicles in neuroendocrine cells. Loss of Doc2α and Syt7 results in increased CA3 burst activity without changing asynchronous release (AR) or the intrinsic properties of CA3 neurons. Our results suggest a novel role for Doc2α and Syt7 in regulating CA3 burst activity.",
+      "doi": "10.1113/JP292040",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102881/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43102483",
+      "title": "Myoglobin-dependent regulation of mitochondrial bioenergetics and glucose metabolism in murine C2C12 skeletal muscle myotubes.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-27",
+      "authors": "Dipendra Bhandari, Michael L Blackburn, Sean H Adams et al.",
+      "abstract": "Lactate (LAC) accumulates in skeletal muscle when production surpasses utilization and tissue export during exercise. Recent biochemical studies have revealed that increasing LAC concentrations reduce oxygen (O2) binding to equine skeletal muscle myoglobin (Mb). To determine whether LAC-Mb associations affect cellular metabolism, we treated three variants of the C2C12 mouse skeletal muscle myotubes - Mb wild-type (MbWT), Mb knockout (MbKO) and Mb empty vector (MbEV) - with varying concentrations of sodium l-lactate (1.8-8.0 mM) for 3-24 h to assess net LAC uptake, net glucose (GLU) uptake and mitochondrial bioenergetics. Intracellular LAC levels increased in all LAC-treated Mb genotype variants but not in control cells. After 24 h, net GLU uptake was significantly higher in MbKO cells than in MbWT or MbEV cells. At 6 h, mitochondrial oxidative phosphorylation contributed ∼70% of total ATP production in LAC-treated MbWT and MbEV cells. However, at 24 h, a higher (∼57%-67%) contribution of glycolysis-derived ATP was recorded. Total ATP production was significantly lower (∼35%) in MbKO cells at both 6 and 24 h, largely due to lower glycolysis-derived ATP production (∼26%-31%). Our findings support the concept that Mb plays a role in modulating skeletal muscle GLU uptake, glycolytic versus oxidative metabolism and total ATP production. Notably, Mb-associated effects appear to be LAC-independent, at least in the C2C12 cell model. Overall, these results are consistent with a growing body of evidence pointing to multiple physiological and regulatory functions for Mb, including cellular fuel trafficking and regulation of mitochondrial function.",
+      "doi": "10.1113/EP094058",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102483/",
+      "relevance": 10,
+      "matched": [
+        "metabolism",
+        "mitochondrial",
+        "exercise",
+        "lactate",
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43100217",
+      "title": "Ontogeny and implantation of the dentition in prismatic enamel-bearing reptiles: Insights from extant uromastycine lizards (Squamata: Agamidae).",
+      "journal": "Journal of anatomy",
+      "journal_issn": "0021-8782",
+      "discipline": "anatomy",
+      "date": "2026-Nov-27",
+      "authors": "Marco Bianchin, Abigail S Tucker, Aaron R H LeBlanc",
+      "abstract": "Prismatic enamel represents a key evolutionary adaptation in vertebrates and likely evolved independently several times. Beyond mammals, the presence of prismatic enamel among extant vertebrates has been identified within uromastycine lizards (Acrodonta). However, many aspects of their dental ontogeny and histology remain poorly understood. This study provides a comprehensive investigation of the postnatal dental ontogeny and histology of the genera Uromastyx and Saara, using an extensive series of specimens analysed via X-ray micro-computed tomography, hard-tissue histology, and scanning electron microscopy (SEM). These comparisons reveal three ontogenetic stages that are associated with a shift in diet. We also provide the first documented evidence of limited, but consistent tooth replacement in the anterior dentary in the genus Uromastyx, challenging the traditional view that this group lacks a mixed pleurodont/acrodont dentition. Our histological results further reveal that the dentition is not strictly acrodont. Newly erupted teeth exhibit pleurodont implantation with a multi-tissue attachment system, subsequently acquiring an acrodont-like appearance through rapid pulp infilling and ankylosis. Furthermore, SEM analysis established that prismatic enamel and a complex tubule network are not only localized to posterior teeth but are a feature of the entire dentition across all ontogenetic stages, from insectivorous juveniles to herbivorous adults. These findings establish uromastycines as a model for understanding the convergent evolution of complex dental tissues and suggest that prismatic enamel may have evolved early in the history of this lineage as a specialized adaptation to arid environments and herbivory.",
+      "doi": "10.1111/joa.70279",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100217/",
+      "relevance": 0,
+      "matched": []
+    },
+    {
+      "pmid": "43100048",
+      "title": "Associations of fat mass and fat-free mass accretion in early childhood with body composition and cardiometabolic markers at age 10 years: the Ethiopian iABC birth cohort.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-27",
+      "authors": "Bikila S Megersa, Suzanne Filteau, Gregers S Andersen et al.",
+      "abstract": "There is limited evidence on how fat mass (FM) and fat-free mass (FFM) accretion in childhood influence adiposity and cardiometabolic health later in life. We aimed to examine associations of FM and FFM accretion in periods from 0-60 months with body composition, abdominal subcutaneous and visceral fat, and cardiometabolic markers at a mean age of ∼10 years (range: 7-12 years). In the Ethiopian iABC birth cohort, FM and FFM was measured using air-displacement plethysmography. We applied linear spline mixed-effects modeling to estimate FM and FFM accretion during infancy (0-3, 3-6 months) and early childhood (6-48, 48-60 months) in 403 children. The analytical sample ranged from 312 to 307 participants across the outcomes. Multiple linear regression analysis was used to examine associations of FM and FFM accretion in each period with outcomes at age 10 years. FM accretion between 0-3 and 6-48 months was associated with a higher body mass- and FM index, while FFM accretion in all periods was associated with greater height and FFM index at 10 years. FM and FFM accretion from 6-48 months were associated with higher and lower abdominal subcutaneous fat, respectively. Furthermore, FM accretion from 3-6 months was associated with higher systolic blood pressure and glucose levels. FM accretion from 6-48 months was associated with higher fasting insulin, C-peptide, and HOMA-IR, whereas FFM accretion from 6-48 months was associated with lower total and LDL cholesterol. Overall, FM accretion in early infancy and from 6-48 months was linked to adiposity and higher glucose metabolism markers, while FFM accretion from 6-48 months was associated with lower unfavorable lipids, suggesting potential cardiometabolic benefits.",
+      "doi": "10.1017/S0007114526109581",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100048/",
+      "relevance": 9,
+      "matched": [
+        "fat",
+        "body composition",
+        "fat mass"
+      ]
+    },
+    {
+      "pmid": "43100067",
+      "title": "Intercellular crosstalk and functional heterogeneity of hepatic stellate cells: A translational framework for chronic liver disease.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-26",
+      "authors": "Olga Martínez-Arroyo, Mireia Sastre-Navarro, Juan V Esplugues et al.",
+      "abstract": "Chronic liver diseases are a major cause of morbidity and mortality worldwide, with hepatic fibrosis representing the common pathological pathway that can lead to cirrhosis, portal hypertension and hepatocellular carcinoma. Hepatic stellate cells (HSCs) are the principal source of myofibroblasts during liver fibrogenesis and have therefore emerged as central therapeutic targets. However, recent advances in single-cell transcriptomics, spatial omics and lineage-tracing approaches have fundamentally revised the traditional view of HSC activation as a uniform process. Instead, HSCs comprise a spectrum of phenotypically and functionally distinct states that dynamically evolve in response to chronic liver injury and differ in their contributions to extracellular matrix deposition, inflammation, immune regulation, vascular remodelling and tissue repair. During disease progression, HSCs integrate biochemical, metabolic and biomechanical cues derived from injured hepatocytes, liver sinusoidal endothelial cells, immune cells and the extracellular matrix, while simultaneously reshaping the hepatic microenvironment through reciprocal intercellular communication mediated by soluble factors, extracellular vesicles, direct cell-cell interactions and matrix-derived signals. This bidirectional crosstalk underlies both fibrosis progression and its potential regression, highlighting HSC plasticity as a defining feature of chronic liver disease. In this review, we discuss the emerging concepts of HSC phenotypic heterogeneity and intercellular communication, summarizing the molecular mechanisms that govern HSC state transitions and their interactions within the hepatic niche. Finally, we examine how these discoveries are transforming current approaches to precision anti-fibrotic therapies, providing a translational framework for the treatment of chronic liver diseases.",
+      "doi": "10.1113/JP290387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100067/",
+      "relevance": 2,
+      "matched": [
+        "metabolic",
+        "injury"
+      ]
+    },
+    {
+      "pmid": "43099775",
+      "title": "Reduced spike adaptation in RHEB/mTORC1-hyperactive excitatory neurons influences network hyperactivity.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-26",
+      "authors": "Anouk M Heuvelmans, Stefan G J Lip, Mario Negrello et al.",
+      "abstract": "The mammalian target of rapamycin complex 1 (mTORC1) pathway plays a crucial role in structural brain development by regulating cell growth, metabolism and other cellular processes. Hyperactivation of this pathway causes refractory epilepsy and enhanced network activity through increased synaptic connectivity. However, patch-clamp recordings of neurons in which the mTOR pathway is hyperactive revealed reduced intrinsic excitability. To unravel the mechanism underlying this paradoxical finding, we combine whole-cell recordings from dissociated murine hippocampal neurons overexpressing the gain-of-function Ras-homolog enriched in brain (RHEB)-p.P37L mutation, with an in silico model to connect cellular changes to network dynamics. We found an increased rheobase, decreased depolarization-induced excitability and increased afterhyperpolarization current in mTORC1-hyperactive neurons, confirming hypo-excitability. Further characterization of spike-trains revealed a lack of adaptation in these neurons, enabling neurons to reach shorter interspike intervals in response to higher current injections. We built a computational model of the neurons that reproduces the electrophysiological parameters we measured. This model revealed the interaction between the afterhyperpolarization current and voltage-dependent refractory mechanisms as a potential cause for the reduction in spike adaptation. Network simulation revealed how passive properties, afterhyperpolarization current, and synaptic connectivity contribute to aberrant network activity, suggesting the altered passive properties in RHEB-p.P37L neurons as a cause of reduced burst rhythmicity on network level. Our findings indicate that, in mTORC1-hyperactive neurons, excitability is regulated in a state-dependent manner, where baseline hypo-excitability coexists with poor adaptation, promoting high-frequency firing in high-input states. Based on our results, we propose that, in addition to altered synaptic connectivity, differences in state-dependent neuronal excitability underlie mTOR-hyperactivity-induced disruptions of network activity. KEY POINTS: The mammalian target of rapamycin complex 1 (mTORC1) pathway is essential for brain development, and hyperactivation of the pathway causes refractory epilepsy and increased neuronal network activity. Neurons with induced mTORC1-hyperactivity display intrinsic hypo-excitability at the single-cell level but exhibit stronger synaptic connectivity in networks than controls. Single-cell recordings from murine primary hippocampal neurons expressing the gain-of-function Ras-homolog enriched in brain (RHEB)-p.P37L mutation reveal increased afterhyperpolarization currents and a marked reduction in spike-frequency adaptation, allowing neurons to fire at shorter interspike intervals during strong current injection. A biophysically constrained computational neuron model recapitulating the biological single-cell intrinsic properties reproduced faster firing in response to strong current injection, and revealed how passive properties, afterhyperpolarization and synaptic connectivity contribute to aberrant network activity. The findings demonstrate state-dependent regulation of excitability in mTORC1-hyperactive neurons, where baseline hypo-excitability coexists with impaired adaptation and high-frequency firing, suggesting that altered intrinsic excitability, in addition to increased synaptic connectivity, contributes to mTOR-driven network dysfunction.",
+      "doi": "10.1113/JP290805",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099775/",
+      "relevance": 4,
+      "matched": [
+        "adaptation",
+        "metabolism"
+      ]
+    },
+    {
+      "pmid": "43099284",
+      "title": "Reactive oxygen species-mediated cytoskeletal dynamics in osteocytes: The missing link in mechanosensing under Earth and altered gravity.",
+      "journal": "Experimental physiology",
+      "journal_issn": "0958-0670",
+      "discipline": "physiology",
+      "date": "2026-Nov-26",
+      "authors": "Kanokphong Suparan, Damian Miles Bailey",
+      "abstract": "",
+      "doi": "10.1113/EP093854",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099284/",
+      "relevance": 2,
+      "matched": [
+        "oxygen"
+      ]
+    },
+    {
+      "pmid": "43099107",
+      "title": "Paediatric metabolic syndrome criteria as predictors of early adult metabolic syndrome: findings from the EPITeen cohort.",
+      "journal": "European journal of clinical nutrition",
+      "journal_issn": "0954-3007",
+      "discipline": "nutrition",
+      "date": "2026-Nov-26",
+      "authors": "Tomás Costa, Berta Valente, Milton Severo et al.",
+      "abstract": "BACKGROUND: Several definitions of metabolic syndrome (MetS) are used in paediatric populations. This study investigates the predictive capacity of five MetS definitions at age 13 for identifying MetS at age 27 and explores whether adding non-classic variables improves prediction. METHODS: Participants from the EPITeen cohort (n = 815) with valid data on MetS components at ages 13 and 27 were included. At age 13, MetS was defined using Cook, Ferranti, Ford, Agudelo, and International Diabetes Federation (IDF) criteria, and at age 27 using the Alberti consensus. Predictive capacity was estimated using the area under the ROC curve (AUC) with 95% confidence intervals (CI). Performance metrics such as sensitivity, specificity, predictive values, accuracy, and likelihood ratios were calculated. Non-classic variables were added to the criterion with a higher AUC. RESULTS: At age 13, MetS prevalence ranged from 0.9% (IDF) to 12.5% (Ferranti), and at age 27 it was 3.4%. Ferranti definition had the highest AUC (0.696; 95% CI 0.609-0.784), although not significantly higher than the other criteria. Ferranti was also the least conservative criterion, classifying substantially more adolescents as having MetS (77.4%) but with lower specificity, accuracy, and likelihood ratios than the other criteria. LDL-C was the only non-classic variable that showed a significant improvement in Ferranti's AUC (0.765; 95% CI 0.683-0.846). CONCLUSIONS: Paediatric MetS definitions showed limited ability to predict MetS in early adulthood. Ferranti definition with LDL-C demonstrated the best predictive capacity and, due to its performance metrics, can support targeted preventive public health strategies throughout the life course.",
+      "doi": "10.1038/s41430-026-01847-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099107/",
+      "relevance": 1,
+      "matched": [
+        "performance"
+      ]
+    },
+    {
+      "pmid": "43098967",
+      "title": "Effect of ageing on human skeletal muscle nitrate and nitrite metabolism.",
+      "journal": "The Journal of physiology",
+      "journal_issn": "0022-3751",
+      "discipline": "physiology",
+      "date": "2026-Nov-26",
+      "authors": "Raghini Rajaram, Matthew I Black, Chenguang Wei et al.",
+      "abstract": "Ageing-associated impairment in cardiovascular function is hallmarked by decreased endogenous nitric oxide (NO) production via NO synthase (NOS) activity. Nitrate (NO3 -) in mammalian skeletal muscle may provide a substrate for an alternative NO3 --nitrite (NO2 -)-NO pathway. Here, we report the effect of ageing on NO3 - storage and metabolism in human skeletal muscle. We evaluated skeletal muscle [NO3 -] and [NO2 -], and the mRNA and protein expression of NO3 - and NO2 - transporting (sialin, CLC1) and reducing (XOR) proteins in young and older humans. Nineteen young (18-30 years) and 19 older (60-80 years) healthy adults provided blood and muscle samples without ingestion of dietary NO3 - (CON) and 3 h after a bolus ingestion of dietary NO3 -. Compared with young adults, the skeletal muscle of older adults had greater [NO3 -] (86.9 ± 38.2 vs. 64.3 ± 23.1 nmol g-1, P = 0.0334) and [NO2 -] (1.2 ± 0.4 vs. 0.8 ± 0.2 nmol g-1, P < 0.001) under the CON condition, and greater [NO3 -] (156.5 ± 50.6 vs. 122.7 ± 38.1 nmol g-1, P = 0.0258) but not [NO2 -] (1.3 ± 0.4 vs. 1.3 ± 0.6 nmol g-1, P = 0.808) post-NO3 - ingestion. The expression of sialin, CLC1 and XOR proteins was not different between age groups although there was evidence of deficiencies in the translation efficiency and protein stability of XOR, post-NO3 - ingestion, in the older adults. Muscle NO3 - uptake was unaffected by age, and older adults had equivalent or better NO3 - to NO2 - reduction efficiency compared with young adults. These results suggest that the NO3 --NO2 --NO pathway may mitigate lowered NO production from the NOS pathway in healthy older adults. KEY POINTS: Nitrate (NO3 -) in mammalian skeletal muscle may provide a substrate for the NO3 --nitrite (NO2 -)-nitric oxide (NO) pathway when endogenous NO production via NO synthase (NOS) activity is adversely affected by age. We show that skeletal muscle of older adults has greater baseline [NO3 -] and [NO2 -], as well as a greater [NO3 -] following bolus dietary NO3 - ingestion, compared with young adults. The expression of NO3 - transporting and reducing proteins was unaffected by age, but the translation efficiency of xanthine oxidoreductase was reduced post-NO3 - ingestion in older adults. Muscle NO3 - uptake was unaffected by age, and older adults had equivalent or better capacity for NO3 - to NO2 - reduction compared with young adults. The NO3 --NO2 --NO pathway has the potential to mitigate lowered NO production from the NOS pathway in healthy older adults.",
+      "doi": "10.1113/JP291863",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098967/",
+      "relevance": 3,
+      "matched": [
+        "metabolism"
+      ]
+    },
+    {
+      "pmid": "43098676",
+      "title": "Revisiting the ontogenetic status of the Late Pleistocene human frontal bone from Klasies River Main Site.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "journal_issn": "1932-8486",
+      "discipline": "anatomy",
+      "date": "2026-Nov-26",
+      "authors": "Frederick E Grine, Timothy G Bromage, Anton du Plessis et al.",
+      "abstract": "The ontogenetic status of the Middle Stone Age human frontal bone (SAM-AP 6301) from Klasies River Mouth Main Site is relevant to the interpretation of this fossil's morphology. Some maintain that it represents a modern adult, while others argue that it may be from an archaic juvenile, which could explain its lack of a pronounced supraorbital torus. We employed μCT imaging to investigate the nasofrontal suture and frontal sinus, which were used in previous age assessments. High-resolution replicas of the brow region were examined to document its surface micromorphology with respect to vermiculate pattern development. The nasofrontal suture shows little evidence of fusion either internally or ectocranially, but this only indicates that the specimen is unlikely to have been from an aged adult. The frontal sinus is comparatively small, but its volume can be easily matched among other Late Pleistocene human fossils and recent indigenous populations of southern Africa. The anterior and posterior sinus walls are formed by compact bone, whereas its roof is intermittently porous, possibly reflecting active resorption-pneumatic expansion into the frontal squama-at time of death. This may suggest subadult development, although continued sinus expansion into adulthood cannot be ruled out. The surface of the brow region exhibits at most a slight to moderate vermiculate development, but this also may not necessarily be indicative of age. While the patency of the frontonasal suture and the apparently resorptive nature of the frontal sinus roof seem to be more commensurate with adolescence, the ontogenetic age of the Klasies frontal remains unresolved.",
+      "doi": "10.1002/ar.70402",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098676/",
+      "relevance": 4,
+      "matched": [
+        "bone",
+        "morphology"
+      ]
+    },
+    {
+      "pmid": "43098422",
+      "title": "Free-living daily myofibrillar protein synthesis rates do not differ between vegan and omnivorous diets providing the RDA for protein in older adults.",
+      "journal": "The Journal of nutrition",
+      "journal_issn": "0022-3166",
+      "discipline": "nutrition",
+      "date": "2026-Nov-26",
+      "authors": "Benjamin T Wall, Ino van der Heijden, Doaa R Abdelrahman et al.",
+      "abstract": "BACKGROUND: Limited data exist on whether vegan diets providing modest protein intakes support daily myofibrillar protein synthesis (MyoPS) rates in older adults OBJECTIVES: To compare daily MyoPS rates, muscle thickness and gene expression in rested and exercised muscle between vegan and isonitrogenous omnivorous diets meeting the protein RDA METHODS: Twenty-two healthy older adults (12 males/10 females; age: 67±4 y; BMI: 25±3 kg/m2) participated in a randomised, parallel-group trial. After 3 days consuming habitual diets, participants consumed a 7-day vegan (VEGAN; n=11) or omnivorous (OMNI; n=11; 69% animal-derived protein) diet providing 0.8 g protein/kg body mass/day. Participants performed three unilateral resistance exercise bouts during the intervention. Deuterated water determined daily MyoPS rates during habitual and intervention periods. Muscle mRNA expression of 48 genes and ultrasound-derived quadriceps muscle thickness were assessed before and after intervention RESULTS: Protein intake decreased by 26% relative to habitual intake (P<0.001). Rested MyoPS rates did not change significantly (OMNI: 1.56±0.32 to 1.37±0.24 %/d; VEGAN: 1.53±0.41 to 1.43±0.24 %/d; P=0.14). Resistance exercise increased MyoPS rates by 17% from habitual (OMNI: 1.74±0.26 %/d; VEGAN: 1.88±0.28 %/d; P=0.0024), resulting in 29% higher rates in exercised than rested muscle during intervention (P<0.0001). MyoPS rates did not differ between diets in rested or exercised muscle at any time point (all P>0.05). Neither muscle thickness nor mRNA expression differed between groups (all P>0.05), although ten genes changed expression following the combined dietary and exercise intervention (P<0.05). CONCLUSIONS: A feasible vegan diet meeting the protein RDA, despite providing less protein than habitual intakes, supports daily MyoPS rates that do not differ from those supported by an isonitrogenous omnivorous diet in healthy older adults. This trial was registered at clinicaltrials.gov as NCT05985369.",
+      "doi": "10.1016/j.tjnut.2026.101955",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098422/",
+      "relevance": 8,
+      "matched": [
+        "protein",
+        "diet",
+        "dietary",
+        "exercise"
+      ]
+    },
+    {
+      "pmid": "43098169",
+      "title": "Joint associations of EAT-Lancet diet adherence and ambient air-pollution mixtures with respiratory disease risk: a prospective cohort study.",
+      "journal": "The British journal of nutrition",
+      "journal_issn": "0007-1145",
+      "discipline": "nutrition",
+      "date": "2026-Nov-26",
+      "authors": "Yemei Chen, Chuanchuan Yu, Liying Zhao et al.",
+      "abstract": "Whether sustainable dietary patterns and real-world multipollutant exposure are jointly associated with respiratory disease risk remains unclear. We prospectively analysed 64,212 UK Biobank participants with assessment-centre Oxford WebQ data as the primary dietary analysis cohort, with additional analyses incorporating participants with at least one or at least two valid dietary assessments. Adherence to the EAT-Lancet diet was derived from 24-h dietary recall data. For each outcome, an air-pollution mixture score (APS) integrating PM2.5, PM10, PMcoarse, NO2 and NOx was constructed by applying weights estimated from covariate-adjusted weighted quantile sum regression in the corresponding eligible UK Biobank pollution cohort to the dietary analysis cohorts. Cox proportional hazards models assessed associations with incident overall respiratory disease, chronic obstructive pulmonary disease (COPD) and asthma. Each 1-SD higher APS was associated with higher risks of overall respiratory disease (hazard ratio [HR] 1.06, 95% CI 1.03-1.10) and COPD (HR 1.09, 95% CI 1.04-1.15), but not asthma. Each 1-point higher EAT-Lancet score was associated with lower risks of overall respiratory disease (HR 0.98, 95% CI 0.97-0.98) and COPD (HR 0.96, 95% CI 0.94-0.97), but not asthma. Compared with participants with low EAT-Lancet adherence and high APS, those with high adherence and low APS had lower risks of overall respiratory disease (HR 0.74, 95% CI 0.66-0.82), COPD (HR 0.63, 95% CI 0.54-0.74), and asthma (HR 0.80, 95% CI 0.68-0.95). Formal interaction tests were not statistically significant in the primary analysis, although COPD interaction estimates were consistently positive across dietary analyses, with the strongest evidence among participants with at least one valid dietary assessment (RERI 0.22, 95% CI 0.07-0.37). Higher EAT-Lancet adherence and lower multipollutant exposure were jointly associated with lower respiratory disease risks, particularly COPD, suggesting that sustainable dietary patterns may complement population-level air-quality policies.",
+      "doi": "10.1017/S000711452610960X",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098169/",
+      "relevance": 4,
+      "matched": [
+        "diet",
+        "dietary"
+      ]
+    },
+    {
       "pmid": "43097397",
       "title": "Effects of intranasal cocaine on thermoregulatory responses during exercise in hot environments.",
       "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
@@ -4635,280 +4900,6 @@
         "strength",
         "recovery"
       ]
-    },
-    {
-      "pmid": "43070683",
-      "title": "Longitudinal Associations of Hip Flexor Size and Strength with Physical Function in Older Adults with Chronic Low Back Pain.",
-      "journal": "Physical therapy",
-      "journal_issn": "0031-9023",
-      "discipline": "fascia",
-      "date": "2026-Nov-23",
-      "authors": "Felix Marechal, J Megan Sions, Ryan T Pohlig et al.",
-      "abstract": "IMPORTANCE: Older adults with chronic low back pain (cLBP) experience greater functional decline than their pain-free peers, which increases their mortality risk. OBJECTIVE: The objective was to investigate the contribution of hip flexor size into future physical function, beyond hip flexion strength, among older adults with cLBP. DESIGN: This was a 12-month longitudinal study. SETTING: This study was conducted in a clinical research laboratory. PARTICIPANTS: The sample included 250 community-dwelling older adults with cLBP. EXPOSURE(S): Hip flexion strength was measured at baseline via hand-held dynamometry. Hip flexor cross-sectional area (CSA) was measured at baseline for the iliopsoas, rectus femoris, and sartorius via ultrasound brightness mode. To avoid multicollinearity between CSA measures, the hip flexor CSA with the strongest bivariate correlation with the outcome measures was used for analyses. MAIN OUTCOME(S) AND MEASURE(S): Physical function was captured through the 6-Minute Walk Test and the Stair Climb Test, at baseline and 12-month follow-up. RESULTS: At 12 months, 6-Minute Walk Test performance was explained by baseline hip flexion strength (b = 2.439, SE = 1.034, η2p = 0.030), but not by baseline hip flexor CSA. Conversely, Stair Climb Test performance was not explained by baseline hip flexion strength but was explained by baseline hip flexor CSA (b = -0.258, SE = 0.121, η2p = 0.027). CONCLUSIONS: Hip flexion strength and hip flexor size provide distinct insights into future physical function among older adults with cLBP. Hip flexion strength is longitudinally associated with walking capacity, whereas hip flexor CSA provides insight into stairs performance. RELEVANCE: Rehabilitation professionals may consider capturing both hip flexion strength and hip flexor size to better represent ambulatory needs of older adults with cLBP. These modifiable hip characteristics may also help clinicians tailor interventions to their patients' rehabilitation goals.",
-      "doi": "10.1093/ptj/pzag130",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43070683/",
-      "relevance": 5,
-      "matched": [
-        "pain",
-        "rehabilitation",
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43070635",
-      "title": "Initial Exercise Guidance for Children and Adolescents during and beyond Cancer Treatment: ACSM Expert Consensus Statement - Corrigendum.",
-      "journal": "Medicine and science in sports and exercise",
-      "journal_issn": "0195-9131",
-      "discipline": "physiology",
-      "date": "2026-Nov-23",
-      "authors": "Martin K Fridh, Sabine Kesting, Marie A Neu et al.",
-      "abstract": "",
-      "doi": "10.1249/MSS.0000000000004216",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43070635/",
-      "relevance": 4,
-      "matched": [
-        "exercise"
-      ]
-    },
-    {
-      "pmid": "43084890",
-      "title": "Component-specific generalizability of reduced prediction equations for peak L5-S1 loading during dynamic lifting.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-22",
-      "authors": "Mohamed Aziz Riahi, Denis Gagnon, Philippe Corbeil",
-      "abstract": "Predicting lumbosacral loading during dynamic lifting remains challenging because spinal forces cannot be measured directly during occupational tasks and are influenced by posture, movement, anthropometry, and neuromuscular control. This study developed reduced equations for peak L5-S1 compression, anteroposterior shear, and mediolateral shear and evaluated their performance in held-out participants. A secondary analysis was performed on 2,242 trials from 28 participants performing 15-kg box transfers. Reference-model L5-S1 force estimates came from an electromyography-assisted optimization musculoskeletal model. Candidate predictors included anthropometric, postural, kinematic, temporal, and trunk coactivation descriptors. Participants were divided into training and held-out validation subsets. Partial least squares regression and variable importance in projection scores selected predictors for ordinary least squares regression. Participant-level bootstrap resampling assessed selection stability. Prediction of reference-model peak compression in held-out participants yielded validation R2 = 0.68, r = 0.83, RMSE = 553.1 N, and MAE = 440.6 N, with a mean predicted-minus-reference-model bias of 105.0 N and 95% limits of agreement from - 960.0 to 1,169.9 N. In contrast, anteroposterior shear (validation R2 = - 0.30, r = 0.21, RMSE = 474.5 N) and mediolateral shear (validation R2 = - 0.01, r = 0.28, RMSE = 58.6 N) did not retain predictive performance in held-out participants. Compression also showed the highest bootstrap selection concordance (0.90), compared with 0.56 and 0.70 for anteroposterior and mediolateral shear, respectively. Between-participant predictive performance therefore differed across L5-S1 loading components: reference-model peak compression could be approximated from reduced biomechanical descriptors, whereas both shear equations yielded negative held-out R2 values. These findings clarify the limits of reduced-descriptor prediction across loading components.",
-      "doi": "10.1016/j.jbiomech.2026.113704",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084890/",
-      "relevance": 8,
-      "matched": [
-        "muscular",
-        "spinal",
-        "biomechanic",
-        "kinematic",
-        "posture",
-        "skeletal"
-      ]
-    },
-    {
-      "pmid": "43069570",
-      "title": "Simultaneous imaging of arterial and venous territories in human cutaneous microcirculation: An ex vivo anatomical model.",
-      "journal": "Journal of anatomy",
-      "journal_issn": "0021-8782",
-      "discipline": "anatomy",
-      "date": "2026-Nov-22",
-      "authors": "Martin Lhuaire, Aïna Venkatasamy, Severine Carrion et al.",
-      "abstract": "Accurate visualisation of the arterial and venous components of the cutaneous microcirculation remains essential for understanding perforator flap anatomy and skin vascular organisation. Although traditional vascular injection techniques provide detailed anatomical information, their compatibility with modern multimodal imaging and simultaneous arteriovenous radiological discrimination remains limited. This study developed and performed a proof-of-concept evaluation of an ex vivo imaging model for radiological discrimination of selectively injected arterial and venous vascular compartments using dual-dilution latex-barium sulphate (BaSO4) co-injection combined with mammography and photon-counting computed tomography (PCCT). An initial in vitro calibration using a tubing phantom was performed to determine optimal contrast dilutions. The protocol was subsequently evaluated using thigh perforator flaps obtained from 21 fresh-frozen human donors. Eighteen donors underwent combined arterial and venous injections using red arterial (1/2) and blue venous (1/10) latex-BaSO4 mixtures, while three additional donors underwent venous-only injections. Specimens were analysed using magnified mammography and PCCT. Quantitative assessment included signal intensity, signal-to-noise ratio and contrast-to-noise ratio. In vitro experiments demonstrated a linear relationship between contrast concentration and signal intensity, with maximal arteriovenous radiological discrimination obtained using 1/2 and 1/10 dilutions. Mammography provided consistent discrimination between arterial and venous compartments across submillimetre vessel diameters. PCCT enabled three-dimensional visualisation of the vascular network but showed greater variability in radiological discrimination between the predefined arterial and venous compartments, mainly due to voxel size limitations and partial-volume averaging. Incomplete venous filling represented the principal technical limitation and reduced the proportion of specimens suitable for dual-compartment analysis. Completeness of capillary filling was not independently validated. This proof-of-concept study demonstrates the feasibility of simultaneous imaging of selectively injected arterial and venous vascular compartments within the same human specimen. Magnified mammography enabled reliable radiological differentiation between compartments, whereas current PCCT settings were insufficient for equivalent separation. Further optimisation of venous perfusion and independent validation of distal microvascular filling are required before broader quantitative anatomical application.",
-      "doi": "10.1111/joa.70267",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43069570/",
-      "relevance": 4,
-      "matched": [
-        "anatomical",
-        "hip"
-      ]
-    },
-    {
-      "pmid": "43068382",
-      "title": "Correction to 'Peripheral cholecystokinin promotes thermogenesis via vagal afferent signalling, hypothalamic oxytocin and sympathetic outflow to brown adipose tissue'.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-22",
-      "authors": "",
-      "abstract": "",
-      "doi": "10.1113/JP292988",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43068382/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "43084891",
-      "title": "Reliability of Theia3D for tracking lower extremity joint kinematics during barefoot overground walking in children with cerebral palsy.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-21",
-      "authors": "Amy E Barbuto, Katy Mitchell, Christina Bickley et al.",
-      "abstract": "The purpose of this study was to determine the reliability of Theia3D for tracking lower-extremity joint kinematics during barefoot overground walking in children with cerebral palsy (CP). Ten children with spastic CP, GMFCS I-II, performed three sessions of overground barefoot walking while eight FLIR cameras recorded video. On average, sessions were separated by 12 days. Theia3D software, version 2024.1.17, model version 12.0.1, performed three-dimensional pose estimation using video footage to compute lower-extremity joint kinematics. Inter-trial variability, inter-session variability, and the variability ratio (inter-session / inter-trial variability), calculated using a variance-decomposition framework were used to assess the reliability of the data. Across all joints and planes, inter-trial variability was larger than inter-session. Average inter-trial variability was 2.89°. Average inter-session variability was 1.76°. Inter-session variability was < 5° for all joints and planes. Average variability ratio across all joint angles was 0.63, indicating inter-trial variability was higher than inter-session. Our results demonstrate acceptable, <5°, inter-session variability in overground barefoot walking using Theia3D. Inter-session variability was lower than reported in marker-based studies in healthy adults and children with CP, consistent with markerless motion capture removing marker placement as a potential source of between-session error. Inter-trial variability was higher than reported among healthy adults and children, consistent with increased stride-to-stride variability in this cohort. Areas of further work include assessing Theia3D reliability in children using assistive devices and against concurrent marker-based comparators. Our results support Theia3D as a reliable measurement tool for assessing overground barefoot walking in children with spastic CP, GMFCS I-II.",
-      "doi": "10.1016/j.jbiomech.2026.113698",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084891/",
-      "relevance": 9,
-      "matched": [
-        "joint",
-        "kinematic",
-        "foot"
-      ]
-    },
-    {
-      "pmid": "43077904",
-      "title": "Relationship between center of mass velocity and pitch velocity in high school softball pitchers.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-21",
-      "authors": "Ian P Jump, Ryan M Zappa, Kenzie B Friesen et al.",
-      "abstract": "Greater pitch velocity is advantageous in fastpitch softball because it reduces the time available for a batter to react. Limited research has explored the importance of whole-body center of mass (COM) velocities and their influence on pitch velocity in softball pitchers. Therefore, this study examined the relationship between vertical and horizontal COM velocity and pitch velocity during the pitching motion. Forty-two high school fastpitch softball pitchers (15 ± 1 years; 1.70 ± 0.07 m; 76.4 ± 16.8 kg; 35 right-handed, 7 left-handed) participated. Each pitcher threw 10 fastballs while an electromagnetic motion-capture system collected kinematic data. Horizontal and vertical COM velocities were examined using statistical parametric mapping (SPM) to assess time-specific relationships with pitch velocity, while peak horizontal and vertical COM velocities were examined using multilevel modeling to assess within-pitcher and between-pitcher associations with pitch velocity. SPM analyses showed that horizontal COM velocity was positively associated with pitch velocity from 27% to 98% of the pitching motion. Vertical COM velocity was positively associated with pitch velocity from 31%-63% and 97%-100% and negatively associated from 77% to 86% of the pitch. Multilevel models showed significant between-pitcher effects, where greater peak horizontal and vertical COM velocities were associated with greater pitch velocity. No significant within-pitcher effects were observed. These findings suggest that pitchers with greater average horizontal and vertical COM velocities tend to throw harder, while pitch-to-pitch changes in COM velocity within the same pitcher may not explain meaningful changes in pitch velocity. SPM further demonstrated that these associations varied throughout the pitching motion, with particularly strong relationships during the propulsive phase.",
-      "doi": "10.1016/j.jbiomech.2026.113699",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43077904/",
-      "relevance": 4,
-      "matched": [
-        "hip",
-        "kinematic"
-      ]
-    },
-    {
-      "pmid": "43077903",
-      "title": "Effect of running-induced fatigue on lower limb joints mechanical work contribution in recreational runners with different strike types.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-21",
-      "authors": "Ghazaleh Shariati Javan, Hamed Esmaeili, Fatemeh Salari-Esker et al.",
-      "abstract": "Running-induced fatigue alters lower limb biomechanics and may influence injury risk, but whether these effects differ between rearfoot strike (RFS) and forefoot strike (FFS) runners lower-limb joints mechanical work contribution remains unclear. The aim of this study was to examine the effect of running-induced fatigue on lower limb joint mechanical work and its relative contribution in recreational runners with different strike types. Sixty recreational runners (30 RFS, 30 FFS) performed running trials at 3.3 m/s before and after a running-induced fatigue protocol on a treadmill. Kinematic and ground reaction force data were collected during stance phase using motion capture and a force plate. A mixed-design ANOVA was used to investigate the effect or running-induced fatigue on mechanical work and its contribution in the groups at hip, knee and ankle joints. Fatigue-by-joint-by-group interaction effects were found for both negative (F = 28.407, p < 0.001, ηp2 = 0.329) and positive work (F = 23.508, p < 0.001, ηp2 = 0.288). In RFS runners, fatigue decreased ankle negative and positive work while increasing knee and hip work. In FFS runners, fatigue increased both negative and positive work at the ankle, with relative contribution also increasing. Running-induced fatigue elicits divergent biomechanical responses based on foot strike pattern. RFS runners redistribute work proximally to the knee and hip to offload fatigued ankle musculature, whereas FFS runners increase ankle work, maintaining or enhancing ankle dominance. These strike-specific adaptations highlight the neuromuscular system's adaptive capacity to preserve locomotion under fatigue.",
-      "doi": "10.1016/j.jbiomech.2026.113701",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43077903/",
-      "relevance": 11,
-      "matched": [
-        "joint",
-        "muscular",
-        "hip",
-        "knee",
-        "biomechanic",
-        "kinematic"
-      ]
-    },
-    {
-      "pmid": "43068658",
-      "title": "Deep learning classification of children with autism spectrum disorder using short-duration center of pressure data.",
-      "journal": "Journal of biomechanics",
-      "journal_issn": "0021-9290",
-      "discipline": "anatomy",
-      "date": "2026-Nov-21",
-      "authors": "Yumeng Li, Maya Nachega, Sugru Yahaya et al.",
-      "abstract": "Children with autism spectrum disorder (ASD) often demonstrate impaired postural stability. However, assessment of postural stability in this population can be challenging because prolonged standing trials may increase spontaneous fidgeting and reduce data quality. Convolutional neural network (CNN) may offer a practical approach for identifying ASD-related postural control patterns using short-duration center of pressure (COP) data. The purpose of this study was to evaluate the classification performance of a CNN for distinguishing children with ASD from healthy controls using short duration COP data. 49 children, including 20 typically developing children and 29 children with ASD, completed quiet-standing trials on a force plate. COP data were analyzed using CNN models trained separately with 5 s, 10 s, and 15 s COP data inputs. Classification accuracy, precision, recall, and F1 score were calculated to assess the model performance. In general, classification performance improved as COP input duration increased. Using 5 s COP data, the CNN model achieved a classification accuracy of 77.6 %. When the duration was increased to 10 s, accuracy improved substantially to 96.7 %. Extending the duration to 15 s resulted in a minor increase in accuracy to 98.8 %. These findings indicate that short-duration COP contains discriminative information in this sample. Larger multisite samples and external validation are required before clinical application.",
-      "doi": "10.1016/j.jbiomech.2026.113702",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43068658/",
-      "relevance": 1,
-      "matched": [
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43066903",
-      "title": "Insights into Channelopathies and Sport: The Genotype-Positive/Phenotype-Negative Athlete from Molecular Diagnosis to Management.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "journal_issn": "0112-1642",
-      "discipline": "physiology",
-      "date": "2026-Nov-21",
-      "authors": "Isabel Diebold, Franziska Hahn, Eimo Martens et al.",
-      "abstract": "Channelopathies, diseases with ion channel perturbations, are a major cause of sudden cardiac death in athletes. Advances in genetic testing have identified a growing population of athletes carrying (likely) pathogenic variants in cardiac ion channel genes who remain phenotypically silent. These genotype-positive/phenotype-negative (G+/P-) individuals present a distinct clinical challenge. Standard preparticipation screening, designed around phenotypic findings, provides little guidance for their management. A critical gap exists in providing prognostic guidance based on the involved gene, specific variants, and its molecular consequences. Beyond a critical review of existing literature, we provide a mechanistically anchored framework for variant-specific arrhythmic risk stratification across the major channelopathy genes. For each gene, we translate molecular pathophysiology into clinically actionable risk profiles and examine how exercise-specific triggers, including adrenergic surge, electrolyte shifts, and sympathovagal imbalance, interact with the underlying molecular substrate to modulate arrhythmic vulnerability. Standard diagnostic tools ranging from electro- and echocardiography, exercise stress testing, and pharmacological provocation to emerging modalities such as electroanatomic mapping and magnetocardiography are evaluated for their capacity to unmask subclinical disease and refine sports eligibility decisions. The case for an interdisciplinary sports-cardio-genetic board is made alongside a call for international collaborative registries, as existing evidence in G+/P- athletes is largely absent. The integration of artificial intelligence and telemonitoring into longitudinal athletic surveillance is discussed as a pragmatic strategy for early phenotype detection. Ultimately, guidance for the G+/P- athlete rests on a thorough understanding of the causative genetic variant and its pathophysiological consequences.",
-      "doi": "10.1007/s40279-026-02584-4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066903/",
-      "relevance": 6,
-      "matched": [
-        "athlete",
-        "exercise",
-        "sports"
-      ]
-    },
-    {
-      "pmid": "43066902",
-      "title": "How Effective is Stretching for Injury Prevention? A Large-Scale Systematic Review with Meta-analysis.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "journal_issn": "0112-1642",
-      "discipline": "physiology",
-      "date": "2026-Nov-21",
-      "authors": "José Afonso, Ricardo Martins, Rohit K Thapa et al.",
-      "abstract": "BACKGROUND: Sports injuries can impact athletes' availability, threaten their career, and have substantial financial impact. Stretching is commonly used as a prevention strategy. However, controversial evidence, methodological shortcomings, and substantial time elapsed since previous key data syntheses justify performing an updated systematic review. OBJECTIVE: Our goal was to assess the effects of stretching interventions on injury risk. METHODS: We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. Eligible studies included humans performing stretching and at least one comparator group; sports-related injury data were required. Studies were identified from six electronic databases (CINAHL Complete, Embase, PubMed, Scopus, SPORTDiscus, and Web of Science), reference lists, citation tracking, and consultation with external experts. Risk of bias was assessed using Cochrane tools. Raw injury data were used to assess odds ratios (OR), with OR < 1 meaning a preventive effect for stretching. Results were presented with 95% confidence intervals (CIs) and prediction intervals (PIs). An inverse-variance random-effects model was employed using the DerSimonian and Laird estimator. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) framework. RESULTS: Over 300,000 records were screened, with 19 studies fulfilling the eligibility criteria (> 9000 participants, > 80% male, age range 14-59 years), of which 15 were used for the meta-analyses. Interventions lasted 4-24 weeks and mostly implemented static unassisted stretching with varying volumes. Half the studies used passive controls, and half used diverse active comparators. Risk of bias was high for ~90% of randomized trials and serious for all non-randomized trials. No injury prevention effect was detected for stretching versus all other comparators (k = 15, n = 9,002; OR = 0.945, p = 0.396, 95% CI 0.828-1.078, 95% PI 0.773-1.155), passive controls (k = 10, n = 6273; OR = 0.923, p = 0.209, 95% CI 0.814-1.046, 95% PI 0.796-1.069), or active controls (k = 6, n = 2744; OR = 1.190, p = 0.312, 95% CI 0.849-1.667, 95% PI 0.738-1.919). Likewise, no injury prevention effect was found for muscle, tendon, and ligament/joint capsule injury risk, or across 19 sensitivity analyses, 3 subgroup analyses, and 3 secondary analyses. GRADE denoted very low certainty of evidence for all outcomes except bone injury risk (low certainty). CONCLUSIONS: Despite the very low to low certainty of evidence as per GRADE judgments, the data consistently showed no chronic effect of stretching on injury risk across multiple analyses. No study assessed the acute effects of stretching on injury risk. Given the studied samples, these conclusions apply mostly to male participants aged 14-60 years performing static unassisted stretching, with little to no information about other populations or interventions. There is virtually no research using sport-specific stretching exercises. Several other caveats are discussed, as well as implications for practice, policy-making and future research. REGISTRATION: PROSPERO: CRD42024616532. OSF project ( https://osf.io/umj8h/ ) and registration ( https://osf.io/ybdvw ).",
-      "doi": "10.1007/s40279-026-02559-5",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066902/",
-      "relevance": 7,
-      "matched": [
-        "injury",
-        "exercise",
-        "sports",
-        "athlete"
-      ]
-    },
-    {
-      "pmid": "43066901",
-      "title": "Force and Power Testing in Anterior Cruciate Ligament Reconstruction Literature: A Scoping Review.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "journal_issn": "0112-1642",
-      "discipline": "physiology",
-      "date": "2026-Nov-21",
-      "authors": "Alessandro Compagnin, Francesco Della Villa, Stefano Di Paolo et al.",
-      "abstract": "BACKGROUND: Force and power testing has been recognised as a key aspect of anterior cruciate ligament reconstruction anterior cruciate ligament reconstruction (ACLR) rehabilitation. However, a literature synthesis is required to examine how these physical characteristics have been assessed due to pronounced heterogeneity in the methods used. OBJECTIVES: To synthesise and describe the existing literature on force and power testing post-ACLR. METHODS: A scoping review of the electronic databases MEDLINE (PubMed), SPORTDiscus, Cochrane Library and PEDro was conducted including studies adopting at least one force or power test in patients post-ACLR. The search methodology followed the Joanna Briggs Institute Manual for evidence synthesis and included the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). RESULTS: In total, 1625 studies fulfilled the inclusion criteria. Seven main device categories were identified, with different rates of implementation over the years (1981-2023) and throughout the recovery process: (1) isokinetic dynamometry (IKD; 64.9%), (2) jump (without force platform; 32.2%), (3) force platform (28.0%), (4) traditional gym equipment and bodyweight exercises (6.2%), (5) hand-held dynamometry (4.0%), (6) manual muscle testing (1.5%) and (7) other devices (5.5%). Studies used 1.42 ± 0.62 devices, with 45 different combinations recorded. Various tests were conducted using different devices, ranging from 8 to 72 recorded tests per category. Only force plate assessments showed a linear increment in implementation from the surgical procedure (r = 0.86, p = 0.012). CONCLUSIONS: Significant heterogeneity in assessment device selection, metrics analysed, test implementation and protocols was observed. Most studies included a single device category to examine force and power characteristics of patients post-ACLR. The IKD remains the most adopted testing device in research, but current assessment practices are more varied than in the past.",
-      "doi": "10.1007/s40279-026-02571-9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066901/",
-      "relevance": 7,
-      "matched": [
-        "power",
-        "exercise",
-        "recovery",
-        "rehabilitation"
-      ]
-    },
-    {
-      "pmid": "43066663",
-      "title": "Evaluating the effects of changes in minute ventilation and the partial pressure of end-tidal carbon dioxide on the diaphragm electromyogram during voluntary hyperpnoea.",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-21",
-      "authors": "Jack R Dunsford, Leah M Mann, Paolo B Dominelli et al.",
-      "abstract": "The diaphragm electromyogram (EMGDIA) is commonly used as a proxy for inspiratory neural drive (IND) based on correlative evidence; however, robust experimental evidence supporting its use is lacking. To determine the effects of independent changes in minute ventilation ( V ̇ E ) and the partial pressure of end-tidal carbon dioxide ( P ETC O 2 ) on EMGDIA. n = 10 healthy adults (20-40 years; n = 5 males, n = 5 females) completed spirometry, a 10-min rest period and a series of hyperpnoea trials at three standardized levels of V ̇ E by having participants breathe according to tidal volume (VT) and breathing frequency (FB) targets. Within each level of V ̇ E , P ETC O 2 was set to -5, +0 or +5 mmHg relative to resting P ETC O 2 using dynamic end-tidal forcing. Trials were performed in a quasi-randomized, single-blind manner. EMGDIA was assessed using an intraoesophageal catheter, standard ventilatory and gas exchange variables were collected, and the perception of dyspnoea intensity was assessed using the Borg category-ratio 0-10 scale. EMGDIA increased significantly with V ̇ E (P < 0.001) but was unaffected by changes in P ETC O 2 (P = 0.320). Moreover, EMGDIA was significantly associated with V ̇ E , the work of breathing, and the pressure-time product of the diaphragm (R2 = 0.762-0.824; all P < 0.001), but not P ETC O 2 (R2 = 0.529; P = 0.947). Dyspnoea perception increased significantly with V ̇ E (P < 0.001) and P ETC O 2 (P < 0.001). During voluntary hyperpnoea involving manipulations of P ETC O 2 across a physiological range observed with exercise (i.e., 5 mmHg below and above resting P ETC O 2 ), EMGDIA reflects the mechanical ventilatory output of IND rather than changes in the drive to breathe due to variations in P ETC O 2 .",
-      "doi": "10.1113/EP094174",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066663/",
-      "relevance": 2,
-      "matched": [
-        "exercise"
-      ]
-    },
-    {
-      "pmid": "43066564",
-      "title": "Reply to Topal et al., 'Variable meal stimulation may mimic pancreatic dysregulation in malnourished children'.",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-21",
-      "authors": "Ellen Besa, Paul Kelly",
-      "abstract": "",
-      "doi": "10.1113/EP094507",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066564/",
-      "relevance": 0,
-      "matched": []
-    },
-    {
-      "pmid": "43066561",
-      "title": "CetaSpiroX12: An ultrasonic spirometer to investigate respiratory physiology and mechanics in cetaceans.",
-      "journal": "Experimental physiology",
-      "journal_issn": "0958-0670",
-      "discipline": "physiology",
-      "date": "2026-Nov-21",
-      "authors": "Elmar Ottiger, Christian Buess, Felix Daners et al.",
-      "abstract": "Understanding respiratory physiology in species with exceptionally high respiratory flow, such as cetaceans, requires accurate tools capable of capturing rapid and turbulent airflow. Traditional methods, including Fleisch-type pneumotachographs, are limited by dependence on laminar flow within the flow sensor, sensitivity to environmental conditions, water droplets and restricted measurement ranges, leaving gaps in our knowledge of comparative respiratory mechanics. To address this, we developed and validated a novel ultrasonic spirometer, the CetaSpiroX12, which integrates 12 commercially available human spirometry sensors into a radial manifold to extend the measurable flow range. Bench tests confirmed individual sensor performance to 16 L s-1 and accurate summation of the 12 sensors during assembled-system testing at total flows up to 90 L s-1. The parallel sensor configuration provides a theoretical combined measurement capacity of 192 L s-1, provided that flow through each individual sensor remains within its validated range. Together, these results indicate that the CetaSpiroX12 provides accurate flow measurements across a wide range of respiratory flows, overcoming long-standing limitations of previous approaches. Beyond advancing our understanding of cetacean ventilatory physiology and mechanics, this technology has broader applications for both clinical health assessment in managed populations and non-invasive respiratory studies in the wild. Moreover, the modular manifold design can be adapted to other large marine and terrestrial mammals, enabling comparative investigations into respiratory strategies across species with high ventilatory demands.",
-      "doi": "10.1113/EP091956",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066561/",
-      "relevance": 2,
-      "matched": [
-        "performance"
-      ]
-    },
-    {
-      "pmid": "43066549",
-      "title": "CD38 at the crossroads of NAD+ depletion and intestinal inflammation.",
-      "journal": "The Journal of physiology",
-      "journal_issn": "0022-3751",
-      "discipline": "physiology",
-      "date": "2026-Nov-21",
-      "authors": "Thamires da Silva Santos",
-      "abstract": "",
-      "doi": "10.1113/JP292807",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066549/",
-      "relevance": 0,
-      "matched": []
     }
   ]
 }
